@@ -21,10 +21,9 @@ Route::group(['middleware' => ['get.menu']], function () {
         Route::get('/widgets', function () {    return view('dashboard.widgets'); });
         Route::get('/404', function () {        return view('dashboard.404'); });
         Route::get('/500', function () {        return view('dashboard.500'); });
-        Route::get('/recommentations', function () {     return view('dashboard.recommentations'); });
+        Route::get('/recommendations', function () {     return view('dashboard.recommendations'); });
         Route::get('/organizations', function () { return view('dashboard.organizations');});
         Route::get('/stories', function () { return view('dashboard.stories');});
-        Route::get('/graphs', function () { return view('dashboard.graphs');});
         Route::prefix('base')->group(function () {  
             Route::get('/breadcrumb', function(){   return view('dashboard.base.breadcrumb'); });
             Route::get('/cards', function(){        return view('dashboard.base.cards'); });

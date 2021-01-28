@@ -1,5 +1,5 @@
 @extends('dashboard.base')
 
 @section('content')
-<h1>Recommentations data page</h1>
+<h1>Recommendations data page</h1>
 @endsection

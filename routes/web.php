@@ -23,6 +23,8 @@ Route::group(['middleware' => ['get.menu']], function () {
         Route::get('/500', function () {        return view('dashboard.500'); });
         Route::get('/recommendations', function () {     return view('dashboard.recommendations'); });
         Route::get('/organizations', function () { return view('dashboard.organizations');});
+        Route::get('/info-graphics', function () { return view('dashboard.info-graphics');});
+
         Route::get('/stories', function () { return view('dashboard.stories');});
         Route::prefix('base')->group(function () {  
             Route::get('/breadcrumb', function(){   return view('dashboard.base.breadcrumb'); });

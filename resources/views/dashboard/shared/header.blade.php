@@ -46,11 +46,8 @@
                 </svg> Profile</a><a class="dropdown-item" href="#">
                 <svg class="c-icon mr-2">
                   <use xlink:href="{{ url('/icons/sprites/free.svg#cil-settings') }}"></use>
-                </svg> Settings</a><a class="dropdown-item" href="#">
-                <svg class="c-icon mr-2">
-                  <use xlink:href="{{ url('/icons/sprites/free.svg#cil-credit-card') }}"></use>
-                </svg> Payments<span class="badge badge-secondary ml-auto">42</span></a><a class="dropdown-item" href="#">
-                <svg class="c-icon mr-2">
+                </svg> Settings</a><a class="dropdown-item" href="{{ url('/logout') }}">
+                 <svg class="c-icon mr-2">
                   <use xlink:href="{{ url('/icons/sprites/free.svg#cil-file') }}"></use>
                 </svg> Projects<span class="badge badge-primary ml-auto">42</span></a>
               <div class="dropdown-divider"></div><a class="dropdown-item" href="#">

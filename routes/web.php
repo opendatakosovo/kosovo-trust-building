@@ -11,8 +11,16 @@
 |
 */
 
+ // front-end routes 
+
+ Route::get('/who-we-are', function () { return view('frontend.who-we-are'); });
+
+ // front-end routes end
+
 Route::group(['middleware' => ['get.menu']], function () {
     Route::get('/', function () {           return view('dashboard.homepage'); });
+
+   
 
     Route::group(['middleware' => ['role:user']], function () {
         Route::get('/colors', function () {     return view('dashboard.colors'); });

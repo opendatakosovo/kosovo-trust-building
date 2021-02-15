@@ -4691,3 +4691,34 @@ a.readmore:after{
 .support-icons{
     font-size: 18px;
 }
+
+
+.covidbanner {
+	background: #009579;
+  }
+  
+  .covidbanner__content {
+	padding: 16px;
+	max-width: 500px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+  }
+  
+  .covidbanner__text {
+	flex-grow: 1;
+	line-height: 1.4;
+	font-family: "Quicksand", sans-serif;
+  }
+  
+  .covidbanner__close {
+	background: none;
+	border: none;
+	cursor: pointer;
+  }
+  
+  .covidbanner__text,
+  .covidbanner__close > span {
+	color: #ffffff;
+  }
+  

@@ -12,8 +12,9 @@
 */
 
  // front-end routes 
-
+ Route::get('/home', function () { return view('frontend.index'); });
  Route::get('/who-we-are', function () { return view('frontend.who-we-are'); });
+
 
  // front-end routes end
 

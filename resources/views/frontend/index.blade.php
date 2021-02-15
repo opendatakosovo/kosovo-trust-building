@@ -2,41 +2,17 @@
 <!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
 <head>
-    <!-- Basic Page Needs -->
-    <meta charset="utf-8">
-    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Kosovo Trust Building</title>
-
-    <meta name="author" content="themesBond.com">
-
-    <!-- Mobile Specific Metas -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-    <!-- Bootstrap  -->
-    <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
-   
-    <!-- Theme Style -->
-    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
-
-    <!-- Responsive -->
-    <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
-    
-    <!-- Animation Style -->
-    <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
-    <link rel="stylesheet" href="stylesheets/swiper.min.css">
-
-    <!-- Favicon and touch icons  -->
-    <link href="icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed" sizes="48x48">
-    <link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
-    <link href="images/ktb.png" rel="shortcut icon">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.css">
-    
-    <!--[if lt IE 9]>
-        <script src="javascript/html5shiv.js"></script>
-        <script src="javascript/respond.min.js"></script>
-    <![endif]-->
+@include('frontend.includes.head')
 </head>                                 
 <body class="header_sticky page front-page flat-home5">  
+    <div class="covidbanner">
+        <div class="covidbanner__content">
+          <div class="covidbanner__text">
+            <strong>Covid 19 Alert:</strong> Read More about our Covid 19 Activities and Statistics.
+          </div>
+          
+        </div>
+    </div>
     <section class="loading-overlay">
         <div class="Loading-Page">
             <h2 class="loader">Loading...</h2>
@@ -44,119 +20,7 @@
     </section> 
     <!-- Header -->            
     <header id="header" class="header clearfix white"> 
-        <div class="header-wrap clearfix">
-
-            <div id="logo" class="logo">
-                <a href="index.html" rel="home">
-                    <img src="images/kosovo-logo-en.png" alt="image">
-                </a>
-            </div><!-- /.logo -->
-            
-            
-            <div class="nav-wrap">
-                <div class="show-search">
-                    <a href="#"><i id="s" class="fa fa-search"></i></a>                
-                </div><!-- /.show-search -->  
-
-                <div class="btn-menu">
-                    <span></span>
-                </div><!-- //mobile menu button -->
-                <nav id="mainnav" class="mainnav">
-                    <ul class="menu"> 
-                        <li>
-                            <a href="index.html">Home</a>
-                            <!-- <ul class="submenu ">
-                                <li><a href="index.html">Home V1</a></li>             
-                                <li><a href="home2.html">Home V2</a></li>             
-                                <li><a href="home3.html">Home V3</a></li>
-                                <li><a href="home4.html">Home V4</a></li>
-                                <li><a href="home5.html">Home V5</a></li>
-                            </ul>/.submenu -->
-                        </li>
-                        <li><a href="projects.html">Projects</a>  
-                            <!-- <ul class="submenu right-sub-menu">
-                                <li><a href="contactv1.html">Contact Version 1</a></li> 
-                                <li><a href="contactv2.html">Contact Version 2</a></li> 
-                            </ul>/.submenu        -->
-                        </li>
-                       
-
-                        <li><a href="organizations.html">Organizations</a>
-                            <!-- <ul class="submenu ">
-                                <li><a href="service.html">Service Version 01</a></li>             
-                                <li><a href="service2.html">Service Version 02</a></li>
-                                <li><a href="service3.html">Service Version 03</a></li>
-                            </ul>/.submenu -->
-                        </li>
-
-                        <li><a href="recommendations.html">Recommendations</a> 
-                            <!-- <ul class="submenu ">
-                                <li><a href="portfolio-3column.html">Porfolio 3 Columns</a></li>             
-                                <li><a href="portfolio-3columns-nospacer.html">Portfolio 3 Columns Nospacer</a></li>
-                                <li><a href="portfolio-3column-masonry.html">Porfolio 3 Columns Masonry</a></li>
-                                <li><a href="portfolio-3column-masonry-nospacer.html">Porfolio 3 Columns Masonry Nospacer</a></li>
-                                <li><a href="portfolio-4columns.html">Porfolio 4 Columns</a></li>
-                                <li><a href="portfolio-4columns-nospacer.html">Porfolio 4 Columns Nospacer</a></li>
-                                <li><a href="portfolio-4column-masonry.html">Porfolio 4 Columns Masonry</a></li>
-                                <li><a href="portfolio-4column-masonry-nospacer.html">Porfolio 4 Columns Masonry Nospacer</a></li>
-                                <li><a href="portfolio-single.html">Porfolio Single</a></li>
-                            </ul>/.submenu          -->
-                        </li>
-
-                        <li class="sub-parent"><a href="resources.html">Resources </a>
-                            <!-- <ul class="submenu right-sub-menu">
-                                <li><a href="blog.html">Blog Version 01</a></li> 
-                                <li><a href="blog-left_sidebar.html">Blog Left Sidebar</a></li>
-                                <li><a href="blog-right_sidebar.html">Blog Right Sidebar</a></li>   
-                                <li><a href="blog-grid.html">Blog Grid</a></li>
-                                <li><a href="blog-grid-left_sidebar.html">Blog Grid Left Sidebar</a></li>
-                                <li><a href="blog-grid-right_sidebar.html">Blog Grid Right Sidebar</a></li>
-                                <li><a href="blog-alt-left_sidebar.html">Blog Alt Left Sidebar</a></li>
-                                <li><a href="blog-alt-right_sidebar.html">Blog Alt Right Sidebar</a></li>
-                                <li><a href="blog-massory.html">Blog Massory</a></li>
-                                <li><a href="blog-v2.html">Blog Version 2</a></li>
-                                <li><a href="blog-v2-left_sidebar.html">Blog Version 2 Left Sidebar</a></li>
-                                <li><a href="blog-v2-right_sidebar.html">Blog Version 2 Right Sidebar</a></li>
-                                <li><a href="blog-v3.html">Blog Version 3</a></li>
-                                <li><a href="blog-v3-left_sidebar.html">Blog Version 3 Left Sidebar</a></li>
-                                <li><a href="blog-v3-right_sidebar.html">Blog Version 3 Right Sidebar</a></li>
-                            </ul>/.submenu -->
-                        </li>
-
-                        <li><a href="gallery.html">Gallery</a>  
-                            <!-- <ul class="submenu right-sub-menu">
-                                <li><a href="maintanance.html">Maintanance</a></li> 
-                                <li><a href="404.html">404</a></li> 
-                            </ul>/.submenu     -->
-                        </li>
-
-                        <li><a href="stories.html">Stories</a>  
-                            <!-- <ul class="submenu right-sub-menu">
-                                <li><a href="contactv1.html">Contact Version 1</a></li> 
-                                <li><a href="contactv2.html">Contact Version 2</a></li> 
-                            </ul>/.submenu        -->
-                        </li>
-
-                        <li><a href="who-we-are.html">Who we are</a>
-                            <!-- <ul class="submenu ">
-                                <li><a href="about.html">About Version 01</a></li>             
-                                <li><a href="about2.html">About Version 02</a></li>
-                                <li><a href="about3.html">About Version 03</a></li>
-                            </ul>/.submenu -->
-                        </li> 
-                                             
-                    </ul><!-- /.menu -->
-                </nav><!-- /.mainnav -->
-
-                <div class="widget search-box widget-search">
-                    <form method="get" role="search" class="search-form">
-                        <input type="search" class="search-field" name="s" size="25" maxlength="128" value="" placeholder="Search">
-                        <input type="submit" class="search-submit fa" value="">
-                    </form>
-                </div>
-            </div>            
-
-        </div><!-- /.header-inner --> 
+    @include('frontend.includes.header')
     </header><!-- /.header -->
             
     <!-- Slider -->
@@ -164,7 +28,7 @@
         <div class="tp-banner" >
             <ul>
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                    <img src="images/slides/1.jpg" alt="slider-image" />
+                    <img src="frontend/images/slides/1.jpg" alt="slider-image" />
                     
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building<br> Platform
@@ -173,7 +37,7 @@
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                    <img src="images/slides/2.jpg" alt="slider-image" />
+                    <img src="frontend/images/slides/2.jpg" alt="slider-image" />
                     
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building<br> Platform
@@ -182,7 +46,7 @@
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                    <img src="images/slides/3.jpg" alt="slider-image" />
+                    <img src="frontend/images/slides/3.jpg" alt="slider-image" />
                     <div class="tp-caption sfl title-slide center" data-x="309" data-y="160" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building
                     </div>  
@@ -214,7 +78,7 @@
                 </div><!-- /.col-md-12 -->
             
                 <div class="col-md-6">
-                   <img src="images/home/18.jpg">
+                   <img src="frontend/images/home/18.jpg">
                 </div>
 
                 <div class="col-md-6 padl-44 magt--10">
@@ -362,7 +226,7 @@
                 </div><!-- /.col-md-4 -->
 
                 <div class="col-md-4 col-xs-6 text-center">
-                    <img alt="images" src="images/home/pixlr-bg-result.png" style="max-width: 120%;">
+                    <img alt="images" src="frontend/images/home/pixlr-bg-result.png" style="max-width: 120%;">
                 </div><!-- /.col-md-4 -->
             </div><!-- /.row -->
         </div>
@@ -880,7 +744,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes2.png" alt="">
+                                <img src="frontend/images/home/tes2.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -899,7 +763,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes1.jpg" alt="">
+                                <img src="frontend/images/home/tes1.jpg" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -918,7 +782,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes1.jpg" alt="">
+                                <img src="frontend/images/home/tes1.jpg" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -939,7 +803,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes2.png" alt="">
+                                <img src="frontend/images/home/tes2.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -959,7 +823,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes1.jpg" alt="">
+                                <img src="frontend/images/home/tes1.jpg" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -979,7 +843,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes2.png" alt="">
+                                <img src="frontend/images/home/tes2.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -999,7 +863,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes1.jpg" alt="">
+                                <img src="frontend/images/home/tes1.jpg" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -1017,7 +881,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes1.jpg" alt="">
+                                <img src="frontend/images/home/tes1.jpg" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -1036,7 +900,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes2.png" alt="">
+                                <img src="frontend/images/home/tes2.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -1066,31 +930,31 @@
         <div class="container">
             <ul class="slides">
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc1.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend//home/oc1.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc2.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc2.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc3.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc3.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc4.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc4.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc5.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc5.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc6.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc6.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc1.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc1.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc2.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc2.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc3.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc3.png"/>
                 </li>
             </ul>
         </div>
@@ -1180,27 +1044,7 @@
         </div>
     </div> 
     
-    <!-- Javascript -->
-    <script type="text/javascript" src="javascript/jquery.min.js"></script>
-    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery.easing.js"></script> 
-    <script type="text/javascript" src="javascript/jquery-countTo.js"></script>
-    <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery-waypoints.js"></script> 
-    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
-    <script type="text/javascript" src="javascript/owl.carousel.js"></script> 
-    <script type="text/javascript" src="javascript/parallax.js"></script>  
-    <script type="text/javascript" src="javascript/slider.js"></script>
-     <script src="javascript/swiper.min.js"></script>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
-    <script type='text/javascript' src='javascript/jquery.themepunch.tools.min.js?rev=4.6.5'></script>
-    <script type='text/javascript' src='javascript/jquery.themepunch.revolution.min.js?rev=4.6.5'></script>
-    <script src="javascript/swiper.min.js"></script>
-    
-    <script type="text/javascript" src="javascript/gmap3.min.js"></script>  
-
-    <script type="text/javascript" src="javascript/main.js"></script>
+ 
     
 </body>
 </html>

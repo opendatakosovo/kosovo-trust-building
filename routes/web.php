@@ -14,6 +14,10 @@
  // front-end routes 
  Route::get('/', function () { return view('frontend.index'); });
  Route::get('/who-we-are', function () { return view('frontend.who-we-are'); });
+ Route::get('/trustbuildingnetwork', function () { return view('frontend.trustbuildingnetwork'); });
+ Route::get('/contribute', function () { return view('frontend.contribute'); });
+
+
  // front-end routes end
 
 Route::group(['middleware' => ['get.menu']], function () {

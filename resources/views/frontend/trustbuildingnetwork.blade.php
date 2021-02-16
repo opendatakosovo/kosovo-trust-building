@@ -183,15 +183,15 @@
         <div class="container relative">
             <div class="bg-red w62p padt-78 padlr-40_89 mgt--48">
                 <div class="bond-contentbox color-white">
-                    <h4 class="color-red title-1">ABOUT US</h4>                    
+                    <h4 class="color-red title-1">How it all started</h4>                    
                     <div class="box-header">
-                        <h2 class="box-title">GREAT SERVICE WITH STYLE</h2>
+                        <h2 class="box-title">Kosovo Trustbuilding Platform</h2>
                     </div>
                     <div class="box-content">
                         <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor abore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        The full list of recommendations and final report are available in English, Albanian and Serbian languages. This platform is a continuation of the Forum’s discussions on actions needed to build a more peaceful and inclusive society </p>
                         <p>
-                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto. </p>                                
+                        And also seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.. </p>                                
                        
                     </div>
 
@@ -215,12 +215,12 @@
 
     <section class="bond-row home4-what-we-do  padb-93 v2">
         <div class="title-section style2">
-            <h3 class="title">SERVICE</h3>                                       
+            <h3 class="title">BUILD TRUST</h3>                                       
         </div>
         <div class="title-section style1">
-            <h3 class="title">WHAT WE DO</h3>
+            <h3 class="title">CONTRIBUTE</h3>
             <div class="desc">
-                <p>Doing With Style</p>
+                <p>In many ways</p>
             </div>                            
         </div>
         <div class="container">
@@ -232,7 +232,7 @@
                         </div>
                         <div class="content">
                             <h4 class="title"><a href="#">WEB DEVELOPMENT</a></h4>
-                            <p>Blor sit amet, consectetur adipisicing eLorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do </p>
+                            <p>Assure interaction between different databases used by the judicial system in Kosovo, including police databases.</p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
 
                         </div>
@@ -245,8 +245,8 @@
                             <span class="icons icon-puzzle"></span>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">APP DEVELOPMENT</a></h4>
-                            <p>Blor sit amet, consectetur adipisicing eLorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do </p>
+                            <h4 class="title"><a href="#">ACCESS TO JUSTICE</a></h4>
+                            <p>At the central level help from international institutions and organizations is needed for financing  </p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -258,8 +258,8 @@
                             <span class="icon-game-controller icons"></span>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">GAME DEVELOPMENT</a></h4>
-                            <p>Blor sit amet, consectetur adipisicing eLorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do </p>
+                            <h4 class="title"><a href="#">GOOD GOVERNANCE</a></h4>
+                            <p>Assure interaction between different databases used by the judicial system in Kosovo, including police databases.</p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -271,8 +271,8 @@
                             <span class="icon-pie-chart icons"></span>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">ONLINE MARKETING</a></h4>
-                            <p>Blor sit amet, consectetur adipisicing eLorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do </p>
+                            <h4 class="title"><a href="#">ACTORS</a></h4>
+                            <p>Provide adequate facilities to treat juveniles in conflict with the law that have problems with abuse of narcotics. </p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
 
                         </div>
@@ -285,8 +285,8 @@
                             <span class="icon-camera icons"></span>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">PHOTOGRAPHY</a></h4>
-                            <p>Blor sit amet, consectetur adipisicing eLorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do </p>
+                            <h4 class="title"><a href="#">INITIAIVES</a></h4>
+                            <p>Provide adequate facilities to treat juveniles in conflict with the law that have problems with abuse of narcotics.</p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -298,8 +298,8 @@
                             <span class="icon-shield icons"></span>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Online Security</a></h4>
-                            <p>Blor sit amet, consectetur adipisicing eLorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do </p>
+                            <h4 class="title"><a href="#">CONTRIBUTIONS</a></h4>
+                            <p>Enhance strategy to reduce case backlog. </p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->

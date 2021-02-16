@@ -13,21 +13,16 @@
 
  // front-end routes 
  Route::get('/', function () { return view('frontend.index'); });
- Route::get('/who-we-are', function () { return view('frontend.who-we-are'); });
- Route::get('/trustbuildingnetwork', function () { return view('frontend.trustbuildingnetwork'); });
- Route::get('/contribute', function () { return view('frontend.contribute'); });
- Route::get('/gallery', function () { return view('frontend.gallery'); });
+ Route::get('/who-we-aree', function () { return view('frontend.who-we-are'); });
+ Route::get('/trustbuildingnetworkk', function () { return view('frontend.trustbuildingnetwork'); });
+ Route::get('/contributee', function () { return view('frontend.contribute'); });
+ Route::get('/galleryy', function () { return view('frontend.gallery'); });
  Route::get('/organization1', function () { return view('frontend.organization1'); });
- Route::get('/organizations', function () { return view('frontend.organizations'); });
- Route::get('/portfolio', function () { return view('frontend.portfolio'); });
- Route::get('/projects', function () { return view('frontend.projects'); });
- Route::get('/resources', function () { return view('frontend.resources'); });
- Route::get('/stories', function () { return view('frontend.stories'); });
-
-
-
-
-
+ Route::get('/organizationss', function () { return view('frontend.organizations'); });
+ Route::get('/portfolioo', function () { return view('frontend.portfolio'); });
+ Route::get('/projectss', function () { return view('frontend.projects'); });
+ Route::get('/resourcess', function () { return view('frontend.resources'); });
+ Route::get('/storiess', function () { return view('frontend.stories'); });
 
 
 

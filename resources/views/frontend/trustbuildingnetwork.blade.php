@@ -6,11 +6,7 @@
 
 </head>                                 
 <body class=" page front-page">  
-    <section class="loading-overlay">
-        <div class="Loading-Page">
-            <h2 class="loader">Loading...</h2>
-        </div>
-    </section> 
+    
     
 
     <!-- Header -->            
@@ -140,7 +136,7 @@
                 </div><!-- /.col-md-4 -->
 
                 <div class="col-md-4 text-center" style="padding-top: 12.5%;">
-                    <img alt="frontend/image" src="frontend/frontend/image/ktb-logo.png"/>
+                    <img alt="frontend/image" src="frontend/frontend/images/ktb-logo.png"/>
                 </div>
 
                 <div class="col-md-4 col-xs-6  padt-82 padl-42">

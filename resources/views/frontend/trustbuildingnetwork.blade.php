@@ -140,7 +140,7 @@
                 </div><!-- /.col-md-4 -->
 
                 <div class="col-md-4 text-center" style="padding-top: 12.5%;">
-                    <img alt="images" src="images/ktb-logo.png"/>
+                    <img alt="frontend/image" src="frontend/frontend/image/ktb-logo.png"/>
                 </div>
 
                 <div class="col-md-4 col-xs-6  padt-82 padl-42">
@@ -208,11 +208,11 @@
             </div>
 
             <div class="single-image w42p center-right mgt-10 mgr-16">
-                <img src="images/home/7.jpg" alt="single-image"/>
+                <img src="frontend/images/home/7.jpg" alt="single-image"/>
             </div>
 
             <div class="single-image w26p center-right top-97p right-21p">
-                <img src="images/home/6.jpg" alt="single-image"/>
+                <img src="frontend/images/home/6.jpg" alt="single-image"/>
             </div>
         </div>
     </section>
@@ -351,7 +351,7 @@
                                         <div class="icon-zoom"></div>
                                     </div>
                                 </div>
-                                <img src="images/home/p1.jpg" alt="GHUNE KHAOA ROAD">
+                                <img src="frontend/images/home/p1.jpg" alt="GHUNE KHAOA ROAD">
                             </a>
                         </div>
                         <div class="title-post">
@@ -367,7 +367,7 @@
                                         <div class="icon-zoom"></div>
                                     </div>
                                 </div>
-                                <img src="images/home/p2.jpg" alt="GHUNE KHAOA ROAD">
+                                <img src="frontend/images/home/p2.jpg" alt="GHUNE KHAOA ROAD">
                             </a>
                         </div>
                         <div class="title-post">
@@ -383,7 +383,7 @@
                                         <div class="icon-zoom"></div>
                                     </div>
                                 </div>
-                                <img src="images/home/p3.jpg" alt="GHUNE KHAOA ROAD">
+                                <img src="frontend/images/home/p3.jpg" alt="GHUNE KHAOA ROAD">
                             </a>
                         </div>
                         <div class="title-post">
@@ -399,7 +399,7 @@
                                         <div class="icon-zoom"></div>
                                     </div>
                                 </div>
-                                <img src="images/home/p4.jpg" alt="GHUNE KHAOA ROAD">
+                                <img src="frontend/images/home/p4.jpg" alt="GHUNE KHAOA ROAD">
                             </a>
                         </div>
                         <div class="title-post">
@@ -416,7 +416,7 @@
                                         <div class="icon-zoom"></div>
                                     </div>
                                 </div>
-                                <img src="images/home/p5.jpg" alt="GHUNE KHAOA ROAD">
+                                <img src="frontend/images/home/p5.jpg" alt="GHUNE KHAOA ROAD">
                             </a>
                         </div>
                         <div class="title-post">
@@ -432,7 +432,7 @@
                                         <div class="icon-zoom"></div>
                                     </div>
                                 </div>
-                                <img src="images/home/p6.jpg" alt="GHUNE KHAOA ROAD">
+                                <img src="frontend/images/home/p6.jpg" alt="GHUNE KHAOA ROAD">
                             </a>
                         </div>
                         <div class="title-post">
@@ -448,7 +448,7 @@
                                         <div class="icon-zoom"></div>
                                     </div>
                                 </div>
-                                <img src="images/home/p7.jpg" alt="GHUNE KHAOA ROAD">
+                                <img src="frontend/images/home/p7.jpg" alt="GHUNE KHAOA ROAD">
                             </a>
                         </div>
                         <div class="title-post">
@@ -464,7 +464,7 @@
                                         <div class="icon-zoom"></div>
                                     </div>
                                 </div>
-                                <img src="images/home/p8.jpg" alt="GHUNE KHAOA ROAD">
+                                <img src="frontend/images/home/p8.jpg" alt="GHUNE KHAOA ROAD">
                             </a>
                         </div>
                         <div class="title-post">
@@ -508,7 +508,7 @@
 
                 <div class=" w39p text-center float-left">
                     <div class="flat-spacer h8"></div>
-                    <img alt="images" src="images/about/1.png">
+                    <img alt="frontend/images" src="frontend/images/about/1.png">
                 </div><!-- /. -->
 
                 <div class="w30p float-left">
@@ -555,7 +555,7 @@
                     
                     <div class="team v2 col-md-4 col-xs-6">
                         <div class="team-img">
-                            <img src="images/home/t2.jpg" alt="image">
+                            <img src="frontend/images/home/t2.jpg" alt="image">
                         </div>
                         <div class="content">
                             <div class="short_information">
@@ -575,7 +575,7 @@
                     </div>
                     <div class="team v2 col-md-4 col-xs-6">
                         <div class="team-img">
-                            <img src="images/home/t3.jpg" alt="image">
+                            <img src="frontend/images/home/t3.jpg" alt="image">
                         </div>
                         <div class="content">
                             <div class="short_information">
@@ -595,7 +595,7 @@
                     </div>
                     <div class="team v2 col-md-4 col-xs-6">
                         <div class="team-img">
-                            <img src="images/home/t4.jpg" alt="image">
+                            <img src="frontend/images/home/t4.jpg" alt="image">
                         </div>
                         <div class="content">
                             <div class="short_information">
@@ -616,7 +616,7 @@
 
                     <div class="team v2 col-md-4 col-xs-6">
                         <div class="team-img">
-                            <img src="images/team_member/3.jpg" alt="image">
+                            <img src="frontend/images/team_member/3.jpg" alt="image">
                         </div>
                         <div class="content">
                             <div class="short_information">
@@ -636,7 +636,7 @@
                     </div>
                     <div class="team v2 col-md-4 col-xs-6">
                         <div class="team-img">
-                            <img src="images/team_member/4.jpg" alt="image">
+                            <img src="frontend/images/team_member/4.jpg" alt="image">
                         </div>
                         <div class="content">
                             <div class="short_information">
@@ -656,7 +656,7 @@
                     </div>
                     <div class="team v2 col-md-4 col-xs-6">
                         <div class="team-img">
-                            <img src="images/team_member/5.jpg" alt="image">
+                            <img src="frontend/images/team_member/5.jpg" alt="image">
                         </div>
                         <div class="content">
                             <div class="short_information">
@@ -785,7 +785,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/service/author5.png" alt="">
+                                <img src="frontend/images/service/author5.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -805,7 +805,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/service/author1.png" alt="">
+                                <img src="frontend/images/service/author1.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -825,7 +825,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/home/tes1.jpg" alt="">
+                                <img src="frontend/images/home/tes1.jpg" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -844,7 +844,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/service/author2.png" alt="">
+                                <img src="frontend/images/service/author2.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -863,7 +863,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/service/author3.png" alt="">
+                                <img src="frontend/images/service/author3.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -882,7 +882,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/service/author4.png" alt="">
+                                <img src="frontend/images/service/author4.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -901,7 +901,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/service/author5.png" alt="">
+                                <img src="frontend/images/service/author5.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -920,7 +920,7 @@
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="images/service/author1.png" alt="">
+                                <img src="frontend/images/service/author1.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
@@ -934,12 +934,12 @@
                  <!-- Add Pagination -->
                 <!-- Add Arrows -->
                 <ul class="nav-thumb">
-                    <li class="active"><img alt="single_image" src="images/service/author1.png"></li>
-                    <li><img alt="single_image" src="images/home/tes1.jpg"> </li>
-                    <li><img alt="single_image" src="images/service/author2.png"> </li>
-                    <li><img alt="single_image" src="images/service/author3.png"> </li>
-                    <li><img alt="single_image" src="images/service/author4.png"> </li>
-                    <li><img alt="single_image" src="images/service/author5.png"> </li>
+                    <li class="active"><img alt="single_image" src="frontend/images/service/author1.png"></li>
+                    <li><img alt="single_image" src="frontend/images/home/tes1.jpg"> </li>
+                    <li><img alt="single_image" src="frontend/images/service/author2.png"> </li>
+                    <li><img alt="single_image" src="frontend/images/service/author3.png"> </li>
+                    <li><img alt="single_image" src="frontend/image/service/author4.png"> </li>
+                    <li><img alt="single_image" src="frontend/image/service/author5.png"> </li>
                 </ul>
                 <div class="swiper-nav">                    
                     <div class="swiper-button-prev">Prev</div>
@@ -974,7 +974,7 @@
                         <div class="entry-border">
                             <div class="featured-post">
                                 <a href="blog_single_v1.html">                          
-                                    <img width="370" height="264" alt="single_image" src="images/home/bl1.jpg" >                           </a>
+                                    <img width="370" height="264" alt="single_image" src="frontend/image/home/bl1.jpg" >                           </a>
                             </div>
                             <div class="content-post">
                                 <h5><a href="blog_single_v1.html">Fusce sit amet urna neque Proin vel lorie mes eros Vesti bulum </a></h5>
@@ -1002,7 +1002,7 @@
                         <div class="entry-border">
                             <div class="featured-post">
                                 <a href="blog_single_v1.html">                          
-                                    <img width="370" height="264" src="images/home/bl2.jpg" class="attachment-pictor-portfolio-thumb-one-three size-pictor-portfolio-thumb-one-three wp-post-image" alt="2">                            </a>
+                                    <img width="370" height="264" src="frontend/image/home/bl2.jpg" class="attachment-pictor-portfolio-thumb-one-three size-pictor-portfolio-thumb-one-three wp-post-image" alt="2">                            </a>
                             </div>
                             <div class="content-post">
                                 <h5><a href="blog_single_v1.html">Nulla eget leo eu diam ullam corper aucr Aliquam vel volu tpat sem </a></h5>
@@ -1030,7 +1030,7 @@
                         <div class="entry-border">
                             <div class="featured-post">
                                 <a href="blog_single_v1.html">                          
-                                    <img width="370" height="264" alt="single_image" src="images/home/bl3.jpg" >                           </a>
+                                    <img width="370" height="264" alt="single_image" src="frontend/image/home/bl3.jpg" >                           </a>
                             </div>
                             <div class="content-post">
                                 <h5><a href="blog_single_v1.html">Proin et velit lectus Etiam et ultricies tor tor Nam dignissim nib </a></h5>
@@ -1150,31 +1150,31 @@
         <div class="container">
             <ul class="slides">
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc1.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc1.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc2.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc2.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc3.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc3.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc4.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc4.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc5.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc5.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc6.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc6.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc1.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc1.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc2.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc2.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="images/home/oc3.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc3.png"/>
                 </li>
             </ul>
         </div>

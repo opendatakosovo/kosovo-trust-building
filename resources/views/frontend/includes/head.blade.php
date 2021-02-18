@@ -26,8 +26,8 @@
     <!-- Favicon and touch icons  -->
     <link href="icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed" sizes="48x48">
     <link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
-    <link href="images/ktb.png" rel="shortcut icon">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.css">
+    <link href="frontend/images/ktb.png" rel="shortcut icon">
+    <link href="{{ url('https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.css') }}" rel="stylesheet">
   
 
     <!--[if lt IE 9]>

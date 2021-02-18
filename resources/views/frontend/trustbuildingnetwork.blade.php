@@ -136,7 +136,7 @@
                 </div><!-- /.col-md-4 -->
 
                 <div class="col-md-4 text-center" style="padding-top: 12.5%;">
-                    <img alt="frontend/image" src="frontend/frontend/images/ktb-logo.png"/>
+                    <img alt="image" src="frontend/images/ktb-logo.png"/>
                 </div>
 
                 <div class="col-md-4 col-xs-6  padt-82 padl-42">
@@ -476,7 +476,7 @@
         </div>
     </section>
 
-    <section class="ab3-s3 bond-row bg-f7">
+    <!-- <section class="ab3-s3 bond-row bg-f7">
             <div class="container">
                 <div class="flat-spacer h19"></div>
                 <div class="w30p float-left">
@@ -500,12 +500,12 @@
                             
                         </div>
                     </div>
-                </div><!-- /. -->
+                </div>
 
                 <div class=" w39p text-center float-left">
                     <div class="flat-spacer h8"></div>
                     <img alt="frontend/images" src="frontend/images/about/1.png">
-                </div><!-- /. -->
+                </div>
 
                 <div class="w30p float-left">
                     <div class="iconbox effect1 clearfix  inline-right no-box">
@@ -531,7 +531,7 @@
                     </div>
                 </div>
             </div>
-    </section>
+    </section> -->
 
     <section class="bond-row bond-section-teammember padb-90 ">
         <div class="title-section style3">
@@ -1063,7 +1063,7 @@
     </section>
 
     <!-- contact us -->
-    <section class="bond-row bond-contact-us ">
+    <!-- <section class="bond-row bond-contact-us ">
         <div class="container">
             <div>                   
                 <div id="map"></div>                   
@@ -1140,37 +1140,37 @@
             </div>
         </div>
         <div class="flat-spacer h54"></div>
-    </section>
+    </section> -->
 
     <section class="bond-partner-slider">
         <div class="container">
             <ul class="slides">
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc1.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc1.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc2.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc2.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc3.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc3.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc4.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc4.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc5.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc5.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc6.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc6.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc1.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc1.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc2.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc2.png"/>
                 </li>
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend/image/home/oc3.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc3.png"/>
                 </li>
             </ul>
         </div>

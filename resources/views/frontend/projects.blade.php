@@ -215,7 +215,7 @@
 	                            <div class="testimonial-meta">
 	                                
 	                            <div class="testimonial-image">
-	                                <img src="images/service/author1.png" alt="">
+	                                <img src="frontend/images/service/author1.png" alt="">
 	                            </div>
 	                        
 	                                <div class="testimonial-author">
@@ -235,7 +235,7 @@
 	                            <div class="testimonial-meta">
 	                                
 	                            <div class="testimonial-image">
-	                                <img src="images/home/tes1.jpg" alt="">
+	                                <img src="frontend/images/home/tes1.jpg" alt="">
 	                            </div>
 	                        
 	                                <div class="testimonial-author">
@@ -254,7 +254,7 @@
 	                            <div class="testimonial-meta">
 	                                
 	                            <div class="testimonial-image">
-	                                <img src="images/service/author2.png" alt="">
+	                                <img src="frontend/images/service/author2.png" alt="">
 	                            </div>
 	                        
 	                                <div class="testimonial-author">
@@ -273,7 +273,7 @@
 	                            <div class="testimonial-meta">
 	                                
 	                            <div class="testimonial-image">
-	                                <img src="images/service/author3.png" alt="">
+	                                <img src="frontend/images/service/author3.png" alt="">
 	                            </div>
 	                        
 	                                <div class="testimonial-author">
@@ -292,7 +292,7 @@
 	                            <div class="testimonial-meta">
 	                                
 	                            <div class="testimonial-image">
-	                                <img src="images/service/author4.png" alt="">
+	                                <img src="frontend/images/service/author4.png" alt="">
 	                            </div>
 	                        
 	                                <div class="testimonial-author">
@@ -311,7 +311,7 @@
 	                            <div class="testimonial-meta">
 	                                
 	                            <div class="testimonial-image">
-	                                <img src="images/service/author5.png" alt="">
+	                                <img src="frontend/images/service/author5.png" alt="">
 	                            </div>
 	                        
 	                                <div class="testimonial-author">
@@ -326,12 +326,12 @@
 	                 <!-- Add Pagination -->
 	                <!-- Add Arrows -->
 	                <ul class="nav-thumb">
-	                    <li class="active"><img alt="single_image" src="images/service/author1.png"/></li>
-	                    <li><img alt="single_image" src="images/home/tes1.jpg"/> </li>
-	                    <li><img alt="single_image" src="images/service/author2.png"/> </li>
-	                    <li><img alt="single_image" src="images/service/author3.png"/> </li>
-	                    <li><img alt="single_image" src="images/service/author4.png"/> </li>
-	                    <li><img alt="single_image" src="images/service/author5.png"/> </li>
+	                    <li class="active"><img alt="single_image" src="frontend/images/service/author1.png"/></li>
+	                    <li><img alt="single_image" src="frontend/images/home/tes1.jpg"/> </li>
+	                    <li><img alt="single_image" src="frontend/images/service/author2.png"/> </li>
+	                    <li><img alt="single_image" src="frontend/images/service/author3.png"/> </li>
+	                    <li><img alt="single_image" src="frontend/images/service/author4.png"/> </li>
+	                    <li><img alt="single_image" src="frontend/images/service/author5.png"/> </li>
 	                </ul>
 	                <div class="swiper-nav">                    
 	                    <div class="swiper-button-prev">Prev</div>
@@ -349,31 +349,31 @@
             <div class="container">
                 <ul class="slides">
                     <li>
-                        <img alt="owlcarousel-item-img" src="images/organizations/k4.png"/>
+                        <img alt="owlcarousel-item-img" src="frontend/images/organizations/k4.png"/>
                     </li>
                     <li>
-                        <img alt="owlcarousel-item-img" src="images/organizations/logo-voc-up.png"/>
+                        <img alt="owlcarousel-item-img" src="frontend/images/organizations/logo-voc-up.png"/>
                     </li>
                     <li>
-                        <img alt="owlcarousel-item-img" src="images/organizations/recnik-fjalor.png"/>
+                        <img alt="owlcarousel-item-img" src="frontend/images/organizations/recnik-fjalor.png"/>
                     </li>
                     <li>
-                        <img alt="owlcarousel-item-img" src="images/organizations/un75.jpg"/>
+                        <img alt="owlcarousel-item-img" src="frontend/images/organizations/un75.jpg"/>
                     </li>
                     <li>
-                        <img alt="owlcarousel-item-img" src="images/home/oc11.png"/>
+                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc11.png"/>
                     </li>
                     <li>
-                        <img alt="owlcarousel-item-img" src="images/home/oc12.png"/>
+                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc12.png"/>
                     </li>
                     <li>
-                        <img alt="owlcarousel-item-img" src="images/home/oc7.png"/>
+                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc7.png"/>
                     </li>
                     <li>
-                        <img alt="owlcarousel-item-img" src="images/home/oc8.png"/>
+                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc8.png"/>
                     </li>
                     <li>
-                        <img alt="owlcarousel-item-img" src="images/home/oc9.png"/>
+                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc9.png"/>
                     </li>
                 </ul>
             </div>
@@ -501,28 +501,6 @@
     <a class="go-top vertical-text">
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
-    
-    <!-- Javascript -->
-    <script type="text/javascript" src="javascript/jquery.min.js"></script>
-    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery.easing.js"></script> 
-    <script type="text/javascript" src="javascript/jquery-countTo.js"></script>
-    <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery-waypoints.js"></script> 
-    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
-    <script type="text/javascript" src="javascript/owl.carousel.js"></script> 
-    <script type="text/javascript" src="javascript/parallax.js"></script> 
-    <script type="text/javascript" src="javascript/jquery.mb.YTPlayer.js"></script> 
-    <script type="text/javascript" src="javascript/slider.js"></script>  
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
-    <script type='text/javascript' src='javascript/jquery.themepunch.tools.min.js?rev=4.6.5'></script>
-    <script type='text/javascript' src='javascript/jquery.themepunch.revolution.min.js?rev=4.6.5'></script>
-    <script src="javascript/swiper.min.js"></script>
-    
-    <script type="text/javascript" src="javascript/gmap3.min.js"></script>  
-
-    <script type="text/javascript" src="javascript/main.js"></script>
     
 </body>
 </html>

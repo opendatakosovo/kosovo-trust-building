@@ -88,7 +88,7 @@
            <div class="col-xl-4 col-md-4 mb-2">
              <h2 class="pb-2 align-center" style="text-align: center;">Powered by</h2>
              <div class="text-center">
-                <a href="#" data-toggle="modal" data-target="#modalNSI"><img allign="middle" src="images/team_member/logo-NSI.png" class="center hvr-grow" alt="A school of fish swimming left, and one fish swimming right. It reads &quot;New Social Initiative&quot;" data-toggle="modal" data-target="#exampleModal"></a>
+                <a href="#" data-toggle="modal" data-target="#modalNSI"><img allign="middle" src="frontend/images/team_member/logo-NSI.png" class="center hvr-grow" alt="A school of fish swimming left, and one fish swimming right. It reads &quot;New Social Initiative&quot;" data-toggle="modal" data-target="#exampleModal"></a>
                 <p class="card-title mt-4">New Social Initiative</p>
                 <div class="text-center support-icons">
                   <a href="https://www.facebook.com/newsocialinitiative/" target="_blank" rel="noopener" aria-label="NSI's facebook page"><i class="fa fa-facebook-f hvr-grow pr-4"></i></a>
@@ -127,7 +127,7 @@
            <div class="col-xl-4 col-md-4 mb-2">
              <h2 class="pb-2 align-center" style="text-align: center;">Supported by</h2>
              <div class="text-center">
-                <a href="#" data-toggle="modal" data-target="#modalUNMIK"><img allign="middle" src="images/team_member/logo-fci.png" class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
+                <a href="#" data-toggle="modal" data-target="#modalUNMIK"><img allign="middle" src="frontend/images/team_member/logo-fci.png" class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
                 <p class="card-title mt-4">United Nations Mission in Kosovo</p>
                 <div class="text-center support-icons">
                    <a href="https://www.facebook.com/UNMIK" target="_blank" rel="noopener" aria-label="UNMIK's facebook page"><i class="fa fa-facebook-f hvr-grow pr-4"></i></a>
@@ -159,7 +159,7 @@
            <div class="col-xl-4 col-md-4 mb-2">
              <h2 class="pb-2 align-center" style="text-align: center;">In collaboration with</h2>
              <div class="text-center">
-               <a href="#" data-toggle="modal" data-target="#modalFCI"><img allign="middle" src="images/team_member/support-01.png" class="center hvr-grow" alt="A light bulb is illuminating the space around it. Text reads &quot;Ciudadanía Inteligente&quot;" data-toggle="modal" data-target="#exampleModal3"></a>
+               <a href="#" data-toggle="modal" data-target="#modalFCI"><img allign="middle" src="frontend/images/team_member/support-01.png" class="center hvr-grow" alt="A light bulb is illuminating the space around it. Text reads &quot;Ciudadanía Inteligente&quot;" data-toggle="modal" data-target="#exampleModal3"></a>
                 <p class="card-title mt-4">Fundación Ciudadanía Inteligente</p>
                 <div class="text-center support-icons">
                   <a href="https://www.facebook.com/ciudadaniai/" target="_blank" rel="noopener" aria-label="Ciudadanía Inteligente's facebook page"><i class="fa fa-facebook"></i></a>
@@ -239,7 +239,7 @@
             <div class="row bond-teammember">
                 <div class="team col-md-3 col-xs-6">
                     <div class="team-img">
-                        <img src="images/team_member/sanja.jpg" alt="image">
+                        <img src="frontend/images/team_member/sanja.jpg" alt="image">
                     </div>
                     <div class="content">
                         <div class="short_information">
@@ -261,7 +261,7 @@
                 </div>
                 <div class="team col-md-3 col-xs-6">
                     <div class="team-img">
-                        <img src="images/team_member/verka.jpg" alt="image">
+                        <img src="frontend/images/team_member/verka.jpg" alt="image">
                     </div>
                     <div class="content">
                         <div class="short_information">
@@ -283,7 +283,7 @@
                 </div>
                 <div class="team col-md-3 col-xs-6">
                     <div class="team-img">
-                        <img src="images/team_member/lazar.jpg" alt="image">
+                        <img src="frontend/images/team_member/lazar.jpg" alt="image">
                     </div>
                     <div class="content">
                         <div class="short_information">
@@ -304,7 +304,7 @@
                 </div>
                 <div class="team col-md-3 col-xs-6">
                     <div class="team-img">
-                        <img src="images/team_member/Hiljmnijeta.png" alt="image">
+                        <img src="frontend/images/team_member/Hiljmnijeta.png" alt="image">
                     </div>
                     <div class="content">
                         <div class="short_information">
@@ -362,7 +362,7 @@
                             <div class="testimonial-meta">
 
                                 <div class="testimonial-image">
-                                    <img src="images/home/tes1.jpg" alt="">
+                                    <img src="frontend/images/home/tes1.jpg" alt="">
                                 </div>
 
                                 <div class="testimonial-author">
@@ -385,7 +385,7 @@
                             <div class="testimonial-meta">
 
                                 <div class="testimonial-image">
-                                    <img src="images/home/tes1.jpg" alt="">
+                                    <img src="frontend/images/home/tes1.jpg" alt="">
                                 </div>
 
                                 <div class="testimonial-author">
@@ -407,7 +407,7 @@
                             <div class="testimonial-meta">
 
                                 <div class="testimonial-image">
-                                    <img src="images/home/tes1.jpg" alt="">
+                                    <img src="frontend/images/home/tes1.jpg" alt="">
                                 </div>
 
                                 <div class="testimonial-author">
@@ -429,7 +429,7 @@
                             <div class="testimonial-meta">
 
                                 <div class="testimonial-image">
-                                    <img src="images/home/tes1.jpg" alt="">
+                                    <img src="frontend/images/home/tes1.jpg" alt="">
                                 </div>
 
                                 <div class="testimonial-author">
@@ -451,7 +451,7 @@
                             <div class="testimonial-meta">
 
                                 <div class="testimonial-image">
-                                    <img src="images/home/tes1.jpg" alt="">
+                                    <img src="frontend/images/home/tes1.jpg" alt="">
                                 </div>
 
                                 <div class="testimonial-author">

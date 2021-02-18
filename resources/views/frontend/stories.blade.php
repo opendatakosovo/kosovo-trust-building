@@ -176,7 +176,7 @@
                         <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <img src="images/blog/v1/4.png" alt="image">
+                                    <img src="frontend/images/blog/v1/4.png" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
@@ -220,7 +220,7 @@
                         <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <img src="images/blog/v1/4.png" alt="image">
+                                    <img src="frontend/images/blog/v1/4.png" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
@@ -318,7 +318,7 @@
                             <ul class="popular-news clearfix">
                                 <li>                                   
                                     <div class="thumb">
-                                        <img src="images/blog/widget/recent-post-1.jpg" alt="images">
+                                        <img src="frontend/images/blog/widget/recent-post-1.jpg" alt="images">
                                     </div>
                                     <div class="text">
                                         <a href="#">Librarian girl you know youth that you can change</a>
@@ -327,7 +327,7 @@
                                 </li>
                                 <li>                                   
                                     <div class="thumb">
-                                        <img src="images/blog/widget/recent-post-2.jpg" alt="images">
+                                        <img src="frontend/images/blog/widget/recent-post-2.jpg" alt="images">
                                     </div>
                                     <div class="text">
                                         <a href="#">You know that you can change my world ilove post</a>
@@ -336,7 +336,7 @@
                                 </li>
                                 <li>                                   
                                     <div class="thumb">
-                                        <img src="images/blog/widget/recent-post-3.jpg" alt="images">
+                                        <img src="frontend/images/blog/widget/recent-post-3.jpg" alt="images">
                                     </div>
                                     <div class="text">
                                         <a href="#">This is a great opportunity to write a blog post</a>

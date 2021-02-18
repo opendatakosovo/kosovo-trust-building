@@ -231,7 +231,7 @@
                             <span class="icons icon-anchor"></span>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">WEB DEVELOPMENT</a></h4>
+                            <h4 class="title"><a href="#">INTER-RELIGIOUS TRUST</a></h4>
                             <p>Assure interaction between different databases used by the judicial system in Kosovo, including police databases.</p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
 

@@ -62,7 +62,7 @@
                 <div class=" item col-md-3 col-xs-6 bg-ff4040">
                     <div class="overlay">
                         <div class="icon-image" >
-                          <a href="organization1.html"><img src="images/organizations/undp.png" alt="UNDP" style="max-width:100%; height:100px;"></a>
+                          <a href="organization1.html"><img src="frontend/images/organizations/undp.png" alt="UNDP" style="max-width:100%; height:100px;"></a>
                          
                         </div>
                         <div class="content">
@@ -75,7 +75,7 @@
                 <div class="item col-md-3 col-xs-6 bg-ff4040">
                     <div class="overlay ">
                         <div class="icon-image">
-                            <img src="images/organizations/unhcr.png" alt="" >
+                            <img src="frontend/images/organizations/unhcr.png" alt="" >
                         </div>
                         <div class="content">
                             <!-- <h4 class="title"><a href="#">VOCUP RECNIK</a></h4> -->
@@ -88,7 +88,7 @@
                 <div class="item col-md-3 col-xs-6 bg-ff4040">
                     <div class=" ">
                         <div class="icon-image">
-                        <img src="images/organizations/iom.png" alt="" style="max-width:100%; height:100px; float:right;">
+                        <img src="frontend/images/organizations/iom.png" alt="" style="max-width:100%; height:100px; float:right;">
                         </div>
                         <div class="content">
                         </div>
@@ -98,7 +98,7 @@
                 <div class="item col-md-3 col-xs-6 bg-ff4040">
                     <div class=" ">
                         <div class="icon-image">
-                        <img src="images/organizations/unmik.png" alt="">
+                        <img src="frontend/images/organizations/unmik.png" alt="">
                         </div>
                         <div class="content">
         
@@ -109,7 +109,7 @@
                 <div class="item col-md-3 col-xs-6 bg-ff4040">
                     <div class="">
                         <div class="icon-image">
-                        <img src="images/organizations/giz.jpg" alt="" >
+                        <img src="frontend/images/organizations/giz.jpg" alt="" >
                         </div>
                         <div class="content">
                         </div>
@@ -119,7 +119,7 @@
                 <div class="item col-md-3 col-xs-6 bg-ff4040">
                     <div class=" ">
                         <div class="icon-image">
-                        <img src="images/organizations/osce.png" alt="">
+                        <img src="frontend/images/organizations/osce.png" alt="">
                         </div>
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -128,7 +128,7 @@
                 <div class="item col-md-3 col-xs-6 bg-ff4040">
                     <div class=" ">
                         <div class="icon-image">
-                        <img src="images/organizations/acdc.png" alt="">
+                        <img src="frontend/images/organizations/acdc.png" alt="">
                         </div>
                         <div class="content">
                         </div>
@@ -138,7 +138,7 @@
                 <div class="item col-md-3 col-xs-6 bg-ff4040">
                     <div class=" ">
                         <div class="icon-image">
-                        <img src="images/organizations/eulex.jpg" alt="" style="max-width:100%; height:100px;float:right;">
+                        <img src="frontend/images/organizations/eulex.jpg" alt="" style="max-width:100%; height:100px;float:right;">
                         </div>
                         <div class="content">
                         </div>
@@ -260,7 +260,7 @@
     <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
     <script type="text/javascript" src="javascript/jquery.easing.js"></script> 
     <script type="text/javascript" src="javascript/jquery-countTo.js"></script>
-    <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
+    <script type="text/javascript" src="javascript/frontend/imagesloaded.min.js"></script>
     <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
     <script type="text/javascript" src="javascript/jquery-waypoints.js"></script> 
     <script type="text/javascript" src="javascript/jquery.cookie.js"></script>

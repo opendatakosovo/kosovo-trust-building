@@ -3,7 +3,7 @@
         <div class="header-wrap clearfix">
 
             <div id="logo" class="logo">
-                <a href="/home" rel="home">
+                <a href="/" rel="Home">
                     <img src="frontend/images/kosovo-logo-en.png" alt="image">
                 </a>
             </div><!-- /.logo -->
@@ -34,35 +34,34 @@
                 <nav id="mainnav" class="mainnav">
                     <ul class="menu"> 
                         <li>
-                            <a href="/home">Home</a>
+                            <a href="/">Home</a>
                          
                         </li>
-                        <li><a href="projects.html">Projects</a>  
+                        <li><a href="/projectss">Projects</a>  
                         
                         </li>
                        
-
-                        <li><a href="organizations.html">Organizations</a>
+                        <li><a href="/organizationss">Organizations</a>
                          
                         </li>
-
-                        <li><a href="recommendations.html">Recommendations</a> 
                           
+                        <li><a href="/trustbuildingnetworkk">Trustbuilding Network</a>
+
                         </li>
 
-                        <li class="sub-parent"><a href="resources.html">Resources </a>
+                        <li><a href="/resourcess">Resources </a>
                            
                         </li>
 
-                        <li><a href="gallery.html">Gallery</a>  
+                        <li><a href="/galleryy">Gallery</a>  
                         
                         </li>
 
-                        <li><a href="stories.html">Stories</a>  
+                        <li><a href="/storiess">Stories</a>  
                           
                         </li>
 
-                        <li><a href="/who-we-are">Who we are</a>
+                        <li><a href="/who-we-aree">Who we are</a>
                          
                         </li> 
                                              

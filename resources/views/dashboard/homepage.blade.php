@@ -16,8 +16,8 @@
                         </button>
                         <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#">Action</a><a class="dropdown-item" href="#">Another action</a><a class="dropdown-item" href="#">Something else here</a></div>
                       </div>
-                      <div class="text-value-lg">9.823</div>
-                      <div>Members online</div>
+                      <div class="text-value-lg">135</div>
+                      <div>Recommendations</div>
                     </div>
                     <div class="c-chart-wrapper mt-3 mx-3" style="height:70px;">
                       <canvas class="chart" id="card-chart1" height="70"></canvas>
@@ -33,8 +33,8 @@
                           <use xlink:href="assets/icons/coreui/free-symbol-defs.svg#cui-location-pin"></use>
                         </svg>
                       </button>
-                      <div class="text-value-lg">9.823</div>
-                      <div>Members online</div>
+                      <div class="text-value-lg">505</div>
+                      <div>Initiatives</div>
                     </div>
                     <div class="c-chart-wrapper mt-3 mx-3" style="height:70px;">
                       <canvas class="chart" id="card-chart2" height="70"></canvas>
@@ -53,8 +53,8 @@
                         </button>
                         <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#">Action</a><a class="dropdown-item" href="#">Another action</a><a class="dropdown-item" href="#">Something else here</a></div>
                       </div>
-                      <div class="text-value-lg">9.823</div>
-                      <div>Members online</div>
+                      <div class="text-value-lg">400</div>
+                      <div>Actors</div>
                     </div>
                     <div class="c-chart-wrapper mt-3" style="height:70px;">
                       <canvas class="chart" id="card-chart3" height="70"></canvas>
@@ -73,8 +73,8 @@
                         </button>
                         <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#">Action</a><a class="dropdown-item" href="#">Another action</a><a class="dropdown-item" href="#">Something else here</a></div>
                       </div>
-                      <div class="text-value-lg">9.823</div>
-                      <div>Members online</div>
+                      <div class="text-value-lg">6</div>
+                      <div>Focus groups</div>
                     </div>
                     <div class="c-chart-wrapper mt-3 mx-3" style="height:70px;">
                       <canvas class="chart" id="card-chart4" height="70"></canvas>
@@ -88,8 +88,8 @@
                 <div class="card-body">
                   <div class="row">
                     <div class="col-sm-5">
-                      <h4 class="card-title mb-0">Traffic</h4>
-                      <div class="small text-muted">September 2019</div>
+                      <h4 class="card-title mb-0">Initiatives by Actors</h4>
+                      <div class="small text-muted">September 2020</div>
                     </div>
                     <!-- /.col-->
                     <div class="col-sm-7 d-none d-md-block">
@@ -120,31 +120,31 @@
                 <div class="card-footer">
                   <div class="row text-center">
                     <div class="col-sm-12 col-md mb-sm-2 mb-0">
-                      <div class="text-muted">Visits</div><strong>29.703 Users (40%)</strong>
+                      <div class="text-muted">International Partners</div><strong>29.703 Users (40%)</strong>
                       <div class="progress progress-xs mt-2">
                         <div class="progress-bar bg-success" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                     </div>
                     <div class="col-sm-12 col-md mb-sm-2 mb-0">
-                      <div class="text-muted">Unique</div><strong>24.093 Users (20%)</strong>
+                      <div class="text-muted">Civil Society</div><strong>24.093 Users (20%)</strong>
                       <div class="progress progress-xs mt-2">
                         <div class="progress-bar bg-info" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                     </div>
                     <div class="col-sm-12 col-md mb-sm-2 mb-0">
-                      <div class="text-muted">Pageviews</div><strong>78.706 Views (60%)</strong>
+                      <div class="text-muted">Central Institutions</div><strong>78.706 Views (60%)</strong>
                       <div class="progress progress-xs mt-2">
                         <div class="progress-bar bg-warning" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                     </div>
                     <div class="col-sm-12 col-md mb-sm-2 mb-0">
-                      <div class="text-muted">New Users</div><strong>22.123 Users (80%)</strong>
+                      <div class="text-muted">Local Institutions</div><strong>22.123 Users (80%)</strong>
                       <div class="progress progress-xs mt-2">
                         <div class="progress-bar bg-danger" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                     </div>
                     <div class="col-sm-12 col-md mb-sm-2 mb-0">
-                      <div class="text-muted">Bounce Rate</div><strong>40.15%</strong>
+                      <div class="text-muted">Media</div><strong>40.15%</strong>
                       <div class="progress progress-xs mt-2">
                         <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
@@ -231,19 +231,19 @@
               <div class="row">
                 <div class="col-md-12">
                   <div class="card">
-                    <div class="card-header">Traffic & Sales</div>
+                    <div class="card-header">Themes</div>
                     <div class="card-body">
                       <div class="row">
                         <div class="col-sm-6">
                           <div class="row">
                             <div class="col-6">
-                              <div class="c-callout c-callout-info"><small class="text-muted">New Clients</small>
+                              <div class="c-callout c-callout-info"><small class="text-muted">Youth</small>
                                 <div class="text-value-lg">9,123</div>
                               </div>
                             </div>
                             <!-- /.col-->
                             <div class="col-6">
-                              <div class="c-callout c-callout-danger"><small class="text-muted">Recuring Clients</small>
+                              <div class="c-callout c-callout-danger"><small class="text-muted">Human Rights</small>
                                 <div class="text-value-lg">22,643</div>
                               </div>
                             </div>
@@ -252,7 +252,7 @@
                           <!-- /.row-->
                           <hr class="mt-0">
                           <div class="progress-group mb-4">
-                            <div class="progress-group-prepend"><span class="progress-group-text">Monday</span></div>
+                            <div class="progress-group-prepend"><span class="progress-group-text">Good governance</span></div>
                             <div class="progress-group-bars">
                               <div class="progress progress-xs">
                                 <div class="progress-bar bg-info" role="progressbar" style="width: 34%" aria-valuenow="34" aria-valuemin="0" aria-valuemax="100"></div>
@@ -263,7 +263,7 @@
                             </div>
                           </div>
                           <div class="progress-group mb-4">
-                            <div class="progress-group-prepend"><span class="progress-group-text">Tuesday</span></div>
+                            <div class="progress-group-prepend"><span class="progress-group-text">Economic empowerment</span></div>
                             <div class="progress-group-bars">
                               <div class="progress progress-xs">
                                 <div class="progress-bar bg-info" role="progressbar" style="width: 56%" aria-valuenow="56" aria-valuemin="0" aria-valuemax="100"></div>
@@ -274,7 +274,7 @@
                             </div>
                           </div>
                           <div class="progress-group mb-4">
-                            <div class="progress-group-prepend"><span class="progress-group-text">Wednesday</span></div>
+                            <div class="progress-group-prepend"><span class="progress-group-text">Education</span></div>
                             <div class="progress-group-bars">
                               <div class="progress progress-xs">
                                 <div class="progress-bar bg-info" role="progressbar" style="width: 12%" aria-valuenow="12" aria-valuemin="0" aria-valuemax="100"></div>
@@ -285,7 +285,7 @@
                             </div>
                           </div>
                           <div class="progress-group mb-4">
-                            <div class="progress-group-prepend"><span class="progress-group-text">Thursday</span></div>
+                            <div class="progress-group-prepend"><span class="progress-group-text">Media and communication</span></div>
                             <div class="progress-group-bars">
                               <div class="progress progress-xs">
                                 <div class="progress-bar bg-info" role="progressbar" style="width: 43%" aria-valuenow="43" aria-valuemin="0" aria-valuemax="100"></div>
@@ -296,7 +296,7 @@
                             </div>
                           </div>
                           <div class="progress-group mb-4">
-                            <div class="progress-group-prepend"><span class="progress-group-text">Friday</span></div>
+                            <div class="progress-group-prepend"><span class="progress-group-text">Inter-relgious trust-build</span></div>
                             <div class="progress-group-bars">
                               <div class="progress progress-xs">
                                 <div class="progress-bar bg-info" role="progressbar" style="width: 22%" aria-valuenow="22" aria-valuemin="0" aria-valuemax="100"></div>
@@ -307,7 +307,7 @@
                             </div>
                           </div>
                           <div class="progress-group mb-4">
-                            <div class="progress-group-prepend"><span class="progress-group-text">Saturday</span></div>
+                            <div class="progress-group-prepend"><span class="progress-group-text">Civil Society</span></div>
                             <div class="progress-group-bars">
                               <div class="progress progress-xs">
                                 <div class="progress-bar bg-info" role="progressbar" style="width: 53%" aria-valuenow="53" aria-valuemin="0" aria-valuemax="100"></div>
@@ -318,7 +318,7 @@
                             </div>
                           </div>
                           <div class="progress-group mb-4">
-                            <div class="progress-group-prepend"><span class="progress-group-text">Sunday</span></div>
+                            <div class="progress-group-prepend"><span class="progress-group-text">Partners</span></div>
                             <div class="progress-group-bars">
                               <div class="progress progress-xs">
                                 <div class="progress-bar bg-info" role="progressbar" style="width: 9%" aria-valuenow="9" aria-valuemin="0" aria-valuemax="100"></div>
@@ -333,13 +333,13 @@
                         <div class="col-sm-6">
                           <div class="row">
                             <div class="col-6">
-                              <div class="c-callout c-callout-warning"><small class="text-muted">Pageviews</small>
+                              <div class="c-callout c-callout-warning"><small class="text-muted">Gender Equality</small>
                                 <div class="text-value-lg">78,623</div>
                               </div>
                             </div>
                             <!-- /.col-->
                             <div class="col-6">
-                              <div class="c-callout c-callout-success"><small class="text-muted">Organic</small>
+                              <div class="c-callout c-callout-success"><small class="text-muted">Organizations</small>
                                 <div class="text-value-lg">49,123</div>
                               </div>
                             </div>
@@ -380,7 +380,7 @@
                               <svg class="c-icon progress-group-icon">
                                 <use xlink:href="assets/icons/coreui/free-symbol-defs.svg#cui-globe-alt"></use>
                               </svg>
-                              <div>Organic Search</div>
+                              <div>Global</div>
                               <div class="ml-auto font-weight-bold mr-2">191.235</div>
                               <div class="text-muted small">(56%)</div>
                             </div>
@@ -393,39 +393,39 @@
                           <div class="progress-group">
                             <div class="progress-group-header align-items-end">
                               <svg class="c-icon progress-group-icon">
-                                <use xlink:href="assets/icons/coreui/free-symbol-defs.svg#cui-facebook"></use>
+                                <use xlink:href="assets/icons/coreui/free-symbol-defs.svg#cui-book"></use>
                               </svg>
-                              <div>Facebook</div>
+                              <div>Archive</div>
                               <div class="ml-auto font-weight-bold mr-2">51.223</div>
-                              <div class="text-muted small">(15%)</div>
+                              <div class="text-muted small">(35%)</div>
                             </div>
                             <div class="progress-group-bars">
                               <div class="progress progress-xs">
-                                <div class="progress-bar bg-success" role="progressbar" style="width: 15%" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-success" role="progressbar" style="width: 35%" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
                               </div>
                             </div>
                           </div>
                           <div class="progress-group">
                             <div class="progress-group-header align-items-end">
                               <svg class="c-icon progress-group-icon">
-                                <use xlink:href="assets/icons/coreui/free-symbol-defs.svg#cui-twitter"></use>
+                                <use xlink:href="assets/icons/coreui/free-symbol-defs.svg#cui-laptop"></use>
                               </svg>
-                              <div>Twitter</div>
+                              <div>Network</div>
                               <div class="ml-auto font-weight-bold mr-2">37.564</div>
-                              <div class="text-muted small">(11%)</div>
+                              <div class="text-muted small">(71%)</div>
                             </div>
                             <div class="progress-group-bars">
                               <div class="progress progress-xs">
-                                <div class="progress-bar bg-success" role="progressbar" style="width: 11%" aria-valuenow="11" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-success" role="progressbar" style="width: 71%" aria-valuenow="71" aria-valuemin="0" aria-valuemax="100"></div>
                               </div>
                             </div>
                           </div>
                           <div class="progress-group">
                             <div class="progress-group-header align-items-end">
                               <svg class="c-icon progress-group-icon">
-                                <use xlink:href="assets/icons/coreui/free-symbol-defs.svg#cui-linkedin"></use>
+                                <use xlink:href="assets/icons/coreui/free-symbol-defs.svg#cui-pen-alt"></use>
                               </svg>
-                              <div>LinkedIn</div>
+                              <div>Paperwork</div>
                               <div class="ml-auto font-weight-bold mr-2">27.319</div>
                               <div class="text-muted small">(8%)</div>
                             </div>
@@ -447,35 +447,35 @@
                                 <use xlink:href="assets/icons/coreui/free-symbol-defs.svg#cui-people"></use>
                               </svg>
                             </th>
-                            <th>User</th>
-                            <th class="text-center">Country</th>
-                            <th>Usage</th>
-                            <th class="text-center">Payment Method</th>
+                            <th>Initiative</th>
+                            <th class="text-center">Status</th>
+                            <th>Impact</th>
+                            <th class="text-center">Website</th>
                             <th>Activity</th>
                           </tr>
                         </thead>
                         <tbody>
                           <tr>
                             <td class="text-center">
-                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/1.jpg" alt="user@email.com"><span class="c-avatar-status bg-success"></span></div>
+                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/11.png" alt="user@email.com"><span class="c-avatar-status bg-success"></span></div>
                             </td>
                             <td>
-                              <div>Yiorgos Avraamu</div>
+                              <div>Social inclusion and reconciliation</div>
                               <div class="small text-muted"><span>New</span> | Registered: Jan 1, 2015</div>
                             </td>
-                            <td class="text-center"><i class="flag-icon flag-icon-us c-icon-xl" id="us" title="us"></i></td>
+                            <td class="text-center"><i class="flag-icon flag-icon-us c-icon-xl" id="us" title="us"><button>Completed</button></i></td>
                             <td>
                               <div class="clearfix">
-                                <div class="float-left"><strong>50%</strong></div>
+                                <div class="float-left"><strong>100%</strong></div>
                                 <div class="float-right"><small class="text-muted">Jun 11, 2015 - Jul 10, 2015</small></div>
                               </div>
                               <div class="progress progress-xs">
-                                <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-success" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                               </div>
                             </td>
                             <td class="text-center">
                               <svg class="c-icon c-icon-xl">
-                                <use xlink:href="assets/icons/brands/brands-symbol-defs.svg#cc-mastercard"></use>
+                                <use xlink:href="assets/icons/brands/brands-symbol-defs.svg#cc-discover"></use>
                               </svg>
                             </td>
                             <td>
@@ -484,13 +484,13 @@
                           </tr>
                           <tr>
                             <td class="text-center">
-                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/2.jpg" alt="user@email.com"><span class="c-avatar-status bg-danger"></span></div>
+                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/66.png" alt="user@email.com"><span class="c-avatar-status bg-danger"></span></div>
                             </td>
                             <td>
-                              <div>Avram Tarasios</div>
+                              <div>Robust monitoring</div>
                               <div class="small text-muted"><span>Recurring</span> | Registered: Jan 1, 2015</div>
                             </td>
-                            <td class="text-center"><i class="flag-icon flag-icon-br c-icon-xl" id="br" title="br"></i></td>
+                            <td class="text-center"><i class="flag-icon flag-icon-br c-icon-xl" id="br" title="br"><button>In Progress</button></i></td>
                             <td>
                               <div class="clearfix">
                                 <div class="float-left"><strong>10%</strong></div>
@@ -502,7 +502,7 @@
                             </td>
                             <td class="text-center">
                               <svg class="c-icon c-icon-xl">
-                                <use xlink:href="assets/icons/brands/brands-symbol-defs.svg#cc-visa"></use>
+                                <use xlink:href="assets/icons/brands/brands-symbol-defs.svg#cc-diners-club"></use>
                               </svg>
                             </td>
                             <td>
@@ -511,13 +511,13 @@
                           </tr>
                           <tr>
                             <td class="text-center">
-                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/3.jpg" alt="user@email.com"><span class="c-avatar-status bg-warning"></span></div>
+                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/33.jpg" alt="user@email.com"><span class="c-avatar-status bg-warning"></span></div>
                             </td>
                             <td>
-                              <div>Quintin Ed</div>
+                              <div>Education for the Future</div>
                               <div class="small text-muted"><span>New</span> | Registered: Jan 1, 2015</div>
                             </td>
-                            <td class="text-center"><i class="flag-icon flag-icon-in c-icon-xl" id="in" title="in"></i></td>
+                            <td class="text-center"><i class="flag-icon flag-icon-in c-icon-xl" id="in" title="in"></i><button>Partially completed</button></td>
                             <td>
                               <div class="clearfix">
                                 <div class="float-left"><strong>74%</strong></div>
@@ -529,7 +529,7 @@
                             </td>
                             <td class="text-center">
                               <svg class="c-icon c-icon-xl">
-                                <use xlink:href="assets/icons/brands/brands-symbol-defs.svg#cc-stripe"></use>
+                                <use xlink:href="assets/icons/brands/brands-symbol-defs.svg#cc-jcb"></use>
                               </svg>
                             </td>
                             <td>
@@ -538,13 +538,13 @@
                           </tr>
                           <tr>
                             <td class="text-center">
-                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/4.jpg" alt="user@email.com"><span class="c-avatar-status bg-secondary"></span></div>
+                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/44.png" alt="user@email.com"><span class="c-avatar-status bg-secondary"></span></div>
                             </td>
                             <td>
-                              <div>Enéas Kwadwo</div>
+                              <div>Empowering Women Through Developing</div>
                               <div class="small text-muted"><span>New</span> | Registered: Jan 1, 2015</div>
                             </td>
-                            <td class="text-center"><i class="flag-icon flag-icon-fr c-icon-xl" id="fr" title="fr"></i></td>
+                            <td class="text-center"><i class="flag-icon flag-icon-fr c-icon-xl" id="fr" title="fr"><button>Completed</button></i></td>
                             <td>
                               <div class="clearfix">
                                 <div class="float-left"><strong>98%</strong></div>
@@ -556,7 +556,7 @@
                             </td>
                             <td class="text-center">
                               <svg class="c-icon c-icon-xl">
-                                <use xlink:href="assets/icons/brands/brands-symbol-defs.svg#cc-paypal"></use>
+                                <use xlink:href="assets/icons/brands/brands-symbol-defs.svg#cc-amazon-pay"></use>
                               </svg>
                             </td>
                             <td>
@@ -565,13 +565,13 @@
                           </tr>
                           <tr>
                             <td class="text-center">
-                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/5.jpg" alt="user@email.com"><span class="c-avatar-status bg-success"></span></div>
+                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/55.png" alt="user@email.com"><span class="c-avatar-status bg-success"></span></div>
                             </td>
                             <td>
-                              <div>Agapetus Tadeáš</div>
+                              <div>Continuous Advocacy</div>
                               <div class="small text-muted"><span>New</span> | Registered: Jan 1, 2015</div>
                             </td>
-                            <td class="text-center"><i class="flag-icon flag-icon-es c-icon-xl" id="es" title="es"></i></td>
+                            <td class="text-center"><i class="flag-icon flag-icon-es c-icon-xl" id="es" title="es"><button>In Progress</button></i></td>
                             <td>
                               <div class="clearfix">
                                 <div class="float-left"><strong>22%</strong></div>
@@ -592,13 +592,13 @@
                           </tr>
                           <tr>
                             <td class="text-center">
-                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/6.jpg" alt="user@email.com"><span class="c-avatar-status bg-danger"></span></div>
+                              <div class="c-avatar"><img class="c-avatar-img" src="assets/img/avatars/22.png" alt="user@email.com"><span class="c-avatar-status bg-danger"></span></div>
                             </td>
                             <td>
-                              <div>Friderik Dávid</div>
+                              <div>Language Rights in Kosovo</div>
                               <div class="small text-muted"><span>New</span> | Registered: Jan 1, 2015</div>
                             </td>
-                            <td class="text-center"><i class="flag-icon flag-icon-pl c-icon-xl" id="pl" title="pl"></i></td>
+                            <td class="text-center"><i class="flag-icon flag-icon-pl c-icon-xl" id="pl" title="pl"><button>Partially Completed</button></i></td>
                             <td>
                               <div class="clearfix">
                                 <div class="float-left"><strong>43%</strong></div>

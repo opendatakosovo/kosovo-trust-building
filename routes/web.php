@@ -38,7 +38,7 @@ Route::group(['middleware' => ['get.menu']], function () {
         Route::get('/widgets', function () {    return view('dashboard.widgets'); });
         Route::get('/404', function () {        return view('dashboard.404'); });
         Route::get('/500', function () {        return view('dashboard.500'); });
-        Route::get('/recommendations', function () {     return view('dashboard.recommendations'); });
+        Route::get('/projects', function () {     return view('dashboard.projects'); });
         Route::get('/organizations', function () { return view('dashboard.organizations');});
         Route::get('/stories', function () { return view('dashboard.stories');});
         Route::get('/graphs', function () { return view('dashboard.graphs');});

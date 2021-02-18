@@ -8,10 +8,10 @@
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
                 <div class="card">
                     <div class="card-header">
-                      <i class="fa fa-align-justify"></i>{{ __('Notes') }}</div>
+                      <i class="fa fa-align-justify"></i>{{ __('Stories') }}</div>
                     <div class="card-body">
                         <div class="row"> 
-                          <a href="{{ route('notes.create') }}" class="btn btn-primary m-2">{{ __('Add Note') }}</a>
+                          <a href="{{ route('notes.create') }}" class="btn btn-primary m-2">{{ __('Add Story') }}</a>
                         </div>
                         <br>
                         <table class="table table-responsive-sm table-striped">
@@ -20,9 +20,9 @@
                             <th>Author</th>
                             <th>Title</th>
                             <th>Content</th>
-                            <th>Applies to date</th>
+                            <th>Date</th>
                             <th>Status</th>
-                            <th>Note type</th>
+                            <th>Category</th>
                             <th></th>
                             <th></th>
                             <th></th>

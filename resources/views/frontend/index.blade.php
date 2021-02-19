@@ -8,7 +8,7 @@
     <div class="covidbanner">
         <div class="covidbanner__content">
           <div class="covidbanner__text">
-            <strong>Covid 19 Alert:</strong> Read More about our Covid 19 Activities and Statistics.
+            <strong>Covid 19 Alert:</strong> Read More about our Covid 19 Activities and Statistics <a href="/covid19">HERE </a>.
           </div>
           
         </div>

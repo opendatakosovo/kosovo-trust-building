@@ -23,6 +23,7 @@
  Route::get('/projectss', function () { return view('frontend.projects'); });
  Route::get('/resourcess', function () { return view('frontend.resources'); });
  Route::get('/storiess', function () { return view('frontend.stories'); });
+ Route::get('/covid19', function () { return view('frontend.covid19'); });
 
 
 

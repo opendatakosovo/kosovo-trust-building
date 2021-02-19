@@ -14,7 +14,7 @@
     <!-- Header -->            
     <header id="header" class="header clearfix">
         @include('frontend.includes.header')
-        </header>
+    </header>
             
     <!-- Page title -->
     <div class="bond-page-title">
@@ -614,26 +614,7 @@
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
     
-    <!-- Javascript -->
-    <script type="text/javascript" src="javascript/jquery.min.js"></script>
-    <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery.easing.js"></script> 
-    <script type="text/javascript" src="javascript/jquery-countTo.js"></script>
-    <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery.isotope.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery-waypoints.js"></script> 
-    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
-    <script type="text/javascript" src="javascript/owl.carousel.js"></script> 
-    <script type="text/javascript" src="javascript/parallax.js"></script>  
-    <script type="text/javascript" src="javascript/slider.js"></script>  
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
-    <script type='text/javascript' src='javascript/jquery.themepunch.tools.min.js?rev=4.6.5'></script>
-    <script type='text/javascript' src='javascript/jquery.themepunch.revolution.min.js?rev=4.6.5'></script>
-    <script src="javascript/swiper.min.js"></script>
-    
-    <script type="text/javascript" src="javascript/gmap3.min.js"></script>  
-
-    <script type="text/javascript" src="javascript/main.js"></script>
+   
     
 </body>
 </html>

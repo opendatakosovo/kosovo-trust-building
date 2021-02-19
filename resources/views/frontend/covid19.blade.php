@@ -6,6 +6,12 @@
 
 </head>                                  
 <body class="header-sticky portfolio-single">  
+
+    <section class="loading-overlay">
+        <div class="Loading-Page">
+            <h2 class="loader">Loading...</h2>
+        </div>
+    </section> 
     <!-- Header -->            
     <header id="header" class="header clearfix">
         @include('frontend.includes.header')
@@ -20,15 +26,15 @@
                     <div class="col-md-12">                    
                         <div class="page-title-heading v1">
                             <div class="page-title-heading">
-                                <h1 class="title">BLOG</h1>
+                                <h1 class="title">COVID-19</h1>
                             </div><!-- /.page-title-captions -->     
                         </div><!-- /.page-title-captions --> 
 
                         <div class="breadcrumb-trail breadcrumbs" >
                             <ul>
-                                <li class="trail-item"><a href="index.html" title="bond" rel="home">HOME</a></li>
-                                <li class="trail-item"><a href="blog.html" title="BLOG">BLOG</a></li>
-                                <li>single</li>
+                                <li class="trail-item"><a href="index.html" title="HOME" rel="home">HOME</a></li>
+                                <li><a title="COVID-19">COVID-19</a></li>
+                                
                             </ul>
                         </div>
 
@@ -86,17 +92,41 @@
                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh2RRLrd6Do" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                             <div class="full-height">      <iframe src="https://www.bing.com/covid?ref=embedding" style="width: 100%; height: 500px; max-width: 1272px; border: none;"></iframe></div>
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus consequuntur ea aliquam fugit similique neque, cupiditate, placeat sequi earum asperiores ducimus velit accusantium amet quisquam doloremque, numquam optio molestias odio!</p>
                         </div><!-- /entry-portfolio-content -->
                         <div class="col-md-3 padl-45 keep-15">
                             <div class="project-metas">
-                                <h5 class="meta-title">PROJECT DETAILS</h5>
+                                <h5 class="meta-title">WORLD STATISTICS</h5>
                                 <ul>
-                                    <li class="meta-item"><label>CLIENT</label>Omuk Tomuk</li>
-                                    <li class="meta-item"><label>DURATION</label>2 months</li>
-                                    <li class="meta-item"><label>TOOLS</label>Photoshop, Illustrator</li>
-                                    <li class="meta-item"><label>BUDGET</label>$10,000 - $ 15,000</li>
-                                    <li class="meta-item"><label>LIVE DEMO</label>www.website.com</li>
+                                    <li class="meta-item"><label>Americas</label>48,788,209 cases</li>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                                        </div>
+                                    </div>
+                                    <li class="meta-item"><label>Europe</label>37,112,768 cases</li>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 60%;background-color:#f6cd00;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+                                        </div>
+                                    </div>
+                                    <li class="meta-item"><label>South-East Asia</label>13,272,693 cases</li>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-danger" role="progressbar" style="width: 30%; background-color:#06cbad;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">
+                                        </div>
+                                    </div>
+                                    <li class="meta-item"><label>Western Europe</label>6,103,280 cases</li>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 20%;background-color:#866afb;" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                        </div>
+                                    </div>
+                                    <li class="meta-item"><label>Africa</label>2,760,712 cases</li>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 10%;background-color:#fe466c;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
+                                        </div>
+                                    </div>
+                                    <li class="meta-item"><label>Western Pacific</label>1,556,428 cases</li>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 5%;background-color:#4169e1;" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100">
+                                        </div>
+                                    </div>
                                 </ul>
                             </div>
                         </div>

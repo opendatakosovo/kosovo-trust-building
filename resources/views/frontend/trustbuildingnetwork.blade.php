@@ -340,11 +340,11 @@
             </div>
 
             <div class="single-image w42p center-right mgt-10 mgr-16">
-                <img src="frontend/images/home/7.jpg" alt="single-image"/>
+                <img src="frontend/images/home/5278.jpg" alt="single-image"/>
             </div>
 
             <div class="single-image w26p center-right top-97p right-21p">
-                <img src="frontend/images/home/6.jpg" alt="single-image"/>
+                <img src="frontend/images/home/pixlr-bg-result.png" alt="single-image"/>
             </div>
         </div>
     </section>
@@ -445,172 +445,7 @@
         </div>
     </section>   
 
-    <section class="bond-row section-home4-portfolio parallax parallax15 overlay2">
-        <div class="title-section style2 white">
-            <h3 class="title">PORFOLIO</h3>                                       
-        </div><!-- /.title-section style2 -->
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="title-section style1 white mgb-73">
-                        <h3 class="title">OUR RECENT WORKS</h3>
-                        <div class="desc">
-                            <p>Design with style</p>
-                        </div>                            
-                    </div><!-- /.title-section style1 -->
-                </div><!-- /.col-md-12 -->
-            </div>
-
-        <div class="row">
-
-            <ul class="portfolio-filter relative">
-                <li class="active"><a data-filter="*" href="#">ALL</a></li>
-                <li><a data-filter=".web_design" href="#">WEB DESIGN</a></li>
-                <li><a data-filter=".development" href="#">DEVELOPMENT</a></li>
-                <li><a data-filter=".print_design" href="#">PRINT DESIGN</a></li>
-                <li><a data-filter=".photography" href="#">PHOTOGRAPHY</a></li>
-            </ul><!-- /.project-filter -->
-
-            <div class="flat-spacer h15"></div>
-
-            <div class="bond-portfolio four_columns no-spacer dark no" style="position: relative; height: 600px;">
-                <div class="portfolio-container clearfix">
-                    <div class="item builder web_design" style="position: absolute; left: 0px; top: 0px;">
-                        <div class="featured-post">
-                            <a class="popup-gallery" href="#">
-                                <div class="overlay">
-                                    <div class="link">
-                                        <div class="icon-zoom"></div>
-                                    </div>
-                                </div>
-                                <img src="frontend/images/home/p1.jpg" alt="GHUNE KHAOA ROAD">
-                            </a>
-                        </div>
-                        <div class="title-post">
-                            <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                            <p>Web Design</p>
-                        </div>
-                    </div>
-                    <div class="item builder development" style="position: absolute; left: 300px; top: 0px;">
-                        <div class="featured-post">
-                            <a class="popup-gallery" href="#">
-                                <div class="overlay">
-                                    <div class="link">
-                                        <div class="icon-zoom"></div>
-                                    </div>
-                                </div>
-                                <img src="frontend/images/home/p2.jpg" alt="GHUNE KHAOA ROAD">
-                            </a>
-                        </div>
-                        <div class="title-post">
-                            <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                            <p>Development</p>
-                        </div>
-                    </div>
-                    <div class="item builder print_design" style="position: absolute; left: 600px; top: 0px;">
-                        <div class="featured-post">
-                            <a class="popup-gallery" href="#">
-                                <div class="overlay">
-                                    <div class="link">
-                                        <div class="icon-zoom"></div>
-                                    </div>
-                                </div>
-                                <img src="frontend/images/home/p3.jpg" alt="GHUNE KHAOA ROAD">
-                            </a>
-                        </div>
-                        <div class="title-post">
-                            <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                            <p>Print design</p>
-                        </div>
-                    </div>
-                    <div class="item builder photography" style="position: absolute; left: 900px; top: 0px;">
-                        <div class="featured-post">
-                            <a class="popup-gallery" href="#">
-                                <div class="overlay">
-                                    <div class="link">
-                                        <div class="icon-zoom"></div>
-                                    </div>
-                                </div>
-                                <img src="frontend/images/home/p4.jpg" alt="GHUNE KHAOA ROAD">
-                            </a>
-                        </div>
-                        <div class="title-post">
-                            <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                            <p>Photography</p>
-                        </div>
-                    </div> 
-
-                    <div class="item builder web_design" style="position: absolute; left: 0px; top: 300px;">
-                        <div class="featured-post">
-                            <a class="popup-gallery" href="#">
-                                <div class="overlay">
-                                    <div class="link">
-                                        <div class="icon-zoom"></div>
-                                    </div>
-                                </div>
-                                <img src="frontend/images/home/p5.jpg" alt="GHUNE KHAOA ROAD">
-                            </a>
-                        </div>
-                        <div class="title-post">
-                            <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                            <p>Web Design</p>
-                        </div>
-                    </div>
-                    <div class="item builder development" style="position: absolute; left: 300px; top: 300px;">
-                        <div class="featured-post">
-                            <a class="popup-gallery" href="#">
-                                <div class="overlay">
-                                    <div class="link">
-                                        <div class="icon-zoom"></div>
-                                    </div>
-                                </div>
-                                <img src="frontend/images/home/p6.jpg" alt="GHUNE KHAOA ROAD">
-                            </a>
-                        </div>
-                        <div class="title-post">
-                            <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                            <p>Development</p>
-                        </div>
-                    </div>
-                    <div class="item builder print_design" style="position: absolute; left: 600px; top: 300px;">
-                        <div class="featured-post">
-                            <a class="popup-gallery" href="#">
-                                <div class="overlay">
-                                    <div class="link">
-                                        <div class="icon-zoom"></div>
-                                    </div>
-                                </div>
-                                <img src="frontend/images/home/p7.jpg" alt="GHUNE KHAOA ROAD">
-                            </a>
-                        </div>
-                        <div class="title-post">
-                            <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                            <p>Print design</p>
-                        </div>
-                    </div>
-                    <div class="item builder photography" style="position: absolute; left: 900px; top: 300px;">
-                        <div class="featured-post">
-                            <a class="popup-gallery" href="#">
-                                <div class="overlay">
-                                    <div class="link">
-                                        <div class="icon-zoom"></div>
-                                    </div>
-                                </div>
-                                <img src="frontend/images/home/p8.jpg" alt="GHUNE KHAOA ROAD">
-                            </a>
-                        </div>
-                        <div class="title-post">
-                            <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                            <p>Photography</p>
-                        </div>
-                    </div>                     
-                </div>
-            </div> <!-- bond porfolio -->
-        </div>
-            <div class="flat-spacer h16"></div>
-            <a class="box-readmore center-rx" href="#">VIEW MORE</a>            
-        </div>
-    </section>
+   
 
     <!-- <section class="ab3-s3 bond-row bg-f7">
             <div class="container">

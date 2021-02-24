@@ -42,6 +42,7 @@ Route::group(['middleware' => ['get.menu']], function () {
         Route::get('/projects', function () {     return view('dashboard.projects'); });
         Route::get('/organizations', function () { return view('dashboard.organizations');});
         Route::get('/stories', function () { return view('dashboard.stories.stories');});
+        Route::get('/tags', function(){   return view('dashboard.tags'); });
         Route::get('/graphs', function () { return view('dashboard.graphs');});
         Route::prefix('base')->group(function () {  
             Route::get('/breadcrumb', function(){   return view('dashboard.base.breadcrumb'); });
@@ -51,7 +52,7 @@ Route::group(['middleware' => ['get.menu']], function () {
 
             Route::get('/forms', function(){        return view('dashboard.base.forms'); });
             Route::get('/jumbotron', function(){    return view('dashboard.base.jumbotron'); });
-            Route::get('/list-group', function(){   return view('dashboard.base.list-group'); });
+           
             Route::get('/navs', function(){         return view('dashboard.base.navs'); });
 
             Route::get('/pagination', function(){   return view('dashboard.base.pagination'); });

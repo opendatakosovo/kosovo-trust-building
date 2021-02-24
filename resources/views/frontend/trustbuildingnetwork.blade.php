@@ -178,6 +178,85 @@
             </div>
         </section> 
 
+        <section class="bond-row bond-section-counter padb-148 background-222222">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-xs-6 ">
+                    <div class="bond-counterbox bond-emotsmile style1 v1">
+                        <div class="icon-image">
+                        </div>
+                        <div class="bond-counter">
+                            <div class="numb-count" data-to="327" data-speed="2000" data-waypoint-active="yes">327</div>
+                        </div>
+                        <div class="counter-countent">
+                            <div class="icon-img">
+                                <i class="icon-emotsmile icons"></i>
+                            </div>
+                            <div class="content">
+                                <p>Recommendations</p>
+                            </div>
+                        </div>
+                    </div><!-- /.bond-counterbox center style1 -->
+                </div><!-- /.col-md-3 -->
+
+                <div class="col-md-3 col-xs-6 ">
+                    <div class="bond-counterbox bond-drawer style1 v1">
+                        <div class="icon-image">
+                        </div>
+                        <div class="bond-counter">
+                            <div class="numb-count" data-to="8522" data-speed="2000" data-waypoint-active="yes">8522</div>
+                        </div>
+                        <div class="counter-countent">                            
+                            <div class="icon-img">
+                                <i class="icon-drawer icons"></i>
+                            </div>
+                            <div class="content">
+                                <p>Initiatives</p>
+                            </div>
+                        </div>
+                    </div><!-- /.bond-counterbox center style1 -->
+                </div><!-- /.col-md-3 -->
+
+                <div class="col-md-3 col-xs-6 ">
+                    <div class="bond-counterbox bond-trash style1 v3">
+                        <div class="icon-image">
+                        </div>
+                        <div class="bond-counter">
+                            <div class="numb-count" data-to="23613" data-speed="2000" data-waypoint-active="yes">23613</div>
+                        </div>
+                        <div class="counter-countent">                            
+                            <div class="icon-img">
+                                <i class="icon-trash icons"></i>                        
+                            </div>
+                            <div class="content">
+                                <p>Actors</p>
+                            </div>
+                        </div>
+                    </div><!-- /.bond-counterbox center style1 -->
+                </div><!-- /.col-md-3 -->
+
+                <div class="col-md-3 col-xs-6 ">
+                    <div class="bond-counterbox bond-present style1 v4">
+                        <div class="icon-image">
+                            
+                        </div>
+                        <div class="bond-counter">
+                            <div class="numb-count" data-to="163" data-speed="2000" data-waypoint-active="yes">163</div>
+                        </div>
+                        <div class="counter-countent">                            
+                            <div class="icon-img">
+                                <i class="icon-present icons"></i>
+                            </div>
+                            <div class="content">
+                                <p>Champions</p>
+                            </div>
+                        </div>
+                    </div><!-- /.bond-counterbox center style1 -->
+                </div><!-- /.col-md-3 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+
     <!-- welcome to bond -->
     <section class="bond-row padb-90">
         
@@ -647,84 +726,7 @@
         </div>
     </section>
     
-    <section class="bond-row bond-section-counter padb-148 background-222222">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-xs-6 ">
-                    <div class="bond-counterbox bond-emotsmile style1 v1">
-                        <div class="icon-image">
-                        </div>
-                        <div class="bond-counter">
-                            <div class="numb-count" data-to="327" data-speed="2000" data-waypoint-active="yes">327</div>
-                        </div>
-                        <div class="counter-countent">
-                            <div class="icon-img">
-                                <i class="icon-emotsmile icons"></i>
-                            </div>
-                            <div class="content">
-                                <p>Recommendations</p>
-                            </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
 
-                <div class="col-md-3 col-xs-6 ">
-                    <div class="bond-counterbox bond-drawer style1 v1">
-                        <div class="icon-image">
-                        </div>
-                        <div class="bond-counter">
-                            <div class="numb-count" data-to="8522" data-speed="2000" data-waypoint-active="yes">8522</div>
-                        </div>
-                        <div class="counter-countent">                            
-                            <div class="icon-img">
-                                <i class="icon-drawer icons"></i>
-                            </div>
-                            <div class="content">
-                                <p>Initiatives</p>
-                            </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3 col-xs-6 ">
-                    <div class="bond-counterbox bond-trash style1 v3">
-                        <div class="icon-image">
-                        </div>
-                        <div class="bond-counter">
-                            <div class="numb-count" data-to="23613" data-speed="2000" data-waypoint-active="yes">23613</div>
-                        </div>
-                        <div class="counter-countent">                            
-                            <div class="icon-img">
-                                <i class="icon-trash icons"></i>                        
-                            </div>
-                            <div class="content">
-                                <p>Actors</p>
-                            </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3 col-xs-6 ">
-                    <div class="bond-counterbox bond-present style1 v4">
-                        <div class="icon-image">
-                            
-                        </div>
-                        <div class="bond-counter">
-                            <div class="numb-count" data-to="163" data-speed="2000" data-waypoint-active="yes">163</div>
-                        </div>
-                        <div class="counter-countent">                            
-                            <div class="icon-img">
-                                <i class="icon-present icons"></i>
-                            </div>
-                            <div class="content">
-                                <p>Champions</p>
-                            </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-    </section>
 
  
 

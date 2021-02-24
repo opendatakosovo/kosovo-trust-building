@@ -42,6 +42,142 @@
         </div><!-- /.page-title --> 
     </div>
 
+    <section class="bond-row padb-110">
+            <div class="title-section style2">
+                <h3 class="title">PLEDGES</h3>                                       
+            </div><!-- /.title-section style2 -->
+            <div class="container">
+                <div class="title-section style1 row mgb-49">
+                    <h3 class="title">WE GAVE OUR WORD</h3>
+                    <div class="desc">
+                        <p>With all our hearts</p>
+                    </div>                            
+                </div><!-- /.title-section style1 -->
+                <div class="bond-empty-spacer"></div>
+                <div id = "testimonial-slider-box">
+                <div class="row">
+                
+                    <div class="testimonial-slider bond-testimonials-flexslider v3" data-margin="0" data-slides_per_view="2" data-autoplay="" data-hide_control="yes" data-hide_buttons="yes">          
+                
+                        <ul class="swiper-wrapper">          
+                
+                            <li class="testimonial swiper-slide  has-image">
+                                <div class="testimonial-content">
+                                    <blockquote>
+                                        I pledge that this is only a sentence to fill this section of pledges and I will not use it on one or another way.This is Kosovo Trusbuilding Platform and we love it.
+                                    </blockquote>
+                                </div>
+                                <div class="testimonial-meta">
+                                    
+                                <div class="testimonial-image">
+                                    <img src="frontend/images/home/tes3.jpg" alt="">
+                                </div>
+                            
+                                    <div class="testimonial-author">
+                                        <strong class="author-name"></strong>
+                                        <div class="author-info"><span class="subtitle">Sanja Sovrlić</span><span class="company">Ceo, Aftab Groups</span></div>
+                                    </div>
+                                </div>
+                            </li>
+                    
+                           <li class="testimonial swiper-slide  has-image">
+                                <div class="testimonial-content">
+                                    <blockquote>
+                                    I pledge that this is too only a sentence to fill this section of pledges and I will not use it on one or another way.We are here to build trust among the communities in Kosovo and this is the main purpose of this plaform.This is a simple pledge.
+ 
+
+                                    </blockquote>
+                                </div>
+                                <div class="testimonial-meta">
+                                    
+                                <div class="testimonial-image">
+                                    <img src="frontend/images/home/tes4.png" alt="">
+                                </div>
+                            
+                                    <div class="testimonial-author">
+                                        <strong class="author-name"></strong>
+                                        <div class="author-info"><span class="subtitle">Hiljmnijeta Apuk</span><span class="company">Ceo, Marmar Bros</span></div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="testimonial swiper-slide  has-image">
+                                <div class="testimonial-content">
+                                    <blockquote>
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
+ 
+
+                                    </blockquote>
+                                </div>
+                                <div class="testimonial-meta">
+                                    
+                                <div class="testimonial-image">
+                                    <img src="frontend/images/home/tes1.jpg" alt="">
+                                </div>
+                            
+                                    <div class="testimonial-author">
+                                        <strong class="author-name"></strong>
+                                        <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="testimonial swiper-slide  has-image">
+                                <div class="testimonial-content">
+                                    <blockquote>
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
+ 
+
+                                    </blockquote>
+                                </div>
+                                <div class="testimonial-meta">
+                                    
+                                <div class="testimonial-image">
+                                    <img src="frontend/images/home/tes2.png" alt="">
+                                </div>
+                            
+                                    <div class="testimonial-author">
+                                        <strong class="author-name"></strong>
+                                        <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="testimonial swiper-slide  has-image">
+                                <div class="testimonial-content">
+                                    <blockquote>
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
+ 
+
+                                    </blockquote>
+                                </div>
+                                <div class="testimonial-meta">
+                                    
+                                <div class="testimonial-image">
+                                    <img src="frontend/images/home/tes1.jpg" alt="">
+                                </div>
+                            
+                                    <div class="testimonial-author">
+                                        <strong class="author-name"></strong>
+                                        <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                         <!-- Add Arrows -->
+                <div class="swiper-nav">                    
+                    <div class="swiper-button-prev">Prev</div>
+                    <div class="swiper-button-next">Next</div>
+                </div>
+                <div class="swiper-pagination"></div>   
+
+                </div>
+                    </div> <!--testimonial slider-->
+                </div>
+                
+                 <!-- Add Pagination -->
+               
+
+            </div>
+        </section> 
+
     <!-- welcome to bond -->
     <section class="bond-row padb-90">
         
@@ -691,7 +827,7 @@
                                 <i class="icon-emotsmile icons"></i>
                             </div>
                             <div class="content">
-                                <p>Clients</p>
+                                <p>Recommendations</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -709,7 +845,7 @@
                                 <i class="icon-drawer icons"></i>
                             </div>
                             <div class="content">
-                                <p>Projects</p>
+                                <p>Initiatives</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -727,7 +863,7 @@
                                 <i class="icon-trash icons"></i>                        
                             </div>
                             <div class="content">
-                                <p>Cups coffee</p>
+                                <p>Actors</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -746,7 +882,7 @@
                                 <i class="icon-present icons"></i>
                             </div>
                             <div class="content">
-                                <p>Awards</p>
+                                <p>Champions</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -755,199 +891,7 @@
         </div><!-- /.container -->
     </section>
 
-    <section class="bond-row bond-testimonials-slider padb-82 v2">
-        <div class="title-section style2">
-            <h3 class="title">TESTIMONIAL</h3>                                       
-        </div><!-- /.title-section style2 -->
-        
-        <div class="container">
-            <div class="title-section style1 row">
-                <h3 class="title">WHAT PEOPLE SAY ABOUT US</h3>
-                <div class="desc">
-                    <p>We Are Awesome</p>
-                </div>                            
-            </div><!-- /.title-section style1 -->
-
-            <div class="flat-spacer h82"></div>
-            <div id="testimonial-slider-box" class="v2">
-                <div class="testimonial-slider bond-testimonials-flexslider v2 swiper-container-horizontal" data-margin="0" data-slides_per_view="1" data-autoplay="" data-hide_control="yes" data-hide_buttons="yes">          
-                    <ul class="swiper-wrapper" style="transform: translate3d(-975px, 0px, 0px); transition-duration: 0ms;"><li class="testimonial swiper-slide has-image swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="5" style="width: 975px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-                                
-                            <div class="testimonial-image">
-                                <img src="frontend/images/service/author5.png" alt="">
-                            </div>
-                        
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>          
-            
-                        <li class="testimonial swiper-slide has-image swiper-slide-active" data-swiper-slide-index="0" style="width: 975px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-                                
-                            <div class="testimonial-image">
-                                <img src="frontend/images/service/author1.png" alt="">
-                            </div>
-                        
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                
-                       <li class="testimonial swiper-slide has-image swiper-slide-next" data-swiper-slide-index="1" style="width: 975px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-                                
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes1.jpg" alt="">
-                            </div>
-                        
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="2" style="width: 975px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-                                
-                            <div class="testimonial-image">
-                                <img src="frontend/images/service/author2.png" alt="">
-                            </div>
-                        
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="3" style="width: 975px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-                                
-                            <div class="testimonial-image">
-                                <img src="frontend/images/service/author3.png" alt="">
-                            </div>
-                        
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="4" style="width: 975px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-                                
-                            <div class="testimonial-image">
-                                <img src="frontend/images/service/author4.png" alt="">
-                            </div>
-                        
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="5" style="width: 975px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-                                
-                            <div class="testimonial-image">
-                                <img src="frontend/images/service/author5.png" alt="">
-                            </div>
-                        
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                    <li class="testimonial swiper-slide  has-image swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 975px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-                                
-                            <div class="testimonial-image">
-                                <img src="frontend/images/service/author1.png" alt="">
-                            </div>
-                        
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li></ul>
-                
-                </div> <!--testimonial slider-->
-                 <!-- Add Pagination -->
-                <!-- Add Arrows -->
-                <ul class="nav-thumb">
-                    <li class="active"><img alt="single_image" src="frontend/images/service/author1.png"></li>
-                    <li><img alt="single_image" src="frontend/images/home/tes1.jpg"> </li>
-                    <li><img alt="single_image" src="frontend/images/service/author2.png"> </li>
-                    <li><img alt="single_image" src="frontend/images/service/author3.png"> </li>
-                    <li><img alt="single_image" src="frontend/image/service/author4.png"> </li>
-                    <li><img alt="single_image" src="frontend/image/service/author5.png"> </li>
-                </ul>
-                <div class="swiper-nav">                    
-                    <div class="swiper-button-prev">Prev</div>
-                    <div class="swiper-button-next">Next</div>
-                </div>
-                <div class="swiper-pagination swiper-pagination-fraction"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">6</span></div>   
-
-            </div>
-
-        </div>
-        <div class="flat-spacer h54"></div>
-    </section>
+ 
 
     <section class="bond-row bond-our-blog parallax overlay2 parallax16">
         <div class="title-section style2 white">

@@ -46,7 +46,6 @@
     <script src="{{ asset('frontend/javascript/parallax.js') }}"></script>
     <script src="{{ asset('frontend/javascript/swiper.min.js') }}"></script>
     <script src="{{ asset('frontend/javascript/main.js') }}"></script>
-    <script src="{{ asset('frontend/javascript/covid19.js') }}"></script>
 
     @yield('javascript')
 

@@ -5,7 +5,7 @@
 @include('frontend.includes.head')
 </head>                                 
 <body class="header_sticky page front-page flat-home5">  
-    <div class="covidbanner">
+    <div class="covidbanner" style="position: absolute; z-index: 100;  width: 100%; ">
         <div class="covidbanner__content">
           <div class="covidbanner__text">
           <strong>Covid 19 Alert:</strong><a href="/covid19" style="color: white"><u> Read More about our Covid 19 Activities and Statistics here.</u></a>
@@ -1043,7 +1043,9 @@
         </div>
     </div> 
     
- 
+    <a class="go-top show vertical-text">
+        BACK TO TOP <i class="fa fa-angle-double-right"></i>
+    </a>
     
 </body>
 </html>

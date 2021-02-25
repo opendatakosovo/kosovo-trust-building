@@ -64,18 +64,18 @@
                             <li class="testimonial swiper-slide  has-image">
                                 <div class="testimonial-content">
                                     <blockquote>
-                                        I pledge that this is only a sentence to fill this section of pledges and I will not use it on one or another way.This is Kosovo Trusbuilding Platform and we love it.
+                                       ODK pledges to further develop digital solutions that aim at integrating youth from all Kosovo communities to promote trustbuilding, social cohesion and cooperation.
                                     </blockquote>
                                 </div>
                                 <div class="testimonial-meta">
                                     
                                 <div class="testimonial-image">
-                                    <img src="frontend/images/home/tes3.jpg" alt="">
+                                    <img src="frontend/images/home/pledge-odk.png" alt="">
                                 </div>
                             
                                     <div class="testimonial-author">
                                         <strong class="author-name"></strong>
-                                        <div class="author-info"><span class="subtitle">Sanja Sovrlić</span><span class="company">Ceo, Aftab Groups</span></div>
+                                        <div class="author-info"><span class="subtitle">Open Data Kosovo</span><span class="company">NGO</span></div>
                                     </div>
                                 </div>
                             </li>
@@ -83,20 +83,37 @@
                            <li class="testimonial swiper-slide  has-image">
                                 <div class="testimonial-content">
                                     <blockquote>
-                                    I pledge that this is too only a sentence to fill this section of pledges and I will not use it on one or another way.We are here to build trust among the communities in Kosovo and this is the main purpose of this plaform.This is a simple pledge.
- 
+                                  We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.
 
                                     </blockquote>
                                 </div>
                                 <div class="testimonial-meta">
                                     
                                 <div class="testimonial-image">
-                                    <img src="frontend/images/home/tes4.png" alt="">
+                                    <img src="frontend/images/home/pledge-altrn.png" alt="">
                                 </div>
                             
                                     <div class="testimonial-author">
                                         <strong class="author-name"></strong>
-                                        <div class="author-info"><span class="subtitle">Hiljmnijeta Apuk</span><span class="company">Ceo, Marmar Bros</span></div>
+                                        <div class="author-info"><span class="subtitle">Alternativa</span><span class="company">Liberal political party</span></div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="testimonial swiper-slide  has-image">
+                                <div class="testimonial-content">
+                                    <blockquote>
+                                        I pledge that I will not participate in events in Kosovo that do not offer translation in official languages.
+                                    </blockquote>
+                                </div>
+                                <div class="testimonial-meta">
+                                    
+                                <div class="testimonial-image">
+                                    <img src="frontend/images/home/pledge-jovana.png" alt="">
+                                </div>
+                            
+                                    <div class="testimonial-author">
+                                        <strong class="author-name"></strong>
+                                        <div class="author-info"><span class="subtitle">Jovana Radosavljevic</span><span class="company">New Social Initiative</span></div>
                                     </div>
                                 </div>
                             </li>
@@ -111,27 +128,7 @@
                                 <div class="testimonial-meta">
                                     
                                 <div class="testimonial-image">
-                                    <img src="frontend/images/home/tes1.jpg" alt="">
-                                </div>
-                            
-                                    <div class="testimonial-author">
-                                        <strong class="author-name"></strong>
-                                        <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="testimonial swiper-slide  has-image">
-                                <div class="testimonial-content">
-                                    <blockquote>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
- 
-
-                                    </blockquote>
-                                </div>
-                                <div class="testimonial-meta">
-                                    
-                                <div class="testimonial-image">
-                                    <img src="frontend/images/home/tes2.png" alt="">
+                                    <img src="frontend/images/home/pledge-odk.png" alt="">
                                 </div>
                             
                                     <div class="testimonial-author">
@@ -151,7 +148,7 @@
                                 <div class="testimonial-meta">
                                     
                                 <div class="testimonial-image">
-                                    <img src="frontend/images/home/tes1.jpg" alt="">
+                                    <img src="frontend/images/home/pledge-jovana.png" alt="">
                                 </div>
                             
                                     <div class="testimonial-author">

@@ -188,19 +188,11 @@
 
                     <ul class="bond-socials text-right">
                         <li class="facebook">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/trustbuildingks/"><i class="fa fa-facebook"></i></a>
                         </li>
-                        <li class="twitter">
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                        <li class="instagram">
+                            <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
                         </li>
-                        <li class="google-plus">
-                            <a href="#"><i class="fa fa-google-plus"></i></a>
-                        </li> 
-                                             
-                        <li class="linkedin">
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>                        
-                       
                     </ul>              
                 </div><!-- /.container-bottom -->
             </div><!-- /.row -->
@@ -212,15 +204,7 @@
     </a>
     
     <!-- Javascript -->
-    <script type="text/javascript" src="javascript/jquery.min.js"></script>
-    <script type="text/javascript" src="javascript/bootstrap.min.js"></script> 
-    <script type="text/javascript" src="javascript/jquery.easing.js"></script>
-    <script type="text/javascript" src="javascript/owl.carousel.js"></script>
-    <script type="text/javascript" src="javascript/jquery-waypoints.js"></script> 
-    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
-    <script type="text/javascript" src="javascript/parallax.js"></script>
-    <script type="text/javascript" src="javascript/swiper.min.js"></script>   
-    <script type="text/javascript" src="javascript/main.js"></script>
+  
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/highcharts-3d.js"></script>
     <script src="https://code.highcharts.com/modules/exporting.js"></script>

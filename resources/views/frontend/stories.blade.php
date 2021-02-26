@@ -70,19 +70,11 @@
                                 <a class="readmore" href="germanstory.html">More</a>
                                     <ul class="bond-socials text-right">
                                         <li class="facebook">
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/trustbuildingks/"><i class="fa fa-facebook"></i></a>
                                         </li>
-                                        <li class="twitter">
-                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                        <li class="instagram">
+                                            <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
                                         </li>
-                                        <li class="google-plus">
-                                            <a href="#"><i class="fa fa-google-plus"></i></a>
-                                        </li> 
-                                                             
-                                        <li class="pinterest">
-                                            <a href="#"><i class="fa fa-pinterest"></i></a>
-                                        </li>   
-                       
                                     </ul>   
                             </div><!-- /content-post -->
                         </article><!-- /post -->    
@@ -365,9 +357,9 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="flat-contact-us">                   
-                                <h2>Evenim ad minim veniam, quis nolla mco laboris borouip.</h2>
+                                <h2>WANT TO CONTRIBUTE?</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur </p>
-                                <a class="button" href="#"> VIEW MORE </a>                        
+                                <a class="button" href="/trustbuildingnetworkk"> VIEW MORE </a>                        
                             </div>
                         </div><!-- /.col-md-12 -->
                     </div><!-- /.row -->
@@ -435,19 +427,11 @@
 
                     <ul class="bond-socials text-right">
                         <li class="facebook">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/trustbuildingks/"><i class="fa fa-facebook"></i></a>
                         </li>
-                        <li class="twitter">
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                        <li class="instagram">
+                            <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
                         </li>
-                        <li class="google-plus">
-                            <a href="#"><i class="fa fa-google-plus"></i></a>
-                        </li> 
-                                             
-                        <li class="linkedin">
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>                        
-                       
                     </ul>              
                 </div><!-- /.container-bottom -->
             </div><!-- /.row -->
@@ -458,18 +442,6 @@
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
     
-    <!-- Javascript -->
-    <script type="text/javascript" src="javascript/jquery.min.js"></script>
-    <script type="text/javascript" src="javascript/bootstrap.min.js"></script> 
-    <script type="text/javascript" src="javascript/jquery.easing.js"></script>
-    <script type="text/javascript" src="javascript/owl.carousel.js"></script>   
-    <script type="text/javascript" src="javascript/jquery.flexslider-min.js"></script>
-    <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
-    <script type="text/javascript" src="javascript/jquery-waypoints.js"></script> 
-    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
-    <script type="text/javascript" src="javascript/parallax.js"></script>   
-    <script type="text/javascript" src="javascript/main.js"></script>
-    <script src="javascript/swiper.min.js"></script>
-
+  
 </body>
 </html>

@@ -398,7 +398,7 @@
                     </div><!-- /.porfolio container -->
                 </div> <!-- bond porfolio -->
                 
-                <a class="box-readmore center-rx" href="gallery.html">VIEW MORE</a>
+                <a class="box-readmore center-rx" href="/galleryy">VIEW MORE</a>
                 <div class="flat-spacer h85"></div>
             </div>
 
@@ -414,7 +414,7 @@
                         <h1 class="title">How you can Contribute</h1>
                         <h2 class="sub-title">CREATE IT WITH BOND</h2>
                         <p style="color: black;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor abore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                        <a class="flat-button" href="contribute.html">LEARN MORE</a>
+                        <a class="flat-button" href="/trustbuildingnetworkk">LEARN MORE</a>
                     </div>
                 </div>
             </div>
@@ -449,7 +449,7 @@
                         <div class="content">
                             <h5 class="title"><a href="#">Governance & Access to Service</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
+                            <a class="readmore" href="/projectss">More</a>
 
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -463,7 +463,7 @@
                         <div class="content">
                             <h5 class="title"><a href="#">Access to Justice</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
+                            <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -476,7 +476,7 @@
                         <div class="content">
                             <h5 class="title"><a href="#">Inter Religious Trust-Building</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
+                            <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -489,7 +489,7 @@
                         <div class="content">
                             <h5 class="title"><a href="#">Economic Empowerment</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
+                            <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -502,7 +502,7 @@
                         <div class="content">
                             <h5 class="title"><a href="#">Media & Communcation</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
+                            <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -515,7 +515,7 @@
                         <div class="content">
                             <h5 class="title"><a href="#">Education</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
+                            <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -708,7 +708,7 @@
 
                 </div>
                 <div class="flat-spacer h12"></div>
-                <a href="stories.html" class="flat-button center-rx">Read More About It</a>
+                <a href="/storiess" class="flat-button center-rx">Read More About It</a>
 
             </div><!-- /.row -->
 
@@ -1024,19 +1024,11 @@
 
                     <ul class="bond-socials text-right">
                         <li class="facebook">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/trustbuildingks/"><i class="fa fa-facebook"></i></a>
                         </li>
-                        <li class="twitter">
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                        <li class="instagram">
+                            <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
                         </li>
-                        <li class="google-plus">
-                            <a href="#"><i class="fa fa-google-plus"></i></a>
-                        </li> 
-                                             
-                        <li class="linkedin">
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>                        
-                       
                     </ul>              
                 </div>
             </div>

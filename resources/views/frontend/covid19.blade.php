@@ -232,19 +232,11 @@
 
                     <ul class="bond-socials text-right">
                         <li class="facebook">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/trustbuildingks/"><i class="fa fa-facebook"></i></a>
                         </li>
-                        <li class="twitter">
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                        <li class="instagram">
+                            <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
                         </li>
-                        <li class="google-plus">
-                            <a href="#"><i class="fa fa-google-plus"></i></a>
-                        </li> 
-                                             
-                        <li class="linkedin">
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                        </li>                        
-                       
                     </ul>              
                 </div><!-- /.container-bottom -->
             </div><!-- /.row -->

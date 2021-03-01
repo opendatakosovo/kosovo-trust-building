@@ -43,14 +43,16 @@
     </div>
 
     <section class="bond-row padb-110">
+         <div style="background: url('frontend/images/home/logo.png') no-repeat;background-attachment: fixed;
+                            background-position: center;">
             <div class="title-section style2">
-                <h3 class="title">PLEDGES</h3>                                       
+                <h3 class="title">NETWORK</h3>                                       
             </div><!-- /.title-section style2 -->
             <div class="container">
                 <div class="title-section style1 row mgb-49">
-                    <h3 class="title">WE GAVE OUR WORD</h3>
+                    <h3 class="title">PLEDGES</h3>
                     <div class="desc">
-                        <p>With all our hearts</p>
+                        <p>We gave our word</p>
                     </div>                            
                 </div><!-- /.title-section style1 -->
                 <div class="bond-empty-spacer"></div>
@@ -60,7 +62,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+                           
+                                <div class="carousel slide" data-ride="carousel" id="quote-carousel" >
                                     <!-- Carousel Slides / Quotes -->
                                     <div class="carousel-inner text-center">
                                         <!-- Quote 1 -->
@@ -69,7 +72,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>
-                                                        <small>Someone famous</small>
+                                                        <h2 class="pledge-name">Someone famous</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -80,7 +83,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                                                        <small>Someone famous</small>
+                                                        <h2 class="pledge-name">Someone famous</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -91,7 +94,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <small>Someone famous</small>
+                                                        <h2 class="pledge-name">Someone famous</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -102,7 +105,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <small>Someone famous</small>
+                                                        <h2 class="pledge-name">Someone famous</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -113,7 +116,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <small>Someone famous</small>
+                                                        <h2 class="pledge-name">Someone famous</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -124,7 +127,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <small>Someone famous</small>
+                                                        <h2 class="pledge-name">Someone famous</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -132,7 +135,7 @@
                                     </div>
                                     <!-- Bottom Carousel Indicators -->
                                     <ol class="carousel-indicators">
-                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/t2.jpg" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/pledge-jovana.png" alt="">
                                         </li>
                                         <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/t3.jpg" alt="">
                                         </li>
@@ -383,7 +386,7 @@
                 <div class="bond-contentbox color-white">
                     <h4 class="color-red title-1">How it all started</h4>                    
                     <div class="box-header">
-                        <h2 class="box-title">Kosovo Trustbuilding Platform</h2>
+                        <h2 class="pledge-name" class="box-title">Kosovo Trustbuilding Platform</h2>
                     </div>
                     <div class="box-content">
                         <p>

@@ -4752,6 +4752,7 @@ a.readmore:after{
     bottom: 0px;
     margin-top: 20px;
     margin-right: -19px;
+	
 }
 #quote-carousel .carousel-indicators li {
     width: 50px;
@@ -4764,12 +4765,14 @@ a.readmore:after{
     overflow: hidden;
     transition: all .4s ease-in;
     vertical-align: middle;
+	
 }
 #quote-carousel .carousel-indicators .active {
     width: 128px;
     height: 128px;
     opacity: 1;
     transition: all .2s;
+	background-image: url('frontend/images/home/logo.png');
 }
 .item blockquote {
     border-left: none;
@@ -4780,4 +4783,8 @@ a.readmore:after{
     font-family: 'Fontawesome';
     float: left;
     margin-right: 10px;
+}
+
+h2.pledge-name {
+	color: #fe466c;
 }

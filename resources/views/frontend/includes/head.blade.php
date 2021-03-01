@@ -50,9 +50,14 @@
     <script src="{{ asset('frontend/javascript/jquery-validate.js') }}"></script>
     <script src="{{ asset('frontend/javascript/jquery-countTo.js') }}"></script>
     <script src="{{ asset('frontend/javascript/gmap3.min.js') }}"></script>
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
+
+
+    <!-- Revolution Slider -->
     <script src="{{ asset('frontend/javascript/jquery.themepunch.tools.min.js?rev=4.6.5') }}"></script>
     <script src="{{ asset('frontend/javascript/jquery.themepunch.revolution.min.js?rev=4.6.5') }}"></script>
-    <script src="{{ asset('https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk') }}"></script>
+    <script src="{{ asset('frontend/javascript/slider.js') }}"></script>
 
     @yield('javascript')
 

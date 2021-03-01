@@ -57,115 +57,101 @@
                 <div id = "testimonial-slider-box">
                 <div class="row">
                 
-                    <div class="testimonial-slider bond-testimonials-flexslider v3" data-margin="0" data-slides_per_view="2" data-autoplay="" data-hide_control="yes" data-hide_buttons="yes">          
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+                                    <!-- Carousel Slides / Quotes -->
+                                    <div class="carousel-inner text-center">
+                                        <!-- Quote 1 -->
+                                        <div class="item active">
+                                            <blockquote>
+                                                <div class="row">
+                                                    <div class="col-sm-8 col-sm-offset-2">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>
+                                                        <small>Someone famous</small>
+                                                    </div>
+                                                </div>
+                                            </blockquote>
+                                        </div>
+                                        <!-- Quote 2 -->
+                                        <div class="item">
+                                            <blockquote>
+                                                <div class="row">
+                                                    <div class="col-sm-8 col-sm-offset-2">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+                                                        <small>Someone famous</small>
+                                                    </div>
+                                                </div>
+                                            </blockquote>
+                                        </div>
+                                        <!-- Quote 3 -->
+                                        <div class="item">
+                                            <blockquote>
+                                                <div class="row">
+                                                    <div class="col-sm-8 col-sm-offset-2">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
+                                                        <small>Someone famous</small>
+                                                    </div>
+                                                </div>
+                                            </blockquote>
+                                        </div>
+                                        <!-- Quote 4 -->
+                                        <div class="item">
+                                            <blockquote>
+                                                <div class="row">
+                                                    <div class="col-sm-8 col-sm-offset-2">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
+                                                        <small>Someone famous</small>
+                                                    </div>
+                                                </div>
+                                            </blockquote>
+                                        </div>
+                                        <!-- Quote 5 -->
+                                        <div class="item">
+                                            <blockquote>
+                                                <div class="row">
+                                                    <div class="col-sm-8 col-sm-offset-2">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
+                                                        <small>Someone famous</small>
+                                                    </div>
+                                                </div>
+                                            </blockquote>
+                                        </div>
+                                        <!-- Quote 6 -->
+                                        <div class="item">
+                                            <blockquote>
+                                                <div class="row">
+                                                    <div class="col-sm-8 col-sm-offset-2">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
+                                                        <small>Someone famous</small>
+                                                    </div>
+                                                </div>
+                                            </blockquote>
+                                        </div>
+                                    </div>
+                                    <!-- Bottom Carousel Indicators -->
+                                    <ol class="carousel-indicators">
+                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/t2.jpg" alt="">
+                                        </li>
+                                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/t3.jpg" alt="">
+                                        </li>
+                                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/4.jpg" alt="">
+                                        </li>
+                                        <li data-target="#quote-carousel" data-slide-to="3"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/5.jpg" alt="">
+                                        </li>
+                                        <li data-target="#quote-carousel" data-slide-to="4"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/3.jpg" alt="">
+                                        </li>
+                                        <li data-target="#quote-carousel" data-slide-to="5"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/t4.jpg" alt="">
+                                        </li>
+                                    </ol>
                 
-                        <ul class="swiper-wrapper">          
-                
-                            <li class="testimonial swiper-slide  has-image">
-                                <div class="testimonial-content">
-                                    <blockquote>
-                                       ODK pledges to further develop digital solutions that aim at integrating youth from all Kosovo communities to promote trustbuilding, social cohesion and cooperation.
-                                    </blockquote>
+                                    <!-- Carousel Buttons Next/Prev -->
+                                    <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+                                    <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
                                 </div>
-                                <div class="testimonial-meta">
-                                    
-                                <div class="testimonial-image">
-                                    <img src="frontend/images/home/pledge-odk.png" alt="">
-                                </div>
-                            
-                                    <div class="testimonial-author">
-                                        <strong class="author-name"></strong>
-                                        <div class="author-info"><span class="subtitle">Open Data Kosovo</span><span class="company">NGO</span></div>
-                                    </div>
-                                </div>
-                            </li>
-                    
-                           <li class="testimonial swiper-slide  has-image">
-                                <div class="testimonial-content">
-                                    <blockquote>
-                                  We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.
-
-                                    </blockquote>
-                                </div>
-                                <div class="testimonial-meta">
-                                    
-                                <div class="testimonial-image">
-                                    <img src="frontend/images/home/pledge-altrn.png" alt="">
-                                </div>
-                            
-                                    <div class="testimonial-author">
-                                        <strong class="author-name"></strong>
-                                        <div class="author-info"><span class="subtitle">Alternativa</span><span class="company">Liberal political party</span></div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="testimonial swiper-slide  has-image">
-                                <div class="testimonial-content">
-                                    <blockquote>
-                                        I pledge that I will not participate in events in Kosovo that do not offer translation in official languages.
-                                    </blockquote>
-                                </div>
-                                <div class="testimonial-meta">
-                                    
-                                <div class="testimonial-image">
-                                    <img src="frontend/images/home/pledge-jovana.png" alt="">
-                                </div>
-                            
-                                    <div class="testimonial-author">
-                                        <strong class="author-name"></strong>
-                                        <div class="author-info"><span class="subtitle">Jovana Radosavljevic</span><span class="company">New Social Initiative</span></div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="testimonial swiper-slide  has-image">
-                                <div class="testimonial-content">
-                                    <blockquote>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
- 
-
-                                    </blockquote>
-                                </div>
-                                <div class="testimonial-meta">
-                                    
-                                <div class="testimonial-image">
-                                    <img src="frontend/images/home/pledge-odk.png" alt="">
-                                </div>
-                            
-                                    <div class="testimonial-author">
-                                        <strong class="author-name"></strong>
-                                        <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="testimonial swiper-slide  has-image">
-                                <div class="testimonial-content">
-                                    <blockquote>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
- 
-
-                                    </blockquote>
-                                </div>
-                                <div class="testimonial-meta">
-                                    
-                                <div class="testimonial-image">
-                                    <img src="frontend/images/home/pledge-jovana.png" alt="">
-                                </div>
-                            
-                                    <div class="testimonial-author">
-                                        <strong class="author-name"></strong>
-                                        <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                         <!-- Add Arrows -->
-                <div class="swiper-nav">                    
-                    <div class="swiper-button-prev">Prev</div>
-                    <div class="swiper-button-next">Next</div>
-                </div>
-                <div class="swiper-pagination"></div>   
-
-                </div>
+                            </div>
+                        </div>
                     </div> <!--testimonial slider-->
                 </div>
                 

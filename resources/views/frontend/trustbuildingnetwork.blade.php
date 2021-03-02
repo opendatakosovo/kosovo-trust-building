@@ -42,9 +42,8 @@
         </div><!-- /.page-title --> 
     </div>
 
-    <section class="bond-row padb-110">
-         <div style="background: url('frontend/images/home/logo-pledge.png') no-repeat;background-attachment: fixed;
-                            background-position: center;">
+    <section class="bond-row padb-110" style="background: url('frontend/images/home/pledge-background.png') no-repeat center fixed;
+    background-size: cover;">
             <div class="title-section style2">
                 <h3 class="title">NETWORK</h3>                                       
             </div><!-- /.title-section style2 -->

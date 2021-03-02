@@ -4738,6 +4738,11 @@ a.readmore:after{
     padding: 0 10px 30px 10px;
     margin-top: 60px;
 }
+
+#quote-carousel p {
+    color: black;
+	font-size: 18px;
+}
 #quote-carousel .carousel-control {
     background: none;
     color: #CACACA;
@@ -4755,8 +4760,8 @@ a.readmore:after{
 	
 }
 #quote-carousel .carousel-indicators li {
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
     cursor: pointer;
     border: 1px solid #ccc;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -4788,3 +4793,5 @@ a.readmore:after{
 h2.pledge-name {
 	color: #fe466c;
 }
+
+

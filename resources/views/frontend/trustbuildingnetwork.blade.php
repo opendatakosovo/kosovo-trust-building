@@ -43,7 +43,7 @@
     </div>
 
     <section class="bond-row padb-110">
-         <div style="background: url('frontend/images/home/logo.png') no-repeat;background-attachment: fixed;
+         <div style="background: url('frontend/images/home/logo-pledge.png') no-repeat;background-attachment: fixed;
                             background-position: center;">
             <div class="title-section style2">
                 <h3 class="title">NETWORK</h3>                                       
@@ -71,8 +71,8 @@
                                             <blockquote>
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>
-                                                        <h2 class="pledge-name">Someone famous</h2>
+                                                        <p>ODK pledges to further develop digital solutions that aim at integrating youth from all Kosovo communities to promote trustbuilding,social cohesion and cooperation.</p>
+                                                        <h2 class="pledge-name">Open Data Kosovo</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -82,8 +82,8 @@
                                             <blockquote>
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                                                        <h2 class="pledge-name">Someone famous</h2>
+                                                        <p>We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities. </p>
+                                                        <h2 class="pledge-name">Alternativa</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -93,8 +93,8 @@
                                             <blockquote>
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <h2 class="pledge-name">Someone famous</h2>
+                                                        <p>I pledge that I will not participate in events in Kosovo that do not offer translation in official languages.</p>
+                                                        <h2 class="pledge-name">Jovana Radosavjlević</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -105,7 +105,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <h2 class="pledge-name">Someone famous</h2>
+                                                        <h2 class="pledge-name">Verka Jovanović</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -116,7 +116,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <h2 class="pledge-name">Someone famous</h2>
+                                                        <h2 class="pledge-name">Hiljmnijeta Apuk</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -127,7 +127,7 @@
                                                 <div class="row">
                                                     <div class="col-sm-8 col-sm-offset-2">
                                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <h2 class="pledge-name">Someone famous</h2>
+                                                        <h2 class="pledge-name">Sanja Sovrlić</h2>
                                                     </div>
                                                 </div>
                                             </blockquote>
@@ -135,17 +135,17 @@
                                     </div>
                                     <!-- Bottom Carousel Indicators -->
                                     <ol class="carousel-indicators">
-                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/pledge-jovana.png" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/odk-logo.png" alt="">
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/t3.jpg" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/altrn-logo.png" alt="">
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/4.jpg" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/pledge-jovana.png" alt="">
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="3"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/5.jpg" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="3"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/verka.jpg" alt="">
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="4"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/3.jpg" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="4"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/Hiljmnijeta.png" alt="">
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="5"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/t4.jpg" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="5"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/sanja.jpg" alt="">
                                         </li>
                                     </ol>
                 

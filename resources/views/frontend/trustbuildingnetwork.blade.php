@@ -134,17 +134,17 @@
                                     </div>
                                     <!-- Bottom Carousel Indicators -->
                                     <ol class="carousel-indicators">
-                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/odk-logo.png" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/odk-logo.png" alt="" ><img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/altrn-logo.png" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/altrn-logo.png" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/pledge-jovana.png" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/pledge-jovana.png" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="3"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/verka.jpg" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="3"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/verka.jpg" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="4"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/Hiljmnijeta.png" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="4"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/Hiljmnijeta.png" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="5"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/sanja.jpg" alt="">
+                                        <li data-target="#quote-carousel" data-slide-to="5"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/sanja.jpg" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
                                         </li>
                                     </ol>
                 

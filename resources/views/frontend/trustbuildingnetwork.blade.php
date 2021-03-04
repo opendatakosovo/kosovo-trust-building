@@ -51,7 +51,7 @@
                 <div class="title-section style1 row mgb-49">
                     <h3 class="title" style="color:#06c6a9">PLEDGES</h3>
                     <div class="desc">
-                        <p>We gave our word</p>
+                        <p style="color:#808080`;">Pledge is a commit (a person or organization) by a solemn promise or a thing that is given as security for the fulfillment of a contract or the payment of a debt and is liable to forfeiture in the event of failure.</p>
                     </div>                            
                 </div><!-- /.title-section style1 -->
                 <div class="bond-empty-spacer"></div>
@@ -177,7 +177,7 @@
                             <div class="icon-img">
                                 <i class="icon-emotsmile icons"></i>
                             </div>
-                            <div class="content">
+                            <div class="content" style="color:#fe466c;">
                                 <p>Recommendations</p>
                             </div>
                         </div>
@@ -195,7 +195,7 @@
                             <div class="icon-img">
                                 <i class="icon-drawer icons"></i>
                             </div>
-                            <div class="content">
+                            <div class="content" style="color:#fe466c;">
                                 <p>Initiatives</p>
                             </div>
                         </div>
@@ -213,7 +213,7 @@
                             <div class="icon-img">
                                 <i class="icon-trash icons"></i>                        
                             </div>
-                            <div class="content">
+                            <div class="content" style="color:#fe466c;">
                                 <p>Actors</p>
                             </div>
                         </div>
@@ -232,7 +232,7 @@
                             <div class="icon-img">
                                 <i class="icon-present icons"></i>
                             </div>
-                            <div class="content">
+                            <div class="content" style="color:#fe466c;">
                                 <p>Champions</p>
                             </div>
                         </div>

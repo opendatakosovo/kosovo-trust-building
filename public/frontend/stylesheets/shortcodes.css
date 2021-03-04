@@ -1669,7 +1669,7 @@ iconbox .box-header .box-icon span {
 }
 
 .bond-counter .numb-count {
-    color: #fff;
+    color: #06cbad;
     font-weight: 700;
     line-height: 24px;
     font-size: 48px;
@@ -1677,7 +1677,7 @@ iconbox .box-header .box-icon span {
     letter-spacing: 2.9px;
 }
 
-.bond-counterbox  .content {
+.bond-counterbox .content {
     font-size: 18px;
     font-weight: 700;
     line-height: 24px;
@@ -1687,6 +1687,10 @@ iconbox .box-header .box-icon span {
     letter-spacing: 1.7px;
 }
 
+.container .network .content {
+    color: #fe466c;
+}
+
 .bond-counterbox .counter-countent{
     /* overflow: hidden; */
     padding-left: 130px;
@@ -1694,7 +1698,7 @@ iconbox .box-header .box-icon span {
 
 .bond-counterbox .icons {
     font-size: 60px;
-    color: #fff;
+    color: #f6cd00;
     margin-bottom: 26px;
     display: block;
     letter-spacing: 1.7px;

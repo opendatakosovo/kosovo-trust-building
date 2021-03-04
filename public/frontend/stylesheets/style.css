@@ -4742,6 +4742,7 @@ a.readmore:after{
 #quote-carousel p {
     color: black;
 	font-size: 24px;
+	font-weight: 600;
 }
 #quote-carousel .carousel-control {
     background: none;

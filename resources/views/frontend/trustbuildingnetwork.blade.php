@@ -49,7 +49,7 @@
             </div><!-- /.title-section style2 -->
             <div class="container">
                 <div class="title-section style1 row mgb-49">
-                    <h3 class="title">PLEDGES</h3>
+                    <h3 class="title" style="color:#06c6a9">PLEDGES</h3>
                     <div class="desc">
                         <p>We gave our word</p>
                     </div>                            

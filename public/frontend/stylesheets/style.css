@@ -4741,11 +4741,11 @@ a.readmore:after{
 
 #quote-carousel p {
     color: black;
-	font-size: 18px;
+	font-size: 24px;
 }
 #quote-carousel .carousel-control {
     background: none;
-    color: #CACACA;
+    color: #666666;
     font-size: 2.3em;
     text-shadow: none;
     margin-top: 30px;
@@ -4791,6 +4791,7 @@ a.readmore:after{
 
 h2.pledge-name {
 	color: #fe466c;
+	margin: 20px 0;
 }
 
 

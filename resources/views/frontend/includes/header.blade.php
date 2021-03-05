@@ -43,7 +43,7 @@
 
                         </li>
 
-                        <li><a href="/resourcess">Resources </a>
+                        <li><a href="/infographicss">Infographics</a>
                            
                         </li>
 

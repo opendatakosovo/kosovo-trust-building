@@ -3489,6 +3489,7 @@ a.readmore:after{
 
 .bond-partner-slider  .owl-carousel.owl-loaded {
 	position: relative;
+	overflow: hidden;
 }
 
 .page.front-page .footer,

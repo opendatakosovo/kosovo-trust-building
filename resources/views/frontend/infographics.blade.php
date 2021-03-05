@@ -60,7 +60,7 @@
                     <div class="col-md-12">                    
                         <div class="page-title-heading v3">
                             <div class="page-title-heading">
-                                <h1 class="title">Resources</h1>
+                                <h1 class="title">Infographics</h1>
                             </div><!-- /.page-title-captions -->     
                         </div><!-- /.page-title-captions --> 
 

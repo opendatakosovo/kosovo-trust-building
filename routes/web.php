@@ -21,7 +21,7 @@
  Route::get('/organizationss', function () { return view('frontend.organizations'); });
  Route::get('/portfolioo', function () { return view('frontend.portfolio'); });
  Route::get('/projectss', function () { return view('frontend.projects'); });
- Route::get('/resourcess', function () { return view('frontend.resources'); });
+ Route::get('/infographicss', function () { return view('frontend.infographics'); });
  Route::get('/storiess', function () { return view('frontend.stories'); });
  Route::get('/covid19', function () { return view('frontend.covid19'); });
 

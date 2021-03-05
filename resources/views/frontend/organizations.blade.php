@@ -62,7 +62,7 @@
                 <div class=" item col-md-3 col-xs-6 bg-ff4040">
                     <div class="overlay">
                         <div class="icon-image" >
-                          <a href="organization1.html"><img src="frontend/images/organizations/undp.png" alt="UNDP" style="max-width:100%; height:100px;"></a>
+                          <a href="organization1"><img src="frontend/images/organizations/undp.png" alt="UNDP" style="max-width:100%; height:100px;"></a>
                          
                         </div>
                         <div class="content">

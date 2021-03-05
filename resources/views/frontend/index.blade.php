@@ -929,7 +929,7 @@
         <div class="container">
             <ul class="slides">
                 <li>
-                    <img alt="owlcarousel-item-img" src="frontend//home/oc1.png"/>
+                    <img alt="owlcarousel-item-img" src="frontend/images/home/oc1.png"/>
                 </li>
                 <li>
                     <img alt="owlcarousel-item-img" src="frontend/images/home/oc2.png"/>

@@ -52,46 +52,8 @@
                             <img src="images/portfolio/single.jpg" alt="image">
                         </div>
                     </div> -->
-
-                    <article class="clearfix">
-                        <div class="content-blog-post">
-                            <h2 class="title-blog-post">
-                                <a href="#">Covid - 19 Response</a>
-                            </h2>
-                        </div><!-- /content-blog-post -->  
-                    <div class="row">
-                        
-                        <div class="entry-portfolio-content col-md-8">
-                            <p>Physical distancing does not need to mean isolation. The Kosovo Trusbuilding Platform can help digitally ease the burden by bringing you positive stories of people working together across communities, inspiration from champions forging trust in new and innovative ways, and the ability to connect and exercise solidarity with others at a time when our normal daily routines and social ties have been disrupted.</p>
-                            <p>Because of the challenges posed by the current COVID-19 pandemic, trustbuilding and the Kosovo Trustbuilding Platform have taken on new importance. Trust in one another has never been more critical to our collective well-being. The purpose of this page is to gather in one place the important links to information on COVID-19, as well as on the self-help links during self-isolation.
-                            </p>
-                            <br>
-                            <h5 class="sub-title"><u>Get Informed on COVID-19 from official sources:</u></h5>
-                            <ul>
-                                <li>
-                                    <a href="#">- Wrold Health Organisation</a>
-                                </li>
-                                <li>
-                                    <a href="#">- WHO Health Alert</a>
-                                </li>
-                                <li>
-                                    <a href="#">- Kosovo COVID-19 Reporting Page </a>    
-                               </li>
-                                <li>
-                                    <a href="#">- Kosovo Ministry of Health</a>
-                                </li>
-                            </ul>
-                         
-                            <br>
-                            <h5 class="sub-title"><u>Check out latest updates on COVID-19 on our platform:
-                            </u></h5>
-
-                            <p>World Health Organization has produced a video on COVID-19 and how to protect ourselves.
-                            </p>
-                            <div class="iframe-container">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh2RRLrd6Do" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            </div>
-                            <div class="full-height">      <iframe src="https://www.bing.com/covid?ref=embedding" style="width: 100%; height: 500px; max-width: 1272px; border: none;"></iframe></div>
+                    
+                      <div class="full-height">      <iframe src="https://www.bing.com/covid?ref=embedding" style="width: 100%; height: 500px; max-width: 1272px; border: none;"></iframe></div>
                         </div><!-- /entry-portfolio-content -->
                         <div class="col-md-3 padl-45 keep-15">
                             <div class="project-metas">
@@ -131,10 +93,49 @@
                             </div>
                         </div>
                        
+                    <article class="clearfix">
+                        <div class="content-blog-post">
+                            <h2 class="title-blog-post">
+                                <a href="#" style="margin: 0 15px;">Covid - 19 Response</a>
+                            </h2>
+                        </div><!-- /content-blog-post -->  
+                    <div class="row">
+                        
+                        <div class="entry-portfolio-content col-md-8">
+                            <p>Physical distancing does not need to mean isolation. The Kosovo Trusbuilding Platform can help digitally ease the burden by bringing you positive stories of people working together across communities, inspiration from champions forging trust in new and innovative ways, and the ability to connect and exercise solidarity with others at a time when our normal daily routines and social ties have been disrupted.</p>
+                            <p>Because of the challenges posed by the current COVID-19 pandemic, trustbuilding and the Kosovo Trustbuilding Platform have taken on new importance. Trust in one another has never been more critical to our collective well-being. The purpose of this page is to gather in one place the important links to information on COVID-19, as well as on the self-help links during self-isolation.
+                            </p>
+                            <br>
+                            <h5 class="sub-title"><u>Get Informed on COVID-19 from official sources:</u></h5>
+                            <ul>
+                                <li>
+                                    <a href="#">- Wrold Health Organisation</a>
+                                </li>
+                                <li>
+                                    <a href="#">- WHO Health Alert</a>
+                                </li>
+                                <li>
+                                    <a href="#">- Kosovo COVID-19 Reporting Page </a>    
+                               </li>
+                                <li>
+                                    <a href="#">- Kosovo Ministry of Health</a>
+                                </li>
+                            </ul>
+                         
+                            <br>
+                            <h5 class="sub-title"><u>Check out latest updates on COVID-19 on our platform:
+                            </u></h5>
+
+                            <p>World Health Organization has produced a video on COVID-19 and how to protect ourselves.
+                            </p>
+                            <div class="iframe-container">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh2RRLrd6Do" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                          
                        
-                    </div><!-- /.row -->
+                        </div><!-- /.row -->
                     
-                    </article><!-- /blog-post -->  
+                     </article><!-- /blog-post -->  
 
                     
                     
@@ -143,11 +144,11 @@
 
                                          
                    
-                    </div>
+                </div>
                                    
-                </div><!-- /post-wrap -->
+            </div><!-- /post-wrap -->
                
-            </div><!-- /col-md-12 -->
+          </div><!-- /col-md-12 -->
 
             
         <div class="flat-spacer h18"></div>

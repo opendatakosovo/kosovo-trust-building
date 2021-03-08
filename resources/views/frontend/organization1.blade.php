@@ -21,7 +21,7 @@
                     <div class="bond-iconbox about-us1 style3 clearfix" data-item="4" data-nav="true" data-dots="false" data-auto="false" data-margin="30">
                         <div class="col-md-6">
                             <div class="steps-img left-img">
-                               <a href="https://www.undp.org/" target="_blank"> <img src="images/organizations/undp.png" alt="image"> </a>
+                               <a href="https://www.undp.org/" target="_blank"> <img src="frontend/images/organizations/undp.png" alt="image"> </a>
                             </div>
                         </div>
                         <div class="col-md-6 padding-left-45">                   
@@ -68,7 +68,7 @@
                                                 <div class="icon-zoom"></div>
                                             </div>
                                         </div>
-                                        <img src="images/portfolio/7.jpg" alt="GHUNE KHAOA ROAD">
+                                        <img src="frontend/images/portfolio/7.jpg" alt="GHUNE KHAOA ROAD">
                                     </a>
                                 </div>
                                 <div>
@@ -84,7 +84,7 @@
                                                 <div class="icon-zoom"></div>
                                             </div>
                                         </div>
-                                        <img src="images/portfolio/8.jpg" alt="GHUNE KHAOA ROAD">
+                                        <img src="frontend/images/portfolio/8.jpg" alt="GHUNE KHAOA ROAD">
                                     </a>
                                 </div>
                                 <div>
@@ -100,7 +100,7 @@
                                                 <div class="icon-zoom"></div>
                                             </div>
                                         </div>
-                                        <img src="images/portfolio/9.jpg" alt="GHUNE KHAOA ROAD">
+                                        <img src="frontend/images/portfolio/9.jpg" alt="GHUNE KHAOA ROAD">
                                     </a>
                                 </div>
                                 <div>

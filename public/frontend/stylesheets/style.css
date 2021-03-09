@@ -4798,10 +4798,51 @@ h2.pledge-name {
 }
 
 
-#quote-carousel .carousel-indicators .active .ktb-logo {
+#quote-carousel .carousel-indicators .active .ktb-logo1 {
 	
 	position: absolute;
-	top: -50px;
-	left: 0;
-	max-width: 100%;
+	top: -41px;
+	left: -5px;
+	padding: 2px;
+	max-width: 244px;
+}
+#quote-carousel .carousel-indicators .active .ktb-logo2 {
+	
+	position: absolute;
+	top: -41px;
+	left: 85px;
+	padding: 2px;
+	max-width: 244px;
+}
+#quote-carousel .carousel-indicators .active .ktb-logo3 {
+	
+	position: absolute;
+	top: -41px;
+	left: 175px;
+	padding: 2px;
+	max-width: 244px;
+}
+#quote-carousel .carousel-indicators .active .ktb-logo4 {
+	
+	position: absolute;
+	top: -41px;
+	left: 260px;
+	padding: 2px;
+	max-width: 244px;
+}
+#quote-carousel .carousel-indicators .active .ktb-logo5 {
+	
+	position: absolute;
+	top: -41px;
+	left: 353px;
+	padding: 2px;
+	max-width: 244px;
+}
+#quote-carousel .carousel-indicators .active .ktb-logo6 {
+	
+	position: absolute;
+	top: -41px;
+	left: 443px;
+	padding: 2px;
+	max-width: 244px;
 }

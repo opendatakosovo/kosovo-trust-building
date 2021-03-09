@@ -134,17 +134,17 @@
                                     </div>
                                     <!-- Bottom Carousel Indicators -->
                                     <ol class="carousel-indicators">
-                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/odk-logo.png" alt="" ><img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
+                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/odk-logo.png" alt="" ><img src="frontend/images/pledge-logo.png" class="ktb-logo1"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/altrn-logo.png" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
+                                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/altrn-logo.png" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo2"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/pledge-jovana.png" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
+                                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/pledge-jovana.png" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo3"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="3"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/verka.jpg" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
+                                        <li data-target="#quote-carousel" data-slide-to="3" ><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/verka.jpg" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo4"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="4"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/Hiljmnijeta.png" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
+                                        <li data-target="#quote-carousel" data-slide-to="4"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/Hiljmnijeta.png" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo5"/>
                                         </li>
-                                        <li data-target="#quote-carousel" data-slide-to="5"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/sanja.jpg" alt=""> <img src="frontend/images/ktb-logo.png" class="ktb-logo"/>
+                                        <li data-target="#quote-carousel" data-slide-to="5"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/sanja.jpg" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo6"/>
                                         </li>
                                     </ol>
                 
@@ -152,15 +152,22 @@
                                     <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
                                     <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
                                 </div>
+
+
                             </div>
+
                         </div>
                     </div> <!--testimonial slider-->
+
                 </div>
-                
+
                  <!-- Add Pagination -->
                
 
             </div>
+            <br><BR>
+            <a class="box-readmore center-rx" href="/galleryy">View All Pledges</a>
+
         </section> 
 
         <section class="bond-row bond-section-counter padb-148 background-222222">

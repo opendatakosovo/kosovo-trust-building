@@ -25,7 +25,7 @@
 
                         <div class="breadcrumb-trail breadcrumbs" >
                             <ul>
-                                <li class="trail-item"><a href="index.html" title="bond" rel="home">HOME</a></li>
+                                <li class="trail-item"><a href="/index" title="bond" rel="home">HOME</a></li>
                                 <li>BLOG</li>
                             </ul>
                         </div>
@@ -50,7 +50,7 @@
                             </div>
                             <div class="content-post">
                                 <h4 class="title-post">
-                                    <a href="germanstory.html">Call for Proposal</a>
+                                    <a href="/germanstory">Call for Proposal</a>
                                 </h4>
                                 <div class="entry-meta">  
                                     <div class="meta-1">                                    
@@ -67,7 +67,7 @@
                                     <p>Apply for the small project grants of the German Embassy!</p>
                                       
                                 </div><!-- /entry-post -->
-                                <a class="readmore" href="germanstory.html">More</a>
+                                <a class="readmore" href="/germanstory">More</a>
                                     <ul class="bond-socials text-right">
                                         <li class="facebook">
                                             <a href="https://www.facebook.com/trustbuildingks/"><i class="fa fa-facebook"></i></a>
@@ -102,7 +102,50 @@
                                     <p>Millennium Foundation Kosovo (MFK) will soon launch the third and final component of the Women in Energy grant programme for small companies and start-ups with grants up to €3,000 for investments in energy efficient equipment and measures.</p>
                                        
                                 </div><!-- /entry-post -->
-                                <a class="readmore" href="ngostory.html">More</a>
+                                <a class="readmore" href="/ngostory">More</a>
+                                <ul class="bond-socials text-right">
+                                    <li class="facebook">
+                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                    </li>
+                                    <li class="twitter">
+                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                    </li>
+                                    <li class="google-plus">
+                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                    </li> 
+                                                         
+                                    <li class="pinterest">
+                                        <a href="#"><i class="fa fa-pinterest"></i></a>
+                                    </li>   
+                   
+                                </ul>  
+                            </div><!-- /content-post -->
+                        </article><!-- /post --> 
+
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                    <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7fedf01f1ca5ea1720d8a678c590711330b83180/unicef.jpg?locale=en" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                                <h4 class="title-post">
+                                    <a href="/youthparticipation">Virtual Lecture: Youth Participation in Decision-making and Policymaking</a>
+                                </h4>
+                                <div class="entry-meta"> 
+                                    <div class="meta-1">                                    
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Juwel Khan</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i><a href="#">  9th March, 2021</a></span>
+                                    </div><div class="meta-2">
+                                        <span class="tag"><a href="#">Design</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
+
+                                <div class="entry-content">
+                                    <p>Virtual lecture to discuss about the importance of youth participation in decision-making and policymaking</p>
+                                       
+                                </div><!-- /entry-post -->
+                                <a class="readmore" href="/youthparticipation">More</a>
                                 <ul class="bond-socials text-right">
                                     <li class="facebook">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -130,7 +173,7 @@
                             </div>
                             <div class="content-post">
                                 <h4 class="title-post">
-                                    <a href="wateraidstory.html">Aid Delivery to Flood Affected Households</a>
+                                    <a href="/wateraidstory">Aid Delivery to Flood Affected Households</a>
                                 </h4>
                                 <div class="entry-meta">
                                     <div class="meta-1">                                    
@@ -145,7 +188,7 @@
                                     <p>International Organization for Migration (IOM), has provided assistance to the most affected households during the recent catastrophic floods.</p>
                                         
                                 </div><!-- /entry-post -->
-                                <a class="readmore" href="wateraidstory.html">More</a>
+                                <a class="readmore" href="/wateraidstory">More</a>
                                 <ul class="bond-socials text-right">
                                     <li class="facebook">
                                         <a href="#"><i class="fa fa-facebook"></i></a>
@@ -168,12 +211,12 @@
                         <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <img src="frontend/images/blog/v1/4.png" alt="image">
+                                    <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d7a1154f9e8b04e66a185a3e17c4a7c5636d63af/155804176_3815653611831245_5332259844852627048_o%20res.jpg?locale=en" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
                                 <h4 class="title-post">
-                                    <a href="newsarticle1.html">Integer dignissim fermentum duIn sce lerisque porta massa</a>
+                                    <a href="newsarticle1.html">Women with disabilities provided with laptops</a>
                                 </h4>
                                 <div class="entry-meta"> 
                                     <div class="meta-1">                                    
@@ -186,7 +229,7 @@
                                 </div><!-- /.entry-meta -->
 
                                 <div class="entry-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing  do eiusmod tempor incididunt ut labore et dolore magnade aliqua. Ut enim ad minim veniam</p>
+                                    <p>150 women & girls with disabilities from Prishtina, Gjilan and Gjakova, will be provided with laptops</p>
                                     
                                 </div><!-- /entry-post -->
                                 <a class="readmore" href="newsarticle1.html">More</a>
@@ -212,12 +255,12 @@
                         <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <img src="frontend/images/blog/v1/4.png" alt="image">
+                                    <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdllGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--88feb6855b95da21357c47f0de3bdc34a9dfa2ee/153168375_243778494040775_4084681115475569352_o.jpg?locale=en" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
                                 <h4 class="title-post">
-                                    <a href="newsarticle1.html">Mauris a vehicula orci Cras sagittis erat quam et pellentes</a>
+                                    <a href="newsarticle1.html">Youth and Gender</a>
                                 </h4>
                                 <div class="entry-meta"> 
                                     <div class="meta-1">                                    
@@ -230,7 +273,7 @@
                                 </div><!-- /.entry-meta -->
 
                                 <div class="entry-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing  do eiusmod tempor incididunt ut labore et dolore magnade aliqua. Ut enim ad minim veniam</p>
+                                    <p>YEAs will focus around gender equality and women empowerment</p>
                                        
                                 </div><!-- /entry-post -->
                                 <a class="readmore" href="newsarticle1.html">More</a>
@@ -310,29 +353,29 @@
                             <ul class="popular-news clearfix">
                                 <li>                                   
                                     <div class="thumb">
-                                        <img src="frontend/images/blog/widget/recent-post-1.jpg" alt="images">
+                                        <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2d892a40679af8cecc40ef846f17dc18668d9f43/Screenshot%202021-02-24%20120617.png?locale=en" alt="images" width="100px">
                                     </div>
                                     <div class="text">
-                                        <a href="#">Librarian girl you know youth that you can change</a>
-                                        <p><span class="date updated" >June 8, 2016</span></p>
+                                        <a href="#">"Girls" Youth-led Initiative</a>
+                                        <p><span class="date updated" >24/02/2021</span></p>
                                     </div>
                                 </li>
                                 <li>                                   
                                     <div class="thumb">
-                                        <img src="frontend/images/blog/widget/recent-post-2.jpg" alt="images">
+                                        <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlFGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f0b53e26eb762f7376904a5866d80324071b6ca4/tpb%20visejezicnost1.jpg?locale=en" alt="images" width="100px">
                                     </div>
                                     <div class="text">
-                                        <a href="#">You know that you can change my world ilove post</a>
-                                        <p><span class="date updated" >June 8, 2016</span></p>
+                                        <a href="#">Multilingualism: To remove language barriers and create friendly bridges</a>
+                                        <p><span class="date updated" >25/02/2021</span></p>
                                     </div>
                                 </li>
                                 <li>                                   
                                     <div class="thumb">
-                                        <img src="frontend/images/blog/widget/recent-post-3.jpg" alt="images">
+                                        <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--34c35778d5bfc76fca87f77f7c17047083c44a24/153703862_4044631335570146_7256673688564903399_o.jpg?locale=en" alt="images" width="100px">
                                     </div>
                                     <div class="text">
-                                        <a href="#">This is a great opportunity to write a blog post</a>
-                                        <p><span class="date updated" >June 8, 2016</span></p>
+                                        <a href="#">WORKSHOP: Establishment of Cohesion Circle</a>
+                                        <p><span class="date updated" >26/02/2021</span></p>
                                     </div>
                                 </li>
 

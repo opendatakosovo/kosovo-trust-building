@@ -25,6 +25,14 @@
  Route::get('/storiess', function () { return view('frontend.stories'); });
  Route::get('/covid19', function () { return view('frontend.covid19'); });
 
+ //Stories
+ Route::get('/ngostory', function () { return view('frontend.ngostory'); });
+ Route::get('/youthparticipation', function () { return view('frontend.youthparticipation'); });
+ Route::get('/wateraidstory', function () { return view('frontend.wateraidstory'); });
+ Route::get('/germanstory', function () { return view('frontend.germanstory'); });
+
+
+
 
 
  // front-end routes end

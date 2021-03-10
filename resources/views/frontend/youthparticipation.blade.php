@@ -3,13 +3,12 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
 <head>
     @include('frontend.includes.head')
- </head>                                   
+ </head>                                
 <body class="header-sticky blog-single">  
     <!-- Header -->            
     <header id="header" class="header clearfix">
         @include('frontend.includes.header')
         </header>
-            
     <!-- Page title -->
     <div class="bond-page-title">
         <div class="page-title parallax parallax1">
@@ -44,23 +43,25 @@
                     <div class="post-wrap">
                         <div class="featured-blog-post">
                             <div class="entry-image">
-                                <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2dGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--870fa3a5e681889becf507f7b6e87c99292af3f7/Screenshot_1.png?locale=en" alt="image">
+                                <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0ebc4ce471d1c4feefc00eff3da1b66c2f7c95e3/unicef.jpg?locale=en" alt="image">
                             </div>
                         </div>
 
                         <article class="blog-post">
                             <div class="content-blog-post">
                                 <h2 class="title-blog-post">
-                                    <a href="#">German NGO “Help” encourages MFK’s WEE Program</a>
+                                    <a href="#">Virtual Lecture: Youth Participation in Decision-making and Policymaking</a>
                                 </h2>
                                 
                             </div><!-- /content-blog-post -->                           
 
                             <div class="entry-blog-content">
-                                <p>Millennium Foundation Kosovo (MFK) will soon launch the third and final component of the Women in Energy grant programme, which is designed for small companies and start-ups with grants up to €3,000 for investments in energy efficient equipment and measures.</p>
 
-                                <p>In preparation of the launch and implementation of this new and exciting component, MFK’s Implementation Consultant, a consortium led by GFA Consulting Group, has teamed up with Help – Hilfe zur Selbsthilfe e.V. HELP is a German non-governmental charitable organization, specialized in promoting small business development throughout Kosovo, amongst other countries in south east Europe.</p>
-                                <p style="font-size: large;"><a href="https://millenniumkosovo.org/a-well-known-german-ngo-help-encourages-mfks-wee-program/?fbclid=IwAR3drfLgs4wd66S3S8hlpx9NHLWLJCW4X-jhbvN-jj5iWW7yF-EbdWyH_N8"><b>Read More</b></a></p>
+                                <p>Tomorrow 10th of March, 16:00 Liza Gashi, Executive Leader, Innovator & Entrepreneur will join us on virtual lecture to discuss about the importance of youth participation in decision-making and policymaking to be active citizens.</p>
+
+                                <p>The virtual lecture will be available for youth beneficiaries from #UNICEF Innovations Lab, IPKO Foundation PEN - Peer Educators Network Innovation Centre Kosovo YMCA in Kosovo
+                                Kosovo CSR Network Austrian Development Agency</p>
+                                <p style="font-size: large;"><a href="https://www.facebook.com/KosovoInnovations/posts/3969748453045556"><b>Read More</b></a></p>
                                 <br><br>
                                 <p style="font-size: smaller;">
                                     <b>This project is supported by the United Nations Mission in Kosovo (UNMIK) and is implemented by the New Social Initiative. Expressed opinions represent the authors’ views and do not necessarily reflect the views of the United Nations, UNMIK or New Social Initiative.</b>
@@ -70,10 +71,10 @@
 
                         <div class="social-share-article" >              
                             <div class="tagcloud">
-                                <span><a href="#">GENDER EQUALITY</a></span>
+                                <span><a href="#">KosovoCSRNetwork</a></span>
+                                <span><a href="#"> PEN</a></span>
                                 <span><a href="#"> YOUTH</a></span>
-                                <span><a href="#"> MilleniumFoundationKosovo</a></span>
-                                <span><a href="#"> Help</a></span>
+                                <span><a href="#"> UNICEF</a></span>
 
                             </div>
                             <div class="box icon-circle bg-1">

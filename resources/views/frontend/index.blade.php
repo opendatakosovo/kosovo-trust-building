@@ -47,15 +47,16 @@
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
                     <img src="frontend/images/slides/3.jpg" alt="slider-image" />
                     <div class="tp-caption sfl title-slide center" data-x="309" data-y="160" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">
-                        Kosovo Trust-Building
+                        Kosovo Trust-Building Platform
                     </div>  
                     <div class="tp-caption sfr desc-slide center" data-x="195" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
-                        Platform 
+                        BUILD TRUST
                     </div>  
 
-                    <div class="tp-caption sfl flat-content-slide color-white text-center" data-x="315" data-y="389" data-speed="1000" data-start="2500" data-easing="Power3.easeInOut">Lorem ipsum dolor sit amet consectetur adipisic <br>ingelit sed do eiusmod tempor</div>  
+                    <div class="tp-caption sfl flat-content-slide color-white text-center" data-x="315" data-y="389" data-speed="1000" data-start="2500" data-easing="Power3.easeInOut">We are working towards building trust in Kosovo.
+                    </div>  
                      
-                    <div class="tp-caption sfl flat-button-slider" data-x="502" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="#">Learn More</a></div>
+                    <div class="tp-caption sfl flat-button-slider" data-x="502" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="#">Read More</a></div>
                 </li>
             </ul>
         </div>
@@ -160,23 +161,20 @@
 
     <section class="section-home5-callout2">
         <div class="page-callout style2 colorwhite bg-red padb-66 mgb-0">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="flat-contact-us v2">                   
-                            
-                            <p>Are you a young adult? Whether in University or not...</p>
-                            <br><br>
-                            <h2>Kosovo Trust-Building has the best potential for you</h2>
-                            
-                        </div>
-                    </div><!-- /.col-md-12 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
+        <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="flat-contact-us">                   
+                                <h2>Do you want to contribute?</h2>
+                                <a class="button" href="/dashboard"> Register here </a>                        
+                            </div>
+                        </div><!-- /.col-md-12 -->
+                    </div><!-- /.row -->
+                </div><!-- /.container -->
         </div>
     </section>
 
-    <section class="bond-row great-service v3 padb-25">
+    <!-- <section class="bond-row great-service v3 padb-25">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-xs-6 padt-82 padr-42">
@@ -222,12 +220,12 @@
                             
                         </div>
                     </div>
-                </div><!-- /.col-md-4 -->
+                </div>  <!-- /.col-md-4 -->
 
-                <div class="col-md-4 col-xs-6 text-center">
+                <!-- <div class="col-md-4 col-xs-6 text-center">
                     <img alt="images" src="frontend/images/home/pixlr-bg-result.png" style="max-width: 120%;">
-                </div><!-- /.col-md-4 -->
-            </div><!-- /.row -->
+                </div> 
+            </div>  
         </div>
 
         <div class="img-right">
@@ -240,7 +238,7 @@
                 </div>
             </div>
         </div>  
-    </section>
+    </section>  -->
 
     
 
@@ -412,8 +410,8 @@
                 <div class="col-md-6 col-md-offset-1">
                     <div class="flat-box-content padl-30">
                         <h1 class="title">How you can Contribute</h1>
-                        <h2 class="sub-title">CREATE IT WITH BOND</h2>
-                        <p style="color: black;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor abore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        <h2 class="sub-title">MAKE BIG CHANGES BY STARTING SMALL</h2>
+                        <p style="color: black;">The full list of recommendations and final report are available in English, Albanian and Serbian languages. This platform is a continuation of the Forum’s discussions on actions needed to build a more peaceful and inclusive society and seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.</p>
                         <a class="flat-button" href="/trustbuildingnetworkk">LEARN MORE</a>
                     </div>
                 </div>
@@ -444,7 +442,7 @@
                 <div class="item col-md-4 col-xs-6 pad-0_40">
                     <div class="bond-iconbox square outtop bg-title2 border">
                         <div class="icon-image">
-                            <span class="icons icon-vector"></span>
+                            <span class="icons icon-people"></span>
                         </div>
                         <div class="content">
                             <h5 class="title"><a href="#">Governance & Access to Service</a></h5>
@@ -484,7 +482,7 @@
                 <div class="item col-md-4 col-xs-6 pad-0_40">
                     <div class="bond-iconbox square outtop bg-title2 border">
                         <div class="icon-image">
-                            <span class="icons icon-globe-alt"></span>
+                            <span class="icons icon-chart"></span>
                         </div>
                         <div class="content">
                             <h5 class="title"><a href="#">Economic Empowerment</a></h5>
@@ -497,7 +495,7 @@
                 <div class="item col-md-4 col-xs-6 pad-0_40">
                     <div class="bond-iconbox square outtop bg-title2 border">
                         <div class="icon-image">
-                            <span class="icons icon-diamond"></span>
+                            <span class="icons icon-camera"></span>
                         </div>
                         <div class="content">
                             <h5 class="title"><a href="#">Media & Communcation</a></h5>
@@ -510,7 +508,7 @@
                 <div class="item col-md-4 col-xs-6 pad-0_40">
                     <div class="bond-iconbox square outtop bg-title2 border">
                         <div class="icon-image">
-                            <span class="icons icon-chemistry"></span>
+                            <span class="icons icon-graduation"></span>
                         </div>
                         <div class="content">
                             <h5 class="title"><a href="#">Education</a></h5>
@@ -537,7 +535,7 @@
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">
-                                <i class="icon-emotsmile icons"></i>
+                                <i class="icon-check icons"></i>
                             </div>
                             <div class="content">
                                 <p>Recommendations</p>
@@ -555,7 +553,7 @@
                         </div>
                         <div class="counter-countent">                            
                             <div class="icon-img">
-                                <i class="icon-drawer icons"></i>
+                                <i class="icon-rocket icons"></i>
                             </div>
                             <div class="content">
                                 <p>Initatives</p>
@@ -573,7 +571,7 @@
                         </div>
                         <div class="counter-countent">                            
                             <div class="icon-img">
-                                <i class="icon-trash icons"></i>                        
+                                <i class="icon-user icons"></i>                        
                             </div>
                             <div class="content">
                                 <p>Actors</p>
@@ -592,7 +590,7 @@
                         </div>
                         <div class="counter-countent">                            
                             <div class="icon-img">
-                                <i class="icon-present icons"></i>
+                                <i class="icon-trophy icons"></i>
                             </div>
                             <div class="content">
                                 <p>Champions</p>
@@ -735,9 +733,7 @@
                     <ul class="swiper-wrapper" style="transform: translate3d(-1200px, 0px, 0px); transition-duration: 0ms;"><li class="testimonial swiper-slide  has-image swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
-
-
+                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust. 
                                 </blockquote>
                             </div>
                             <div class="testimonial-meta">
@@ -754,8 +750,7 @@
                         </li><li class="testimonial swiper-slide has-image swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
-
+                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
 
                                 </blockquote>
                             </div>
@@ -767,7 +762,7 @@
                         
                                 <div class="testimonial-author">
                                     <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
+                                    <div class="author-info"><span class="subtitle">Jovana Radosavljević</span><span class="company">NSI Executive Director</span></div>
                                 </div>
                             </div>
                         </li>          
@@ -775,18 +770,18 @@
                         <li class="testimonial swiper-slide has-image swiper-slide-active" data-swiper-slide-index="0" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
+                                I sincerely hope you will find the Kosovo Trustbuilding Platform useful in your worthy work, and in moments when you need inspiration to move forward. In these difficult times for our society, and our world, we need trustbuilding more than ever.
                                 </blockquote>
                             </div>
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="frontend/images/home/tes1.jpg" alt="">
+                                <img src="frontend/images/home/testimonial-jovana.png" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
                                     <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
+                                    <div class="author-info"><span class="subtitle">Jovana Radosavljević</span><span class="company">NSI Executive Director</span></div>
                                 </div>
                             </div>
                         </li>
@@ -794,28 +789,26 @@
                        <li class="testimonial swiper-slide has-image swiper-slide-next" data-swiper-slide-index="1" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
-
+                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
 
                                 </blockquote>
                             </div>
                             <div class="testimonial-meta">
                                 
                             <div class="testimonial-image">
-                                <img src="frontend/images/home/tes2.png" alt="">
+                                <img src="frontend/images/home/un-secretary.jpg" alt="">
                             </div>
                         
                                 <div class="testimonial-author">
                                     <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>
+                                    <div class="author-info"><span class="subtitle">General António Guterres</span><span class="company">UN Secretary</span></div>
                                 </div>
                             </div>
                         </li>
                         <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="2" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
-
+                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
 
                                 </blockquote>
                             </div>
@@ -854,9 +847,7 @@
                         <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="4" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat. 
-
-
+                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
                                 </blockquote>
                             </div>
                             <div class="testimonial-meta">

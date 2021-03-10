@@ -187,7 +187,7 @@
             <div class="absolute clearfix col-xs-offset-6 col-md-6 col-xs-6 padlr-260_120">
                 <div class="iconbox effect1 white-style ">
                     <div class="box-header">
-                        <h2 class="box-title">FROM BEGINNING TO SUCCESS, WE WILL HELP YOU IN EVER SECTOR UNTILL YOU BECOME THE PIONEER !</h2>
+                        <h2 class="box-title">GET A GLIMPSE OF THE PROJECTS FOSTERING TRUSTBUILDING IN KOSOVO!</h2>
                     </div>
                     <div class="box-content">
                         <a class="flat-button bdw" href="contribute.html">CONTRIBUTE</a>
@@ -208,19 +208,19 @@
 	                        <li class="testimonial swiper-slide  has-image">
 	                            <div class="testimonial-content">
 	                                <blockquote>
-	                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
 
 	                                </blockquote>
 	                            </div>
 	                            <div class="testimonial-meta">
 	                                
 	                            <div class="testimonial-image">
-	                                <img src="frontend/images/service/author1.png" alt="">
+	                                <img src="frontend/images/home/un-secretary.jpg" alt="">
 	                            </div>
 	                        
 	                                <div class="testimonial-author">
 	                                    <strong class="author-name"></strong>
-	                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
+	                                    <div class="author-info"><span class="subtitle">General António Guterres</span><span class="company">UN Secretary</span></div>
 	                                </div>
 	                            </div>
 	                        </li>
@@ -228,19 +228,19 @@
 	                       <li class="testimonial swiper-slide  has-image">
 	                            <div class="testimonial-content">
 	                                <blockquote>
-	                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    I sincerely hope you will find the Kosovo Trustbuilding Platform useful in your worthy work, and in moments when you need inspiration to move forward. In these difficult times for our society, and our world, we need trustbuilding more than ever.
 
 	                                </blockquote>
 	                            </div>
 	                            <div class="testimonial-meta">
 	                                
 	                            <div class="testimonial-image">
-	                                <img src="frontend/images/home/tes1.jpg" alt="">
+	                                <img src="frontend/images/home/testimonial-jovana.png" alt="">
 	                            </div>
 	                        
 	                                <div class="testimonial-author">
 	                                    <strong class="author-name"></strong>
-	                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
+	                                    <div class="author-info"><span class="subtitle">Jovana Radosavljević</span><span class="company">NSI Executive Director</span></div>
 	                                </div>
 	                            </div>
 	                        </li>
@@ -326,12 +326,12 @@
 	                 <!-- Add Pagination -->
 	                <!-- Add Arrows -->
 	                <ul class="nav-thumb">
-	                    <li class="active"><img alt="single_image" src="frontend/images/service/author1.png"/></li>
-	                    <li><img alt="single_image" src="frontend/images/home/tes1.jpg"/> </li>
-	                    <li><img alt="single_image" src="frontend/images/service/author2.png"/> </li>
-	                    <li><img alt="single_image" src="frontend/images/service/author3.png"/> </li>
-	                    <li><img alt="single_image" src="frontend/images/service/author4.png"/> </li>
-	                    <li><img alt="single_image" src="frontend/images/service/author5.png"/> </li>
+	                    <li class="active"><img alt="single_image" src="frontend/images/home/un-secretary.jpg"/></li>
+	                    <li><img alt="single_image" src="frontend/images/home/testimonial-jovana.png"/> </li>
+	                    <li><img alt="single_image" src="frontend/images/home/testim-altrn.png"/> </li>
+	                    <li><img alt="single_image" src="frontend/images/home/tes3.jpg"/> </li>
+	                    <li><img alt="single_image" src="frontend/images/home/odk-logo.png"/> </li>
+	                    <li><img alt="single_image" src="frontend/images/home/tes4.png"/> </li>
 	                </ul>
 	                <div class="swiper-nav">                    
 	                    <div class="swiper-button-prev">Prev</div>

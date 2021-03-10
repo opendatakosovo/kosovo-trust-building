@@ -384,8 +384,10 @@
         </div>
         
     </section>
-    
 
+    
+    
+<!-- 
     <section class="bg-f9 mgb-91 home3-about-us">
         <div class="container relative">
             <div class="bg-red w62p padt-78 padlr-40_89 mgt--48">
@@ -418,9 +420,9 @@
                 <img src="frontend/images/home/pixlr-bg-result.png" alt="single-image"/>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <section class="bond-row home4-what-we-do  padb-93 v2">
+    <!-- <section class="bond-row home4-what-we-do  padb-93 v2">
         <div class="title-section style2">
             <h3 class="title">BUILD TRUST</h3>                                       
         </div>
@@ -440,11 +442,11 @@
                         <div class="content">
                             <h4 class="title"><a href="#">INTER-RELIGIOUS TRUST</a></h4>
                             <p>Assure interaction between different databases used by the judicial system in Kosovo, including police databases.</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
+                            <a class="readmore" href="blog_single_v1.html">More</a> -->
 
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
+                        <!-- </div>
+                    </div>
+                </div>
 
                 <div class="item col-md-4 col-xs-6 bg-ff4040">
                     <div class="bond-iconbox overlay bg-service2">
@@ -456,8 +458,8 @@
                             <p>At the central level help from international institutions and organizations is needed for financing  </p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
+                    </div>
+                </div>
 
                 <div class="item col-md-4 col-xs-6 bg-ff4040">
                     <div class="bond-iconbox overlay bg-service3">
@@ -469,8 +471,8 @@
                             <p>Assure interaction between different databases used by the judicial system in Kosovo, including police databases.</p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->                    
+                    </div>
+                </div>                   
             
                 <div class="item col-md-4 col-xs-6 bg-ff4040">
                     <div class="bond-iconbox overlay bg-service4">
@@ -483,8 +485,8 @@
                             <a class="readmore" href="blog_single_v1.html">More</a>
 
                         </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
+                    </div>
+                </div>
 
                 <div class="item col-md-4 col-xs-6 bg-ff4040">
                     <div class="bond-iconbox overlay bg-service5">
@@ -496,8 +498,8 @@
                             <p>Provide adequate facilities to treat juveniles in conflict with the law that have problems with abuse of narcotics.</p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
+                    </div>
+                </div>
 
                 <div class="item col-md-4 col-xs-6 bg-ff4040">
                     <div class="bond-iconbox overlay bg-service6">
@@ -509,12 +511,12 @@
                             <p>Enhance strategy to reduce case backlog. </p>
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->                    
-            </div><!-- /.bond-iconbox-row -->
+                    </div>
+                </div>                   
+            </div>
 
         </div>
-    </section>   
+    </section>    -->
 
    
 
@@ -575,10 +577,10 @@
             </div>
     </section> -->
 
-    <section class="bond-row bond-section-teammember padb-90 ">
+    <!-- <section class="bond-row bond-section-teammember padb-90 ">
         <div class="title-section style3">
         <h3 class="title">OUR TEAM</h3>                                       
-        </div><!-- /.title-section style3 -->
+        </div>
         <div class="container">
         <div class="row">
             <div class="title-section style4">
@@ -714,14 +716,14 @@
                     </div>
                 </div>
             </div>
-        </div><!-- /.row -->
+        </div>
         </div>
     </section>
-    
+     -->
 
 
  
-
+<!-- 
     <section class="bond-row bond-our-blog parallax overlay2 parallax16">
         <div class="title-section style2 white">
             <h3 class="title">OUR BLOG</h3>                                       
@@ -761,11 +763,11 @@
                                         </li>
 
                                     </ul>       
-                                </div><!-- .meta-post -->                           
+                                </div>                       
                                 
                             </div>
                         </div>
-                    </article><!-- /.entry -->  
+                    </article>
 
                     <article class="entry col-md-4 col-xs-6">
                         <div class="entry-border">
@@ -786,15 +788,15 @@
                                         <li class="post-date">
                                             <i class="fa fa-clock-o" aria-hidden="true"></i>
                                             <span class="date updated" >June 4, 2016</span>
-                                        </li>
-
+                                        </li> -->
+<!-- 
                                     </ul>          
-                                </div><!-- .meta-post -->                           
+                                </div>                       
                                 
                             </div>
                         </div>
-                    </article><!-- /.entry -->  
-
+                    </article> -->
+<!-- 
                     <article class="entry col-md-4 col-xs-6">
                         <div class="entry-border">
                             <div class="featured-post">
@@ -814,26 +816,26 @@
                                         <li class="post-date">
                                             <i class="fa fa-clock-o" aria-hidden="true"></i>
                                             <span class="date updated" >June 4, 2016</span>
-                                        </li>
+                                        </li> -->
 
-                                    </ul>          
-                                </div><!-- .meta-post -->                           
+                                    <!-- </ul>          
+                                </div>                       
                                 
                             </div>
                         </div>
-                    </article><!-- /.entry -->     
+                    </article>    
                     </div>   
 
                 </div>
-            </div>
+            </div> -->
 
-            <div class="flat-spacer h12"></div>
+            <!-- <div class="flat-spacer h12"></div>
 
             <a class="flat-button center-rx">GO TO BLOG</a>
             <div class="flat-spacer h49"></div>
 
         </div>
-    </section>
+    </section> -->
 
     <!-- contact us -->
     <!-- <section class="bond-row bond-contact-us ">

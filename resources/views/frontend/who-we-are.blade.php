@@ -192,7 +192,7 @@
      </div>
      <div class="flat-spacer h138"></div>
 
-    <section class="bond-row parallax parallax17 padb-148">
+    <!-- <section class="bond-row parallax parallax17 padb-148">
         <div class="container">
             <div class="row">
                 <div class="flat-spacer h9"></div>
@@ -220,7 +220,7 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
     <section class="bond-row bond-section-teammember">
         <div class="title-section style2">
@@ -332,17 +332,17 @@
 
 
     <!--what people talk about -->
-    <section class="bond-row ab1-testimonial bg-f7f7f7">
+    <!-- <section class="bond-row ab1-testimonial bg-f7f7f7">
         <div class="title-section style2">
             <h3 class="title">TESTIMONIAL</h3>
-        </div><!-- /.title-section style2 -->
+        </div>
         <div class="container">
             <div class="title-section style1 row">
                 <h3 class="title">WHAT PEOPLE SAY ABOUT US</h3>
                 <div class="desc">
                     <p>We Are Awesome</p>
                 </div>
-            </div><!-- /.title-section style1 -->
+            </div>
             <div class="bond-empty-spacer"></div>
             <div id="testimonial-slider-box" class="v3">
                 <div class="testimonial-slider bond-testimonials-flexslider" data-margin="0" data-slides_per_view="1"
@@ -464,11 +464,11 @@
                     </ul>
 
 
-                </div>
+                </div> -->
                 <!--testimonial slider-->
                 <!-- Add Pagination -->
                 <!-- Add Arrows -->
-                <div class="swiper-nav">
+                <!-- <div class="swiper-nav">
                     <div class="swiper-button-prev">Prev</div>
                     <div class="swiper-button-next">Next</div>
                 </div>
@@ -477,10 +477,10 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
     <!-- home counter -->
-    <section class="bond-row bond-section-counter">
+    <!-- <section class="bond-row bond-section-counter">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-xs-6 col-xs-12">
@@ -497,10 +497,10 @@
                             <div class="content">
                                 <p>Recommendations</p>
                             </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
-
+                        </div> -->
+                    <!-- </div>
+                </div> -->
+<!-- 
                 <div class="col-md-3 col-xs-6 col-xs-12">
                     <div class="bond-counterbox dark bond-drawer style1">
                         <div class="icon-image">
@@ -516,11 +516,11 @@
                             <div class="content">
                                 <p>Initiatives</p>
                             </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
+                        </div> -->
+                    <!-- </div>
+                </div> -->
 
-                <div class="col-md-3 col-xs-6 col-xs-12">
+                <!-- <div class="col-md-3 col-xs-6 col-xs-12">
                     <div class="bond-counterbox dark bond-trash style1 v3">
                         <div class="icon-image">
                         </div>
@@ -535,11 +535,11 @@
                             <div class="content">
                                 <p>Actors</p>
                             </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
+                        </div> -->
+                    <!-- </div>
+                </div> -->
 
-                <div class="col-md-3 col-xs-6 col-xs-12">
+                <!-- <div class="col-md-3 col-xs-6 col-xs-12">
                     <div class="bond-counterbox dark bond-present style1 v4">
                         <div class="icon-image">
 
@@ -556,8 +556,8 @@
                                 <p>Champions</p>
                             </div>
                         </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
+                    </div>
+                </div> -->
             </div><!-- /.row -->
         </div><!-- /.container -->
     </section>

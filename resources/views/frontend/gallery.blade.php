@@ -522,9 +522,8 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="flat-contact-us">                   
-                                <h2>WANT TO CONTRIBUTE?.</h2>
-                                <p>Lorem ipsum dolor sit amet consectetur </p>
-                                <a class="button" href="/trustbuildingnetworkk"> VIEW MORE </a>                        
+                                <h2>Do you want to contribute?</h2>
+                                <a class="button" href="/trustbuildingnetworkk"> Register here </a>                        
                             </div>
                         </div><!-- /.col-md-12 -->
                     </div><!-- /.row -->

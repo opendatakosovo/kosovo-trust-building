@@ -127,7 +127,7 @@
            <div class="col-xl-4 col-md-4 mb-2">
              <h2 class="pb-2 align-center" style="text-align: center;">Powered by</h2>
              <div class="text-center">
-                <a href="#" data-toggle="modal" data-target="#modalUNMIK"><img allign="middle" src="" class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
+                <a href="#" data-toggle="modal" data-target="#modalUNMIK"><img allign="middle" src="frontend/images/team_member/odk-logo-bw.png" class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
                 <p class="card-title mt-4">Open Data Kosovo</p>
                 <div class="text-center support-icons">
                    <a href="https://www.facebook.com/opendatakosovo/" target="_blank" rel="noopener" aria-label="Open Data Kosovo's facebook page"><i class="fa fa-facebook-f hvr-grow pr-4"></i></a>

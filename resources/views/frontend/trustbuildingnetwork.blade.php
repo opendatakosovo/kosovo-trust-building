@@ -182,7 +182,7 @@
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">
-                                <i class="icon-emotsmile icons"></i>
+                                <i class="icon-check icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
                                 <p>Recommendations</p>
@@ -200,7 +200,7 @@
                         </div>
                         <div class="counter-countent">                            
                             <div class="icon-img">
-                                <i class="icon-drawer icons"></i>
+                                <i class="icon-rocket icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
                                 <p>Initiatives</p>
@@ -218,7 +218,7 @@
                         </div>
                         <div class="counter-countent">                            
                             <div class="icon-img">
-                                <i class="icon-trash icons"></i>                        
+                                <i class="icon-user icons"></i>                        
                             </div>
                             <div class="content" style="color:#fe466c;">
                                 <p>Actors</p>
@@ -237,7 +237,7 @@
                         </div>
                         <div class="counter-countent">                            
                             <div class="icon-img">
-                                <i class="icon-present icons"></i>
+                                <i class="icon-trophy icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
                                 <p>Champions</p>

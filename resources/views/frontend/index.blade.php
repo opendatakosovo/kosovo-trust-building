@@ -442,63 +442,24 @@
                 <div class="item col-md-4 col-xs-6 pad-0_40">
                     <div class="bond-iconbox square outtop bg-title2 border">
                         <div class="icon-image">
+                            <span class="icons icon-user"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">Youth</a></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <a class="readmore" href="/projectss">More</a>
+
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
                             <span class="icons icon-people"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">Governance & Access to Service</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="/projectss">More</a>
-
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-support"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">Access to Justice</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-heart"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">Inter Religious Trust-Building</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-chart"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">Economic Empowerment</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-camera"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">Media & Communcation</a></h5>
+                            <h5 class="title"><a href="#">Gender</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
                             <a class="readmore" href="/projectss">More</a>
                         </div>
@@ -512,6 +473,45 @@
                         </div>
                         <div class="content">
                             <h5 class="title"><a href="#">Education</a></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <a class="readmore" href="/projectss">More</a>
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
+                            <span class="icons icon-camrecorder"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">Media</a></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <a class="readmore" href="/projectss">More</a>
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
+                            <span class="icons icon-music-tone-alt"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">Culture</a></h5>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <a class="readmore" href="/projectss">More</a>
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
+                            <span class="icons icon-book-open"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">Religion</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
                             <a class="readmore" href="/projectss">More</a>
                         </div>

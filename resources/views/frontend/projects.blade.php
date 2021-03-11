@@ -49,7 +49,7 @@
                     <div class="item col-md-4 col-xs-6">
                         <div class="bond-iconbox border square outtop effect2 bg-title2">
                             <div class="icon-image">
-                                <span class="icon-people"></span>
+                                <span class="icon-user"></span>
                             </div>
                             <div class="content">
                                 <h4 class="title"><a href="#">Youth</a></h4>
@@ -64,7 +64,7 @@
                     <div class="item col-md-4 col-xs-6">
                         <div class="bond-iconbox border square outtop effect2 bg-title2">
                             <div class="icon-image">
-                                <span class="icon-puzzle"></span>
+                                <span class="icon-people"></span>
                             </div>
                             <div class="content">
                                 <h4 class="title"><a href="#">Gender</a></h4>
@@ -77,7 +77,7 @@
                     <div class="item col-md-4 col-xs-6">
                         <div class="bond-iconbox border square outtop effect2 bg-title2">
                             <div class="icon-image">
-                                <span class="icon-notebook"></span>
+                                <span class="icon-graduation"></span>
                             </div>
                             <div class="content">
                                 <h4 class="title"><a href="#">Education</a></h4>
@@ -90,7 +90,7 @@
                     <div class="item col-md-4 col-xs-6 bg-ff4040">
                         <div class="bond-iconbox border square outtop effect2 bg-title2">
                             <div class="icon-image">
-                                <span class="icon-microphone"></span>
+                                <span class="icon-camrecorder"></span>
                             </div>
                             <div class="content">
                                 <h4 class="title"><a href="#">Media</a></h4>
@@ -104,7 +104,7 @@
                     <div class="item col-md-4 col-xs-6 bg-ff4040">
                         <div class="bond-iconbox border square outtop effect2 bg-title2">
                             <div class="icon-image">
-                                <span class="icon-camera icons"></span>
+                                <span class="icon-music-tone-alt icons"></span>
                             </div>
                             <div class="content">
                                 <h4 class="title"><a href="#">Culture</a></h4>

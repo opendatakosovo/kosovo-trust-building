@@ -141,13 +141,13 @@
               <div class="modal-dialog" role="document">
                  <div class="modal-content">
                     <div class="modal-header">
-                       <p class="card-title mb-0">United Nations Mission in Kosovo</p>
+                       <p class="card-title mb-0">Open Data Kosovo</p>
                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                        <span aria-hidden="true">×</span>
                        </button>
                     </div>
                     <div class="modal-body">
-                       <p class="bio">The mandate of the United Nations Interim Administration Mission in Kosovo (UNMIK) was established by the Security Council in its resolution 1244 (1999). The Mission is mandated to help ensure conditions for a peaceful and normal life for all inhabitants of Kosovo and advance regional stability in the Western Balkans.</p>
+                       <p class="bio">Open Data Kosovo is a nonprofit organization that believes in using civic-tech and digital humanitarianism to open government. It's initiative promotes the idea that governance data should be made freely available for everyone to use and republished as they wish, without restrictions from copyright, patents or other mechanisms of control.</p>
                     </div>
                     <div class="modal-footer">
                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

@@ -125,15 +125,15 @@
      
      
            <div class="col-xl-4 col-md-4 mb-2">
-             <h2 class="pb-2 align-center" style="text-align: center;">Supported by</h2>
+             <h2 class="pb-2 align-center" style="text-align: center;">Powered by</h2>
              <div class="text-center">
-                <a href="#" data-toggle="modal" data-target="#modalUNMIK"><img allign="middle" src="frontend/images/team_member/logo-fci.png" class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
-                <p class="card-title mt-4">United Nations Mission in Kosovo</p>
+                <a href="#" data-toggle="modal" data-target="#modalUNMIK"><img allign="middle" src="" class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
+                <p class="card-title mt-4">Open Data Kosovo</p>
                 <div class="text-center support-icons">
-                   <a href="https://www.facebook.com/UNMIK" target="_blank" rel="noopener" aria-label="UNMIK's facebook page"><i class="fa fa-facebook-f hvr-grow pr-4"></i></a>
-                   <a href="https://www.instagram.com/unmik.kosovo/" target="_blank" rel="noopener" aria-label="UNMIK's instagram"><i class="fa fa-instagram hvr-grow pr-4"></i></a>
-                   <a href="https://twitter.com/UNMIKosovo" target="_blank" rel="noopener" aria-label="UNMIK's twitter account"><i class="fa fa-twitter hvr-grow pr-4"></i></a>
-                   <a href="https://unmik.unmissions.org/" target="_blank" rel="noopener" aria-label="UNMIK's home page"><i class="fa fa-desktop hvr-grow"></i></a>
+                   <a href="https://www.facebook.com/opendatakosovo/" target="_blank" rel="noopener" aria-label="Open Data Kosovo's facebook page"><i class="fa fa-facebook-f hvr-grow pr-4"></i></a>
+                   <a href="https://www.instagram.com/opendatakosovo/?hl=en" target="_blank" rel="noopener" aria-label="Open Data Kosovo's instagram"><i class="fa fa-instagram hvr-grow pr-4"></i></a>
+                   <a href="https://twitter.com/OpenDataKosovo" target="_blank" rel="noopener" aria-label="Open Data Kosovo's twitter account"><i class="fa fa-twitter hvr-grow pr-4"></i></a>
+                   <a href="https://opendatakosovo.org/" target="_blank" rel="noopener" aria-label="Open Data Kosovo's home page"><i class="fa fa-desktop hvr-grow"></i></a>
                 </div>
              </div>
            </div>

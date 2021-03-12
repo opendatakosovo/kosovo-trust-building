@@ -265,7 +265,7 @@
                 </div><!-- /.col-md-12 -->
             </div>
             <div class="row " data-item="4" data-nav="true" data-dots="false" data-auto="false" data-margin="30">
-                <div class="item col-md-4 effect2 col-xs-6 pad-0">
+                <div class="item col-md-6 effect2 col-xs-6 pad-0">
                     <div class="bond-iconbox square icoshadow s70">
                         <div class="icon-image">
                             <span class="icons icon-note"></span>
@@ -277,19 +277,7 @@
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
-                <div class="item col-md-4 col-xs-6 pad-0">
-                    <div class="bond-iconbox effect2 square icoshadow s70">
-                        <div class="icon-image">
-                            <span class="icons icon-energy"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">TAKE ACTION</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-                <div class="item col-md-4 col-xs-6 pad-0">
+                <div class="item col-md-6 col-xs-6 pad-0">
                     <div class="bond-iconbox effect2 square icoshadow s70">
                         <div class="icon-image">
                             <span class="icons icon-wallet"></span>
@@ -303,6 +291,12 @@
                 </div><!-- /.item -->
             </div><!-- /.bond-iconbox-fullwidth -->
         </div>
+    </section>
+
+    <section class="section-home5-callout2">
+        <footer class="footer"> 
+        @include('frontend.includes.banner')
+        </footer>                    
     </section>
 
     <section class="bond-row padt-102 bond-featured keep-30">

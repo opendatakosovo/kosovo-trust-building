@@ -1984,7 +1984,7 @@ input[type="color"],
 	position: absolute;
 	top:0;
 	bottom: 0;
-	right: 0;
+	right: 70px;
 	left: 70px;
 	background: #FE466C;
 	content: '';

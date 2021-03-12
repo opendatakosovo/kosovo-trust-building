@@ -118,11 +118,13 @@
 
 
                             <div class="col input-group">
-                                <select class="custom-select" aria-label="Selected Initiative Status" name="query[initiative_status]" id="query_initiative_status"><option value="">Status</option>
-                                <option value="1">Completed</option>
-                                <option value="3">In progress</option>
-                                <option value="4">No activity</option>
-                                <option value="2">Partially completed</option></select>
+                                <select class="custom-select" aria-label="Selected Initiative Status" name="query[initiative_status]" id="query_initiative_status"><option value="">Category</option>
+                                <option value="1">Access to justice</option>
+                                <option value="3">Economic empowerment and environment</option>
+                                <option value="4">Media and communication</option>
+                                <option value="2">Education</option>
+                                <option value="5">Good governance and access to services</option>
+                                <option value="6">Inter-religious trust-building</option></select>
                              </div>
 
 
@@ -161,26 +163,7 @@
 
     <section class="section-home5-callout2">
         <footer class="footer"> 
-            <div class="page-callout">
-                <div class="page-callout-background">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="flat-contact-us">
-                                    <div class="col-md-6">
-                                        <h2>Do you want to contribute?</h2>
-                                        <a class="button" href="/trustbuildingnetworkk"> Register here!</a>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h2>Do you want to add something?</h2>
-                                        <a class="button">Do it here!</a>
-                                    </div>                     
-                                </div>
-                            </div><!-- /.col-md-12 -->
-                        </div><!-- /.row -->
-                    </div><!-- /.container -->
-                </div>
-            </div>
+        @include('frontend.includes.banner')
         </footer>                    
     </section>
 

@@ -4880,4 +4880,13 @@ textarea:focus {
 	text-decoration: none;
 	display: inline-block;
 	cursor: pointer;
+	transition: all .3s;
 }
+
+.modal-close-button:hover {
+	font-size: 3rem;
+}
+.modal-close-button:active{
+	font-size: 2.5rem;
+}
+

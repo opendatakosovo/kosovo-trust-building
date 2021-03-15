@@ -3776,6 +3776,10 @@ a.readmore:after{
 	text-align: center;
 }
 
+.flat-contact-us div:not(:last-child) {
+	border-right: 2px solid #fff;
+}
+
 .page-callout.v2 {
 	padding-bottom: 65px;
 	margin-bottom: 0;
@@ -4869,7 +4873,18 @@ textarea:focus {
 	color: #fff;
 	background-color: #FE466C;
 	border-radius: .2rem;
+	transition: all .2s;
+	cursor: pointer;
 }
+.page-callout .button--modal:hover {
+	transform: translateY(-3px);
+	box-shadow: 0 10px 20px rgba(0,0,0,.2);
+}
+.page-callout .button--modal:active {
+	transform: translateY(-1px);
+	box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
 .personal-info {
 	display: flex;
 	justify-content: space-between;

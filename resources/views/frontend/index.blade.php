@@ -422,7 +422,7 @@
             <div class="row">
                 <div class="col-md-12">                        
                     <div class="title-section style1">
-                        <h3 class="title">Recommendations and Initatives</h3>
+                        <h3 class="title">Initatives</h3>
                         <div class="desc">
                             <p>In May 2018, with the support of UNKT, UNMIK gathered 120 participants representing a broad cross-section of Kosovo society, including grassroots actors, media, youth leaders and municipal leadership from both majority and non-majority communities, to exchange perspectives on building trust. The main outcome of this Trust-Building Forum (TBF) is a list of 135 recommendations covering the areas of:</p>
                         </div>                            

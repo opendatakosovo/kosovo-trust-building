@@ -25,6 +25,9 @@
                                 <div class="modal-dialog modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
+                                        <div class="modal-close">
+                                            <a class="modal-close-button" data-dismiss="modal" value="close">&times;</a>
+                                        </div>
                                             <form class="form" action="">
                                                 <div class="personal-info">
                                                     <div class="name">
@@ -38,9 +41,9 @@
                                                 </div>
                                                 <label for="organizationInput">Organization</label>
                                                 <input type="text" placeholder="Organization" id="organizationInput" name="organization">
-                                                <label for="storyInput" id="story">You story</label>
+                                                <label for="storyInput" id="story">Your story</label>
                                                 <textarea name="story" cols="24" rows="3"></textarea>
-                                                <input class="button button--modal" data-dismiss="modal" value="Share your story">
+                                                <input class="button button--modal"  value="Share your story">
                                             </form> 
                                         </div>    
                                     </div>

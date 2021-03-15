@@ -271,9 +271,9 @@
                             <span class="icons icon-note"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">TELL US YOUR STORY</a></h5>
+                            <h5 class="title"><a data-toggle="modal" data-target="#myModal">TELL US YOUR STORY</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
+                            <a data-toggle="modal" data-target="#myModal" class="readmore">More</a>                        
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -285,8 +285,7 @@
                         <div class="content">
                             <h5 class="title"><a href="#">DONATE</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p>
-                            <a class="readmore" href="blog_single_v1.html">More</a>
-                        </div>
+                            <a class="readmore">More</a>         
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
             </div><!-- /.bond-iconbox-fullwidth -->
@@ -294,9 +293,9 @@
     </section>
 
     <section class="section-home5-callout2">
-        <footer class="footer"> 
-        @include('frontend.includes.banner')
-        </footer>                    
+        <!-- <footer class="footer"> 
+        @include('frontend.includes.banner') -->
+        <!-- </footer>                     -->
     </section>
 
     <section class="bond-row padt-102 bond-featured keep-30">

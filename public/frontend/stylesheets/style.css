@@ -4810,9 +4810,7 @@ h2.pledge-name {
 	margin: 20px 0;
 }
 
-
-#quote-carousel .carousel-indicators .active .ktb-logo1 {
-	
+#quote-carousel .carousel-indicators .active .ktb-logo1 {	
 	position: absolute;
 	top: -41px;
 	left: -5px;
@@ -4843,8 +4841,7 @@ h2.pledge-name {
 	padding: 2px;
 	max-width: 244px;
 }
-#quote-carousel .carousel-indicators .active .ktb-logo5 {
-	
+#quote-carousel .carousel-indicators .active .ktb-logo5 {	
 	position: absolute;
 	top: -41px;
 	left: 353px;
@@ -4866,8 +4863,8 @@ label {
 	font-weight: bold;
 	color: #000;
 }
-textarea:focus {
-	border-color: none;
+input {
+	box-shadow: 0 20px 30px(0, 0, 0 .2);
 }
 .page-callout .button--modal {
 	color: #fff;
@@ -4906,7 +4903,6 @@ textarea:focus {
 .modal-close-button:hover {
 	font-size: 2.8rem;
 }
-.modal-close-button:active{
+.modal-close-button:active {
 	font-size: 2.5rem;
 }
-

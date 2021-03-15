@@ -2017,6 +2017,11 @@ input[type="color"],
 	letter-spacing: 2.5px;
 }
 
+.modal-header h2 {
+	color: #000;
+	margin-bottom: 0;
+}
+
 .footer .page-callout p {
 	line-height: 36px;
 	font-size: 18px;
@@ -4849,4 +4854,19 @@ h2.pledge-name {
 	left: 443px;
 	padding: 2px;
 	max-width: 244px;
+}
+.form {
+	padding: 2rem;
+}
+textarea:focus {
+	border-color: none;
+}
+.page-callout .button--modal {
+	color: #fff;
+	background-color: #FE466C;
+	border-radius: .2rem;
+}
+.personal-info {
+	display: flex;
+	justify-content: space-between;
 }

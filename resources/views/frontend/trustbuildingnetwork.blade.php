@@ -42,8 +42,8 @@
         </div><!-- /.page-title --> 
     </div>
 
-    <section class="bond-row padb-110" style="background: url('frontend/images/home/pledge-background.png') no-repeat center fixed;
-    background-size: cover;">
+    <section class="bond-row padb-110" style="padding-bottom: 120px; background: url('frontend/images/home/pledge-background.png') no-repeat center fixed;
+    background-size: cover; ">
             <div class="title-section style2">
                 <h3 class="title">NETWORK</h3>                                       
             </div><!-- /.title-section style2 -->
@@ -57,107 +57,134 @@
                 <div class="bond-empty-spacer"></div>
                 <div id = "testimonial-slider-box">
                 <div class="row">
-                
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                           
-                                <div class="carousel slide" data-ride="carousel" id="quote-carousel" >
-                                    <!-- Carousel Slides / Quotes -->
-                                    <div class="carousel-inner text-center">
-                                        <!-- Quote 1 -->
-                                        <div class="item active">
-                                            <blockquote>
-                                                <div class="row">
-                                                    <div class="col-sm-8 col-sm-offset-2">
-                                                        <p>ODK pledges to further develop digital solutions that aim at integrating youth from all Kosovo communities to promote trustbuilding,social cohesion and cooperation.</p>
-                                                        <h2 class="pledge-name">Open Data Kosovo</h2>
-                                                    </div>
-                                                </div>
-                                            </blockquote>
-                                        </div>
-                                        <!-- Quote 2 -->
-                                        <div class="item">
-                                            <blockquote>
-                                                <div class="row">
-                                                    <div class="col-sm-8 col-sm-offset-2">
-                                                        <p>We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities. </p>
-                                                        <h2 class="pledge-name">Alternativa</h2>
-                                                    </div>
-                                                </div>
-                                            </blockquote>
-                                        </div>
-                                        <!-- Quote 3 -->
-                                        <div class="item">
-                                            <blockquote>
-                                                <div class="row">
-                                                    <div class="col-sm-8 col-sm-offset-2">
-                                                        <p>I pledge that I will not participate in events in Kosovo that do not offer translation in official languages.</p>
-                                                        <h2 class="pledge-name">Jovana Radosavjlević</h2>
-                                                    </div>
-                                                </div>
-                                            </blockquote>
-                                        </div>
-                                        <!-- Quote 4 -->
-                                        <div class="item">
-                                            <blockquote>
-                                                <div class="row">
-                                                    <div class="col-sm-8 col-sm-offset-2">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <h2 class="pledge-name">Verka Jovanović</h2>
-                                                    </div>
-                                                </div>
-                                            </blockquote>
-                                        </div>
-                                        <!-- Quote 5 -->
-                                        <div class="item">
-                                            <blockquote>
-                                                <div class="row">
-                                                    <div class="col-sm-8 col-sm-offset-2">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <h2 class="pledge-name">Hiljmnijeta Apuk</h2>
-                                                    </div>
-                                                </div>
-                                            </blockquote>
-                                        </div>
-                                        <!-- Quote 6 -->
-                                        <div class="item">
-                                            <blockquote>
-                                                <div class="row">
-                                                    <div class="col-sm-8 col-sm-offset-2">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                                        <h2 class="pledge-name">Sanja Sovrlić</h2>
-                                                    </div>
-                                                </div>
-                                            </blockquote>
-                                        </div>
-                                    </div>
-                                    <!-- Bottom Carousel Indicators -->
-                                    <ol class="carousel-indicators">
-                                        <li data-target="#quote-carousel" data-slide-to="0" class="active"><img class="img-responsive " src="http://127.0.0.1:8000/frontend/images/home/odk-logo.png" alt="" ><img src="frontend/images/pledge-logo.png" class="ktb-logo1"/>
-                                        </li>
-                                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/altrn-logo.png" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo2"/>
-                                        </li>
-                                        <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/home/pledge-jovana.png" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo3"/>
-                                        </li>
-                                        <li data-target="#quote-carousel" data-slide-to="3" ><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/verka.jpg" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo4"/>
-                                        </li>
-                                        <li data-target="#quote-carousel" data-slide-to="4"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/Hiljmnijeta.png" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo5"/>
-                                        </li>
-                                        <li data-target="#quote-carousel" data-slide-to="5"><img class="img-responsive" src="http://127.0.0.1:8000/frontend/images/team_member/sanja.jpg" alt=""> <img src="frontend/images/pledge-logo.png" class="ktb-logo6"/>
-                                        </li>
-                                    </ol>
-                
-                                    <!-- Carousel Buttons Next/Prev -->
-                                    <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
-                                    <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+
+                    <section class="section-testimonials">
+                        <div class="slider">
+                          <div class="slider__slides">
+                            <div class="slider__slide slider__slide--1">
+                              <figure class="testimonial slider__slide-content">
+                                <blockquote class="testimonial__text">
+                                  <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                  <p class="testimonial__quote">
+                                    “ ODK pledges to further develop digital solutions that aim at integrating youth from all Kosovo communities to promote trustbuilding,social cohesion and cooperation.”
+                                  </p>
+                                  <cite class="testimonial__cite">
+                                    <span class="testimonial__cite--name">Open Data Kosovo</span>
+                                  </cite>
+                                </blockquote>
+                                <div class="testimonial__img">
+                                  <img class="testimonial__photo" src="frontend/images/image-john.jpg" alt="Open Data Kosovo">
                                 </div>
-
-
+                              </figure>
+                            </div>
+                    
+                            <div class="slider__slide slider__slide--2">
+                              <figure class="testimonial slider__slide-content">
+                                <blockquote class="testimonial__text">
+                                  <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                  <p class="testimonial__quote">
+                                    “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
+                                  </p>
+                                  <cite class="testimonial__cite">
+                                    <span class="testimonial__cite--name">Alterniva </span>
+                                  </cite>
+                                </blockquote>
+                                <div class="testimonial__img">
+                                  <img class="testimonial__photo" src="frontend/images/image-tanya.jpg" alt="Alterniva">
+                                </div>
+                              </figure>
                             </div>
 
+
+                            <div class="slider__slide slider__slide--2">
+                                <figure class="testimonial slider__slide-content">
+                                  <blockquote class="testimonial__text">
+                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                    <p class="testimonial__quote">
+                                      “ I pledge that I will not participate in events in Kosovo that do not offer translation in official languages. ”
+                                    </p>
+                                    <cite class="testimonial__cite">
+                                      <span class="testimonial__cite--name">Jovana Radosavjlević</span>
+                                    </cite>
+                                  </blockquote>
+                                  <div class="testimonial__img">
+                                    <img class="testimonial__photo" src="frontend/images/team_member/5.jpg" alt="John Tarkpor">
+                                  </div>
+                                </figure>
+                              </div>
+
+                              <div class="slider__slide slider__slide--2">
+                                <figure class="testimonial slider__slide-content">
+                                  <blockquote class="testimonial__text">
+                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                    <p class="testimonial__quote">
+                                      “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
+                                    </p>
+                                    <cite class="testimonial__cite">
+                                      <span class="testimonial__cite--name">John Tarkpor </span>
+                                    </cite>
+                                  </blockquote>
+                                  <div class="testimonial__img">
+                                    <img class="testimonial__photo" src="frontend/images/team_member/verka.jpg" alt="John Tarkpor">
+                                  </div>
+                                </figure>
+                              </div>
+
+                              <div class="slider__slide slider__slide--2">
+                                <figure class="testimonial slider__slide-content">
+                                  <blockquote class="testimonial__text">
+                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                    <p class="testimonial__quote">
+                                      “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
+                                    </p>
+                                    <cite class="testimonial__cite">
+                                      <span class="testimonial__cite--name">John Tarkpor </span>
+                                      <span class="testimonial__cite--role">Junior Front-end Developer</span>
+                                    </cite>
+                                  </blockquote>
+                                  <div class="testimonial__img">
+                                    <img class="testimonial__photo" src="frontend/images/team_member/sanja.jpg" alt="John Tarkpor">
+                                  </div>
+                                </figure>
+                              </div>
+
+                              <div class="slider__slide slider__slide--2">
+                                <figure class="testimonial slider__slide-content">
+                                  <blockquote class="testimonial__text">
+                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                    <p class="testimonial__quote">
+                                      “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
+                                    </p>
+                                    <cite class="testimonial__cite">
+                                      <span class="testimonial__cite--name">John Tarkpor </span>
+                                      <span class="testimonial__cite--role">Junior Front-end Developer</span>
+                                    </cite>
+                                  </blockquote>
+                                  <div class="testimonial__img">
+                                    <img class="testimonial__photo" src="frontend/images/team_member/Hiljmnijeta.png" alt="John Tarkpor">
+                                  </div>
+                                </figure>
+                              </div>
+
+
+
+
+                          </div>
+                    
+                          <div class="slider__buttons">
+                            <div class="slider__button slider__button--prev">
+                              <svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
+                                <path fill="none" stroke-width="3" d="M11 1L3 9l8 8" /></svg>
+                            </div>
+                            <div class="slider__button slider__button--next">
+                              <svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="13" height="18">
+                                <path fill="none" stroke-width="3" d="M2 1l8 8-8 8" /></svg>
+                            </div>
+                          </div>
                         </div>
-                    </div> <!--testimonial slider-->
+                        
+                      </section>
+    
 
                 </div>
 
@@ -165,9 +192,7 @@
                
 
             </div>
-            <br><BR>
-            <a class="box-readmore center-rx" href="/galleryy">View All Pledges</a>
-
+          
         </section> 
 
         <section class="bond-row bond-section-counter padb-148 background-222222">
@@ -1045,7 +1070,96 @@
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
 
-    
+    <script>
+     /* ========== SLIDER LOGIC ==========
+1. Create selectors for the slider container, each slide, the next button and the previous button
+2. Clone the first slide and append it at the end of the slides container
+3. Clone the last slide and append it at the beginning of the slides container
+
+NOTE: steps 2 and 3 will allow us to create an illusion of infinitely looping through the slider
+
+4. Create a 'counter' variable and set it equal to 1
+5. Add event listeners to the next and previous buttons
+    If next button is clicked, add 1 to counter
+    If prev button is clicked, subtract 1 from counter
+6. Move to the next / previous slide by using transform: translateX to shift the slides horizontally
+by each slide's width and margin multiplied by the number of slides tracked in counter
+
+7. If the "last clone" is reached, reset counter to 0
+8. If the "first clone" is reached, reset counter to 1
+===================================== */
+
+// SELECTORS
+const container = document.querySelector('.slider');
+const slider = document.querySelector('.slider__slides');
+const slides = document.querySelectorAll('.slider__slide');
+const prevBtn = document.querySelector('.slider__button--prev');
+const nextBtn = document.querySelector('.slider__button--next');
+const numSlides = slides.length;
+
+// DETERMINE THE LENGTH REQUIRED TO MOVE HORIZONTALLY TO THE NEXT SLIDE
+let slideWidth = slides[0].offsetWidth;
+let slideMarginRight = parseInt(getComputedStyle(slides[0]).marginRight);
+let moveX = slideWidth + slideMarginRight;
+
+// CLONE FIRST AND LAST SLIDES AND ADD TO SLIDER
+const firstClone = slides[0].cloneNode(true);
+const lastClone = slides[numSlides - 1].cloneNode(true);
+
+firstClone.setAttribute('id', 'first-clone');
+lastClone.setAttribute('id', 'last-clone');
+
+slider.appendChild(firstClone);
+slider.prepend(lastClone);
+
+const allSlides = document.querySelectorAll('.slider__slide'); //allSlides includes the clones
+
+// SHOW THE FIRST SLIDE
+slider.style.transform = `translateX(${-moveX}px)`;
+
+// SET COUNTER AND ADD EVENT LISTENERS TO BUTTON;
+// EACH BUTTON CLICK SHOULD MOVE ALL SLIDES HORIZONTALLY BY MOVEX AMOUNT COUNTER TIMES
+let counter = 1;
+
+nextBtn.addEventListener('click', () => {
+    counter++;
+    slider.style.transition = 'transform 0.5s ease-in-out, opacity 0.2s';
+    slider.style.transform = `translateX(${-(moveX * counter)}px)`;
+    if (counter >= allSlides.length) counter = numSlides;
+    console.log(counter);
+});
+
+prevBtn.addEventListener('click', () => {
+    counter--;
+    slider.style.transition = 'transform 0.5s ease-in-out, opacity 0.2s';
+    slider.style.transform = `translateX(${-(moveX * counter)}px)`;
+    if (counter < 0) counter = 0
+});
+
+// CHECK FOR FIRSTCLONE AND LASTCLONE AND RESET THE SLIDES ACCORDINGLY
+slider.addEventListener('transitionend', () => {
+    if (allSlides[counter].id === 'first-clone') {
+        slider.style.transition = 'none';
+        counter = 1;
+        slider.style.transform = `translateX(${-(moveX * counter)}px)`;
+    }
+
+    if (allSlides[counter].id === 'last-clone') {
+        slider.style.transition = 'none';
+        counter = numSlides;
+        slider.style.transform = `translateX(${-(moveX * counter)}px)`;
+    }
+});
+
+// ADJUST THE SLIDER POSITION WHEN THE SLIDER/VIEWPORT IS RESIZED
+window.addEventListener('resize', () => {
+    slideWidth = slides[0].offsetWidth;
+    slideMarginRight = parseInt(getComputedStyle(slides[0]).marginRight);
+    moveX = slideWidth + slideMarginRight;
+    slider.style.transition = 'none';
+    slider.style.transform = `translateX(${-(moveX * counter)}px)`;
+});
+        </script>
     
    
 </body>

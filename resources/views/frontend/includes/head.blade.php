@@ -15,6 +15,8 @@
 
     <!-- Theme Style -->
     <link href="{{ asset('frontend/stylesheets/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('frontend/stylesheets/slider.css') }}" rel="stylesheet">
+
 
     <!-- Responsive -->
     <link href="{{ asset('frontend/stylesheets/responsive.css') }}" rel="stylesheet">
@@ -50,6 +52,8 @@
     <script src="{{ asset('frontend/javascript/jquery-validate.js') }}"></script>
     <script src="{{ asset('frontend/javascript/jquery-countTo.js') }}"></script>
     <script src="{{ asset('frontend/javascript/gmap3.min.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/quote.js') }}"></script>
+
     
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
 

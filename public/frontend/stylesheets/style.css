@@ -974,7 +974,7 @@ input[type="color"],
 
 .header .mainnav > ul > li {
 	display: inline-block;
-	padding-right: 39px;
+	padding-right: 25px;
 }
 
 .header .mainnav > ul > li >a {
@@ -4749,67 +4749,9 @@ a.readmore:after{
 	height: 500px !important;
 	
 }
-#quote-carousel {
-    padding: 0 10px 30px 10px;
-    margin-top: 60px;
-}
 
-#quote-carousel p {
-    color: black;
-	font-size: 24px;
-	font-weight: 600;
-}
-#quote-carousel .carousel-control {
-    background: none;
-    color: #666666;
-    font-size: 2.3em;
-    text-shadow: none;
-    margin-top: 30px;
-}
-#quote-carousel .carousel-indicators {
-    position: relative;
-    right: 50%;
-    top: auto;
-    bottom: 0px;
-    margin-top: 20px;
-    margin-right: -19px;
-	
-}
-#quote-carousel .carousel-indicators li {
-    width: 80px;
-    height: 80px;
-    cursor: pointer;
-    border: 1px solid #ccc;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-    border-radius: 50%;
-    opacity: 0.4;
-    overflow: hidden;
-    transition: all .4s ease-in;
-    vertical-align: middle;
-	
-}
-#quote-carousel .carousel-indicators .active {
-    width: 128px;
-    height: 128px;
-    opacity: 1;
-    transition: all .2s;
-}
-.item blockquote {
-    border-left: none;
-    margin: 0;
-}
-.item blockquote p:before {
-    content: "\f10d";
-    font-family: 'Fontawesome';
-    float: left;
-    margin-right: 10px;
-}
 
-h2.pledge-name {
-	color: #fe466c;
-	margin: 20px 0;
-}
-
+<<<<<<< Updated upstream
 #quote-carousel .carousel-indicators .active .ktb-logo1 {	
 	position: absolute;
 	top: -41px;
@@ -4906,3 +4848,78 @@ input {
 .modal-close-button:active {
 	font-size: 2.5rem;
 }
+=======
+  .quotecontainer {
+	margin: 0 auto;
+	margin-top: 250px;
+
+  }
+  
+  .panel-quote {
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	min-width: 400px;
+	margin: auto;
+	box-sizing: border-box;
+	background-color: transparent;
+  }
+  
+  .social-share {
+	text-align: center;
+  }
+  
+  .social-share i {
+	color: #333;
+  }
+  
+  .quote-progress {
+	width: 0;
+	height: 3px;
+	background-color: #333;
+  }
+  
+  blockquote {
+	padding: 30px;
+	font-size: 1.4em;
+  }
+  
+  .quote {
+	font-family: "Crimson Text", serif;
+	font-style: italic;
+  }
+  
+  .author {
+	font-size: 0.6em;
+	font-weight: lighter;
+	text-align: right;
+  }
+  
+  /* Quote Navigation */
+  .quote-nav {
+	display: flex;
+	align-items: stretch;
+	width: 100%;
+	padding-bottom: 30px;
+  }
+  
+  .previous {
+	margin: auto;
+  }
+  
+  .next {
+	margin: auto;
+  }
+  
+  /* Media Queries */
+  @media screen and (max-width: 460px) {
+	.panel-quote {
+	  min-width: 100%;
+	}
+	
+	blockquote {
+	  font-size: 1.1em;
+	}
+  }
+>>>>>>> Stashed changes

@@ -73,7 +73,7 @@
                                   </cite>
                                 </blockquote>
                                 <div class="testimonial__img">
-                                  <img class="testimonial__photo" src="frontend/images/image-john.jpg" alt="Open Data Kosovo">
+                                  <img class="testimonial__photo" src="frontend/images/image-john.jpg" style="max-height: 400px;" alt="Open Data Kosovo">
                                 </div>
                               </figure>
                             </div>
@@ -90,7 +90,7 @@
                                   </cite>
                                 </blockquote>
                                 <div class="testimonial__img">
-                                  <img class="testimonial__photo" src="frontend/images/image-tanya.jpg" alt="Alterniva">
+                                  <img class="testimonial__photo" src="frontend/images/image-tanya.jpg" style="max-height: 400px;" alt="Alterniva">
                                 </div>
                               </figure>
                             </div>
@@ -108,7 +108,7 @@
                                     </cite>
                                   </blockquote>
                                   <div class="testimonial__img">
-                                    <img class="testimonial__photo" src="frontend/images/team_member/5.jpg" alt="John Tarkpor">
+                                    <img class="testimonial__photo" src="frontend/images/team_member/5.jpg" style="max-height: 400px;" alt="John Tarkpor">
                                   </div>
                                 </figure>
                               </div>
@@ -125,25 +125,7 @@
                                     </cite>
                                   </blockquote>
                                   <div class="testimonial__img">
-                                    <img class="testimonial__photo" src="frontend/images/team_member/verka.jpg" alt="John Tarkpor">
-                                  </div>
-                                </figure>
-                              </div>
-
-                              <div class="slider__slide slider__slide--2">
-                                <figure class="testimonial slider__slide-content">
-                                  <blockquote class="testimonial__text">
-                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
-                                    <p class="testimonial__quote">
-                                      “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
-                                    </p>
-                                    <cite class="testimonial__cite">
-                                      <span class="testimonial__cite--name">John Tarkpor </span>
-                                      <span class="testimonial__cite--role">Junior Front-end Developer</span>
-                                    </cite>
-                                  </blockquote>
-                                  <div class="testimonial__img">
-                                    <img class="testimonial__photo" src="frontend/images/team_member/sanja.jpg" alt="John Tarkpor">
+                                    <img class="testimonial__photo" src="frontend/images/team_member/verka.jpg" style="max-height: 400px;" alt="John Tarkpor">
                                   </div>
                                 </figure>
                               </div>
@@ -161,7 +143,25 @@
                                     </cite>
                                   </blockquote>
                                   <div class="testimonial__img">
-                                    <img class="testimonial__photo" src="frontend/images/team_member/Hiljmnijeta.png" alt="John Tarkpor">
+                                    <img class="testimonial__photo" src="frontend/images/team_member/sanja.jpg" alt="John Tarkpor" style="max-height: 400px;">
+                                  </div>
+                                </figure>
+                              </div>
+
+                              <div class="slider__slide slider__slide--2">
+                                <figure class="testimonial slider__slide-content">
+                                  <blockquote class="testimonial__text">
+                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                    <p class="testimonial__quote">
+                                      “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
+                                    </p>
+                                    <cite class="testimonial__cite">
+                                      <span class="testimonial__cite--name">John Tarkpor </span>
+                                      <span class="testimonial__cite--role">Junior Front-end Developer</span>
+                                    </cite>
+                                  </blockquote>
+                                  <div class="testimonial__img">
+                                    <img class="testimonial__photo" src="frontend/images/team_member/Hiljmnijeta.png" alt="John Tarkpor" style="max-height: 400px;">
                                   </div>
                                 </figure>
                               </div>
@@ -189,7 +189,8 @@
                 </div>
 
                  <!-- Add Pagination -->
-               
+                 <a class="box-readmore center-rx" href="/pledges">View All PLedges</a>
+
 
             </div>
           
@@ -1159,6 +1160,25 @@ window.addEventListener('resize', () => {
     slider.style.transition = 'none';
     slider.style.transform = `translateX(${-(moveX * counter)}px)`;
 });
+
+
+
+      var indexValue = 0;
+      function slideShow(){
+        setTimeout(slideShow, 2500);
+        var x;
+        
+        for(x = 0; x < numSlides; x++){
+          slides[x].style.display = "none";
+        }
+        indexValue++;
+        if(indexValue > numSlides){indexValue = 1}
+        slides[indexValue -1].style.display = "block";
+      }
+      slideShow();
+
+
+
         </script>
     
    

@@ -24,6 +24,8 @@
  Route::get('/infographicss', function () { return view('frontend.infographics'); });
  Route::get('/storiess', function () { return view('frontend.stories'); });
  Route::get('/covid19', function () { return view('frontend.covid19'); });
+ Route::get('/pledges', function () { return view('frontend.pledges'); });
+
 
  //Stories
  Route::get('/ngostory', function () { return view('frontend.ngostory'); });

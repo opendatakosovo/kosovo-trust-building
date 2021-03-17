@@ -1163,19 +1163,19 @@ window.addEventListener('resize', () => {
 
 
 
-      var indexValue = 0;
-      function slideShow(){
-        setTimeout(slideShow, 2500);
-        var x;
+    //   var indexValue = 0;
+    //   function slideShow(){
+    //     setTimeout(slideShow, 2500);
+    //     var x;
         
-        for(x = 0; x < numSlides; x++){
-          slides[x].style.display = "none";
-        }
-        indexValue++;
-        if(indexValue > numSlides){indexValue = 1}
-        slides[indexValue -1].style.display = "block";
-      }
-      slideShow();
+    //     for(x = 0; x < numSlides; x++){
+    //       slides[x].style.display = "none";
+    //     }
+    //     indexValue++;
+    //     if(indexValue > numSlides){indexValue = 1}
+    //     slides[indexValue -1].style.display = "block";
+    //   }
+    //   slideShow();
 
 
 

@@ -1233,6 +1233,7 @@
 
 .bond-iconbox.icoshadow .readmore:hover {
     color: #222;
+    cursor: pointer;
 }
 
 /* Icon out top*/

@@ -264,6 +264,7 @@ input[type="reset"]:hover,
 input[type="submit"]:hover,.page-callout .button:hover {
 	background-color: #222222;
     border: 1px solid #222222;
+	cursor: pointer;
 }
 
 select,

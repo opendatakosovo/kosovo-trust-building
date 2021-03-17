@@ -299,7 +299,7 @@
                         <div class="content">
                             <h5 class="title"><a data-toggle="modal" data-target="#myModal">TELL US YOUR STORY</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p>
-                            <a data-toggle="modal" data-target="#myModal" class="readmore">More</a>                        
+                            <a data-toggle="modal" data-target="#myModal" class="readmore">HERE</a>                        
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -309,9 +309,9 @@
                             <span class="icons icon-wallet"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">DONATE</a></h5>
+                            <h5 class="button" data-toggle="modal" data-target="#myModal" ><a>DONATE</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p>
-                            <a class="readmore">More</a>         
+                            <a class="readmore">HERE</a>         
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
             </div><!-- /.bond-iconbox-fullwidth -->

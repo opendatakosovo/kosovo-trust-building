@@ -48,10 +48,12 @@
         <input type="text" id="myFilter" class="form-control" onkeyup="myFunction()" placeholder="Search for organizations..">
         </div>
       <button type="button" class="btn btn-default btn-xs btn-tag">All</button>
-      <button type="button" class="btn btn-primary btn-xs btn-tag">#Human rights</button>
-      <button type="button" class="btn btn-primary btn-xs btn-tag">#Language</button>
-      <button type="button" class="btn btn-primary btn-xs btn-tag">#Gender Equality</button>
       <button type="button" class="btn btn-primary btn-xs btn-tag">#Youth</button>
+      <button type="button" class="btn btn-primary btn-xs btn-tag">#Gender</button>
+      <button type="button" class="btn btn-primary btn-xs btn-tag">#Education</button>
+      <button type="button" class="btn btn-primary btn-xs btn-tag">#Media</button>
+      <button type="button" class="btn btn-primary btn-xs btn-tag">#Culture</button>
+      <button type="button" class="btn btn-primary btn-xs btn-tag">#Region</button>
     </div>
     
 
@@ -148,6 +150,126 @@
         </div>
     </section>  
       
+      <section>
+             <div class="container">
+                 <div class="row">
+                 <div class="col-sm-4 mb-3 col-md-4">
+                     <input type="text" id="myFilter" class="form-control" onkeyup="myFunction()" placeholder="Search for organizations..">
+                </div>
+                    <div class="col-sm-12">  
+                        <button type="button" class="btn btn-default btn-xs btn-tag">All</button>
+                        <button type="button" class="btn btn-primary btn-xs btn-tag">#Youth</button>
+                        <button type="button" class="btn btn-primary btn-xs btn-tag">#Gender</button>
+                        <button type="button" class="btn btn-info btn-xs btn-tag">#Education</button>
+                        <button type="button" class="btn btn-info btn-xs btn-tag">#Media</button>
+                        <button type="button" class="btn btn-info btn-xs btn-tag">#Culture</button>
+                        <button type="button" class="btn btn-info btn-xs btn-tag">#Region</button>
+                    </div>
+                 </div>
+                <div class="row">
+                    <div class="col-sm-4" id="project1">
+                    <div class="panel panel-default">
+                    <div class="panel-heading">
+                        </div>
+                        <div class="panel-body">
+                        <a href="organization1"><img src="frontend/images/organizations/undp.png" alt="UNDP"></a>
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Region</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+
+                    </div>
+                        <div class="col-sm-4" id="project2">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                        </div>
+                        <div class="panel-body">
+                       <img src="frontend/images/organizations/unhcr.png" alt="" >
+                        </div>
+                        <div class="panel-footer">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Gender</span>
+                        <span class="label label-default">#Region</span>
+                        <span class="label label-default">#Education</span>
+                        </div>
+                    </div>
+
+                    </div>
+                        <div class="col-sm-4" id="project3">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                        </div>
+                        <div class="panel-body">
+                        <img src="frontend/images/organizations/iom.png" alt="" >
+                        </div>
+                        <div class="panel-footer">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Gender</span>
+                        <span class="label label-default">#Media</span>
+                        </div>
+                    </div>
+
+                    </div>
+                    <div class="col-sm-4" id="project4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading title">
+                       
+                        </div>
+                        <div class="panel-body">
+                        <img src="frontend/images/organizations/unmik.png" alt="">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Region</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+
+                    </div>
+                        <div class="col-sm-4" id="project5">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                        </div>
+                        <div class="panel-body">
+                        <img src="frontend/images/organizations/giz.jpg" alt="" >
+                        </div>
+                        <div class="panel-footer">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Gender</span>
+                        <span class="label label-default">#Region</span>
+                        <span class="label label-default">#Education</span>
+                        </div>
+                    </div>
+
+                    </div>
+                        <div class="col-sm-4" id="project6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                        </div>
+                        <div class="panel-body">
+                        <img src="frontend/images/organizations/acdc.png" alt="">
+                        </div>
+                        <div class="panel-footer">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Gender</span>
+                        <span class="label label-default">#Media</span>
+                        </div>
+                    </div>
+
+                    </div>
+                    
+                    
+                </div>
+                </div>
+
+      </section>
 
        
 
@@ -233,6 +355,35 @@
     <a class="go-top vertical-text">
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
+
+
+    <script>
+        $(document).ready(function() {
+
+
+$(".btn-tag").click(function(eventObject) {
+  var tag = $(this).html();
+  var totalPanel = document.getElementsByClassName("panel").length;
+  eventObject.preventDefault();
+  for (var x = 1; x <= totalPanel; x++  ){
+    console.log("json: " + JSON.stringify($("#project" + x ).html()));
+    if(JSON.stringify($("#project" + x ).html()).indexOf(tag) >= 0 ){
+      //console.log( JSON.stringify($("#project" + x ).html()) );
+      $("#project" + x ).hide();
+      $("#project" + x ).fadeIn();
+    } else {
+      $("#project" + x ).hide();
+    };
+    //console.log(tag);
+    //console.log(JSON.stringify($("#project" + x ).html()).indexOf(tag));
+  }
+  //console.log(tag);
+
+});
+//console.log("total panel: " + document.getElementsByClassName("panel").length );
+
+});
+    </script>
     
     
     

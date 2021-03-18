@@ -276,7 +276,7 @@
     </section>
 
     <!-- welcome to bond -->
-    <section class="bond-row padb-90">
+    <section class="bond-row padb-90" id="contribute">
         
         <div class="container">
             <div class="row">
@@ -290,14 +290,14 @@
                     <div class="flat-spacer h25"></div>
                 </div><!-- /.col-md-12 -->
             </div>
-            <div class="row " data-item="4" data-nav="true" data-dots="false" data-auto="false" data-margin="30">
+            <div  class="row " data-item="4" data-nav="true" data-dots="false" data-auto="false" data-margin="30">
                 <div class="item col-md-6 effect2 col-xs-6 pad-0">
                     <div class="bond-iconbox square icoshadow s70">
                         <div class="icon-image">
                             <span class="icons icon-note"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a data-toggle="modal" data-target="#myModal">TELL US YOUR STORY</a></h5>
+                            <h5 class="title"><a>TELL US YOUR STORY</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p>
                             <a data-toggle="modal" data-target="#myModal" class="readmore">HERE</a>                        
                         </div>
@@ -309,9 +309,9 @@
                             <span class="icons icon-wallet"></span>
                         </div>
                         <div class="content">
-                            <h5 class="button" data-toggle="modal" data-target="#myModal" ><a>DONATE</a></h5>
+                            <h5 class="title"><a>DONATE</a></h5>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p>
-                            <a class="readmore">HERE</a>         
+                            <a class="readmore" data-toggle="modal" data-target="#myModal" >HERE</a>         
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
             </div><!-- /.bond-iconbox-fullwidth -->

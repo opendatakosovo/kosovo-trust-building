@@ -4460,7 +4460,8 @@ a.readmore:after{
 }
 
 .flat-home5 .header-fix .bond-socials {
-	margin-top: 0;
+	margin-top: -22px;
+    padding-right: 20px;
 }
 
 .header.white .bond-socials li a {
@@ -4752,104 +4753,6 @@ a.readmore:after{
 }
 
 
-<<<<<<< Updated upstream
-#quote-carousel .carousel-indicators .active .ktb-logo1 {	
-	position: absolute;
-	top: -41px;
-	left: -5px;
-	padding: 2px;
-	max-width: 244px;
-}
-#quote-carousel .carousel-indicators .active .ktb-logo2 {
-	
-	position: absolute;
-	top: -41px;
-	left: 85px;
-	padding: 2px;
-	max-width: 244px;
-}
-#quote-carousel .carousel-indicators .active .ktb-logo3 {
-	
-	position: absolute;
-	top: -41px;
-	left: 175px;
-	padding: 2px;
-	max-width: 244px;
-}
-#quote-carousel .carousel-indicators .active .ktb-logo4 {
-	
-	position: absolute;
-	top: -41px;
-	left: 260px;
-	padding: 2px;
-	max-width: 244px;
-}
-#quote-carousel .carousel-indicators .active .ktb-logo5 {	
-	position: absolute;
-	top: -41px;
-	left: 353px;
-	padding: 2px;
-	max-width: 244px;
-}
-#quote-carousel .carousel-indicators .active .ktb-logo6 {	
-	position: absolute;
-	top: -41px;
-	left: 443px;
-	padding: 2px;
-	max-width: 244px;
-}
-.form {
-	padding: 2rem;
-}
-label {
-	margin-bottom: 0.5rem;
-	font-weight: bold;
-	color: #000;
-}
-input {
-	box-shadow: 0 20px 30px(0, 0, 0 .2);
-}
-.page-callout .button--modal {
-	color: #fff;
-	background-color: #FE466C;
-	border-radius: .2rem;
-	transition: all .2s;
-	cursor: pointer;
-}
-.page-callout .button--modal:hover {
-	transform: translateY(-3px);
-	box-shadow: 0 10px 20px rgba(0,0,0,.2);
-}
-.page-callout .button--modal:active {
-	transform: translateY(-1px);
-	box-shadow: 0 5px 10px rgba(0,0,0,.2);
-}
-
-.personal-info {
-	display: flex;
-	justify-content: space-between;
-}
-.modal-close {
-	display: flex;
-	justify-content: flex-end;
-	padding-right: 2rem;
-}
-.modal-close-button {
-	color: #FE466C;
-	font-size: 2.5rem;
-	text-decoration: none;
-	display: inline-block;
-	cursor: pointer;
-	transition: all .3s;
-}
-
-.modal-close-button:hover {
-	font-size: 2.8rem;
-}
-.modal-close-button:active {
-	font-size: 2.5rem;
-}
-=======
   .quotecontainer {
 	margin: 0 auto;
 	margin-top: 250px;
@@ -4923,4 +4826,7 @@ input {
 	  font-size: 1.1em;
 	}
   }
->>>>>>> Stashed changes
+
+  .hidden {
+	display: none;
+  }

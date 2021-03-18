@@ -18,7 +18,6 @@
     <!-- Page title -->
     <div class="bond-page-title">
         <div class="page-title parallax parallax2">
-            <div class="overlay v1"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">                    
@@ -41,122 +40,15 @@
         </div><!-- /.page-title --> 
     </div>
 
-    <!-- Search box for organizations -->
-    <div class="container">
-    <div class="row">
-        <div class="col-sm-4 mb-3 col-md-4">
-        <input type="text" id="myFilter" class="form-control" onkeyup="myFunction()" placeholder="Search for organizations..">
-        </div>
-      <button type="button" class="btn btn-default btn-xs btn-tag">All</button>
-      <button type="button" class="btn btn-primary btn-xs btn-tag">#Youth</button>
-      <button type="button" class="btn btn-primary btn-xs btn-tag">#Gender</button>
-      <button type="button" class="btn btn-primary btn-xs btn-tag">#Education</button>
-      <button type="button" class="btn btn-primary btn-xs btn-tag">#Media</button>
-      <button type="button" class="btn btn-primary btn-xs btn-tag">#Culture</button>
-      <button type="button" class="btn btn-primary btn-xs btn-tag">#Region</button>
-    </div>
     
 
     <!-- Organizations gallery <-- Bond what we do style2 -->
     <section class=" bond-row what-we-do v2 keep-30">
-        <div class="container">
-            <div data-item="4" data-nav="true" data-dots="false" data-auto="false" data-margin="30">
-                <div class=" item col-md-3 col-xs-6 bg-ff4040">
-                    <div class="overlay">
-                        <div class="icon-image" >
-                          <a href="organization1"><img src="frontend/images/organizations/undp.png" alt="UNDP" style="max-width:100%; height:100px;"></a>
-                         
-                        </div>
-                        <div class="content">
-                            <!-- <h4 class="title"><a href="organization1.html">VOCUP</a></h4>
-                            <a class="readmore" href="organization1.html">Read more</a> -->
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-3 col-xs-6 bg-ff4040">
-                    <div class="overlay ">
-                        <div class="icon-image">
-                            <img src="frontend/images/organizations/unhcr.png" alt="" >
-                        </div>
-                        <div class="content">
-                            <!-- <h4 class="title"><a href="#">VOCUP RECNIK</a></h4> -->
-                            <!-- <p>This is a short description about the organization, number of projects and their activity. </p> -->
-                            <!-- <a class="readmore" href="blog_single_v1.html">Read More</a> -->
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-3 col-xs-6 bg-ff4040">
-                    <div class=" ">
-                        <div class="icon-image">
-                        <img src="frontend/images/organizations/iom.png" alt="" style="max-width:100%; height:100px; float:right;">
-                        </div>
-                        <div class="content">
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->                    
-            
-                <div class="item col-md-3 col-xs-6 bg-ff4040">
-                    <div class=" ">
-                        <div class="icon-image">
-                        <img src="frontend/images/organizations/unmik.png" alt="">
-                        </div>
-                        <div class="content">
-        
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-3 col-xs-6 bg-ff4040">
-                    <div class="">
-                        <div class="icon-image">
-                        <img src="frontend/images/organizations/giz.jpg" alt="" >
-                        </div>
-                        <div class="content">
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-3 col-xs-6 bg-ff4040">
-                    <div class=" ">
-                        <div class="icon-image">
-                        <img src="frontend/images/organizations/osce.png" alt="">
-                        </div>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->            
-                
-                <div class="item col-md-3 col-xs-6 bg-ff4040">
-                    <div class=" ">
-                        <div class="icon-image">
-                        <img src="frontend/images/organizations/acdc.png" alt="">
-                        </div>
-                        <div class="content">
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->  
-
-                <div class="item col-md-3 col-xs-6 bg-ff4040">
-                    <div class=" ">
-                        <div class="icon-image">
-                        <img src="frontend/images/organizations/eulex.jpg" alt="" style="max-width:100%; height:100px;float:right;">
-                        </div>
-                        <div class="content">
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->  
-            </div>
-        </div>
-    </section>  
-      
-      <section>
-             <div class="container">
-                 <div class="row">
-                 <div class="col-sm-4 mb-3 col-md-4">
-                     <input type="text" id="myFilter" class="form-control" onkeyup="myFunction()" placeholder="Search for organizations..">
-                </div>
-                    <div class="col-sm-12">  
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4 mb-3 col-md-4">
+                <input type="text" id="myFilter" class="form-control" onkeyup="myFunction()" placeholder="Search for organizations..">
+                 </div>
                         <button type="button" class="btn btn-default btn-xs btn-tag">All</button>
                         <button type="button" class="btn btn-primary btn-xs btn-tag">#Youth</button>
                         <button type="button" class="btn btn-primary btn-xs btn-tag">#Gender</button>
@@ -164,7 +56,6 @@
                         <button type="button" class="btn btn-info btn-xs btn-tag">#Media</button>
                         <button type="button" class="btn btn-info btn-xs btn-tag">#Culture</button>
                         <button type="button" class="btn btn-info btn-xs btn-tag">#Region</button>
-                    </div>
                  </div>
                 <div class="row">
                     <div class="col-sm-4" id="project1">
@@ -233,7 +124,7 @@
                     </div>
 
                     </div>
-                        <div class="col-sm-4" id="project5">
+                <div class="col-sm-4" id="project5">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                         </div>
@@ -266,9 +157,15 @@
                     </div>
                     
                     
+                    
                 </div>
                 </div>
 
+        </div>
+    </section>  
+      
+      <section>
+            
       </section>
 
        
@@ -360,29 +257,28 @@
     <script>
         $(document).ready(function() {
 
+            $(".btn-tag").click(function(eventObject) {
+            var tag = $(this).html();
+            var totalPanel = document.getElementsByClassName("panel").length;
+            eventObject.preventDefault();
+            for (var x = 1; x <= totalPanel; x++  ){
+                console.log("json: " + JSON.stringify($("#project" + x ).html()));
+                if(JSON.stringify($("#project" + x ).html()).indexOf(tag) >= 0 ){
+                //console.log( JSON.stringify($("#project" + x ).html()) );
+                $("#project" + x ).hide();
+                $("#project" + x ).fadeIn();
+                } else {
+                $("#project" + x ).hide();
+                };
+                //console.log(tag);
+                //console.log(JSON.stringify($("#project" + x ).html()).indexOf(tag));
+            }
+            //console.log(tag);
 
-$(".btn-tag").click(function(eventObject) {
-  var tag = $(this).html();
-  var totalPanel = document.getElementsByClassName("panel").length;
-  eventObject.preventDefault();
-  for (var x = 1; x <= totalPanel; x++  ){
-    console.log("json: " + JSON.stringify($("#project" + x ).html()));
-    if(JSON.stringify($("#project" + x ).html()).indexOf(tag) >= 0 ){
-      //console.log( JSON.stringify($("#project" + x ).html()) );
-      $("#project" + x ).hide();
-      $("#project" + x ).fadeIn();
-    } else {
-      $("#project" + x ).hide();
-    };
-    //console.log(tag);
-    //console.log(JSON.stringify($("#project" + x ).html()).indexOf(tag));
-  }
-  //console.log(tag);
+            });
+            //console.log("total panel: " + document.getElementsByClassName("panel").length );
 
-});
-//console.log("total panel: " + document.getElementsByClassName("panel").length );
-
-});
+            });
     </script>
     
     

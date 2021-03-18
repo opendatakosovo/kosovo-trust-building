@@ -8,7 +8,7 @@
                             <div class="flat-contact-us">
                                 <div class="col-md-6">
                                     <h2>BECOME A MEMBER!</h2>
-                                    <a class="button" href="/dashboard"> Register here!</a>
+                                    <a class="button" href="/register"> Register here!</a>
                                 </div>                  
                                <div class="col-md-6">
                                     <h2>Do you want to add something?</h2>

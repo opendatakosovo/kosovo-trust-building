@@ -85,8 +85,8 @@
 
     <div class="container pt-5 pb-5">
         <div class="row">
-           <div class="col-xl-4 col-md-4 mb-2">
-             <h2 class="pb-2 align-center" style="text-align: center;">Powered by</h2>
+           <div class="col-xl-8 col-md-8 mb-4"><h2 class="pb-2 align-center" style="text-align: center;">Powered by</h2>
+           <div class="col-xl-6 col-md-6">
              <div class="text-center">
                 <a href="#" data-toggle="modal" data-target="#modalNSI"><img allign="middle" src="frontend/images/team_member/logo-NSI.png" class="center hvr-grow" alt="A school of fish swimming left, and one fish swimming right. It reads &quot;New Social Initiative&quot;" data-toggle="modal" data-target="#exampleModal"></a>
                 <p class="card-title mt-4">New Social Initiative</p>
@@ -96,7 +96,7 @@
                   <a href="https://twitter.com/NSIMitrovica/ " target="_blank" rel="noopener" aria-label="NSI's twitter account"><i class="fa fa-twitter hvr-grow pr-4"></i></a>
                   <a href="http://newsocialinitiative.org/" target="_blank" rel="noopener" aria-label="NSI's home page"><i class="fa fa-desktop hvr-grow"></i></a>
                 </div>
-             </div>
+            </div>
            </div>
            <div class="modal fade" id="modalNSI" tabindex="-1" role="dialog" aria-label="New Social Initiative Details" aria-hidden="true">
               <div class="modal-dialog" role="document">
@@ -109,12 +109,12 @@
                     </div>
                     <div class="modal-body">
                        <p class="bio">Motto: Inspire dynamic communities. 
-      New Social Initiative (NSI) is an independent think and do tank from North Mitrovica founded on the idea to inspire dynamic communities in Kosovo. Our mission is to assist institutions in utilizing community strengths and delivering evidence based decision making in order to resolve major social and community challenges. Our work aims to: 
-      - Empower public institutions in Kosovo to adopt principles of good governance and increase citizen participation in decision making; 
-      - Contribute to democratization processes and constructive inter-ethnic relations through fostering and promoting positive inter-community communication and cooperation. 
-      - Facilitate shared discourse and joint vision on major social. challenges 
-      - Secure a more prosperous political, social, legal, economic, and environmental development in the region. 
-     Our vision is a prosperous society based on shared community values and strong institutions that respect rights of each and every citizen.</p>
+                            New Social Initiative (NSI) is an independent think and do tank from North Mitrovica founded on the idea to inspire dynamic communities in Kosovo. Our mission is to assist institutions in utilizing community strengths and delivering evidence based decision making in order to resolve major social and community challenges. Our work aims to: 
+                             - Empower public institutions in Kosovo to adopt principles of good governance and increase citizen participation in decision making; 
+                             - Contribute to democratization processes and constructive inter-ethnic relations through fostering and promoting positive inter-community communication and cooperation. 
+                            - Facilitate shared discourse and joint vision on major social. challenges 
+                            - Secure a more prosperous political, social, legal, economic, and environmental development in the region. 
+                            Our vision is a prosperous society based on shared community values and strong institutions that respect rights of each and every citizen.</p>
                     </div>
                     <div class="modal-footer">
                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -122,22 +122,19 @@
                  </div>
               </div>
            </div>
-     
-     
-           <div class="col-xl-4 col-md-4 mb-2">
-             <h2 class="pb-2 align-center" style="text-align: center;">Powered by</h2>
+           <div class="col-xl-6 col-md-6">
              <div class="text-center">
-                <a href="#" data-toggle="modal" data-target="#modalUNMIK"><img allign="middle" src="frontend/images/team_member/odk-logo-bw.png" class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
+             <a href="#" data-toggle="modal" data-target="#modalODK"><img allign="middle" src="frontend/images/team_member/odk-logo-bw.png"  class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
                 <p class="card-title mt-4">Open Data Kosovo</p>
                 <div class="text-center support-icons">
-                   <a href="https://www.facebook.com/opendatakosovo/" target="_blank" rel="noopener" aria-label="Open Data Kosovo's facebook page"><i class="fa fa-facebook-f hvr-grow pr-4"></i></a>
-                   <a href="https://www.instagram.com/opendatakosovo/?hl=en" target="_blank" rel="noopener" aria-label="Open Data Kosovo's instagram"><i class="fa fa-instagram hvr-grow pr-4"></i></a>
-                   <a href="https://twitter.com/OpenDataKosovo" target="_blank" rel="noopener" aria-label="Open Data Kosovo's twitter account"><i class="fa fa-twitter hvr-grow pr-4"></i></a>
-                   <a href="https://opendatakosovo.org/" target="_blank" rel="noopener" aria-label="Open Data Kosovo's home page"><i class="fa fa-desktop hvr-grow"></i></a>
+                    <a href="https://www.facebook.com/opendatakosovo/" target="_blank" rel="noopener" aria-label="Open Data Kosovo's facebook page"><i class="fa fa-facebook-f hvr-grow pr-4"></i></a>
+                     <a href="https://www.instagram.com/opendatakosovo/?hl=en" target="_blank" rel="noopener" aria-label="Open Data Kosovo's instagram"><i class="fa fa-instagram hvr-grow pr-4"></i></a>
+                     <a href="https://twitter.com/OpenDataKosovo" target="_blank" rel="noopener" aria-label="Open Data Kosovo's twitter account"><i class="fa fa-twitter hvr-grow pr-4"></i></a>
+                     <a href="https://opendatakosovo.org/" target="_blank" rel="noopener" aria-label="Open Data Kosovo's home page"><i class="fa fa-desktop hvr-grow"></i></a>
                 </div>
              </div>
            </div>
-           <div class="modal fade" id="modalUNMIK" tabindex="-1" role="dialog" aria-label="UNMIK Details" aria-hidden="true">
+           <div class="modal fade" id="modalODK" tabindex="-1" role="dialog" aria-label="Ciudadanía Inteligente Details" aria-hidden="true">
               <div class="modal-dialog" role="document">
                  <div class="modal-content">
                     <div class="modal-header">
@@ -147,7 +144,7 @@
                        </button>
                     </div>
                     <div class="modal-body">
-                       <p class="bio">Open Data Kosovo is a nonprofit organization that believes in using civic-tech and digital humanitarianism to open government. It's initiative promotes the idea that governance data should be made freely available for everyone to use and republished as they wish, without restrictions from copyright, patents or other mechanisms of control.</p>
+                       <p class="bio">Open Data Kosovo is a nonprofit organization that believes in using civic-tech and digital humanitarianism to open government. Our initiative promotes the idea that governance data should be made freely available for everyone to use and republished as they wish, without restrictions from copyright, patents or other mechanisms of control. We contribute to the development of a local and vibrant tech scene. By working as a lab that provides mentorship and training programs, we engage local software developers and help build a community around the use of nascent and enabling technologies to develop apps for social good with Kosovo’s open data.</p>
                     </div>
                     <div class="modal-footer">
                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -155,31 +152,32 @@
                  </div>
               </div>
            </div>
-     
+
+           </div>  
            <div class="col-xl-4 col-md-4 mb-2">
-             <h2 class="pb-2 align-center" style="text-align: center;">In collaboration with</h2>
+           <h2 class="pb-2 align-center" style="text-align: center;">Supported by</h2>
              <div class="text-center">
-               <a href="#" data-toggle="modal" data-target="#modalFCI"><img allign="middle" src="frontend/images/team_member/support-01.png" class="center hvr-grow" alt="A light bulb is illuminating the space around it. Text reads &quot;Ciudadanía Inteligente&quot;" data-toggle="modal" data-target="#exampleModal3"></a>
-                <p class="card-title mt-4">Fundación Ciudadanía Inteligente</p>
+             <a href="#" data-toggle="modal" data-target="#modalUNMIK"><img allign="middle" src="frontend/images/team_member/support-01.png" class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
+                <p class="card-title mt-4">United Nations Mission in Kosovo</p>
                 <div class="text-center support-icons">
-                  <a href="https://www.facebook.com/ciudadaniai/" target="_blank" rel="noopener" aria-label="Ciudadanía Inteligente's facebook page"><i class="fa fa-facebook"></i></a>
-                  <a href="https://www.instagram.com/ciudadaniai/" target="_blank" rel="noopener" aria-label="Ciudadanía Inteligente's instagram"><i class="fa fa-instagram hvr-grow pr-4"></i></a>
-                  <a href="https://twitter.com/ciudadania_i" target="_blank" rel="noopener" aria-label="Ciudadanía Inteligente's twitter account"><i class="fa fa-twitter hvr-grow pr-4"></i></a>
-                  <a href="https://ciudadaniai.org/" target="_blank" rel="noopener" aria-label="Ciudadanía Inteligente's home page"><i class="fa fa-desktop hvr-grow"></i></a>
+                    <a href="https://www.facebook.com/UNMIK" target="_blank" rel="noopener" aria-label="UNMIK's facebook page"><i class="fa fa-facebook-f hvr-grow pr-4"></i></a>
+                    <a href="https://www.instagram.com/unmik.kosovo/" target="_blank" rel="noopener" aria-label="UNMIK's instagram"><i class="fa fa-instagram hvr-grow pr-4"></i></a>
+                    <a href="https://twitter.com/UNMIKosovo" target="_blank" rel="noopener" aria-label="UNMIK's twitter account"><i class="fa fa-twitter hvr-grow pr-4"></i></a>
+                    <a href="https://unmik.unmissions.org/" target="_blank" rel="noopener" aria-label="UNMIK's home page"><i class="fa fa-desktop hvr-grow"></i></a>
                 </div>
              </div>
            </div>
-           <div class="modal fade" id="modalFCI" tabindex="-1" role="dialog" aria-label="Ciudadanía Inteligente Details" aria-hidden="true">
+           <div class="modal fade" id="modalUNMIK" tabindex="-1" role="dialog" aria-label="UNMIK Details" aria-hidden="true">
               <div class="modal-dialog" role="document">
                  <div class="modal-content">
                     <div class="modal-header">
-                       <p class="card-title mb-0">Fundación Ciudadanía Inteligente</p>
+                         <p class="card-title mb-0">United Nations Mission in Kosovo</p>
                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                        <span aria-hidden="true">×</span>
                        </button>
                     </div>
                     <div class="modal-body">
-                       <p class="bio">Latin American NGO that develops innovative technologies and methodologies to improve democracies. With over 10 years of experience, we work developing projects that empower citizens and upturn power dynamics.</p>
+                        <p class="bio">The mandate of the United Nations Interim Administration Mission in Kosovo (UNMIK) was established by the Security Council in its resolution 1244 (1999). The Mission is mandated to help ensure conditions for a peaceful and normal life for all inhabitants of Kosovo and advance regional stability in the Western Balkans.</p>
                     </div>
                     <div class="modal-footer">
                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -187,7 +185,8 @@
                  </div>
               </div>
            </div>
-     
+           </div>
+            
         </div>
      </div>
      <div class="flat-spacer h138"></div>

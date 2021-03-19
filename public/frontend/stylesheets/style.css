@@ -4815,7 +4815,42 @@ a.readmore:after{
   .next {
 	margin: auto;
   }
-  
+
+/*FORM*/
+
+.form {
+	padding: 2rem;
+}
+.personal-info {
+	display: flex;
+	justify-content: space-between;
+}
+
+/*FORM - MODAL CLOSSE BUTTON*/
+
+.modal-close {
+	display: flex;
+	justify-content: flex-end;
+	padding-right: 2rem;
+}
+.modal-close-button {
+	color: #FE466C;
+	font-size: 2.5rem;
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+}
+.modal-close-button:hover {
+	font-size: 3rem;
+}
+.modal-close-button:active{
+	font-size: 2.5rem;
+}
+
+input .button .button--modal {
+	background-color: red;
+}
+
   /* Media Queries */
   @media screen and (max-width: 460px) {
 	.panel-quote {

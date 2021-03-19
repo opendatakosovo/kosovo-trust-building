@@ -41,9 +41,9 @@
                                                 </div>
                                                 <label for="organizationInput">Organization</label>
                                                 <input type="text" placeholder="Organization" id="organizationInput" name="organization">
-                                                <label for="storyInput" id="story">Your story</label>
-                                                <textarea name="story" cols="24" rows="3"></textarea>
-                                                <input class="button button--modal"  value="Share your story">
+                                                <label for="storyInput" id="story"></label>
+                                                <textarea name="story" cols="24" rows="3">In what way do you want to donate?</textarea>
+                                                <button class="button button--modal">Donate</button>
                                             </form> 
                                         </div>    
                                     </div>

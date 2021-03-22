@@ -57,10 +57,11 @@
                         <button type="button" class="btn btn-info btn-xs btn-tag">#Culture</button>
                         <button type="button" class="btn btn-info btn-xs btn-tag">#Region</button>
                  </div>
-                <div class="row">
-                    <div class="col-sm-4" id="project1">
-                    <div class="panel panel-default">
-                    <div class="panel-heading">
+            <div class="row" id="myItems">
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">UNDP</a></h5>
                         </div>
                         <div class="panel-body">
                         <a href="organization1"><img src="frontend/images/organizations/undp.png" alt="UNDP"></a>
@@ -74,10 +75,11 @@
                         </div>
                     </div>
 
-                    </div>
+                </div>
                         <div class="col-sm-4" id="project2">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
+                    <div class="card panel panel-default">
+                        <div class="card-body panel-heading">
+                        <h5 class="card-title"><a href="#">UNHCR</a></h5>
                         </div>
                         <div class="panel-body">
                        <img src="frontend/images/organizations/unhcr.png" alt="" >
@@ -92,8 +94,9 @@
 
                     </div>
                         <div class="col-sm-4" id="project3">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
+                    <div class="card panel panel-default">
+                        <div class="card-body panel-heading">
+                        <h5 class="card-title"><a href="#">IOM</a></h5>
                         </div>
                         <div class="panel-body">
                         <img src="frontend/images/organizations/iom.png" alt="" >
@@ -107,9 +110,9 @@
 
                     </div>
                     <div class="col-sm-4" id="project4">
-                    <div class="panel panel-default">
-                        <div class="panel-heading title">
-                       
+                    <div class="card panel panel-default">
+                        <div class="card-body panel-heading title">
+                        <h5 class="card-title"><a href="#">UNMIK</a></h5>
                         </div>
                         <div class="panel-body">
                         <img src="frontend/images/organizations/unmik.png" alt="">
@@ -125,8 +128,9 @@
 
                     </div>
                 <div class="col-sm-4" id="project5">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
+                    <div class="card panel panel-default">
+                        <div class="card-body panel-heading">
+                        <h5 class="card-title"><a href="#">GIZ</a></h5>
                         </div>
                         <div class="panel-body">
                         <img src="frontend/images/organizations/giz.jpg" alt="" >
@@ -141,8 +145,9 @@
 
                     </div>
                         <div class="col-sm-4" id="project6">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
+                    <div class="card panel panel-default">
+                        <div class="card-body panel-heading">
+                        <h5 class="card-title"><a href="#">ACDC</a></h5>
                         </div>
                         <div class="panel-body">
                         <img src="frontend/images/organizations/acdc.png" alt="">
@@ -155,11 +160,11 @@
                     </div>
 
                     </div>
-                    
-                    
-                    
+                
                 </div>
-                </div>
+                
+            </div>
+
 
         </div>
     </section>  
@@ -279,6 +284,22 @@
             //console.log("total panel: " + document.getElementsByClassName("panel").length );
 
             });
+
+            function myFunction() {
+        var input, filter, cards, cardContainer, h5, title, i;
+        input = document.getElementById("myFilter");
+        filter = input.value.toUpperCase();
+        cardContainer = document.getElementById("myItems");
+        cards = cardContainer.getElementsByClassName("card");
+    for (i = 0; i < cards.length; i++) {
+        title = cards[i].querySelector(".card-body h5.card-title");
+        if (title.innerText.toUpperCase().indexOf(filter) > -1) {
+            cards[i].style.display = "";
+        } else {
+            cards[i].style.display = "none";
+        }
+    }
+}
     </script>
     
     

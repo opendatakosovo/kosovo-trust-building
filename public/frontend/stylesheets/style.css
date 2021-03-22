@@ -3435,7 +3435,7 @@ a.readmore:after{
 	background: #FE466C;
     padding: 65px 0 51px;
 	position: relative;
-	left: 75px;
+	left: 175px;
 }
 
 .bond-partner-slider .slides {
@@ -3464,15 +3464,15 @@ a.readmore:after{
 	color: #FE466C;
 }
 
-.bond-partner-slider  .owl-nav div.owl-prev:after {
+/* .bond-partner-slider  .owl-nav div.owl-prev:after {
 	width: 1px;
 	height: 14px;
-	background: #222;
+	background: white;
 	content: '';
 	right: 0;
 	position: absolute;
 	top: 5px;
-}
+} */
 
 .bond-partner-slider  .owl-nav div.owl-prev,
 .bond-partner-slider  .owl-nav div.owl-next {

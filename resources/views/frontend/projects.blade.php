@@ -334,8 +334,7 @@
 	                    <li><img alt="single_image" src="frontend/images/home/tes4.png"/> </li>
 	                </ul>
 	                <div class="swiper-nav">                    
-	                    <div class="swiper-button-prev">Prev</div>
-	                    <div class="swiper-button-next">Next</div>
+	            
 	                </div>
 	                <div class="swiper-pagination"></div>   
 
@@ -348,33 +347,19 @@
         <section class="bond-partner-slider bg-white padb-49">
             <div class="container">
                 <ul class="slides">
-                    <li>
-                        <img alt="owlcarousel-item-img" src="frontend/images/organizations/k4.png"/>
+                    <li style="text-align:right;">
+                     <a href="http://radiokfor.com/" target="_blank">  <img alt="owlcarousel-item-img" src="frontend/images/organizations/k4.png" width="80"/></a> 
                     </li>
                     <li>
-                        <img alt="owlcarousel-item-img" src="frontend/images/organizations/logo-voc-up.png"/>
-                    </li>
+                    <a href="https://fjalor-recnik.com/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/logo-voc-up.png"/>
+                    </li></a>
                     <li>
-                        <img alt="owlcarousel-item-img" src="frontend/images/organizations/recnik-fjalor.png"/>
-                    </li>
+                    <a href="https://fjalor-recnik.com/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/recnik-fjalor.png"/>
+                    </li></a>
                     <li>
-                        <img alt="owlcarousel-item-img" src="frontend/images/organizations/un75.jpg"/>
-                    </li>
-                    <li>
-                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc11.png"/>
-                    </li>
-                    <li>
-                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc12.png"/>
-                    </li>
-                    <li>
-                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc7.png"/>
-                    </li>
-                    <li>
-                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc8.png"/>
-                    </li>
-                    <li>
-                        <img alt="owlcarousel-item-img" src="frontend/images/home/oc9.png"/>
-                    </li>
+                    <a href="http://unkt.org/2020/01/01/un75/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/un75.jpg"/>
+                    </li></a>
+
                 </ul>
             </div>
         </section>

@@ -221,10 +221,12 @@
         </div>
     </section> -->
 
-    <section class="bond-row bond-section-teammember">
+    <!-- CONTRIBUTORS SECTION >
+    
+    <!-- <section class="bond-row bond-section-teammember">
         <div class="title-section style2">
             <h3 class="title">OUR TEAM</h3>
-        </div><!-- /.title-section style2 -->
+        </div>
         <div class="container">
             <div class="row">
                 <div class="title-section style1">
@@ -326,7 +328,7 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
 
 

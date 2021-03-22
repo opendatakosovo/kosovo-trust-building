@@ -415,7 +415,7 @@
     <!-- welcome to bond -->
     <section class="bond-row section-home5-welcome padb-76">
         <div class="title-section style2">
-            <h3 class="title">Recommendations</h3>                                       
+            <h3 class="title">Support</h3>                                       
         </div><!-- /.title-section style2 -->
 <br><Br>
         <div class="container">

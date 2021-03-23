@@ -344,7 +344,7 @@
         </section>  
 
         <!--why partner slider -->
-        <section class="bond-partner-slider bg-white padb-49">
+        <section class="bond-partner-slider bg-white padb-49 v2">
             <div class="container">
                 <ul class="slides">
                     <li style="text-align:right;">

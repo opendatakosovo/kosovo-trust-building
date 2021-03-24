@@ -99,7 +99,20 @@
 
                     
                 </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <section class="section-home5-callout2">
+        <footer class="footer"> 
+        @include('frontend.includes.banner')
+        </footer>                    
+    </section>
+
+    <section class="padb-49">
+        <div class="container">
+            <div class="row">
                 <div class="col-md-12">
                     <br><br><br>
                     <h2 class="title" style="text-align: center;">How are we doing it?</h2><br><br>
@@ -161,11 +174,7 @@
         </div>
     </section>
 
-    <section class="section-home5-callout2">
-        <footer class="footer"> 
-        @include('frontend.includes.banner')
-        </footer>                    
-    </section>
+    
 
     <!-- <section class="bond-row great-service v3 padb-25">
         <div class="container">

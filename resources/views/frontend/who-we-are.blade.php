@@ -563,6 +563,27 @@
         </div><!-- /.container -->
     </section>
 
+            <!--why partner slider -->
+            <section class="bond-partner-slider bg-white padb-49 v2">
+            <div class="container">
+                <ul class="slides">
+                    <li style="text-align:right;">
+                     <a href="http://radiokfor.com/" target="_blank">  <img alt="owlcarousel-item-img" src="frontend/images/organizations/k4.png" width="80"/></a> 
+                    </li>
+                    <li>
+                    <a href="https://fjalor-recnik.com/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/logo-voc-up.png"/>
+                    </li></a>
+                    <li>
+                    <a href="https://fjalor-recnik.com/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/recnik-fjalor.png"/>
+                    </li></a>
+                    <li>
+                    <a href="http://unkt.org/2020/01/01/un75/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/un75.jpg"/>
+                    </li></a>
+
+                </ul>
+            </div>
+        </section>
+
 
 
     <!-- Footer -->

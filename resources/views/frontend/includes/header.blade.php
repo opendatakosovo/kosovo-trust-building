@@ -45,28 +45,28 @@
                         </li>
 
                         <li>
-                            <li class="{{ Request::is('projects') ? 'home' : '' }}">
-                                <a href="{{ url('projects') }}">Projects</a> 
+                            <li class="{{ Request::is('projectss') ? 'home' : '' }}">
+                                <a href="{{ url('projectss') }}">Projects</a> 
                         
                         </li>
                        
                         <li>
                             
-                            <li class="{{ Request::is('organizations') ? 'home' : '' }}">
-                                <a href="{{ url('organizations') }}">Organizations</a> 
+                            <li class="{{ Request::is('organizationss') ? 'home' : '' }}">
+                                <a href="{{ url('organizationss') }}">Organizations</a> 
                          
                         </li>
                           
                         <li>
-                            <li class="{{ Request::is('trustbuildingnetwork') ? 'home' : '' }}">
-                                <a href="{{ url('trustbuildingnetwork') }}">Trust Building Network</a> 
+                            <li class="{{ Request::is('trustbuildingnetworkk') ? 'home' : '' }}">
+                                <a href="{{ url('trustbuildingnetworkk') }}">Trust Building Network</a> 
 
                         </li>
 
 
                         <li>
-                            <li class="{{ Request::is('infographics') ? 'home' : '' }}">
-                                <a href="{{ url('infographics') }}">Infographics</a> 
+                            <li class="{{ Request::is('infographicss') ? 'home' : '' }}">
+                                <a href="{{ url('infographicss') }}">Infographics</a> 
                            
                         </li>
                         

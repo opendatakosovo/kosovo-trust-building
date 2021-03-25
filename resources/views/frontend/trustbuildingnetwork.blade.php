@@ -274,6 +274,20 @@
             </div><!-- /.row -->
         </div><!-- /.container -->
     </section>
+    <div class="page-callout" style="margin-bottom:0;">
+            <div class="page-callout-background">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="flat-contact-us">        
+                                    <h2>BECOME A MEMBER!</h2>
+                                    <a class="button" href="/register"> Register here!</a>                                   
+                            </div>
+                        </div><!-- /.col-md-12 -->
+                    </div><!-- /.row -->
+                </div><!-- /.container -->
+            </div>
+        </div>
 
     <!-- welcome to bond -->
     <section class="bond-row padb-90" id="contribute">

@@ -138,7 +138,7 @@
             <div class="container-fluid">
                 <div class="row">
 	          
-	           <h2 class="video_title"  style="text-align: center; color:black;">CREATE OPPORTUNITIES BY WORKING TOGETHER</h2>        
+	           <h2 class="video_title"  style="text-align: center; color:white;">CREATE OPPORTUNITIES BY WORKING TOGETHER</h2>        
                 </div>
             </div>
         </section>

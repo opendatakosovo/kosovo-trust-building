@@ -411,9 +411,9 @@
             <div class="row">
                 <div class="col-md-6 col-md-offset-1">
                     <div class="flat-box-content padl-30">
-                        <h1 class="title">How you can Contribute</h1>
+                        <h1 class="title" style="color:white">How you can Contribute</h1>
                         <h2 class="sub-title">MAKE BIG CHANGES BY STARTING SMALL</h2>
-                        <p style="color: black;">The full list of recommendations and final report are available in English, Albanian and Serbian languages. This platform is a continuation of the Forum’s discussions on actions needed to build a more peaceful and inclusive society and seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.</p>
+                        <p style="color: white;">The full list of recommendations and final report are available in English, Albanian and Serbian languages. This platform is a continuation of the Forum’s discussions on actions needed to build a more peaceful and inclusive society and seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.</p>
                         <a class="flat-button" href="/trustbuildingnetworkk">LEARN MORE</a>
                     </div>
                 </div>

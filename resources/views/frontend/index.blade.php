@@ -27,7 +27,7 @@
         <div class="tp-banner" >
             <ul>
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                    <img src="frontend/images/slides/1.jpg" alt="slider-image" />
+                    <img src="frontend/images/slides/eco-camp.png" alt="slider-image" />
                     
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building<br> Platform
@@ -36,7 +36,7 @@
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                    <img src="frontend/images/slides/2.jpg" alt="slider-image" />
+                    <img src="frontend/images/slides/playing.jpg" alt="slider-image" />
                     
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building<br> Platform
@@ -45,7 +45,7 @@
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                    <img src="frontend/images/slides/3.jpg" alt="slider-image" />
+                    <img src="frontend/images/slides/youth-assembly.png" alt="slider-image" />
                     <div class="tp-caption sfl title-slide center" data-x="309" data-y="160" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building Platform
                     </div>  
@@ -78,7 +78,7 @@
                 </div><!-- /.col-md-12 -->
             
                 <div class="col-md-6">
-                   <img src="frontend/images/home/18.jpg">
+                   <img src="frontend/images/home/youth-assembly3.png">
                 </div>
 
                 <div class="col-md-6 padl-44 magt--10">

@@ -3,6 +3,7 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
 <head>
     @include('frontend.includes.head')
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 
 </head>                               
 <body class="header-sticky page portfolio">  
@@ -48,127 +49,127 @@
             
                 <div class="bond-portfolio four_columns no">
                     <div class="portfolio-container clearfix no-margin one-four ">
-                        <div class="item builder web_design">
+                         <div class="item builder print_design">
                             <div class="featured-post">
-                                <a class="popup-gallery">
-                                   
-                                    <img src="frontend/images/image-tanya.jpg" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                <a href="frontend/images/home/ODK[3].png" title="View Image" class="openButton" data-fancybox>
+                                    <div class="overlay">
+                                        <div class="link">
+                                            <div class="icon-zoom"></div>
+                                        </div>
+                                    </div>
+                                    <img src="frontend/images/home/odk-logo.png" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
                                 </a>
                             </div>
                             <div class="title-post">
                                 <a title="GHUNE KHAOA ROAD" href="#">Open Data Kosovo</a>
-                                <p> “ ODK pledges to further develop digital solutions that aim at integrating youth from all Kosovo communities to promote trustbuilding,social cohesion and cooperation.”</p>
                             </div>
                         </div>
-                        <div class="item builder development">
+                       <div class="item builder print_design">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
-                                   
-                                    <img src="frontend/images/image-john.jpg" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
-                                </a>
-                            </div>
-                            <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p> “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
-                            </div>
-                        </div>
-                        <div class="item builder print_design">
-                            <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a href="frontend/images/home/Jovana.png" title="View Image" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/team_member/3.jpg" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/pledge-jovana.png" style="max-height: 250px; width: 100%;" alt="Jovana">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p>“ I pledge that I will not participate in events in Kosovo that do not offer translation in official languages. ”</p>
+                                <a title="Jovana" href="#">Jovana Radosavljević</a>
                             </div>
                         </div>
-                        <div class="item builder photography">
+                       <div class="item builder print_design">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a href="frontend/images/home/ALTRN.png" title="View Image" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/team_member/4.jpg" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/testim-altrn.png" style="max-height: 250px; width: 100%;" alt="Jovana">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p>“ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
+                                <a title="Alternativa" href="#">Alternativa</a>
                             </div>
-                        </div> 
+                        </div>
+                          <div class="item builder print_design">
+                            <div class="featured-post">
+                                <a href="frontend/images/home/Rexhep-Lushta.png" title="View Image" class="openButton" data-fancybox>
+                                    <div class="overlay">
+                                        <div class="link">
+                                            <div class="icon-zoom"></div>
+                                        </div>
+                                    </div>
+                                    <img src="frontend/images/home/Rexhep-Lushta.jpg" style="max-height: 250px; width: 100%;" alt="Rexhep Lushta">
+                                </a>
+                            </div>
+                            <div class="title-post">
+                                <a title="Rexhep Lushta" href="#">Rexhep Lushta</a>
+                            </div>
+                        </div>
 
                         <div class="item builder web_design">
-                            <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                           <div class="featured-post">
+                                <a href="frontend/images/home/Slavisa-Mladenovic.png" title="View Image" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/team_member/5.jpg" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/Slavisa-Mladenovic.jpg" style="max-height: 250px; width: 100%;" alt="Rexhep Lushta">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p> “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
+                                <a title="Slavisa Mladenovic" href="#">Slavisa Mladenovic</a>
                             </div>
                         </div>
                         <div class="item builder development">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a href="frontend/images/home/Nebojsa-Simic.png" title="View Image" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2bc39cd6e373445b48af14c50ea2222b16e8064d/4.png?locale=en" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/Nebojsa-Simic.jpg" style="max-height: 250px; width: 100%;" alt="Rexhep Lushta">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p> “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
+                                <a title="Slavisa Mladenovic" href="#">Nebojsa Simic</a>
                             </div>
                         </div>
-                        <div class="item builder print_design">
+                        <div class="item builder development">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a href="frontend/images/home/Ardita-Xhemajli.png" title="Ardita Xhemajli" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fee7031e19fa13e5b1bfca765c9b19ab74b4777b/2.png?locale=en" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/Ardita-Xhemajli.jpg" style="max-height: 250px; width: 100%;" alt="Ardita-Xhemajli">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p> “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
+                                <a title="Slavisa Mladenovic" href="#">Ardita Xhemajli</a>
                             </div>
                         </div>
-                        <div class="item builder photography">
+                    <div class="item builder development">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a href="frontend/images/home/Ardita-Xhemajli.png" title="Ardita Xhemajli" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c42c3856bd0b7d46d9ddd9d5a02689975a491a3f/56208344_2331925763696850_6583395393944420352_n.jpg?locale=en" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/Bojan-Stamenkovic.jpg" style="max-height: 250px; width: 100%;" alt="Ardita-Xhemajli">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p> “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
+                                <a title="Slavisa Mladenovic" href="#">Ardita Xhemajli</a>
                             </div>
-                        </div>  
+                        </div> 
                         <div class="item builder photography">
                             <div class="featured-post">
                                 <a class="popup-gallery" href="#">
@@ -331,6 +332,11 @@
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
     
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js">
+
+    $("[data-fancybox]").fancybox();
+    
+    </script>
    
     
 </body>

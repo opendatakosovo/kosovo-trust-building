@@ -155,83 +155,79 @@
                                 <a title="Slavisa Mladenovic" href="#">Ardita Xhemajli</a>
                             </div>
                         </div>
-                    <div class="item builder development">
+                     <div class="item builder development">
                             <div class="featured-post">
-                                <a href="frontend/images/home/Ardita-Xhemajli.png" title="Ardita Xhemajli" class="openButton" data-fancybox>
+                                <a href="frontend/images/home/Bojan-Stamenkovic.png" title="Bojan Stamenkovic" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/home/Bojan-Stamenkovic.jpg" style="max-height: 250px; width: 100%;" alt="Ardita-Xhemajli">
+                                    <img src="frontend/images/home/Bojan-Stamenkovic.jpg" style="max-height: 250px; width: 100%;" alt="Bojan Stamenkovic">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="Slavisa Mladenovic" href="#">Ardita Xhemajli</a>
+                                <a title="Slavisa Mladenovic" href="#">Bojan Stamenkovic</a>
                             </div>
                         </div> 
-                        <div class="item builder photography">
+                    <div class="item builder development">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a href="frontend/images/home/Hiljmnijeta-Apuk.png" title="Bojan Stamenkovic" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/team_member/logo-NSI.png" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/Hiljmnijeta-Apuk.jpg" style="max-height: 250px; width: 100%;" alt="Hiljmnijeta Apuk">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p> “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
+                                <a title="Hiljmnijeta Apuk" href="#">Hiljmnijeta Apuk</a>
                             </div>
                         </div>              
-                        <div class="item builder photography">
+                    <div class="item builder development">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a href="frontend/images/home/Thomas-Kolly.png" title="Bojan Stamenkovic" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/team_member/odk-logo-bw.png" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/Thomas-Kolly.jpg" style="max-height: 250px; width: 100%;" alt="Bojan Stamenkovic">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p> “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
+                                <a title="Thomas Kolly" href="#">Thomas Kolly</a>
                             </div>
                         </div>            
-                        <div class="item builder photography">
+                        <div class="item builder development">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a href="frontend/images/home/Marko-Zakic.png" title="Bojan Stamenkovic" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/team_member/sanja.jpg" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/Marko-Zakic.jpg" style="max-height: 250px; width: 100%;" alt="Bojan Stamenkovic">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p> “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
+                                <a title="Marko Zakic" href="#">Marko Zakic</a>
                             </div>
                         </div>            
-                        <div class="item builder photography">
+                      <div class="item builder development">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a href="frontend/images/home/Shqipe-H-Doli.png" title="Bojan Stamenkovic" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/team_member/verka.jpg" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/Shqipe-H-Doli.jpg" style="max-height: 250px; width: 100%;" alt="Shqipe-H-Doli">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">GHUNE KHAOA ROAD</a>
-                                <p> “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”</p>
+                                <a title="Shqipe-H-Doli" href="#">Shqipe-H-Doli</a>
                             </div>
                         </div>                     
                     </div>

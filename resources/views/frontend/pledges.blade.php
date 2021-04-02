@@ -57,11 +57,11 @@
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/home/odk-logo.png" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
+                                    <img src="frontend/images/home/ODK[3].png" style="max-height: 250px; width: 100%;" alt="GHUNE KHAOA ROAD">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">Open Data Kosovo</a>
+                                <a href="frontend/images/home/ODK[3].png" title="View Image" class="openButton" data-fancybox>Open Data Kosovo</a>
                             </div>
                         </div>
                        <div class="item builder print_design">
@@ -72,29 +72,29 @@
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/home/pledge-jovana.png" style="max-height: 250px; width: 100%;" alt="Jovana">
+                                    <img src="frontend/images/home/Jovana.png" style="max-height: 250px; width: 100%;" alt="Jovana">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="Jovana" href="#">Jovana Radosavljević</a>
+                                <a title="Jovana" href="frontend/images/home/Jovana.png" title="View Image" class="openButton" data-fancybox>Jovana Radosavljević</a>
                             </div>
                         </div>
                        <div class="item builder print_design">
                             <div class="featured-post">
-                                <a href="frontend/images/home/ALTRN.png" title="View Image" class="openButton" data-fancybox>
+                                <a href="frontend/images/home/ALTRN.png" title="Alternativa" class="openButton" data-fancybox>
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="frontend/images/home/testim-altrn.png" style="max-height: 250px; width: 100%;" alt="Jovana">
+                                    <img src="frontend/images/home/ALTRN.png" style="max-height: 250px; width: 100%;" alt="ALTRN">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="Alternativa" href="#">Alternativa</a>
+                                <a title="Alternativa" href="frontend/images/home/ALTRN.png" title="View Image" class="openButton" data-fancybox>Alternativa</a>
                             </div>
                         </div>
-                          <div class="item builder print_design">
+                          <!-- <div class="item builder print_design">
                             <div class="featured-post">
                                 <a href="frontend/images/home/Rexhep-Lushta.png" title="View Image" class="openButton" data-fancybox>
                                     <div class="overlay">
@@ -229,7 +229,7 @@
                             <div class="title-post">
                                 <a title="Shqipe-H-Doli" href="#">Shqipe-H-Doli</a>
                             </div>
-                        </div>                     
+                        </div>                      -->
                     </div>
                 </div> <!-- bond porfolio -->
                 

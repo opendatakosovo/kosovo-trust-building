@@ -73,7 +73,7 @@
                                   </cite>
                                 </blockquote>
                                 <div class="testimonial__img">
-                                  <img class="testimonial__photo" src="frontend/images/image-john.jpg" style="max-height: 400px;" alt="Open Data Kosovo">
+                                  <img class="testimonial__photo" src="frontend/images/home/odk-logo-transparent.png" style="max-height: 400px;" alt="Open Data Kosovo">
                                 </div>
                               </figure>
                             </div>
@@ -90,7 +90,7 @@
                                   </cite>
                                 </blockquote>
                                 <div class="testimonial__img">
-                                  <img class="testimonial__photo" src="frontend/images/image-tanya.jpg" style="max-height: 400px;" alt="Alterniva">
+                                  <img class="testimonial__photo" src="frontend/images/home/altrn-logo.png" style="max-height: 400px;" alt="Alterniva">
                                 </div>
                               </figure>
                             </div>
@@ -104,11 +104,29 @@
                                       “ I pledge that I will not participate in events in Kosovo that do not offer translation in official languages. ”
                                     </p>
                                     <cite class="testimonial__cite">
-                                      <span class="testimonial__cite--name">Jovana Radosavjlević</span>
+                                      <span class="testimonial__cite--name">Jovana Radosavjlević</span><br>
+                                      <span class="testimonial__cite--role">New Social Initiative</span>
                                     </cite>
                                   </blockquote>
                                   <div class="testimonial__img">
-                                    <img class="testimonial__photo" src="frontend/images/team_member/5.jpg" style="max-height: 400px;" alt="John Tarkpor">
+                                    <img class="testimonial__photo" src="frontend/images/home/pledge-jovana.png" style="max-height: 400px;" alt="John Tarkpor">
+                                  </div>
+                                </figure>
+                              </div>
+
+                              <!-- <div class="slider__slide slider__slide--2">
+                                <figure class="testimonial slider__slide-content">
+                                  <blockquote class="testimonial__text">
+                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                    <p class="testimonial__quote">
+                                      “ We pledge that we will work on empowering non-majority communities for participation in Kosovo social and institutional life and increasing trust among communities.  ”
+                                    </p>
+                                    <cite class="testimonial__cite">
+                                      <span class="testimonial__cite--name">New Social Initiative</span>
+                                    </cite>
+                                  </blockquote>
+                                  <div class="testimonial__img">
+                                    <img class="testimonial__photo" src="frontend/images/home/new-social-initiative.jpg" style="max-height: 400px;" alt="John Tarkpor">
                                   </div>
                                 </figure>
                               </div>
@@ -118,14 +136,15 @@
                                   <blockquote class="testimonial__text">
                                     <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
                                     <p class="testimonial__quote">
-                                      “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
+                                      “ I pledge to always support or be part of initiatives aimed at building trust between communities in Kosovo. ”
                                     </p>
                                     <cite class="testimonial__cite">
-                                      <span class="testimonial__cite--name">John Tarkpor </span>
+                                      <span class="testimonial__cite--name">Marko Milenković </span>
+                                      <span class="testimonial__cite--role">New Social Initiative</span>
                                     </cite>
                                   </blockquote>
                                   <div class="testimonial__img">
-                                    <img class="testimonial__photo" src="frontend/images/team_member/verka.jpg" style="max-height: 400px;" alt="John Tarkpor">
+                                    <img class="testimonial__photo" src="frontend/images/home/Marko-Milenković.jpg" alt="John Tarkpor" style="max-height: 400px;">
                                   </div>
                                 </figure>
                               </div>
@@ -135,36 +154,18 @@
                                   <blockquote class="testimonial__text">
                                     <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
                                     <p class="testimonial__quote">
-                                      “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
+                                      “ I pledge that I will not be part of any violence whatsoever, with commitment of my personal and professional integrity for trustbuilding in Kosovo. ”
                                     </p>
                                     <cite class="testimonial__cite">
-                                      <span class="testimonial__cite--name">John Tarkpor </span>
-                                      <span class="testimonial__cite--role">Junior Front-end Developer</span>
+                                      <span class="testimonial__cite--name">Miloš Milovanović </span>
+                                      <span class="testimonial__cite--role">New Social Initiative</span>
                                     </cite>
                                   </blockquote>
                                   <div class="testimonial__img">
-                                    <img class="testimonial__photo" src="frontend/images/team_member/sanja.jpg" alt="John Tarkpor" style="max-height: 400px;">
+                                    <img class="testimonial__photo" src="frontend/images/home/Miloš-Milovanović.jpg" alt="John Tarkpor" style="max-height: 400px;">
                                   </div>
                                 </figure>
-                              </div>
-
-                              <div class="slider__slide slider__slide--2">
-                                <figure class="testimonial slider__slide-content">
-                                  <blockquote class="testimonial__text">
-                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
-                                    <p class="testimonial__quote">
-                                      “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
-                                    </p>
-                                    <cite class="testimonial__cite">
-                                      <span class="testimonial__cite--name">John Tarkpor </span>
-                                      <span class="testimonial__cite--role">Junior Front-end Developer</span>
-                                    </cite>
-                                  </blockquote>
-                                  <div class="testimonial__img">
-                                    <img class="testimonial__photo" src="frontend/images/team_member/Hiljmnijeta.png" alt="John Tarkpor" style="max-height: 400px;">
-                                  </div>
-                                </figure>
-                              </div>
+                              </div> -->
 
 
 

@@ -86,11 +86,11 @@
                                     “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
                                   </p>
                                   <cite class="testimonial__cite">
-                                    <span class="testimonial__cite--name">Alterniva </span>
+                                    <span class="testimonial__cite--name">Alteratniva</span>
                                   </cite>
                                 </blockquote>
                                 <div class="testimonial__img">
-                                  <img class="testimonial__photo" src="frontend/images/home/altrn-logo.png" style="max-height: 400px;" alt="Alterniva">
+                                  <img class="testimonial__photo" src="frontend/images/home/altrn-logo.png" style="max-height: 400px;" alt="Alternativa">
                                 </div>
                               </figure>
                             </div>

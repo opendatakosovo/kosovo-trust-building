@@ -62,7 +62,7 @@
                         <div class="portfolio-container clearfix no-margin one-four ">
                             <div class="item builder print_design">
                                 <div class="featured-post">
-                                    <a class="popup-gallery" href="#">
+                                    <a class="popup-gallery" href="https://www.ks.undp.org/content/kosovo/en/home/presscenter/pressreleases/2019/01/undp-launches-the-improving-access-to-justice-and-rule-of-law-re.html" target="_blank">
                                         <div class="overlay">
                                             <div class="link">
                                                 <div class="icon-zoom"></div>
@@ -78,7 +78,7 @@
                             </div>
                             <div class="item builder photography">
                                 <div class="featured-post">
-                                    <a class="popup-gallery" href="#">
+                                    <a class="popup-gallery" href="https://www.unhcr.org/see/where-we-work/kosovo" target="_blank">
                                         <div class="overlay">
                                             <div class="link">
                                                 <div class="icon-zoom"></div>
@@ -94,7 +94,7 @@
                             </div>  
                               <div class="item builder photography">
                                 <div class="featured-post">
-                                    <a class="popup-gallery" href="#">
+                                    <a class="popup-gallery" href="https://unmik.unmissions.org/srsg-tanin-and-mitrovica-basic-court-president-jointly-commend-work-case-backlog" target="_blank">
                                         <div class="overlay">
                                             <div class="link">
                                                 <div class="icon-zoom"></div>
@@ -111,7 +111,7 @@
                         </div>
                     </div> <!-- bond porfolio -->
                     
-                    <div class="blog-pagination">
+                    <!-- <div class="blog-pagination">
                         <ul class="flat-pagination clearfix">                                        
                             <li class="active">1</li>
                             <li><a href="#">2</a></li>
@@ -119,8 +119,8 @@
                             <li class="next">
                                 <a href="#"><i class="fa fa-angle-right"></i></a>
                             </li>                               
-                        </ul><!-- /.flat-pagination -->
-                    </div>    
+                        </ul>
+                    </div>     -->
                 </div>       
             </div>
         </section>

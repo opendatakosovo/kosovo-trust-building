@@ -717,13 +717,13 @@
 
     <section class="bond-row padb-110  bg-f5">
         <div class="title-section style2">
-            <h3 class="title">TESTIMONIAL</h3>                                       
+            <h3 class="title">QUOTES</h3>                                       
         </div><!-- /.title-section style2 -->
         <div class="container">
             <div class="title-section style1 row mgb-49">
-                <h3 class="title">WHAT PEOPLE SAY ABOUT US</h3>
+                <h3 class="title">TESTIMONIALS</h3>
                 <div class="desc">
-                    <p>We Are Awesome</p>
+                    <p>Take a moment to read some of our testimonials about building trust!</p>
                 </div>                            
             </div><!-- /.title-section style1 -->
             <div class="bond-empty-spacer"></div>
@@ -807,7 +807,7 @@
                                 </div>
                             </div>
                         </li>
-                        <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="2" style="width: 600px;">
+                        <!-- <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="2" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
                                 Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
@@ -900,7 +900,9 @@
                                     <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>
                                 </div>
                             </div>
-                        </li></ul>
+                        </li> -->
+
+                     </ul>
                      <!-- Add Arrows -->
             <div class="swiper-nav">                    
                 <div class="swiper-button-prev">Prev</div>

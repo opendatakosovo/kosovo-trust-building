@@ -244,7 +244,7 @@
 	                                </div>
 	                            </div>
 	                        </li>
-	                        <li class="testimonial swiper-slide  has-image">
+	                        <!-- <li class="testimonial swiper-slide  has-image">
 	                            <div class="testimonial-content">
 	                                <blockquote>
 	                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -319,7 +319,7 @@
 	                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
 	                                </div>
 	                            </div>
-	                        </li>
+	                        </li> -->
 	                    </ul>
 	                
 	                </div> <!--testimonial slider-->
@@ -328,13 +328,14 @@
 	                <ul class="nav-thumb">
 	                    <li class="active"><img alt="single_image" src="frontend/images/home/un-secretary.jpg"/></li>
 	                    <li><img alt="single_image" src="frontend/images/home/testimonial-jovana.png"/> </li>
-	                    <li><img alt="single_image" src="frontend/images/home/testim-altrn.png"/> </li>
+	                    <!-- <li><img alt="single_image" src="frontend/images/home/testim-altrn.png"/> </li>
 	                    <li><img alt="single_image" src="frontend/images/home/tes3.jpg"/> </li>
 	                    <li><img alt="single_image" src="frontend/images/home/odk-logo.png"/> </li>
-	                    <li><img alt="single_image" src="frontend/images/home/tes4.png"/> </li>
+	                    <li><img alt="single_image" src="frontend/images/home/tes4.png"/> </li> -->
 	                </ul>
 	                <div class="swiper-nav">                    
-	            
+                        <div class="swiper-button-prev">Prev</div>
+                        <div class="swiper-button-next">Next</div>
 	                </div>
 	                <div class="swiper-pagination"></div>   
 

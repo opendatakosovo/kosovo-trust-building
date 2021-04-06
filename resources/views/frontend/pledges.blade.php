@@ -233,7 +233,7 @@
                     </div>
                 </div> <!-- bond porfolio -->
                 
-                <div class="blog-pagination">
+                <!-- <div class="blog-pagination">
                     <ul class="flat-pagination clearfix">                                        
                         <li class="active">1</li>
                         <li><a href="#">2</a></li>
@@ -242,8 +242,8 @@
                         <li class="next">
                             <a href="#"><i class="fa fa-angle-right"></i></a>
                         </li>                               
-                    </ul><!-- /.flat-pagination -->
-                </div>           
+                    </ul>    /.flat-pagination
+                </div>            -->
             </div>
         </section>
 

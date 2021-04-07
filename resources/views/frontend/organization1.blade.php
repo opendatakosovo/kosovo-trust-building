@@ -68,11 +68,11 @@
                                                 <div class="icon-zoom"></div>
                                             </div>
                                         </div>
-                                        <img src="frontend/images/portfolio/7.jpg" alt="GHUNE KHAOA ROAD">
+                                        <img src="frontend/images/portfolio/7.jpg" alt="image">
                                     </a>
                                 </div>
                                 <div>
-                                    <b><a title="GHUNE KHAOA ROAD" href="https://www.ks.undp.org/content/kosovo/en/home/presscenter/pressreleases/2019/01/undp-launches-the-improving-access-to-justice-and-rule-of-law-re.html" target="_blank">Enhanced Access to Justice and Rule of Law Reform project</a></b></br></br>
+                                    <b><a title="image" href="https://www.ks.undp.org/content/kosovo/en/home/presscenter/pressreleases/2019/01/undp-launches-the-improving-access-to-justice-and-rule-of-law-re.html" target="_blank">Enhanced Access to Justice and Rule of Law Reform project</a></b></br></br>
                                     <p>UNDP in Kosovo launched on 23 January the "Improving Access to Justice and Rule of Law Reform" project in a roundtable discussion with judges and prosecutors in which the Law on Mediation was discussed.</p>
                                 </div>
                             </div>
@@ -84,11 +84,11 @@
                                                 <div class="icon-zoom"></div>
                                             </div>
                                         </div>
-                                        <img src="frontend/images/portfolio/8.jpg" alt="GHUNE KHAOA ROAD">
+                                        <img src="frontend/images/portfolio/8.jpg" alt="image">
                                     </a>
                                 </div>
                                 <div>
-                                    <b><a title="GHUNE KHAOA ROAD" href="https://www.unhcr.org/see/where-we-work/kosovo" target="_blank">Continuous Advocacy - Language</a></b></br></br></br>
+                                    <b><a title="image" href="https://www.unhcr.org/see/where-we-work/kosovo" target="_blank">Continuous Advocacy - Language</a></b></br></br></br>
                                     <p>UNHCR advocates for proper implementation of legislation and policies, including from the use of language perspective as well as provides technical support.</p>
                                 </div>
                             </div>  
@@ -100,11 +100,11 @@
                                                 <div class="icon-zoom"></div>
                                             </div>
                                         </div>
-                                        <img src="frontend/images/portfolio/9.jpg" alt="GHUNE KHAOA ROAD">
+                                        <img src="frontend/images/portfolio/9.jpg" alt="image">
                                     </a>
                                 </div>
                                 <div>
-                                    <b><a title="GHUNE KHAOA ROAD" href="https://unmik.unmissions.org/srsg-tanin-and-mitrovica-basic-court-president-jointly-commend-work-case-backlog" target="_blank">Mitrovica/Mitrovicë Case Backlog Reduction Project</a></b></br></br>
+                                    <b><a title="image" href="https://unmik.unmissions.org/srsg-tanin-and-mitrovica-basic-court-president-jointly-commend-work-case-backlog" target="_blank">Mitrovica/Mitrovicë Case Backlog Reduction Project</a></b></br></br>
                                     <p>UNMIK supported the Mitrovica/Mitrovicë Basic Court to reduce its extensive case backlog by providing 10 interpreters, 2 legal associates as well as supporting the option to refer cases to mediation.</p>
                                 </div>
                             </div>                       

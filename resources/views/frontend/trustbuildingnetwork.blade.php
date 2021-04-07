@@ -51,7 +51,7 @@
                 <div class="title-section style1 row mgb-49">
                     <h3 class="title" style="color:#06c6a9">PLEDGES</h3>
                     <div class="desc">
-                        <p style="color:#808080`;">Pledge is a commit (a person or organization) by a solemn promise or a thing that is given as security for the fulfillment of a contract or the payment of a debt and is liable to forfeiture in the event of failure.</p>
+                        <p style="color:#808080`;">Actions speak louder than words. A pledge is an actionable commitment detailing how a person will incorporate trust-building in their work in a measurable, practical way. Making a pledge is a pre-requisite for joining the Kosovo Trustbuilding Network. </p>
                     </div>                            
                 </div><!-- /.title-section style1 -->
                 <div class="bond-empty-spacer"></div>

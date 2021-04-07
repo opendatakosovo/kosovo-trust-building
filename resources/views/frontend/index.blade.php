@@ -32,7 +32,7 @@
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building<br> Platform
                     </div>    
-                    <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="#">Learn More</a></div>
+                    <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a></div>
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
@@ -41,7 +41,7 @@
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building<br> Platform
                     </div>    
-                    <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="#">Learn More</a></div>
+                    <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a></div>
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
@@ -56,7 +56,7 @@
                     <div class="tp-caption sfl flat-content-slide color-white text-center" data-x="315" data-y="389" data-speed="1000" data-start="2500" data-easing="Power3.easeInOut">We are working towards building trust in Kosovo.
                     </div>  
                      
-                    <div class="tp-caption sfl flat-button-slider" data-x="502" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="#">Read More</a></div>
+                    <div class="tp-caption sfl flat-button-slider" data-x="502" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Read More</a></div>
                 </li>
             </ul>
         </div>
@@ -268,7 +268,7 @@
                     <div class="portfolio-container clearfix no-margin one-four ">
                         <div class="item builder web_design">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a class="popup-gallery" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
@@ -278,24 +278,24 @@
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">International Mother Language Day</a>
-                                <p>1</p>
+                                <a title="International Mother Language Day" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">International Mother Language Day</a>
+                                <!-- <p>1</p> -->
                             </div>
                         </div>
                         <div class="item builder development">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a class="popup-gallery" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://live.staticflickr.com/65535/49579923632_fcd145ef09_k.jpg" alt="GHUNE KHAOA ROAD">
+                                    <img src="https://live.staticflickr.com/65535/49579923632_fcd145ef09_k.jpg" alt="International Mother Language Day">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">International Mother Language Day</a>
-                                <p>2</p>
+                                <a title="International Mother Language Day" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">International Mother Language Day</a>
+                                <!-- <p>2</p> -->
                             </div>
                         </div>
                         <div class="item builder print_design">
@@ -306,61 +306,61 @@
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://live.staticflickr.com/65535/49578379736_e59a6e6961_b.jpg" alt="GHUNE KHAOA ROAD">
+                                    <img src="https://live.staticflickr.com/65535/49578379736_e59a6e6961_b.jpg" alt="CSO Dialogue Forum">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">CSO Dialogue Forum</a>
-                                <p>Print design</p>
+                                <a title="CSO Dialogue Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">CSO Dialogue Forum</a>
+                                <!-- <p>Print design</p> -->
                             </div>
                         </div>
                         <div class="item builder photography">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a class="popup-gallery" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://live.staticflickr.com/65535/49577873363_1088f3fce1_b.jpg" alt="GHUNE KHAOA ROAD">
+                                    <img src="https://live.staticflickr.com/65535/49577873363_1088f3fce1_b.jpg" alt="CSO Dialogue Forum">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">CSO Dialogue Forum</a>
-                                <p>Photography</p>
+                                <a title="CSO Dialogue Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">CSO Dialogue Forum</a>
+                                <!-- <p>Photography</p> -->
                             </div>
                         </div> 
 
                         <div class="item builder web_design">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a class="popup-gallery" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://live.staticflickr.com/65535/49304344461_02dc12a829_k.jpg" alt="GHUNE KHAOA ROAD">
+                                    <img src="https://live.staticflickr.com/65535/49304344461_02dc12a829_k.jpg" alt="Kosovo Trust-Building Forum">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">Kosovo Trust-Building Forum</a>
-                                <p>Web Design</p>
+                                <a title="Kosovo Trust-Building Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157712444215543">Kosovo Trust-Building Forum</a>
+                                <!-- <p>Web Design</p> -->
                             </div>
                         </div>
                         <div class="item builder development">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a class="popup-gallery" href="https://www.flickr.com/photos/185701275@N02/albums/72157712444215543">
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://live.staticflickr.com/65535/49303858308_ba7b246914_k.jpg" alt="GHUNE KHAOA ROAD">
+                                    <img src="https://live.staticflickr.com/65535/49303858308_ba7b246914_k.jpg" alt="Kosovo Trust-Building Forum">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">Kosovo Trust-Building Forum</a>
-                                <p>Development</p>
+                                <a title="Kosovo Trust-Building Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157712444215543">Kosovo Trust-Building Forum</a>
+                                <!-- <p>Development</p> -->
                             </div>
                         </div>
                         <div class="item builder print_design">
@@ -371,34 +371,34 @@
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://live.staticflickr.com/65535/49233001233_deb6811c56_b.jpg" alt="GHUNE KHAOA ROAD">
+                                    <img src="https://live.staticflickr.com/65535/49233001233_deb6811c56_b.jpg" alt="Adaptation of Municipalities">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">Adaptation of Municipalities</a>
-                                <p>Print design</p>
+                                <a title="Adaptation of Municipalities" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">Adaptation of Municipalities</a>
+                                <!-- <p>Print design</p> -->
                             </div>
                         </div>
                         <div class="item builder photography">
                             <div class="featured-post">
-                                <a class="popup-gallery" href="#">
+                                <a class="popup-gallery" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">
                                     <div class="overlay">
                                         <div class="link">
                                             <div class="icon-zoom"></div>
                                         </div>
                                     </div>
-                                    <img src="https://live.staticflickr.com/65535/49233690137_3570a1c7d6_b.jpg" alt="GHUNE KHAOA ROAD">
+                                    <img src="https://live.staticflickr.com/65535/49233690137_3570a1c7d6_b.jpg" alt="Adaptation of Municipalities">
                                 </a>
                             </div>
                             <div class="title-post">
-                                <a title="GHUNE KHAOA ROAD" href="#">Adaptation of Municipalities</a>
-                                <p>Photography</p>
+                                <a title="Adaptation of Municipalities" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">Adaptation of Municipalities</a>
+                                <!-- <p>Photography</p> -->
                             </div>
                         </div>  
                     </div><!-- /.porfolio container -->
                 </div> <!-- bond porfolio -->
                 
-                <a class="box-readmore center-rx" href="/galleryy">VIEW MORE</a>
+                <a class="box-readmore center-rx" href="/gallery">VIEW MORE</a>
                 <div class="flat-spacer h85"></div>
             </div>
 

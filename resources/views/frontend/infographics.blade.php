@@ -3,44 +3,10 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
 <head>
     @include('frontend.includes.head')
+    <script scr="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.0.2/chart.min.js"></script>
     <style>
-        #container {
-  height: 400px; 
-}
 
-.highcharts-figure, .highcharts-data-table table {
-  min-width: 310px; 
-  max-width: 800px;
-  margin: 1em auto;
-}
 
-.highcharts-data-table table {
-  font-family: Verdana, sans-serif;
-  border-collapse: collapse;
-  border: 1px solid #EBEBEB;
-  margin: 10px auto;
-  text-align: center;
-  width: 100%;
-  max-width: 500px;
-}
-.highcharts-data-table caption {
-  padding: 1em 0;
-  font-size: 1.2em;
-  color: #555;
-}
-.highcharts-data-table th {
-  font-weight: 600;
-  padding: 0.5em;
-}
-.highcharts-data-table td, .highcharts-data-table th, .highcharts-data-table caption {
-  padding: 0.5em;
-}
-.highcharts-data-table thead tr, .highcharts-data-table tr:nth-child(even) {
-  background: #f8f8f8;
-}
-.highcharts-data-table tr:hover {
-  background: #f1f7ff;
-}
     </style>
 
 
@@ -85,6 +51,37 @@
     <figure class="highcharts-figure">
         <div id="container1"></div>
         </figure>
+
+        <div> 
+        
+        </div>
+
+<div class="container" >
+  <div class="row" style="display:flex;">
+    <div class="col-sm" style="width: 45%; height:45%; margin:0 auto;">
+     <canvas id="myChart1" width="400" height="400"></canvas>
+    </div>
+    <div class="col-sm" style="width: 45%; height:45%; margin:0 auto;">
+    <canvas id="myChart2" width="400" height="400"></canvas>
+    </div>
+  </div>
+</div>
+
+<div class="container" style="margin-bottom:100px;">
+  <div class="row" style="display:flex;">
+   <div class="col-sm" style="width: 45%; height:45%; margin:0 auto;">
+      <canvas id="myChart" width="400" height="400" ></canvas>
+    </div>
+    <div class="col-sm" style="width: 45%; height:45%; margin:0 auto;">
+     <canvas id="myChart3" width="400" height="400"></canvas>
+    </div>
+  </div>
+</div>
+
+    <span>
+    
+    </span>
+    
 
 
     <!-- Footer -->
@@ -196,124 +193,285 @@
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="path/to/chartjs/dist/chart.js"></script>
 
     <script>
+    
 
-        Highcharts.chart('container', {
-    chart: {
-        type: 'pie',
-        options3d: {
-            enabled: true,
-            alpha: 45,
-            beta: 0
-        }
-    },
-    title: {
-        text: 'Kosovo Trust Building infographics and resources, 2020'
-    },
-    accessibility: {
-        point: {
-            valueSuffix: '%'
-        }
-    },
-    tooltip: {
-        pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-    },
-    plotOptions: {
-        pie: {
-            allowPointSelect: true,
-            cursor: 'pointer',
-            depth: 35,
-            dataLabels: {
-                enabled: true,
-                format: '{point.name}'
-            }
-        }
-    },
-    series: [{
-        type: 'pie',
-        name: 'Activity share',
-        data: [
-            ['Recommendations', 45.0],
-            ['Initiatives', 26.8],
-            {
-                name: 'Actors',
-                y: 12.8,
-                sliced: true,
-                selected: true
-            },
-            ['Focus groups', 8.5]
-            // ['Opera', 6.2],
-            // ['Others', 0.7]
-        ]
-    }]
-});
 
-Highcharts.chart('container1', {
-    title: {
-        text: 'Language and nationality chart'
-    },
-    xAxis: {
-        categories: ['Prishtina', 'Gjakova', 'Prizren', 'Mitrovica', 'Gjilan']
-    },
-    labels: {
-        items: [{
-            html: 'Total fruit consumption',
-            style: {
-                left: '50px',
-                top: '18px',
-                color: ( // theme
-                    Highcharts.defaultOptions.title.style &&
-                    Highcharts.defaultOptions.title.style.color
-                ) || 'black'
-            }
+
+var ctx = document.getElementById('myChart');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['International Partner', 'Civil Society', 'Central Institutions', 'Local Institutions', 'Media'],
+        datasets: [{
+            label: 'Actors initiatives',
+            data: [446, 311, 77, 35, 26],
+            backgroundColor: [
+             'rgb(255, 99, 132)'
+            ],
+            borderColor: [
+                 'rgb(255, 99, 132)'
+            ],
+            borderWidth: 1,
+            hoverBorderWidth:2,
+            hoverBorderColor:"#000"
         }]
     },
-    series: [{
-        type: 'column',
-        name: 'English',
-        data: [3.5, 2, 1, 2, 2]
-    }, {
-        type: 'column',
-        name: 'Serbian',
-        data: [2, 3, 5, 7, 3]
-    }, {
-        type: 'column',
-        name: 'Albanian',
-        data: [4, 6, 3, 9, 7]
-    }, {
-        type: 'spline',
-        name: 'Average',
-        data: [1, 2.67, 3, 6.33, 3.33],
-        marker: {
-            lineWidth: 2,
-            lineColor: Highcharts.getOptions().colors[3],
-            fillColor: 'white'
+    options: {
+        scales: {
+            y: {
+                beginAtZero: true,
+            }
+            
+        },
+     plugins: {
+            title: {
+                display: true,
+                text: 'Initiatives by actors',
+                padding: {
+                    top: 50,
+                    bottom: 10
+                }
+            }
         }
-    }, {
-        type: 'pie',
-        name: 'Total language chart',
-        data: [{
-            name: 'English',
-            y: 7,
-            color: Highcharts.getOptions().colors[0] // Jane's color
-        }, {
-            name: 'Serbian',
-            y: 23,
-            color: Highcharts.getOptions().colors[1] // John's color
-        }, {
-            name: 'Albanian',
-            y: 70,
-            color: Highcharts.getOptions().colors[2] // Joe's color
-        }],
-        center: [100, 80],
-        size: 100,
-        showInLegend: false,
-        dataLabels: {
-            enabled: false
-        }
-    }]
+    }
+
+
 });
+
+    
+var ctx = document.getElementById('myChart1');
+var myChart1 = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+        labels: ['Initiatives', 'Actors', 'Focus Groups'],
+        datasets: [{
+            label: '# of Votes',
+            data: [502, 360, 6],
+            backgroundColor: [
+                 'rgb(255, 99, 132)',
+                'rgb(54, 162, 235)',
+                'rgb(255, 205, 86)'
+            ],
+            borderColor: [
+               'rgb(255, 99, 132)',
+                'rgb(54, 162, 235)',
+                'rgb(255, 205, 86)'
+
+            ],
+            borderWidth: 1,
+            hoverBorderWidth:2,
+            hoverBorderColor:"#000"
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                beginAtZero: false
+            }
+        },
+         plugins: {
+            title: {
+                display: true,
+                text: '',
+                 padding: {
+                    top: 50,
+                    bottom: 10
+                }
+
+            }
+        }
+    }
+});
+
+
+
+var ctx = document.getElementById('myChart2');
+var myChart2 = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Access to justice', 'Economic empowerment', 'Education', 'Good governance and access to services', 'Inter-religious trust-building', 'Media and communication'],
+        datasets: [{
+            label: 'Central Institutions',
+            data: [21, 29, 11, 28, 1, 3],
+            backgroundColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+            ],
+            borderWidth: 1,
+            hoverBorderWidth:2,
+            hoverBorderColor:"#000"
+        },
+        {
+            label: 'Civil Society',
+            data: [25, 89, 86, 116, 5, 51],
+            backgroundColor: [
+                'rgba(54, 162, 235, 1)',
+                'rgba(54, 162, 235, 1)',
+               'rgba(54, 162, 235, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(54, 162, 235, 1)'
+            ],
+            borderColor: [
+               'rgba(54, 162, 235, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(54, 162, 235, 1)'
+            ],
+            borderWidth: 1,
+            hoverBorderWidth:2,
+            hoverBorderColor:"#000"
+        },
+        {
+            label: 'International Partner',
+            data: [66, 122, 111, 164, 11, 68],
+            backgroundColor: [
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+            ],
+            borderColor: [
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+                 'rgba(255, 206, 86, 1)',
+            ],
+            borderWidth: 1,
+            hoverBorderWidth:3,
+            hoverBorderColor:"#000"
+        },
+        {
+            label: 'Local Institutions',
+            data: [4, 15, 3, 13, 2, 1],
+            backgroundColor: [
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)'
+            ],
+            borderColor: [
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(75, 192, 192, 1)'
+            ],
+            borderWidth: 1,
+            hoverBorderWidth:3,
+            hoverBorderColor:"#000"
+        },
+        {
+            label: 'Media',
+            data: [1, 2, 1, 8, 0, 21],
+            backgroundColor: [
+                 'rgba(134,106,251, 1)',
+                 'rgba(134,106,251 ,1)',
+                 'rgba(134,106,251 ,1)',
+                 'rgba(134,106,251 ,1)',
+                 'rgba(134,106,251 ,1)',
+                 'rgba(134,106,251 ,1)'
+            ],
+            borderColor: [
+                 'rgba(134,106,251, 1)',
+                 'rgba(134,106,251, 1)',
+                 'rgba(134,106,251, 1)',
+                 'rgba(134,106,251, 1)',
+                 'rgba(134,106,251, 1)',
+                 'rgba(134,106,251, 1)'
+            ],
+            borderWidth: 1,
+            hoverBorderWidth:2,
+            hoverBorderColor:"#000"
+        }]
+    },
+    options: {
+       scales: {
+          x: {
+        stacked: true,
+      },
+      y: {
+        stacked: true
+      }
+    },
+     plugins: {
+            title: {
+                display: true,
+                text: 'Initiatives by Focus Group and Actors Group',
+                 padding: {
+                    top: 50,
+                    bottom: 10
+                }
+                
+            }
+        }
+    }
+});
+
+var ctx = document.getElementById('myChart3');
+var myChart3 = new Chart(ctx, {
+    type: 'polarArea',
+    data: {
+        labels: ['Youth', 'Gender', 'Education', 'Media', 'Culture', 'Region'],
+        datasets:  [{
+            label: 'My First Dataset',
+            data: [11, 16, 7, 3, 14],
+            backgroundColor: [
+            'rgb(255, 99, 132)',
+            'rgb(75, 192, 192)',
+            'rgb(255, 205, 86)',
+            'rgb(201, 203, 207)',
+            'rgb(54, 162, 235)'
+            ]
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                beginAtZero: true,
+            }
+            
+        },
+         plugins: {
+            title: {
+                display: true,
+                text: 'Initiatives by Theme',
+                 padding: {
+                    top: 50,
+                    bottom: 10
+                }
+                
+            }
+        }
+    }
+});
+
+
     </script>
 </body>
 </html>

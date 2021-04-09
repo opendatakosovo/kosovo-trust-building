@@ -27,7 +27,7 @@
         <div class="tp-banner" >
             <ul>
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                    <img src="frontend/images/slides/eco-camp.png" alt="slider-image" />
+                    <img src="frontend/images/slides/prishtina.jpg" alt="slider-image" />
                     
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building<br> Platform
@@ -45,7 +45,7 @@
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
-                    <img src="frontend/images/slides/youth-assembly.png" alt="slider-image" />
+                    <img src="frontend/images/slides/covid.jpg" alt="slider-image" />
                     <div class="tp-caption sfl title-slide center" data-x="309" data-y="160" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">
                         Kosovo Trust-Building Platform
                     </div>  
@@ -53,8 +53,7 @@
                         BUILD TRUST
                     </div>  
 
-                    <div class="tp-caption sfl flat-content-slide color-white text-center" data-x="315" data-y="389" data-speed="1000" data-start="2500" data-easing="Power3.easeInOut">We are working towards building trust in Kosovo.
-                    </div>  
+                
                      
                     <div class="tp-caption sfl flat-button-slider" data-x="502" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Read More</a></div>
                 </li>
@@ -242,8 +241,317 @@
     </section>  -->
 
     
+      
+
+    <section class="bond-row section-home4-blog padb-150">
+        <div class="title-section style2">
+            <h3 class="title">{{ __('messages.stories') }}</h3>                                       
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="title-section style1">
+                    <div class="desc">
+                        <p>{{ __('messages.latest.news') }}</p>
+                    </div>                            
+                </div>
+
+            <div class="blog-shortcode clearfix  blog-grid  has-post-content">
+
+                <div class="blog-shortcode  blog-grid  has-post-content">
+            
+                    <article class="entry col-md-4 col-xs-6">
+                        <div class="entry-border">
+                            <div class="featured-post">
+                                <a href="#">                          
+                                    <img width="370" height="264" alt="single_image" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc29GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--279ed72fe43a154595b6c4ec9eafac759c2abade/bild-ez-logo%20res.jpg?locale=en" >                           </a>
+                            </div>
+                            <div class="content-post">
+                                <h5><a href="blog_single_v1.html">Apply for the small project grants of the German Embassy...</a></h5>
+
+                                <div class="entry-meta clearfix">
+                                    <ul>
+
+                                        <li class="post-author">
+                                            <span class="author vcard"><a class="url fn n" href="#" title="View all posts by admin" rel="author"></a>Call for Proposal</a></span>       </li>
+                                        
+                                        <li class="post-date">
+                                            <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                            <span class="date updated" >03/02/2021</span>
+                                        </li>
+
+                                    </ul>       
+                                </div><!-- .meta-post -->                           
+                                
+                            </div>
+                        </div>
+                    </article><!-- /.entry -->  
+
+                    <article class="entry col-md-4 col-xs-6">
+                        <div class="entry-border">
+                            <div class="featured-post">
+                                <a href="blog_single_v1.html">                          
+                                    <img width="370" height="264" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2NGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac162a3fa6cb8b7e021ec4354b4dedd246364b33/Screenshot_1.png?locale=en" class="attachment-pictor-portfolio-thumb-one-three size-pictor-portfolio-thumb-one-three wp-post-image" alt="2">                            </a>
+                            </div>
+                            <div class="content-post">
+                                <h5><a href="blog_single_v1.html">German NGO “Help” encourages MFK’s WEE Program...</a></h5>
+
+                                <div class="entry-meta clearfix">
+                                    <ul>
+
+                                        <li class="post-author">
+                                            <span class="author vcard"><a class="url fn n" href="#" title="View all posts by admin" rel="author">MFK’s WEE Program</a></span>       </li>
+                                        
+                                        <li class="post-date">
+                                            <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                            <span class="date updated" >June 4, 2016</span>
+                                        </li>
+
+                                    </ul>          
+                                </div><!-- .meta-post -->                           
+                                
+                            </div>
+                        </div>
+                    </article><!-- /.entry -->  
+
+                    <article class="entry col-md-4 col-xs-6">
+                        <div class="entry-border">
+                            <div class="featured-post">
+                                <a href="blog_single_v1.html">                          
+                                    <img width="370" height="264" alt="single_image" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--824f68f9172d9fcd74ec8c5fb1ff3d86fb305fb2/140428697_4218642854815701_1317144363911938559_o.jpg?locale=en" >                           </a>
+                            </div>
+                            <div class="content-post">
+                                <h5><a href="blog_single_v1.html">International Organization for Migration provides assistance to flood victims...</a></h5>
+
+                                <div class="entry-meta clearfix">
+                                    <ul>
+
+                                        <li class="post-author">
+                                            <span class="author vcard"> <a class="url fn n" href="#" title="View all posts by admin" rel="author">Aid to Flood Victims</a></span>       </li>
+                                        
+                                        <li class="post-date">
+                                            <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                            <span class="date updated" >June 4, 2016</span>
+                                        </li>
+
+                                    </ul>          
+                                </div><!-- .meta-post -->                           
+                                
+                            </div>
+                        </div>
+                    </article><!-- /.entry -->     
+                    </div>   
+
+                </div>
+                <div class="flat-spacer h12"></div>
+                <a href="/storiess" class="flat-button center-rx">Read More About It</a>
+
+            </div><!-- /.row -->
+
+        </div>
+    </section>
 
     <!-- Bond portfolio home5 -->
+
+
+    <!-- Bond home 5 opprtunity -->
+    <section class="bond-row padt-130 padb-143 parallax parallax17">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-1">
+                    <div class="flat-box-content padl-30">
+                        <h1 class="title" style="color:white">{{ __('messages.how.contribute') }}</h1>
+                        <h2 class="sub-title">{{ __('messages.contribute.text1') }}</h2>
+                        <p style="color: white;">{{ __('messages.contribute.text2') }}</p>
+                        <a class="flat-button" href="/trustbuildingnetworkk">{{ __('messages.view-more') }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- welcome to bond -->
+    <section class="bond-row section-home5-welcome padb-76">
+        <div class="title-section style2">
+            <h3 class="title">{{ __('messages.support') }}</h3>                                       
+        </div><!-- /.title-section style2 -->
+<br><Br>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">                        
+                    <div class="title-section style1">
+                        <h3 class="title">{{ __('messages.initiatives') }}</h3>
+                        <div class="desc">
+                            <p>{{ __('messages.initiatives.text') }}</p>
+                        </div>                            
+                    </div><!-- /.title-section style1 -->
+                    <div class="flat-spacer h18"></div>
+                </div><!-- /.col-md-12 -->
+            </div>
+
+            <div class="row " data-item="4" data-nav="true" data-dots="false" data-auto="false" data-margin="30">
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
+                            <span class="icons icon-user"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">{{ __('messages.youth') }}</a></h5>
+                            
+                            <a class="readmore" href="/projectss">More</a>
+
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
+                            <span class="icons icon-people"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">{{ __('messages.gender') }}</a></h5>
+                          
+                            <a class="readmore" href="/projectss">More</a>
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
+                            <span class="icons icon-graduation"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">{{ __('messages.education') }}</a></h5>
+                            
+                            <a class="readmore" href="/projectss">More</a>
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
+                            <span class="icons icon-camrecorder"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">{{ __('messages.media') }}</a></h5>
+                            
+                            <a class="readmore" href="/projectss">More</a>
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
+                            <span class="icons icon-music-tone-alt"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">{{ __('messages.culture') }}</a></h5>
+                           
+                            <a class="readmore" href="/projectss">More</a>
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+                <div class="item col-md-4 col-xs-6 pad-0_40">
+                    <div class="bond-iconbox square outtop bg-title2 border">
+                        <div class="icon-image">
+                            <span class="icons icon-book-open"></span>
+                        </div>
+                        <div class="content">
+                            <h5 class="title"><a href="#">{{ __('messages.religion') }}</a></h5>
+                            
+                            <a class="readmore" href="/projectss">More</a>
+                        </div>
+                    </div><!-- /.bond-iconbox -->
+                </div><!-- /.item -->
+
+            </div><!-- /.bond-iconbox-fullwidth -->
+        </div>
+    </section>
+
+    <!-- home counter -->
+    <section class="bond-row section-home4-counter padb-145 parallax parallax14">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="bond-counterbox bond-emotsmile style1 v1">
+                        <div class="icon-image">
+                        </div>
+                        <div class="bond-counter">
+                            <div class="numb-count" data-to="327" data-speed="2000" data-waypoint-active="yes">327</div>
+                        </div>
+                        <div class="counter-countent">
+                            <div class="icon-img">
+                                <i class="icon-check icons"></i>
+                            </div>
+                            <div class="content">
+                                <p>{{ __('messages.stories') }}</p>
+                            </div>
+                        </div>
+                    </div><!-- /.bond-counterbox center style1 -->
+                </div><!-- /.col-md-3 -->
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="bond-counterbox bond-drawer style1 ">
+                        <div class="icon-image">
+                        </div>
+                        <div class="bond-counter">
+                            <div class="numb-count" data-to="8522" data-speed="2000" data-waypoint-active="yes">8522</div>
+                        </div>
+                        <div class="counter-countent">                            
+                            <div class="icon-img">
+                                <i class="icon-rocket icons"></i>
+                            </div>
+                            <div class="content">
+                                <p>{{ __('messages.initiatives') }}</p>
+                            </div>
+                        </div>
+                    </div><!-- /.bond-counterbox center style1 -->
+                </div><!-- /.col-md-3 -->
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="bond-counterbox bond-trash style1 v3">
+                        <div class="icon-image">
+                        </div>
+                        <div class="bond-counter">
+                            <div class="numb-count" data-to="23613" data-speed="2000" data-waypoint-active="yes">23613</div>
+                        </div>
+                        <div class="counter-countent">                            
+                            <div class="icon-img">
+                                <i class="icon-user icons"></i>                        
+                            </div>
+                            <div class="content">
+                                <p>{{ __('messages.organizations') }}</p>
+                            </div>
+                        </div>
+                    </div><!-- /.bond-counterbox center style1 -->
+                </div><!-- /.col-md-3 -->
+
+                <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="bond-counterbox bond-present style1 v4">
+                        <div class="icon-image">
+                            
+                        </div>
+                        <div class="bond-counter">
+                            <div class="numb-count" data-to="163" data-speed="2000" data-waypoint-active="yes">163 </div>
+                        </div>
+                        <div class="counter-countent">                            
+                            <div class="icon-img">
+                                <i class="icon-trophy icons"></i>
+                            </div>
+                            <div class="content">
+                                <p>{{ __('messages.pledges') }}</p>
+                            </div>
+                        </div>
+                    </div><!-- /.bond-counterbox center style1 -->
+                </div><!-- /.col-md-3 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+
     <section class="bond-row padb-49">
         <div class="title-section style2">
             <h3 class="title">{{ __('messages.projects') }}</h3>                                       
@@ -404,315 +712,6 @@
         </div>
     </section>
 
-    <!-- Bond home 5 opprtunity -->
-    <section class="bond-row padt-130 padb-143 parallax parallax17">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-md-offset-1">
-                    <div class="flat-box-content padl-30">
-                        <h1 class="title" style="color:white">{{ __('messages.how.contribute') }}</h1>
-                        <h2 class="sub-title">{{ __('messages.contribute.text1') }}</h2>
-                        <p style="color: white;">{{ __('messages.contribute.text2') }}</p>
-                        <a class="flat-button" href="/trustbuildingnetworkk">{{ __('messages.view-more') }}</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- welcome to bond -->
-    <section class="bond-row section-home5-welcome padb-76">
-        <div class="title-section style2">
-            <h3 class="title">{{ __('messages.support') }}</h3>                                       
-        </div><!-- /.title-section style2 -->
-<br><Br>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">                        
-                    <div class="title-section style1">
-                        <h3 class="title">{{ __('messages.initiatives') }}</h3>
-                        <div class="desc">
-                            <p>{{ __('messages.initiatives.text') }}</p>
-                        </div>                            
-                    </div><!-- /.title-section style1 -->
-                    <div class="flat-spacer h18"></div>
-                </div><!-- /.col-md-12 -->
-            </div>
-
-            <div class="row " data-item="4" data-nav="true" data-dots="false" data-auto="false" data-margin="30">
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-user"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.youth') }}</a></h5>
-                            
-                            <a class="readmore" href="/projectss">More</a>
-
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-people"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.gender') }}</a></h5>
-                          
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-graduation"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.education') }}</a></h5>
-                            
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-camrecorder"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.media') }}</a></h5>
-                            
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-music-tone-alt"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.culture') }}</a></h5>
-                           
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-book-open"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.religion') }}</a></h5>
-                            
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-            </div><!-- /.bond-iconbox-fullwidth -->
-        </div>
-    </section>
-
-    <!-- home counter -->
-    <section class="bond-row section-home4-counter padb-145 parallax parallax14">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="bond-counterbox bond-emotsmile style1 v1">
-                        <div class="icon-image">
-                        </div>
-                        <div class="bond-counter">
-                            <div class="numb-count" data-to="327" data-speed="2000" data-waypoint-active="yes">327</div>
-                        </div>
-                        <div class="counter-countent">
-                            <div class="icon-img">
-                                <i class="icon-check icons"></i>
-                            </div>
-                            <div class="content">
-                                <p>{{ __('messages.recommendations') }}</p>
-                            </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="bond-counterbox bond-drawer style1 ">
-                        <div class="icon-image">
-                        </div>
-                        <div class="bond-counter">
-                            <div class="numb-count" data-to="8522" data-speed="2000" data-waypoint-active="yes">8522</div>
-                        </div>
-                        <div class="counter-countent">                            
-                            <div class="icon-img">
-                                <i class="icon-rocket icons"></i>
-                            </div>
-                            <div class="content">
-                                <p>{{ __('messages.initiatives') }}</p>
-                            </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="bond-counterbox bond-trash style1 v3">
-                        <div class="icon-image">
-                        </div>
-                        <div class="bond-counter">
-                            <div class="numb-count" data-to="23613" data-speed="2000" data-waypoint-active="yes">23613</div>
-                        </div>
-                        <div class="counter-countent">                            
-                            <div class="icon-img">
-                                <i class="icon-user icons"></i>                        
-                            </div>
-                            <div class="content">
-                                <p>{{ __('messages.actors') }}</p>
-                            </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
-
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="bond-counterbox bond-present style1 v4">
-                        <div class="icon-image">
-                            
-                        </div>
-                        <div class="bond-counter">
-                            <div class="numb-count" data-to="163" data-speed="2000" data-waypoint-active="yes">163 </div>
-                        </div>
-                        <div class="counter-countent">                            
-                            <div class="icon-img">
-                                <i class="icon-trophy icons"></i>
-                            </div>
-                            <div class="content">
-                                <p>{{ __('messages.champions') }}</p>
-                            </div>
-                        </div>
-                    </div><!-- /.bond-counterbox center style1 -->
-                </div><!-- /.col-md-3 -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-    </section>
-
-    
-
-      
-
-    <section class="bond-row section-home4-blog padb-150">
-        <div class="title-section style2">
-            <h3 class="title">{{ __('messages.stories') }}</h3>                                       
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="title-section style1">
-                    <div class="desc">
-                        <p>{{ __('messages.latest.news') }}</p>
-                    </div>                            
-                </div>
-
-            <div class="blog-shortcode clearfix  blog-grid  has-post-content">
-
-                <div class="blog-shortcode  blog-grid  has-post-content">
-            
-                    <article class="entry col-md-4 col-xs-6">
-                        <div class="entry-border">
-                            <div class="featured-post">
-                                <a href="#">                          
-                                    <img width="370" height="264" alt="single_image" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc29GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--279ed72fe43a154595b6c4ec9eafac759c2abade/bild-ez-logo%20res.jpg?locale=en" >                           </a>
-                            </div>
-                            <div class="content-post">
-                                <h5><a href="blog_single_v1.html">Apply for the small project grants of the German Embassy...</a></h5>
-
-                                <div class="entry-meta clearfix">
-                                    <ul>
-
-                                        <li class="post-author">
-                                            <span class="author vcard"><a class="url fn n" href="#" title="View all posts by admin" rel="author"></a>Call for Proposal</a></span>       </li>
-                                        
-                                        <li class="post-date">
-                                            <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                            <span class="date updated" >03/02/2021</span>
-                                        </li>
-
-                                    </ul>       
-                                </div><!-- .meta-post -->                           
-                                
-                            </div>
-                        </div>
-                    </article><!-- /.entry -->  
-
-                    <article class="entry col-md-4 col-xs-6">
-                        <div class="entry-border">
-                            <div class="featured-post">
-                                <a href="blog_single_v1.html">                          
-                                    <img width="370" height="264" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2NGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac162a3fa6cb8b7e021ec4354b4dedd246364b33/Screenshot_1.png?locale=en" class="attachment-pictor-portfolio-thumb-one-three size-pictor-portfolio-thumb-one-three wp-post-image" alt="2">                            </a>
-                            </div>
-                            <div class="content-post">
-                                <h5><a href="blog_single_v1.html">German NGO “Help” encourages MFK’s WEE Program...</a></h5>
-
-                                <div class="entry-meta clearfix">
-                                    <ul>
-
-                                        <li class="post-author">
-                                            <span class="author vcard"><a class="url fn n" href="#" title="View all posts by admin" rel="author">MFK’s WEE Program</a></span>       </li>
-                                        
-                                        <li class="post-date">
-                                            <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                            <span class="date updated" >June 4, 2016</span>
-                                        </li>
-
-                                    </ul>          
-                                </div><!-- .meta-post -->                           
-                                
-                            </div>
-                        </div>
-                    </article><!-- /.entry -->  
-
-                    <article class="entry col-md-4 col-xs-6">
-                        <div class="entry-border">
-                            <div class="featured-post">
-                                <a href="blog_single_v1.html">                          
-                                    <img width="370" height="264" alt="single_image" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--824f68f9172d9fcd74ec8c5fb1ff3d86fb305fb2/140428697_4218642854815701_1317144363911938559_o.jpg?locale=en" >                           </a>
-                            </div>
-                            <div class="content-post">
-                                <h5><a href="blog_single_v1.html">International Organization for Migration provides assistance to flood victims...</a></h5>
-
-                                <div class="entry-meta clearfix">
-                                    <ul>
-
-                                        <li class="post-author">
-                                            <span class="author vcard"> <a class="url fn n" href="#" title="View all posts by admin" rel="author">Aid to Flood Victims</a></span>       </li>
-                                        
-                                        <li class="post-date">
-                                            <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                            <span class="date updated" >June 4, 2016</span>
-                                        </li>
-
-                                    </ul>          
-                                </div><!-- .meta-post -->                           
-                                
-                            </div>
-                        </div>
-                    </article><!-- /.entry -->     
-                    </div>   
-
-                </div>
-                <div class="flat-spacer h12"></div>
-                <a href="/storiess" class="flat-button center-rx">Read More About It</a>
-
-            </div><!-- /.row -->
-
-        </div>
-    </section>
 
     <section class="bond-row padb-110  bg-f5">
         <div class="title-section style2">

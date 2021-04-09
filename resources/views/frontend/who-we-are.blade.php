@@ -22,16 +22,9 @@
                     <div class="col-md-12">
                         <div class="page-title-heading v1">
                             <div class="page-title-heading">
-                                <h1 class="title">Who we are</h1>
+                                <h1 class="title">{{ __('messages.who-we-are') }}</h1>
                             </div><!-- /.page-title-captions -->
                         </div><!-- /.page-title-captions -->
-
-                        <div class="breadcrumb-trail breadcrumbs">
-                            <ul>
-                                <li class="trail-item"><a href="index.html" title="bond" rel="home">HOME</a></li>
-                                <li>Who we are</li>
-                            </ul>
-                        </div>
 
                     </div><!-- /.col-md-12 -->
                 </div><!-- /.row -->
@@ -51,29 +44,19 @@
                         </div>
                     </div>
                     <div class="col-md-6 padding-left-45">
-                        <h4 class="color-red title-1">How it all started</h4>
+                        <h4 class="color-red title-1">{{ __('messages.whoweare-title') }}</h4>
                         <div class="iconbox ">
                             <div class="box-header">
                                 <h2 class="box-title">Kosovo Trustbuilding Platform</h2>
                             </div>
                             <div class="box-content">
                                 <p>
-                                    In May 2018, with the support of UNKT, UNMIK gathered 120 participants representing
-                                    a broad cross-section of Kosovo society, including grassroots actors, media, youth
-                                    leaders and municipal leadership from both majority and non-majority communities, to
-                                    exchange perspectives on building trust. The main outcome of this Trust-Building
-                                    Forum (TBF) is a list of 135 recommendations covering different areas. </p>
+                                {{ __('messages.about.text1') }} </p>
                                 <p>
-                                    The full list of recommendations and final report are available in English, Albanian
-                                    and Serbian languages. This platform is a continuation of the Forum’s discussions on
-                                    actions needed to build a more peaceful and inclusive society and seeks to promote
-                                    grassroots and civil society initiatives and efforts by international organizations,
-                                    as well as institutional policies and actions to advance trust-building in Kosovo.
+                                {{ __('messages.about.text2') }}
                                 </p>
 
-                                <a class="box-readmore pad-0_43" href="recommendations.html">LEARN MORE</a>
-
-                            </div>
+                                    </div>
                         </div>
                     </div>
                 </div>
@@ -85,7 +68,7 @@
 
     <div class="container pt-5 pb-5">
         <div class="row">
-           <div class="col-xl-8 col-md-8 mb-4"><h2 class="pb-2 align-center" style="text-align: center;">Powered by</h2>
+           <div class="col-xl-8 col-md-8 mb-4"><h2 class="pb-2 align-center" style="text-align: center;">  {{ __('messages.poweredby') }}</h2>
            <div class="col-xl-6 col-md-6">
              <div class="text-center">
                 <a href="#" data-toggle="modal" data-target="#modalNSI"><img allign="middle" src="frontend/images/team_member/logo-NSI.png" class="center hvr-grow" alt="A school of fish swimming left, and one fish swimming right. It reads &quot;New Social Initiative&quot;" data-toggle="modal" data-target="#exampleModal"></a>
@@ -155,7 +138,7 @@
 
            </div>  
            <div class="col-xl-4 col-md-4 mb-2">
-           <h2 class="pb-2 align-center" style="text-align: center;">Supported by</h2>
+           <h2 class="pb-2 align-center" style="text-align: center;">  {{ __('messages.supportedby') }}</h2>
              <div class="text-center">
              <a href="#" data-toggle="modal" data-target="#modalUNMIK"><img allign="middle" src="frontend/images/team_member/support-01.png" class="center hvr-grow" alt="The name &quot;UNMIK&quot; in all caps." data-toggle="modal" data-target="#exampleModal2"></a>
                 <p class="card-title mt-4">United Nations Mission in Kosovo</p>

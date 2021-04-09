@@ -25,16 +25,10 @@
                     <div class="col-md-12">                    
                         <div class="page-title-heading v1">
                             <div class="page-title-heading">
-                                <h1 class="title">Trust Building Network</h1>
+                                <h1 class="title">{{ __('messages.trb') }}</h1>
                             </div><!-- /.page-title-captions -->     
                         </div><!-- /.page-title-captions --> 
 
-                        <div class="breadcrumb-trail breadcrumbs" >
-                            <ul>
-                                <li class="trail-item"><a href="index.html" title="bond" rel="home">HOME</a></li>
-                                <li>Trust Building Network</li>
-                            </ul>
-                        </div>
 
                     </div><!-- /.col-md-12 -->  
                 </div><!-- /.row -->  
@@ -45,13 +39,13 @@
     <section class="bond-row padb-110" style="padding-bottom: 120px; background: url('frontend/images/home/pledge-background.png') no-repeat center fixed;
     background-size: cover; ">
             <div class="title-section style2">
-                <h3 class="title">NETWORK</h3>                                       
+                <h3 class="title">{{ __('messages.network') }}</h3>                                       
             </div><!-- /.title-section style2 -->
             <div class="container">
                 <div class="title-section style1 row mgb-49">
-                    <h3 class="title" style="color:#06c6a9">PLEDGES</h3>
+                    <h3 class="title" style="color:#06c6a9">{{ __('messages.pledges') }}</h3>
                     <div class="desc">
-                        <p style="color:#808080`;">Actions speak louder than words. A pledge is an actionable commitment detailing how a person will incorporate trust-building in their work in a measurable, practical way. Making a pledge is a pre-requisite for joining the Kosovo Trustbuilding Network. </p>
+                        <p style="color:#808080`;">{{ __('messages.pledges.text') }}</p>
                     </div>                            
                 </div><!-- /.title-section style1 -->
                 <div class="bond-empty-spacer"></div>
@@ -66,7 +60,7 @@
                                 <blockquote class="testimonial__text">
                                   <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
                                   <p class="testimonial__quote">
-                                    “ ODK pledges to further develop digital solutions that aim at integrating youth from all Kosovo communities to promote trustbuilding,social cohesion and cooperation.”
+                                  {{ __('messages.odk-pledge') }}
                                   </p>
                                   <cite class="testimonial__cite">
                                     <span class="testimonial__cite--name">Open Data Kosovo</span>
@@ -83,7 +77,7 @@
                                 <blockquote class="testimonial__text">
                                   <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
                                   <p class="testimonial__quote">
-                                    “ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities.  ”
+                                  {{ __('messages.alternativa-pledge') }}
                                   </p>
                                   <cite class="testimonial__cite">
                                     <span class="testimonial__cite--name">Alteratniva</span>
@@ -101,7 +95,7 @@
                                   <blockquote class="testimonial__text">
                                     <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
                                     <p class="testimonial__quote">
-                                      “ I pledge that I will not participate in events in Kosovo that do not offer translation in official languages. ”
+                                    {{ __('messages.nsi-pledge') }}
                                     </p>
                                     <cite class="testimonial__cite">
                                       <span class="testimonial__cite--name">Jovana Radosavjlević</span><br>
@@ -190,7 +184,7 @@
                 </div>
 
                  <!-- Add Pagination -->
-                 <a class="box-readmore center-rx" href="/pledges">View All PLedges</a>
+                 <a class="box-readmore center-rx" href="/pledges">{{ __('messages.view-more') }}</a>
 
 
             </div>
@@ -212,7 +206,7 @@
                                 <i class="icon-check icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
-                                <p>Recommendations</p>
+                                <p>{{ __('messages.recommendations') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -230,7 +224,7 @@
                                 <i class="icon-rocket icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
-                                <p>Initiatives</p>
+                                <p>{{ __('messages.initiatives') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -248,7 +242,7 @@
                                 <i class="icon-user icons"></i>                        
                             </div>
                             <div class="content" style="color:#fe466c;">
-                                <p>Actors</p>
+                                <p>{{ __('messages.actors') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -267,7 +261,7 @@
                                 <i class="icon-trophy icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
-                                <p>Champions</p>
+                                <p>{{ __('messages.champions') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -281,8 +275,8 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="flat-contact-us">        
-                                    <h2>BECOME A MEMBER!</h2>
-                                    <a class="button" href="/register"> Register here!</a>                                   
+                                    <h2>{{ __('messages.member') }}</h2>
+                                    <a class="button" href="/register">{{ __('messages.registerhere') }}</a>                                   
                             </div>
                         </div><!-- /.col-md-12 -->
                     </div><!-- /.row -->
@@ -297,9 +291,9 @@
             <div class="row">
                 <div class="col-md-12">                        
                     <div class="title-section style1">
-                        <h3 class="title">Let's create trust!</h3>
+                        <h3 class="title">{{ __('messages.createtrust') }}</h3>
                         <div class="desc">
-                            <p>There are many ways to do that!</p>
+                            <p>{{ __('messages.trust-text') }}!</p>
                         </div>                            
                     </div><!-- /.title-section style1 -->
                     <div class="flat-spacer h25"></div>
@@ -312,9 +306,9 @@
                             <span class="icons icon-note"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a>TELL US YOUR STORY</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p>
-                            <a data-toggle="modal" data-target="#myModal" class="readmore">HERE</a>                        
+                            <h5 class="title"><a>{{ __('messages.story-form') }}</a></h5>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p> -->
+                            <a data-toggle="modal" data-target="#myModal" class="readmore">{{ __('messages.here') }}</a>                        
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -324,9 +318,9 @@
                             <span class="icons icon-wallet"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a>DONATE</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p>
-                            <a class="readmore" data-toggle="modal" data-target="#myModal" >HERE</a>         
+                            <h5 class="title"><a>{{ __('messages.donate') }}</a></h5>
+                            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p> -->
+                            <a class="readmore" data-toggle="modal" data-target="#myModal" >{{ __('messages.here') }}</a>         
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
             </div><!-- /.bond-iconbox-fullwidth -->
@@ -346,7 +340,7 @@
                     <div class="iconbox clearfix inline-right no-box">
                         <div class="box-header">
                             <div class="box-icon"><span class="icon-directions"></span></div>
-                            <h4 class="box-title">Good governance and access to services</h4>
+                            <h4 class="box-title">{{ __('messages.good-governance') }}</h4>
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip
@@ -356,7 +350,7 @@
                     <div class="iconbox clearfix  inline-right no-box">
                         <div class="box-header">
                             <div class="box-icon"><span class="icon-screen-desktop"></span></div>
-                            <h4 class="box-title">Access to justice</h4>
+                            <h4 class="box-title">{{ __('messages.acces-justice') }}</h4>
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
@@ -367,7 +361,7 @@
                     <div class="iconbox clearfix  inline-right no-box">
                         <div class="box-header">
                             <div class="box-icon"><span class="icon-book-open"></span></div>
-                            <h4 class="box-title">Inter-religious trust-building</h4>
+                            <h4 class="box-title">{{ __('messages.inter-religious') }}</h4>
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
@@ -384,7 +378,7 @@
                     <div class="iconbox clearfix  inline-left no-box">
                         <div class="box-header">
                             <div class="box-icon"><span class="icon-layers"></span></div>
-                            <h4 class="box-title">Economic empowerment and environment</h4>
+                            <h4 class="box-title">{{ __('messages.economic') }}</h4>
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
@@ -395,7 +389,7 @@
                     <div class="iconbox clearfix  inline-left no-box">
                         <div class="box-header">
                             <div class="box-icon"><span class="icon-settings"></span></div>
-                            <h4 class="box-title">Media and communication</h4>
+                            <h4 class="box-title">{{ __('messages.media-commun') }}</h4>
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
@@ -406,7 +400,7 @@
                     <div class="iconbox clearfix  inline-left no-box">
                         <div class="box-header">
                             <div class="box-icon"><span class="icon-grid"></span></div>
-                            <h4 class="box-title">Education</h4>
+                            <h4 class="box-title">{{ __('messages.education') }}</h4>
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
@@ -972,72 +966,7 @@
 
     <!-- Footer -->
     <footer class="footer">  
-       
-        <div class="footer-widgets">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-md-2">
-                        <div class="widget widget_text">
-
-                            <p>UNMIK is funding the establishment, launch and maintenance of the platform until
-                                handover.</p>
-
-                        </div><!-- /.widget-text -->
-                    </div><!-- /.col-md-4 -->
-
-                    <div class="col-md-2">
-                        <div class="widget widget_text">
-
-                            <p>UNMIK does not necessarily endorse the opinions or statements expressed on the platform.
-                            </p>
-
-                        </div><!-- /.widget-text -->
-                    </div><!-- /.col-md-4 -->
-
-                    <div class="col-md-2">
-                        <div class="widget widget_text">
-
-                            <p>UNMIK does not necessarily support the policies and beliefs of organizations or
-                                individuals listed or referred to.</p>
-                        </div><!-- /.widget-text -->
-                    </div><!-- /.col-md-4 -->
-
-                    <div class="col-md-2">
-                        <div class="widget widget_new_letter">
-                            <p>The use of geographic names and boundaries does not imply judgement on the legal status
-                                of Kosovo.</p>
-
-                            <p>UNMIK is not liable for the conduct of any user.</p>                       
-
-
-                        </div><!-- /.widget-new_letter -->
-                    </div><!-- /.col-md-4 -->
-
-
-                    <div class="col-md-2">
-                        <div class="widget widget_new_letter">
-
-                            <p>The inclusion of a link or reference does not imply the endorsement of the linked website
-                                by UNMIK.</p>
-
-
-                        </div><!-- /.widget-new_letter -->
-
-                    </div>
-
-                    <div class="col-md-2">
-                        <div class="widget widget_new_letter">
-
-                            <p>Communications added to forums shall not be considered as having been reviewed or
-                                approved by UNMIK.</p>
-
-                        </div><!-- /.widget-new_letter -->
-
-                    </div>
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </div><!-- /.footer-widgets -->
+    @include('frontend.includes.footer')
     </footer>
 
     <!-- Bottom -->

@@ -12,9 +12,11 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+Route::get('lang/home', 'LangController@index');
+Route::get('lang/change', 'LangController@change')->name('changeLang');
  // front-end routes 
  Route::get('/', function () { return view('frontend.index'); });
+ Route::get('/lang', function () { return view('frontend.lang'); });
  Route::get('/who-we-are', function () { return view('frontend.who-we-are'); });
  Route::get('/trustbuildingnetworkk', function () { return view('frontend.trustbuildingnetwork'); });
  Route::get('/contribute', function () { return view('frontend.contribute'); });

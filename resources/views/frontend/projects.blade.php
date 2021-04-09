@@ -24,16 +24,11 @@
                     <div class="col-md-12">                    
                         <div class="page-title-heading v1">
                             <div class="page-title-heading">
-                                <h1 class="title">Projects and Initiatives</h1>
+                                <h1 class="title">{{ __('messages.projects-initiatives') }}</h1>
                             </div><!-- /.page-title-captions -->     
                         </div><!-- /.page-title-captions --> 
 
-                        <div class="breadcrumb-trail breadcrumbs" >
-                            <ul>
-                                <li class="trail-item"><a href="index.html" title="bond" rel="home">HOME</a></li>
-                                <li>Projects</li>
-                            </ul>
-                        </div>
+                       
 
                     </div><!-- /.col-md-12 -->  
                 </div><!-- /.row -->  
@@ -52,8 +47,8 @@
                                 <span class="icon-user"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">Youth</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur Adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                                <h4 class="title"><a href="#">{{ __('messages.youth') }}</a></h4>
+                               
                                 <a class="readmore" href="blog_single_v1.html">More</a>
 
                             </div>
@@ -67,8 +62,8 @@
                                 <span class="icon-people"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">Gender</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur Adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                                <h4 class="title"><a href="#">{{ __('messages.gender') }}</a></h4>
+                                
                                 <a class="readmore" href="blog_single_v1.html">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
@@ -80,8 +75,8 @@
                                 <span class="icon-graduation"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">Education</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur Adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                                <h4 class="title"><a href="#">{{ __('messages.education') }}</a></h4>
+                               
                                 <a class="readmore" href="blog_single_v1.html">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
@@ -93,8 +88,8 @@
                                 <span class="icon-camrecorder"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">Media</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur Adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                                <h4 class="title"><a href="#">{{ __('messages.media') }}</a></h4>
+                                
                                 <a class="readmore" href="blog_single_v1.html">More</a>
 
                             </div>
@@ -107,8 +102,8 @@
                                 <span class="icon-music-tone-alt icons"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">Culture</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur Adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                                <h4 class="title"><a href="#">{{ __('messages.culture') }}</a></h4>
+                                
                                 <a class="readmore" href="blog_single_v1.html">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
@@ -120,8 +115,8 @@
                                 <span class="icon-book-open"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">Religion</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur Adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                                <h4 class="title"><a href="#">{{ __('messages.religion') }}</a></h4>
+                              
                                 <a class="readmore" href="blog_single_v1.html">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
@@ -138,7 +133,7 @@
             <div class="container-fluid">
                 <div class="row">
 	          
-	           <h2 class="video_title"  style="text-align: center; color:white;">CREATE OPPORTUNITIES BY WORKING TOGETHER</h2>        
+	           <h2 class="video_title"  style="text-align: center; color:white;">{{ __('messages.projects-text1') }}</h2>        
                 </div>
             </div>
         </section>
@@ -149,7 +144,7 @@
                     <div class="iconbox effect1 clearfix inline-right no-box">
                         <div class="box-header">
                             <div class="box-icon"><span class="icon-calendar"></span></div>
-                            <h4 class="box-title">Completed Projects</h4>
+                            <h4 class="box-title">{{ __('messages.projects-completed') }}</h4>
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip
@@ -159,7 +154,7 @@
                     <div class="iconbox effect1 clearfix  inline-right no-box">
                         <div class="box-header">
                             <div class="box-icon"><span class="icon-login"></span></div>
-                            <h4 class="box-title">Partially Completed Projects</h4>
+                            <h4 class="box-title">{{ __('messages.projects-partially') }}</h4>
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
@@ -170,7 +165,7 @@
                     <div class="iconbox effect1 clearfix  inline-right no-box">
                         <div class="box-header">
                             <div class="box-icon"><span class="icon-login"></span></div>
-                            <h4 class="box-title">In progress projects</h4>
+                            <h4 class="box-title">{{ __('messages.projects-progress') }}</h4>
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
@@ -187,10 +182,10 @@
             <div class="absolute clearfix col-xs-offset-6 col-md-6 col-xs-6 padlr-260_120">
                 <div class="iconbox effect1 white-style ">
                     <div class="box-header">
-                        <h2 class="box-title">GET A GLIMPSE OF THE PROJECTS FOSTERING TRUSTBUILDING IN KOSOVO!</h2>
+                        <h2 class="box-title">{{ __('messages.projects-text2') }}</h2>
                     </div>
                     <div class="box-content">
-                        <a class="flat-button bdw" href="contribute.html">CONTRIBUTE</a>
+                        <a class="flat-button bdw" href="contribute.html">{{ __('messages.contribute') }}</a>
                        
                     </div>
                 </div>
@@ -208,7 +203,7 @@
 	                        <li class="testimonial swiper-slide  has-image">
 	                            <div class="testimonial-content">
 	                                <blockquote>
-                                    Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
+                                    {{ __('messages.testimonial1') }}
 
 	                                </blockquote>
 	                            </div>
@@ -228,10 +223,9 @@
 	                       <li class="testimonial swiper-slide  has-image">
 	                            <div class="testimonial-content">
 	                                <blockquote>
-                                    I sincerely hope you will find the Kosovo Trustbuilding Platform useful in your worthy work, and in moments when you need inspiration to move forward. In these difficult times for our society, and our world, we need trustbuilding more than ever.
+                                    {{ __('messages.testimonial2') }}
 
 	                                </blockquote>
-	                            </div>
 	                            <div class="testimonial-meta">
 	                                
 	                            <div class="testimonial-image">
@@ -368,71 +362,8 @@
     <!-- Footer -->
     <footer class="footer">  
     @include('frontend.includes.banner')
-        <div class="footer-widgets">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-md-2">
-                        <div class="widget widget_text">
-
-                            <p>UNMIK is funding the establishment, launch and maintenance of the platform until
-                                handover.</p>
-
-                        </div><!-- /.widget-text -->
-                    </div><!-- /.col-md-4 -->
-
-                    <div class="col-md-2">
-                        <div class="widget widget_text">
-
-                            <p>UNMIK does not necessarily endorse the opinions or statements expressed on the platform.
-                            </p>
-
-                        </div><!-- /.widget-text -->
-                    </div><!-- /.col-md-4 -->
-
-                    <div class="col-md-2">
-                        <div class="widget widget_text">
-
-                            <p>UNMIK does not necessarily support the policies and beliefs of organizations or
-                                individuals listed or referred to.</p>
-                        </div><!-- /.widget-text -->
-                    </div><!-- /.col-md-4 -->
-
-                    <div class="col-md-2">
-                        <div class="widget widget_new_letter">
-                            <p>The use of geographic names and boundaries does not imply judgement on the legal status
-                                of Kosovo.</p>
-
-                            <p>UNMIK is not liable for the conduct of any user.</p>                       
-
-
-                        </div><!-- /.widget-new_letter -->
-                    </div><!-- /.col-md-4 -->
-
-
-                    <div class="col-md-2">
-                        <div class="widget widget_new_letter">
-
-                            <p>The inclusion of a link or reference does not imply the endorsement of the linked website
-                                by UNMIK.</p>
-
-
-                        </div><!-- /.widget-new_letter -->
-
-                    </div>
-
-                    <div class="col-md-2">
-                        <div class="widget widget_new_letter">
-
-                            <p>Communications added to forums shall not be considered as having been reviewed or
-                                approved by UNMIK.</p>
-
-                        </div><!-- /.widget-new_letter -->
-
-                    </div>
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </div><!-- /.footer-widgets -->
+    @include('frontend.includes.footer')
+      
     </footer>
 
     <!-- Bottom -->

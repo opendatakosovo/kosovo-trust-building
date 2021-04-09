@@ -34,55 +34,61 @@
                         <li>
                             
                             <li class="{{ Request::is('/') ? 'home' : '' }}">
-                                <a href="{{ url('/') }}">Home</a>
+                                <a href="{{ url('/') }}">{{ __('messages.home') }}</a>
                          
                         </li>
                         
                         <li>
                             <li class="{{ Request::is('who-we-are') ? 'home' : '' }}">
-                                <a href="{{ url('who-we-are') }}">Who we are</a>  
+                                <a href="{{ url('who-we-are') }}">{{ __('messages.who-we-are') }}</a>  
                           
                         </li>
 
                         <li>
                             <li class="{{ Request::is('projectss') ? 'home' : '' }}">
-                                <a href="{{ url('projectss') }}">Projects</a> 
+                                <a href="{{ url('projectss') }}">{{ __('messages.projects') }}</a> 
                         
                         </li>
                        
                         <li>
                             
                             <li class="{{ Request::is('organizationss') ? 'home' : '' }}">
-                                <a href="{{ url('organizationss') }}">Organizations</a> 
+                                <a href="{{ url('organizationss') }}">{{ __('messages.organizations') }}</a> 
                          
                         </li>
                           
                         <li>
                             <li class="{{ Request::is('trustbuildingnetworkk') ? 'home' : '' }}">
-                                <a href="{{ url('trustbuildingnetworkk') }}">Trust Building Network</a> 
+                                <a href="{{ url('trustbuildingnetworkk') }}">{{ __('messages.trb') }}</a> 
 
                         </li>
 
 
                         <li>
                             <li class="{{ Request::is('infographicss') ? 'home' : '' }}">
-                                <a href="{{ url('infographicss') }}">Infographics</a> 
+                                <a href="{{ url('infographicss') }}">{{ __('messages.infographics') }}</a> 
                            
                         </li>
                         
                         <li>
                             <li class="{{ Request::is('gallery') ? 'home' : '' }}">
-                                <a href="{{ url('gallery') }}">Gallery</a> 
+                                <a href="{{ url('gallery') }}">{{ __('messages.gallery') }}</a> 
                            
                         </li>
 
                         <li>
                             <li class="{{ Request::is('stories') ? 'home' : '' }}">
-                                <a href="{{ url('stories') }}">Stories</a> 
+                                <a href="{{ url('stories') }}">{{ __('messages.stories') }}</a> 
                         
                         </li>
-
-                   
+                    <li>
+                <select class="form-control changeLang">
+                    <option value="en" {{ session()->get('locale') == 'en' ? 'selected' : '' }}>English</option>
+                    <option value="al" {{ session()->get('locale') == 'al' ? 'selected' : '' }}>Shqip</option>
+                    <option value="sr" {{ session()->get('locale') == 'sr' ? 'selected' : '' }}>Srpski</option>
+                </select>
+                    </li>
+   
                                              
                     </ul><!-- /.menu -->
                 </nav><!-- /.mainnav -->
@@ -97,3 +103,13 @@
             </div><!-- /.nav-wrap -->
 
         </div><!-- /.header-inner -->
+
+        <script type="text/javascript">
+  
+  var url = "{{ route('changeLang') }}";
+
+  $(".changeLang").change(function(){
+      window.location.href = url + "?lang="+ $(this).val();
+  });
+
+</script>

@@ -30,12 +30,6 @@
                             </div><!-- /.page-title-captions -->     
                         </div><!-- /.page-title-captions --> 
 
-                        <div class="breadcrumb-trail breadcrumbs" >
-                            <ul>
-                                <li class="trail-item"><a href="index.html" title="bond" rel="home">Trust Building Network</a></li>
-                                <li>Pledges</li>
-                            </ul>
-                        </div>
 
                     </div><!-- /.col-md-12 -->  
                 </div><!-- /.row -->  

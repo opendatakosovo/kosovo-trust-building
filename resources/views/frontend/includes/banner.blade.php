@@ -7,12 +7,12 @@
                         <div class="col-md-12">
                             <div class="flat-contact-us">
                                 <div class="col-md-6">
-                                    <h2>BECOME A MEMBER!</h2>
-                                    <a class="button" href="/register"> Register here!</a>
+                                    <h2>{{ __('messages.member') }}</h2>
+                                    <a class="button" href="/register">{{ __('messages.registerhere') }}</a>
                                 </div>                  
                                <div class="col-md-6">
-                                    <h2>Do you want to add something?</h2>
-                                    <a class="button" href="/trustbuildingnetworkk#contribute">Do it here!</a>
+                                    <h2>{{ __('messages.add-mssg') }}</h2>
+                                    <a class="button" href="/trustbuildingnetworkk#contribute">{{ __('messages.dohere') }}</a>
                                </div>                     
                             </div>
                         </div><!-- /.col-md-12 -->

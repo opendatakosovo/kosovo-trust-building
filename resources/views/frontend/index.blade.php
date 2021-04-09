@@ -62,17 +62,16 @@
         </div>
     </div>
 
-
     <section class="bond-row ab3-s1 padb-134">
         <div class="title-section style2">
-            <h3 class="title">WELCOME</h3>                                       
+            <h3 class="title">{{ __('messages.welcome') }}</h3>                                       
         </div><!-- /.title-section style2 -->
 
         <div class="container">
             <div class="row">
                 <div class="col-md-12">                        
                     <div class="title-section style1">
-                        <h3 class="title">Welcome To Kosovo Trust Building</h3>
+                        <h3 class="title">{{ __('messages.welcome.title') }}</h3>
                                                   
                     </div><!-- /.title-section style1 -->
                 </div><!-- /.col-md-12 -->
@@ -83,13 +82,13 @@
 
                 <div class="col-md-6 padl-44 magt--10">
                     <div class="flat-box-content">
-                        <h4 class="sub-title">ABOUT US</h4>
-                        <h2 class="title">Who are we?</h2>
+                        <h4 class="sub-title">{{ __('messages.about') }}</h4>
+                        <h2 class="title">{{ __('messages.about.title') }}</h2>
                         <div class="content">
-                            <p>In May 2018, with the support of UNKT, UNMIK gathered 120 participants representing a broad cross-section of Kosovo society, including grassroots actors, media, youth leaders and municipal leadership from both majority and non-majority communities, to exchange perspectives on building trust.</p>
+                            <p>{{ __('messages.about.text1') }}</p>
                             <br><br>
                             <p>
-                                This platform is a continuation of the Forum’s discussions on actions needed to build a more peaceful and inclusive society and seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.
+                            {{ __('messages.about.text2') }}
                             </p>
                         </div>
                         
@@ -115,7 +114,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <br><br><br>
-                    <h2 class="title" style="text-align: center;">How are we doing it?</h2><br><br>
+                    <h2 class="title" style="text-align: center;">{{ __('messages.about.text3') }}</h2><br><br>
                         <div class="row pt-3" >
 
 
@@ -247,14 +246,14 @@
     <!-- Bond portfolio home5 -->
     <section class="bond-row padb-49">
         <div class="title-section style2">
-            <h3 class="title">Projects</h3>                                       
+            <h3 class="title">{{ __('messages.projects') }}</h3>                                       
         </div>
         <div class="row">
             <div class="col-md-12">
                 <div class="title-section style1">
-                    <h3 class="title">Our Recent Projects</h3>
+                    <h3 class="title">{{ __('messages.recent.projects') }}</h3>
                     <div class="desc">
-                        <p>Forums, Events and More.</p>
+                        <p>{{ __('messages.forums') }}</p>
                     </div>                            
                 </div><!-- /.title-section style1 -->
             </div><!-- /.col-md-12 -->
@@ -398,7 +397,7 @@
                     </div><!-- /.porfolio container -->
                 </div> <!-- bond porfolio -->
                 
-                <a class="box-readmore center-rx" href="/gallery">VIEW MORE</a>
+                <a class="box-readmore center-rx" href="/gallery">{{ __('messages.view-more') }}</a>
                 <div class="flat-spacer h85"></div>
             </div>
 
@@ -411,10 +410,10 @@
             <div class="row">
                 <div class="col-md-6 col-md-offset-1">
                     <div class="flat-box-content padl-30">
-                        <h1 class="title" style="color:white">How you can Contribute</h1>
-                        <h2 class="sub-title">MAKE BIG CHANGES BY STARTING SMALL</h2>
-                        <p style="color: white;">The full list of recommendations and final report are available in English, Albanian and Serbian languages. This platform is a continuation of the Forum’s discussions on actions needed to build a more peaceful and inclusive society and seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.</p>
-                        <a class="flat-button" href="/trustbuildingnetworkk">LEARN MORE</a>
+                        <h1 class="title" style="color:white">{{ __('messages.how.contribute') }}</h1>
+                        <h2 class="sub-title">{{ __('messages.contribute.text1') }}</h2>
+                        <p style="color: white;">{{ __('messages.contribute.text2') }}</p>
+                        <a class="flat-button" href="/trustbuildingnetworkk">{{ __('messages.view-more') }}</a>
                     </div>
                 </div>
             </div>
@@ -424,16 +423,16 @@
     <!-- welcome to bond -->
     <section class="bond-row section-home5-welcome padb-76">
         <div class="title-section style2">
-            <h3 class="title">Support</h3>                                       
+            <h3 class="title">{{ __('messages.support') }}</h3>                                       
         </div><!-- /.title-section style2 -->
 <br><Br>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">                        
                     <div class="title-section style1">
-                        <h3 class="title">Initatives</h3>
+                        <h3 class="title">{{ __('messages.initiatives') }}</h3>
                         <div class="desc">
-                            <p>In May 2018, with the support of UNKT, UNMIK gathered 120 participants representing a broad cross-section of Kosovo society, including grassroots actors, media, youth leaders and municipal leadership from both majority and non-majority communities, to exchange perspectives on building trust. The main outcome of this Trust-Building Forum (TBF) is a list of 135 recommendations covering the areas of:</p>
+                            <p>{{ __('messages.initiatives.text') }}</p>
                         </div>                            
                     </div><!-- /.title-section style1 -->
                     <div class="flat-spacer h18"></div>
@@ -447,8 +446,8 @@
                             <span class="icons icon-user"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">Youth</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <h5 class="title"><a href="#">{{ __('messages.youth') }}</a></h5>
+                            
                             <a class="readmore" href="/projectss">More</a>
 
                         </div>
@@ -461,8 +460,8 @@
                             <span class="icons icon-people"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">Gender</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <h5 class="title"><a href="#">{{ __('messages.gender') }}</a></h5>
+                          
                             <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -474,8 +473,8 @@
                             <span class="icons icon-graduation"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">Education</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <h5 class="title"><a href="#">{{ __('messages.education') }}</a></h5>
+                            
                             <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -487,8 +486,8 @@
                             <span class="icons icon-camrecorder"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">Media</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <h5 class="title"><a href="#">{{ __('messages.media') }}</a></h5>
+                            
                             <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -500,8 +499,8 @@
                             <span class="icons icon-music-tone-alt"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">Culture</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <h5 class="title"><a href="#">{{ __('messages.culture') }}</a></h5>
+                           
                             <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -513,8 +512,8 @@
                             <span class="icons icon-book-open"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">Religion</a></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod naynare tuhi bura na lage khudhi</p>
+                            <h5 class="title"><a href="#">{{ __('messages.religion') }}</a></h5>
+                            
                             <a class="readmore" href="/projectss">More</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
@@ -540,7 +539,7 @@
                                 <i class="icon-check icons"></i>
                             </div>
                             <div class="content">
-                                <p>Recommendations</p>
+                                <p>{{ __('messages.recommendations') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -558,7 +557,7 @@
                                 <i class="icon-rocket icons"></i>
                             </div>
                             <div class="content">
-                                <p>Initatives</p>
+                                <p>{{ __('messages.initiatives') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -576,7 +575,7 @@
                                 <i class="icon-user icons"></i>                        
                             </div>
                             <div class="content">
-                                <p>Actors</p>
+                                <p>{{ __('messages.actors') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -595,7 +594,7 @@
                                 <i class="icon-trophy icons"></i>
                             </div>
                             <div class="content">
-                                <p>Champions</p>
+                                <p>{{ __('messages.champions') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -610,13 +609,13 @@
 
     <section class="bond-row section-home4-blog padb-150">
         <div class="title-section style2">
-            <h3 class="title">Stories</h3>                                       
+            <h3 class="title">{{ __('messages.stories') }}</h3>                                       
         </div>
         <div class="container">
             <div class="row">
                 <div class="title-section style1">
                     <div class="desc">
-                        <p>Our Latest News</p>
+                        <p>{{ __('messages.latest.news') }}</p>
                     </div>                            
                 </div>
 
@@ -721,9 +720,9 @@
         </div><!-- /.title-section style2 -->
         <div class="container">
             <div class="title-section style1 row mgb-49">
-                <h3 class="title">TESTIMONIALS</h3>
+                <h3 class="title">{{ __('messages.testimonials') }}</h3>
                 <div class="desc">
-                    <p>Take a moment to read some of our testimonials about building trust!</p>
+                    <p>{{ __('messages.testimonials.text') }}</p>
                 </div>                            
             </div><!-- /.title-section style1 -->
             <div class="bond-empty-spacer"></div>
@@ -735,7 +734,7 @@
                     <ul class="swiper-wrapper" style="transform: translate3d(-1200px, 0px, 0px); transition-duration: 0ms;"><li class="testimonial swiper-slide  has-image swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust. 
+                                {{ __('messages.testimonial1') }}
                                 </blockquote>
                             </div>
                             <div class="testimonial-meta">
@@ -752,7 +751,7 @@
                         </li><li class="testimonial swiper-slide has-image swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
+                                {{ __('messages.testimonial2') }}
 
                                 </blockquote>
                             </div>
@@ -772,7 +771,7 @@
                         <li class="testimonial swiper-slide has-image swiper-slide-active" data-swiper-slide-index="0" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                I sincerely hope you will find the Kosovo Trustbuilding Platform useful in your worthy work, and in moments when you need inspiration to move forward. In these difficult times for our society, and our world, we need trustbuilding more than ever.
+                                {{ __('messages.testimonial1') }}
                                 </blockquote>
                             </div>
                             <div class="testimonial-meta">
@@ -791,7 +790,7 @@
                        <li class="testimonial swiper-slide has-image swiper-slide-next" data-swiper-slide-index="1" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
+                                {{ __('messages.testimonial2') }}
 
                                 </blockquote>
                             </div>
@@ -942,50 +941,7 @@
     <!-- Footer -->
     <footer class="footer">  
        
-
-        <div class="footer-widgets">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-2">
-                        <div class="widget widget_text">
-                            <p>UNMIK is funding the establishment, launch and maintenance of the platform until
-                                handover.</p>
-                        </div><!-- /.widget-text -->
-                    </div><!-- /.col-md-4 -->
-                    <div class="col-md-2">
-                        <div class="widget widget_text">
-                            <p>UNMIK does not necessarily endorse the opinions or statements expressed on the platform.
-                            </p>
-                        </div><!-- /.widget-text -->
-                    </div><!-- /.col-md-4 -->
-                    <div class="col-md-2">
-                        <div class="widget widget_text">
-                            <p>UNMIK does not necessarily support the policies and beliefs of organizations or
-                                individuals listed or referred to.</p>
-                        </div><!-- /.widget-text -->
-                    </div><!-- /.col-md-4 -->
-                    <div class="col-md-2">
-                        <div class="widget widget_new_letter">
-                            <p>The use of geographic names and boundaries does not imply judgement on the legal status
-                                of Kosovo.</p>
-                            <p>UNMIK is not liable for the conduct of any user.</p>                       
-                        </div><!-- /.widget-new_letter -->
-                    </div><!-- /.col-md-4 -->
-                    <div class="col-md-2">
-                        <div class="widget widget_new_letter">
-                            <p>The inclusion of a link or reference does not imply the endorsement of the linked website
-                                by UNMIK.</p>
-                        </div><!-- /.widget-new_letter -->
-                    </div>
-                    <div class="col-md-2">
-                        <div class="widget widget_new_letter">
-                            <p>Communications added to forums shall not be considered as having been reviewed or
-                                approved by UNMIK.</p>
-                        </div><!-- /.widget-new_letter -->
-                    </div>
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </div><!-- /.footer-widgets -->
+    @include('frontend.includes.footer')
     </footer>
 
     <!-- Bottom -->
@@ -1019,6 +975,14 @@
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
 
-    
+    <script type="text/javascript">
+  
+  var url = "{{ route('changeLang') }}";
+
+  $(".changeLang").change(function(){
+      window.location.href = url + "?lang="+ $(this).val();
+  });
+
+</script>
 </body>
 </html>

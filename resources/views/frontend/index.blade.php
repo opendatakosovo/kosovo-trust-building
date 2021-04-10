@@ -102,6 +102,115 @@
         </div>
     </section>
 
+
+    <section class="bond-row section-home4-blog padb-150">
+        <div class="title-section style2">
+            <h3 class="title">{{ __('messages.stories') }}</h3>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="title-section style1">
+                    <div class="desc">
+                        <p>{{ __('messages.latest.news') }}</p>
+                    </div>
+                </div>
+
+                <div class="blog-shortcode clearfix  blog-grid  has-post-content">
+
+                    <div class="blog-shortcode  blog-grid  has-post-content">
+
+                        <article class="entry col-md-4 col-xs-6">
+                            <div class="entry-border">
+                                <div class="featured-post">
+                                    <a href="#">
+                                        <img width="370" height="264" alt="single_image" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc29GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--279ed72fe43a154595b6c4ec9eafac759c2abade/bild-ez-logo%20res.jpg?locale=en" >                           </a>
+                                </div>
+                                <div class="content-post">
+                                    <h5><a href="blog_single_v1.html">Apply for the small project grants of the German Embassy...</a></h5>
+
+                                    <div class="entry-meta clearfix">
+                                        <ul>
+
+                                            <li class="post-author">
+                                                <span class="author vcard"><a class="url fn n" href="#" title="View all posts by admin" rel="author"></a>Call for Proposal</a></span>       </li>
+
+                                            <li class="post-date">
+                                                <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                                <span class="date updated" >03/02/2021</span>
+                                            </li>
+
+                                        </ul>
+                                    </div><!-- .meta-post -->
+
+                                </div>
+                            </div>
+                        </article><!-- /.entry -->
+
+                        <article class="entry col-md-4 col-xs-6">
+                            <div class="entry-border">
+                                <div class="featured-post">
+                                    <a href="blog_single_v1.html">
+                                        <img width="370" height="264" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2NGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac162a3fa6cb8b7e021ec4354b4dedd246364b33/Screenshot_1.png?locale=en" class="attachment-pictor-portfolio-thumb-one-three size-pictor-portfolio-thumb-one-three wp-post-image" alt="2">                            </a>
+                                </div>
+                                <div class="content-post">
+                                    <h5><a href="blog_single_v1.html">German NGO “Help” encourages MFK’s WEE Program...</a></h5>
+
+                                    <div class="entry-meta clearfix">
+                                        <ul>
+
+                                            <li class="post-author">
+                                                <span class="author vcard"><a class="url fn n" href="#" title="View all posts by admin" rel="author">MFK’s WEE Program</a></span>       </li>
+
+                                            <li class="post-date">
+                                                <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                                <span class="date updated" >June 4, 2016</span>
+                                            </li>
+
+                                        </ul>
+                                    </div><!-- .meta-post -->
+
+                                </div>
+                            </div>
+                        </article><!-- /.entry -->
+
+                        <article class="entry col-md-4 col-xs-6">
+                            <div class="entry-border">
+                                <div class="featured-post">
+                                    <a href="blog_single_v1.html">
+                                        <img width="370" height="264" alt="single_image" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--824f68f9172d9fcd74ec8c5fb1ff3d86fb305fb2/140428697_4218642854815701_1317144363911938559_o.jpg?locale=en" >                           </a>
+                                </div>
+                                <div class="content-post">
+                                    <h5><a href="blog_single_v1.html">International Organization for Migration provides assistance to flood victims...</a></h5>
+
+                                    <div class="entry-meta clearfix">
+                                        <ul>
+
+                                            <li class="post-author">
+                                                <span class="author vcard"> <a class="url fn n" href="#" title="View all posts by admin" rel="author">Aid to Flood Victims</a></span>       </li>
+
+                                            <li class="post-date">
+                                                <i class="fa fa-clock-o" aria-hidden="true"></i>
+                                                <span class="date updated" >June 4, 2016</span>
+                                            </li>
+
+                                        </ul>
+                                    </div><!-- .meta-post -->
+
+                                </div>
+                            </div>
+                        </article><!-- /.entry -->
+                    </div>
+
+                </div>
+                <div class="flat-spacer h12"></div>
+                <a href="/storiess" class="flat-button center-rx">Read More About It</a>
+
+            </div><!-- /.row -->
+
+        </div>
+    </section>
+
+
     <section class="section-home5-callout2">
         <footer class="footer">
         @include('frontend.includes.banner')
@@ -239,116 +348,6 @@
             </div>
         </div>
     </section>  -->
-
-
-
-
-    <section class="bond-row section-home4-blog padb-150">
-        <div class="title-section style2">
-            <h3 class="title">{{ __('messages.stories') }}</h3>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="title-section style1">
-                    <div class="desc">
-                        <p>{{ __('messages.latest.news') }}</p>
-                    </div>
-                </div>
-
-            <div class="blog-shortcode clearfix  blog-grid  has-post-content">
-
-                <div class="blog-shortcode  blog-grid  has-post-content">
-
-                    <article class="entry col-md-4 col-xs-6">
-                        <div class="entry-border">
-                            <div class="featured-post">
-                                <a href="#">
-                                    <img width="370" height="264" alt="single_image" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc29GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--279ed72fe43a154595b6c4ec9eafac759c2abade/bild-ez-logo%20res.jpg?locale=en" >                           </a>
-                            </div>
-                            <div class="content-post">
-                                <h5><a href="blog_single_v1.html">Apply for the small project grants of the German Embassy...</a></h5>
-
-                                <div class="entry-meta clearfix">
-                                    <ul>
-
-                                        <li class="post-author">
-                                            <span class="author vcard"><a class="url fn n" href="#" title="View all posts by admin" rel="author"></a>Call for Proposal</a></span>       </li>
-
-                                        <li class="post-date">
-                                            <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                            <span class="date updated" >03/02/2021</span>
-                                        </li>
-
-                                    </ul>
-                                </div><!-- .meta-post -->
-
-                            </div>
-                        </div>
-                    </article><!-- /.entry -->
-
-                    <article class="entry col-md-4 col-xs-6">
-                        <div class="entry-border">
-                            <div class="featured-post">
-                                <a href="blog_single_v1.html">
-                                    <img width="370" height="264" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2NGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac162a3fa6cb8b7e021ec4354b4dedd246364b33/Screenshot_1.png?locale=en" class="attachment-pictor-portfolio-thumb-one-three size-pictor-portfolio-thumb-one-three wp-post-image" alt="2">                            </a>
-                            </div>
-                            <div class="content-post">
-                                <h5><a href="blog_single_v1.html">German NGO “Help” encourages MFK’s WEE Program...</a></h5>
-
-                                <div class="entry-meta clearfix">
-                                    <ul>
-
-                                        <li class="post-author">
-                                            <span class="author vcard"><a class="url fn n" href="#" title="View all posts by admin" rel="author">MFK’s WEE Program</a></span>       </li>
-
-                                        <li class="post-date">
-                                            <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                            <span class="date updated" >June 4, 2016</span>
-                                        </li>
-
-                                    </ul>
-                                </div><!-- .meta-post -->
-
-                            </div>
-                        </div>
-                    </article><!-- /.entry -->
-
-                    <article class="entry col-md-4 col-xs-6">
-                        <div class="entry-border">
-                            <div class="featured-post">
-                                <a href="blog_single_v1.html">
-                                    <img width="370" height="264" alt="single_image" src="https://kosovotrustbuilding.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--824f68f9172d9fcd74ec8c5fb1ff3d86fb305fb2/140428697_4218642854815701_1317144363911938559_o.jpg?locale=en" >                           </a>
-                            </div>
-                            <div class="content-post">
-                                <h5><a href="blog_single_v1.html">International Organization for Migration provides assistance to flood victims...</a></h5>
-
-                                <div class="entry-meta clearfix">
-                                    <ul>
-
-                                        <li class="post-author">
-                                            <span class="author vcard"> <a class="url fn n" href="#" title="View all posts by admin" rel="author">Aid to Flood Victims</a></span>       </li>
-
-                                        <li class="post-date">
-                                            <i class="fa fa-clock-o" aria-hidden="true"></i>
-                                            <span class="date updated" >June 4, 2016</span>
-                                        </li>
-
-                                    </ul>
-                                </div><!-- .meta-post -->
-
-                            </div>
-                        </div>
-                    </article><!-- /.entry -->
-                    </div>
-
-                </div>
-                <div class="flat-spacer h12"></div>
-                <a href="/storiess" class="flat-button center-rx">Read More About It</a>
-
-            </div><!-- /.row -->
-
-        </div>
-    </section>
 
     <!-- Bond portfolio home5 -->
 

@@ -91,12 +91,12 @@
                        </button>
                     </div>
                     <div class="modal-body">
-                       <p class="bio">Motto: Inspire dynamic communities. 
-                            New Social Initiative (NSI) is an independent think and do tank from North Mitrovica founded on the idea to inspire dynamic communities in Kosovo. Our mission is to assist institutions in utilizing community strengths and delivering evidence based decision making in order to resolve major social and community challenges. Our work aims to: 
-                             - Empower public institutions in Kosovo to adopt principles of good governance and increase citizen participation in decision making; 
-                             - Contribute to democratization processes and constructive inter-ethnic relations through fostering and promoting positive inter-community communication and cooperation. 
-                            - Facilitate shared discourse and joint vision on major social. challenges 
-                            - Secure a more prosperous political, social, legal, economic, and environmental development in the region. 
+                       <p class="bio">Motto: Inspire dynamic communities.
+                            New Social Initiative (NSI) is an independent think and do tank from North Mitrovica founded on the idea to inspire dynamic communities in Kosovo. Our mission is to assist institutions in utilizing community strengths and delivering evidence based decision making in order to resolve major social and community challenges. Our work aims to:
+                             - Empower public institutions in Kosovo to adopt principles of good governance and increase citizen participation in decision making;
+                             - Contribute to democratization processes and constructive inter-ethnic relations through fostering and promoting positive inter-community communication and cooperation.
+                            - Facilitate shared discourse and joint vision on major social. challenges
+                            - Secure a more prosperous political, social, legal, economic, and environmental development in the region.
                             Our vision is a prosperous society based on shared community values and strong institutions that respect rights of each and every citizen.</p>
                     </div>
                     <div class="modal-footer">
@@ -136,7 +136,7 @@
               </div>
            </div>
 
-           </div>  
+           </div>
            <div class="col-xl-4 col-md-4 mb-2">
            <h2 class="pb-2 align-center" style="text-align: center;">  {{ __('messages.supportedby') }}</h2>
              <div class="text-center">
@@ -169,7 +169,7 @@
               </div>
            </div>
            </div>
-            
+
         </div>
      </div>
      <div class="flat-spacer h138"></div>
@@ -205,7 +205,7 @@
     </section> -->
 
     <!-- CONTRIBUTORS SECTION >
-    
+
     <!-- <section class="bond-row bond-section-teammember">
         <div class="title-section style2">
             <h3 class="title">OUR TEAM</h3>
@@ -484,7 +484,7 @@
                         </div> -->
                     <!-- </div>
                 </div> -->
-<!-- 
+<!--
                 <div class="col-md-3 col-xs-6 col-xs-12">
                     <div class="bond-counterbox dark bond-drawer style1">
                         <div class="icon-image">
@@ -551,7 +551,7 @@
             <div class="container">
                 <ul class="slides">
                     <li style="text-align:right;">
-                     <a href="http://radiokfor.com/" target="_blank">  <img alt="owlcarousel-item-img" src="frontend/images/organizations/k4.png" width="80"/></a> 
+                     <a href="http://radiokfor.com/" target="_blank">  <img alt="owlcarousel-item-img" src="frontend/images/organizations/k4.png" width="80"/></a>
                     </li>
                     <li>
                     <a href="https://fjalor-recnik.com/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/logo-voc-up.png"/>
@@ -560,8 +560,8 @@
                     <a href="https://fjalor-recnik.com/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/recnik-fjalor.png"/>
                     </li></a>
                     <li>
-                    <a href="http://unkt.org/2020/01/01/un75/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/un75.jpg"/>
-                    </li></a>
+<!--                    <a href="http://unkt.org/2020/01/01/un75/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/un75.jpg"/>-->
+<!--                    </li></a>-->
 
                 </ul>
             </div>

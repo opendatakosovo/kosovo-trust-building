@@ -4,49 +4,49 @@
 <head>
     @include('frontend.includes.head')
 
-</head>                                 
-<body class=" page front-page">  
-    
-    
+</head>
+<body class=" page front-page">
 
-    <!-- Header -->            
-    <header id="header" class="header clearfix"> 
-       
+
+
+    <!-- Header -->
+    <header id="header" class="header clearfix">
+
         @include('frontend.includes.header')
 
     </header><!-- /.header -->
-            
+
     <!-- Page title -->
     <div class="bond-page-title">
         <div class="page-title parallax parallax2">
             <div class="overlay v1"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">                    
+                    <div class="col-md-12">
                         <div class="page-title-heading v1">
                             <div class="page-title-heading">
                                 <h1 class="title">{{ __('messages.trb') }}</h1>
-                            </div><!-- /.page-title-captions -->     
-                        </div><!-- /.page-title-captions --> 
+                            </div><!-- /.page-title-captions -->
+                        </div><!-- /.page-title-captions -->
 
 
-                    </div><!-- /.col-md-12 -->  
-                </div><!-- /.row -->  
-            </div><!-- /.container -->                      
-        </div><!-- /.page-title --> 
+                    </div><!-- /.col-md-12 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- /.page-title -->
     </div>
 
     <section class="bond-row padb-110" style="padding-bottom: 120px; background: url('frontend/images/home/pledge-background.png') no-repeat center fixed;
     background-size: cover; ">
             <div class="title-section style2">
-                <h3 class="title">{{ __('messages.network') }}</h3>                                       
+                <h3 class="title">{{ __('messages.network') }}</h3>
             </div><!-- /.title-section style2 -->
             <div class="container">
                 <div class="title-section style1 row mgb-49">
                     <h3 class="title" style="color:#06c6a9">{{ __('messages.pledges') }}</h3>
                     <div class="desc">
                         <p style="color:#808080`;">{{ __('messages.pledges.text') }}</p>
-                    </div>                            
+                    </div>
                 </div><!-- /.title-section style1 -->
                 <div class="bond-empty-spacer"></div>
                 <div id = "testimonial-slider-box">
@@ -71,7 +71,7 @@
                                 </div>
                               </figure>
                             </div>
-                    
+
                             <div class="slider__slide slider__slide--2">
                               <figure class="testimonial slider__slide-content">
                                 <blockquote class="testimonial__text">
@@ -165,7 +165,7 @@
 
 
                           </div>
-                    
+
                           <div class="slider__buttons">
                             <div class="slider__button slider__button--prev">
                               <svg class="slider__button-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="18">
@@ -177,9 +177,9 @@
                             </div>
                           </div>
                         </div>
-                        
+
                       </section>
-    
+
 
                 </div>
 
@@ -188,8 +188,8 @@
 
 
             </div>
-          
-        </section> 
+
+        </section>
 
         <section class="bond-row bond-section-counter padb-148 background-222222">
         <div class="container">
@@ -219,7 +219,7 @@
                         <div class="bond-counter">
                             <div class="numb-count" data-to="8522" data-speed="2000" data-waypoint-active="yes">8522</div>
                         </div>
-                        <div class="counter-countent">                            
+                        <div class="counter-countent">
                             <div class="icon-img">
                                 <i class="icon-rocket icons"></i>
                             </div>
@@ -237,9 +237,9 @@
                         <div class="bond-counter">
                             <div class="numb-count" data-to="23613" data-speed="2000" data-waypoint-active="yes">23613</div>
                         </div>
-                        <div class="counter-countent">                            
+                        <div class="counter-countent">
                             <div class="icon-img">
-                                <i class="icon-user icons"></i>                        
+                                <i class="icon-user icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
                                 <p>{{ __('messages.actors') }}</p>
@@ -251,12 +251,12 @@
                 <div class="col-md-3 col-xs-6 ">
                     <div class="bond-counterbox bond-present style1 v4">
                         <div class="icon-image">
-                            
+
                         </div>
                         <div class="bond-counter">
                             <div class="numb-count" data-to="163" data-speed="2000" data-waypoint-active="yes">163</div>
                         </div>
-                        <div class="counter-countent">                            
+                        <div class="counter-countent">
                             <div class="icon-img">
                                 <i class="icon-trophy icons"></i>
                             </div>
@@ -274,9 +274,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="flat-contact-us">        
+                            <div class="flat-contact-us">
                                     <h2>{{ __('messages.member') }}</h2>
-                                    <a class="button" href="/register">{{ __('messages.registerhere') }}</a>                                   
+                                    <a class="button" href="/register">{{ __('messages.registerhere') }}</a>
                             </div>
                         </div><!-- /.col-md-12 -->
                     </div><!-- /.row -->
@@ -286,15 +286,15 @@
 
     <!-- welcome to bond -->
     <section class="bond-row padb-90" id="contribute">
-        
+
         <div class="container">
             <div class="row">
-                <div class="col-md-12">                        
+                <div class="col-md-12">
                     <div class="title-section style1">
                         <h3 class="title">{{ __('messages.createtrust') }}</h3>
                         <div class="desc">
                             <p>{{ __('messages.trust-text') }}!</p>
-                        </div>                            
+                        </div>
                     </div><!-- /.title-section style1 -->
                     <div class="flat-spacer h25"></div>
                 </div><!-- /.col-md-12 -->
@@ -308,7 +308,7 @@
                         <div class="content">
                             <h5 class="title"><a>{{ __('messages.story-form') }}</a></h5>
                             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p> -->
-                            <a data-toggle="modal" data-target="#myModal" class="readmore">{{ __('messages.here') }}</a>                        
+                            <a data-toggle="modal" data-target="#myModal" class="readmore">{{ __('messages.here') }}</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -320,7 +320,7 @@
                         <div class="content">
                             <h5 class="title"><a>{{ __('messages.donate') }}</a></h5>
                             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p> -->
-                            <a class="readmore" data-toggle="modal" data-target="#myModal" >{{ __('messages.here') }}</a>         
+                            <a class="readmore" data-toggle="modal" data-target="#myModal" >{{ __('messages.here') }}</a>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
             </div><!-- /.bond-iconbox-fullwidth -->
@@ -328,7 +328,7 @@
     </section>
 
     <section class="section-home5-callout2">
-        <!-- <footer class="footer"> 
+        <!-- <footer class="footer">
         @include('frontend.includes.banner') -->
         <!-- </footer>                     -->
     </section>
@@ -354,7 +354,7 @@
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-                            
+
                         </div>
                     </div>
 
@@ -365,7 +365,7 @@
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-                            
+
                         </div>
                     </div>
                 </div><!-- /.col-md-4 -->
@@ -382,7 +382,7 @@
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-                            
+
                         </div>
                     </div>
 
@@ -393,7 +393,7 @@
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-                            
+
                         </div>
                     </div>
 
@@ -404,23 +404,23 @@
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-                            
+
                         </div>
                     </div>
                 </div><!-- /.col-md-4 -->
             </div><!-- /.row -->
         </div>
-        
+
     </section>
 
-    
-    
-<!-- 
+
+
+<!--
     <section class="bg-f9 mgb-91 home3-about-us">
         <div class="container relative">
             <div class="bg-red w62p padt-78 padlr-40_89 mgt--48">
                 <div class="bond-contentbox color-white">
-                    <h4 class="color-red title-1">How it all started</h4>                    
+                    <h4 class="color-red title-1">How it all started</h4>
                     <div class="box-header">
                         <h2 class="pledge-name" class="box-title">Kosovo Trustbuilding Platform</h2>
                     </div>
@@ -428,14 +428,14 @@
                         <p>
                         The full list of recommendations and final report are available in English, Albanian and Serbian languages. This platform is a continuation of the Forum’s discussions on actions needed to build a more peaceful and inclusive society </p>
                         <p>
-                        And also seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.. </p>                                
-                       
+                        And also seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.. </p>
+
                     </div>
 
                 </div>
 
                 <div class="flat-spacer h17"></div>
-            
+
                 <a class="flat-button white mgl-29" href="#">LEARN MORE</a>
                 <div class="flat-spacer h118"></div>
             </div>
@@ -452,13 +452,13 @@
 
     <!-- <section class="bond-row home4-what-we-do  padb-93 v2">
         <div class="title-section style2">
-            <h3 class="title">BUILD TRUST</h3>                                       
+            <h3 class="title">BUILD TRUST</h3>
         </div>
         <div class="title-section style1">
             <h3 class="title">CONTRIBUTE</h3>
             <div class="desc">
                 <p>In many ways</p>
-            </div>                            
+            </div>
         </div>
         <div class="container">
             <div class="row style2 " data-item="4" data-nav="true" data-dots="false" data-auto="false" data-margin="30">
@@ -500,8 +500,8 @@
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
                     </div>
-                </div>                   
-            
+                </div>
+
                 <div class="item col-md-4 col-xs-6 bg-ff4040">
                     <div class="bond-iconbox overlay bg-service4">
                         <div class="icon-image">
@@ -540,13 +540,13 @@
                             <a class="readmore" href="blog_single_v1.html">More</a>
                         </div>
                     </div>
-                </div>                   
+                </div>
             </div>
 
         </div>
     </section>    -->
 
-   
+
 
     <!-- <section class="ab3-s3 bond-row bg-f7">
             <div class="container">
@@ -569,7 +569,7 @@
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-                            
+
                         </div>
                     </div>
                 </div>
@@ -587,7 +587,7 @@
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-                            
+
                         </div>
                     </div>
 
@@ -598,7 +598,7 @@
                         </div>
                         <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-                            
+
                         </div>
                     </div>
                 </div>
@@ -607,7 +607,7 @@
 
     <!-- <section class="bond-row bond-section-teammember padb-90 ">
         <div class="title-section style3">
-        <h3 class="title">OUR TEAM</h3>                                       
+        <h3 class="title">OUR TEAM</h3>
         </div>
         <div class="container">
         <div class="row">
@@ -615,12 +615,12 @@
                 <h3 class="title">WHO WORK WITH US</h3>
                 <div class="desc">
                     <p>Most Talented People</p>
-                </div>                            
+                </div>
             </div>
 
             <div class=" bond-teammember col-md-offset-3 col-md-9">
                 <div class="row">
-                    
+
                     <div class="team v2 col-md-4 col-xs-6">
                         <div class="team-img">
                             <img src="frontend/images/home/t2.jpg" alt="image">
@@ -633,12 +633,12 @@
 
                             <div class="description">
                                 <p>Bercitation ullamco laboris nisi ut aliquip ex ea commo do consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
-                                <div class="social"> 
+                                <div class="social">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-                                </div>  
-                            </div>       
+                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="team v2 col-md-4 col-xs-6">
@@ -653,12 +653,12 @@
 
                             <div class="description">
                                 <p>Bercitation ullamco laboris nisi ut aliquip ex ea commo do consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
-                                <div class="social"> 
+                                <div class="social">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-                                </div>  
-                            </div>       
+                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="team v2 col-md-4 col-xs-6">
@@ -673,12 +673,12 @@
 
                             <div class="description">
                                 <p>Bercitation ullamco laboris nisi ut aliquip ex ea commo do consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
-                                <div class="social"> 
+                                <div class="social">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-                                </div>  
-                            </div>       
+                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
 
@@ -694,12 +694,12 @@
 
                             <div class="description">
                                 <p>Bercitation ullamco laboris nisi ut aliquip ex ea commo do consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
-                                <div class="social"> 
+                                <div class="social">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-                                </div>  
-                            </div>       
+                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="team v2 col-md-4 col-xs-6">
@@ -714,12 +714,12 @@
 
                             <div class="description">
                                 <p>Bercitation ullamco laboris nisi ut aliquip ex ea commo do consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
-                                <div class="social"> 
+                                <div class="social">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-                                </div>  
-                            </div>       
+                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="team v2 col-md-4 col-xs-6">
@@ -734,12 +734,12 @@
 
                             <div class="description">
                                 <p>Bercitation ullamco laboris nisi ut aliquip ex ea commo do consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
-                                <div class="social"> 
+                                <div class="social">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-                                </div>  
-                            </div>       
+                                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -750,11 +750,11 @@
      -->
 
 
- 
-<!-- 
+
+<!--
     <section class="bond-row bond-our-blog parallax overlay2 parallax16">
         <div class="title-section style2 white">
-            <h3 class="title">OUR BLOG</h3>                                       
+            <h3 class="title">OUR BLOG</h3>
         </div>
         <div class="container">
             <div class="row">
@@ -762,17 +762,17 @@
                     <h3 class="title">FROM OUR BLOG</h3>
                     <div class="desc">
                         <p>OUR UPDATES</p>
-                    </div>                            
+                    </div>
                 </div>
 
             <div class="blog-shortcode  blog-grid  has-post-content">
 
                 <div class="blog-shortcode  blog-grid  has-post-content color-white">
-            
+
                     <article class="entry col-md-4 col-xs-6">
                         <div class="entry-border">
                             <div class="featured-post">
-                                <a href="blog_single_v1.html">                          
+                                <a href="blog_single_v1.html">
                                     <img width="370" height="264" alt="single_image" src="frontend/image/home/bl1.jpg" >                           </a>
                             </div>
                             <div class="content-post">
@@ -784,15 +784,15 @@
                                         <li class="post-author">
                                             <i class="fa fa-user" aria-hidden="true"></i>
                                             <span class="author vcard">By <a class="url fn n" href="#" title="View all posts by admin" rel="author">Juwel Khan</a></span>       </li>
-                                        
+
                                         <li class="post-date">
                                             <i class="fa fa-clock-o" aria-hidden="true"></i>
                                             <span class="date updated" >June 4, 2016</span>
                                         </li>
 
-                                    </ul>       
-                                </div>                       
-                                
+                                    </ul>
+                                </div>
+
                             </div>
                         </div>
                     </article>
@@ -800,7 +800,7 @@
                     <article class="entry col-md-4 col-xs-6">
                         <div class="entry-border">
                             <div class="featured-post">
-                                <a href="blog_single_v1.html">                          
+                                <a href="blog_single_v1.html">
                                     <img width="370" height="264" src="frontend/image/home/bl2.jpg" class="attachment-pictor-portfolio-thumb-one-three size-pictor-portfolio-thumb-one-three wp-post-image" alt="2">                            </a>
                             </div>
                             <div class="content-post">
@@ -812,23 +812,23 @@
                                         <li class="post-author">
                                             <i class="fa fa-user" aria-hidden="true"></i>
                                             <span class="author vcard">By <a class="url fn n" href="#" title="View all posts by admin" rel="author">Juwel Khan</a></span>       </li>
-                                        
+
                                         <li class="post-date">
                                             <i class="fa fa-clock-o" aria-hidden="true"></i>
                                             <span class="date updated" >June 4, 2016</span>
                                         </li> -->
-<!-- 
-                                    </ul>          
-                                </div>                       
-                                
+<!--
+                                    </ul>
+                                </div>
+
                             </div>
                         </div>
                     </article> -->
-<!-- 
+<!--
                     <article class="entry col-md-4 col-xs-6">
                         <div class="entry-border">
                             <div class="featured-post">
-                                <a href="blog_single_v1.html">                          
+                                <a href="blog_single_v1.html">
                                     <img width="370" height="264" alt="single_image" src="frontend/image/home/bl3.jpg" >                           </a>
                             </div>
                             <div class="content-post">
@@ -840,19 +840,19 @@
                                         <li class="post-author">
                                             <i class="fa fa-user" aria-hidden="true"></i>
                                             <span class="author vcard">By <a class="url fn n" href="#" title="View all posts by admin" rel="author">Juwel Khan</a></span>       </li>
-                                        
+
                                         <li class="post-date">
                                             <i class="fa fa-clock-o" aria-hidden="true"></i>
                                             <span class="date updated" >June 4, 2016</span>
                                         </li> -->
 
-                                    <!-- </ul>          
-                                </div>                       
-                                
+                                    <!-- </ul>
+                                </div>
+
                             </div>
                         </div>
-                    </article>    
-                    </div>   
+                    </article>
+                    </div>
 
                 </div>
             </div> -->
@@ -868,13 +868,13 @@
     <!-- contact us -->
     <!-- <section class="bond-row bond-contact-us ">
         <div class="container">
-            <div>                   
-                <div id="map"></div>                   
+            <div>
+                <div id="map"></div>
             </div>
             <div>
                 <div class="title-section contact-us style1">
                     <h3 class="title">CONTACT US</h3>
-                    <div class="desc">                            
+                    <div class="desc">
                 </div>
                 </div>
                 <div class="col-md-4 padding-left-0">
@@ -884,8 +884,8 @@
                         </div>
                         <div class="box-content">
                             134, Bardeshi, Amin Bazar
-                            <p>Savar, Dhaka - 1348 </p>                          
-                         
+                            <p>Savar, Dhaka - 1348 </p>
+
                         </div>
                     </div>
 
@@ -895,8 +895,8 @@
                         </div>
                         <div class="box-content">
                             + 111  - 232 - 343434
-                            <p>+ 111  - 232 - 343435 </p>                          
-                         
+                            <p>+ 111  - 232 - 343435 </p>
+
                         </div>
                     </div>
                     <div class="iconbox iconbox-contact-us v1 clearfix">
@@ -905,8 +905,8 @@
                         </div>
                         <div class="box-content">
                             hello@website.com
-                            <p>support@website.com </p>                          
-                         
+                            <p>support@website.com </p>
+
                         </div>
                     </div>
                 </div>
@@ -916,28 +916,28 @@
                     <form method="post" id="contactform" class="comment-form" action="./contact/contact-process.php" >
                             <div class="col-xs-12 col-xs-6 padding-left-0">
                                 <fieldset class="message">
-                                     
+
                                     <textarea id="comment-message" placeholder="Your comment" name="message" rows="8" tabindex="4"></textarea>
                                 </fieldset>
                             </div>
-                            
-                            <div class="col-xs-12 col-xs-6 padding-right-0">                           
+
+                            <div class="col-xs-12 col-xs-6 padding-right-0">
                                 <fieldset class="name-container">
                                     <input type="text" id="name" placeholder="Your name" class="tb-my-input" name="name" tabindex="1" value="" size="32" required>
                                 </fieldset>
 
                                 <fieldset class="email-container">
                                     <input type="text" id="email" placeholder="Your email" class="tb-my-input" name="email" tabindex="2" value="" size="32" required>
-                                </fieldset> 
+                                </fieldset>
 
                                 <fieldset class="website-container">
                                     <input type="text" id="subject" placeholder="Your website" class="tb-my-input" name="subject" tabindex="2" value="" size="32" required>
-                                </fieldset> 
+                                </fieldset>
                                 <p class="form-submit">
                                     <button class="flat-button bg-theme">SUBMIT</button>
-                                </p>     
-                            </div>                                    
-                                       
+                                </p>
+                            </div>
+
                     </form>
                 </div>
             </div>
@@ -949,7 +949,7 @@
         <div class="container">
             <ul class="slides">
             <li style="text-align:right;">
-                     <a href="http://radiokfor.com/" target="_blank">  <img alt="owlcarousel-item-img" src="frontend/images/organizations/k4.png" width="80"/></a> 
+                     <a href="http://radiokfor.com/" target="_blank">  <img alt="owlcarousel-item-img" src="frontend/images/organizations/k4.png" width="80"/></a>
                     </li>
                     <li>
                     <a href="https://fjalor-recnik.com/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/logo-voc-up.png"/>
@@ -958,14 +958,14 @@
                     <a href="https://fjalor-recnik.com/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/recnik-fjalor.png"/>
                     </li></a>
                     <li>
-                    <a href="http://unkt.org/2020/01/01/un75/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/un75.jpg"/>
-                    </li></a>
+<!--                    <a href="http://unkt.org/2020/01/01/un75/" target="_blank"><img alt="owlcarousel-item-img" src="frontend/images/organizations/un75.jpg"/>-->
+<!--                    </li></a>-->
             </ul>
         </div>
     </section>
 
     <!-- Footer -->
-    <footer class="footer">  
+    <footer class="footer">
     @include('frontend.includes.footer')
     </footer>
 
@@ -979,9 +979,9 @@
             </div>
             <div class="row">
                 <div class="container-bottom">
-                    <div class="copyright"> 
+                    <div class="copyright">
                         <p>Copyright (c) Kosovo Trust Building 2021.</p>
-                    </div>                
+                    </div>
 
                     <ul class="bond-socials text-right">
                         <li class="facebook">
@@ -990,11 +990,11 @@
                         <li class="instagram">
                             <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
                         </li>
-                    </ul>              
+                    </ul>
                 </div><!-- /.container-bottom -->
             </div><!-- /.row -->
         </div><!-- /.container -->
-    </div> 
+    </div>
 
     <a class="go-top vertical-text">
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
@@ -1096,7 +1096,7 @@ window.addEventListener('resize', () => {
     //   function slideShow(){
     //     setTimeout(slideShow, 2500);
     //     var x;
-        
+
     //     for(x = 0; x < numSlides; x++){
     //       slides[x].style.display = "none";
     //     }
@@ -1109,7 +1109,7 @@ window.addEventListener('resize', () => {
 
 
         </script>
-    
-   
+
+
 </body>
 </html>

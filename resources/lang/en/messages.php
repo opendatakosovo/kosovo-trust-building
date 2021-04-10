@@ -71,7 +71,7 @@ return [
     'trust-text' => 'There are many ways to do that',
     'story-form' => ' Tell us your story',
     'here' => 'Here',
-    'donate' => 'Donate',
+    'donate' => 'Contribute',
     'good-governance' => 'Good Governance and access to service',
     'acces-justice' => 'Access to justice',
     'inter-religious' => 'Inter-religious trust-building' ,

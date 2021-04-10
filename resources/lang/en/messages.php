@@ -1,7 +1,7 @@
 <?php
-   
+
 return [
-  
+
     'home' => 'Home ',
     'who-we-are'=> 'Who we are    ',
     'projects'=> 'Projects',
@@ -36,7 +36,7 @@ return [
     'actors' => 'Actors',
     'champions' => 'Champions',
     'latest.news' => 'Latest news',
-    'testimonials' => 'Pledges',
+    'testimonials' => 'Testimonials',
     'testimonials.text' => 'Take a moment to read some of our testimonials about building trust!',
     'testimonial1' => 'Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.',
     'testimonial2' => 'I sincerely hope you will find the Kosovo Trustbuilding Platform useful in your worthy work, and in moments when you need inspiration to move forward. In these difficult times for our society, and our world, we need trustbuilding more than ever. ',
@@ -77,7 +77,7 @@ return [
     'inter-religious' => 'Inter-religious trust-building' ,
     'economic' => 'Economic empowerment and environment',
     'media-commun' => 'Media and communication',
-    
+
 
 ];
 

@@ -24,7 +24,7 @@ return [
     'contribute.text1' => 'MAKE BIG CHANGES BY STARTING SMALL',
     'contribute.text2' => 'The full list of recommendations and final report are available in English, Albanian and Serbian languages. This platform is a continuation of the Forum’s discussions on actions needed to build a more peaceful and inclusive society and seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.',
     'support' => 'Support',
-    'initiatives' => 'Iniciatives',
+    'initiatives' => 'Initiatives',
     'initiatives.text' => 'In May 2018, with the support of UNKT, UNMIK gathered 120 participants representing a broad cross-section of Kosovo society, including grassroots actors, media, youth leaders and municipal leadership from both majority and non-majority communities, to exchange perspectives on building trust. The main outcome of this Trust-Building Forum (TBF) is a list of 135 recommendations covering the areas of:',
     'youth' => 'Youth',
     'gender' => 'Gender',

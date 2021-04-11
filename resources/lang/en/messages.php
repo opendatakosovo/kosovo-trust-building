@@ -3,7 +3,8 @@
 return [
 
     'home' => 'Home ',
-    'who-we-are'=> 'Who we are    ',
+    'who-we-are'=> 'Who we are',
+    'who-we-are.title'=> 'Kosovo Trustbuilding Platform',
     'projects'=> 'Projects',
     'organizations' => 'Organizations',
     'trb'=> 'Trust Building Network',

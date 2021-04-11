@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 Route::get('lang/home', 'LangController@index');
 Route::get('lang/change', 'LangController@change')->name('changeLang');
- // front-end routes 
+ // front-end routes
  Route::get('/', function () { return view('frontend.index'); });
  Route::get('/lang', function () { return view('frontend.lang'); });
  Route::get('/who-we-are', function () { return view('frontend.who-we-are'); });
@@ -28,7 +28,8 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
  Route::get('/infographicss', function () { return view('frontend.infographics'); });
  Route::get('/storiess', function () { return view('frontend.stories'); });
  Route::get('/covid19', function () { return view('frontend.covid19'); });
- Route::get('/pledges', function () { return view('frontend.pledges'); });
+ //Route::get('/pledges', function () { return view('frontend.pledges'); });
+ Route::get('/pledges', [\App\Http\Controllers\PledgesController::class, 'index'])->name('pledges.index');
 
 
  //Stories
@@ -55,7 +56,7 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
         Route::get('/stories', function () { return view('dashboard.stories.stories');});
         Route::get('/tags', function(){   return view('dashboard.tags'); });
         Route::get('/graphs', function () { return view('dashboard.graphs');});
-        Route::prefix('base')->group(function () {  
+        Route::prefix('base')->group(function () {
             Route::get('/breadcrumb', function(){   return view('dashboard.base.breadcrumb'); });
             Route::get('/cards', function(){        return view('dashboard.base.cards'); });
             Route::get('/carousel', function(){     return view('dashboard.base.carousel'); });
@@ -63,7 +64,7 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
 
             Route::get('/forms', function(){        return view('dashboard.base.forms'); });
             Route::get('/jumbotron', function(){    return view('dashboard.base.jumbotron'); });
-           
+
             Route::get('/navs', function(){         return view('dashboard.base.navs'); });
 
             Route::get('/pagination', function(){   return view('dashboard.base.pagination'); });
@@ -76,7 +77,7 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
             Route::get('/tabs', function () {       return view('dashboard.base.tabs'); });
             Route::get('/tooltips', function () {   return view('dashboard.base.tooltips'); });
         });
-        Route::prefix('buttons')->group(function () {  
+        Route::prefix('buttons')->group(function () {
             Route::get('/buttons', function(){          return view('dashboard.buttons.buttons'); });
             Route::get('/button-group', function(){     return view('dashboard.buttons.button-group'); });
             Route::get('/dropdowns', function(){        return view('dashboard.buttons.dropdowns'); });
@@ -87,7 +88,7 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
             Route::get('/flags', function(){                return view('dashboard.icons.flags'); });
             Route::get('/brands', function(){               return view('dashboard.icons.brands'); });
         });
-        Route::prefix('notifications')->group(function () {  
+        Route::prefix('notifications')->group(function () {
             Route::get('/alerts', function(){   return view('dashboard.notifications.alerts'); });
             Route::get('/badge', function(){    return view('dashboard.notifications.badge'); });
             Route::get('/modals', function(){   return view('dashboard.notifications.modals'); });
@@ -115,7 +116,7 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
         Route::post('mailSend/{id}',        'MailController@send')->name('mailSend');
         Route::get('/roles/move/move-up',      'RolesController@moveUp')->name('roles.up');
         Route::get('/roles/move/move-down',    'RolesController@moveDown')->name('roles.down');
-        Route::prefix('menu/element')->group(function () { 
+        Route::prefix('menu/element')->group(function () {
             Route::get('/',             'MenuElementController@index')->name('menu.index');
             Route::get('/move-up',      'MenuElementController@moveUp')->name('menu.up');
             Route::get('/move-down',    'MenuElementController@moveDown')->name('menu.down');
@@ -127,7 +128,7 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
             Route::get('/show',         'MenuElementController@show')->name('menu.show');
             Route::get('/delete',       'MenuElementController@delete')->name('menu.delete');
         });
-        Route::prefix('menu/menu')->group(function () { 
+        Route::prefix('menu/menu')->group(function () {
             Route::get('/',         'MenuController@index')->name('menu.menu.index');
             Route::get('/create',   'MenuController@create')->name('menu.menu.create');
             Route::post('/store',   'MenuController@store')->name('menu.menu.store');

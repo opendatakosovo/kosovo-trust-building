@@ -47,7 +47,7 @@
                         <h4 class="color-red title-1">{{ __('messages.whoweare-title') }}</h4>
                         <div class="iconbox ">
                             <div class="box-header">
-                                <h2 class="box-title">Kosovo Trustbuilding Platform</h2>
+                                <h2 class="box-title">{{ __('messages.who-we-are.title') }}</h2>
                             </div>
                             <div class="box-content">
                                 <p>

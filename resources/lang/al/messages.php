@@ -1,9 +1,10 @@
 <?php
-   
+
 return [
-  
+
     'home' => 'Ballina',
     'who-we-are'=> 'Kush jemi ne',
+    'who-we-are.title'=> 'Platformë e Ndërtimit të Besimit në Kosovë',
     'projects'=> 'Projektet',
     'organizations' => 'Organizatat',
     'trb'=> 'Rrjeti i Ndërtimit të Besimit të Kosovës',
@@ -77,7 +78,7 @@ return [
     'inter-religious' => 'Ndërtimi i besimit ndërfetar' ,
     'economic' => 'Fuqizimi ekonomik dhe mjedisi',
     'media-commun' => 'Media dhe komunikimi',
-    
+
 
 ];
 

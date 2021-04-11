@@ -10,45 +10,45 @@
     </style>
 
 
-</head>                                 
-<body class="header-sticky blog-details">  
-    <!-- Header -->            
+</head>
+<body class="header-sticky blog-details">
+    <!-- Header -->
     <header id="header" class="header clearfix">
         @include('frontend.includes.header')
         </header>
-            
+
     <!-- Page title -->
     <div class="bond-page-title">
         <div class="page-title parallax parallax2">
             <div class="overlay v3"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">                    
+                    <div class="col-md-12">
                         <div class="page-title-heading v3">
                             <div class="page-title-heading">
                                 <h1 class="title">{{ __('messages.infographics') }}</h1>
-                            </div><!-- /.page-title-captions -->     
-                        </div><!-- /.page-title-captions --> 
+                            </div><!-- /.page-title-captions -->
+                        </div><!-- /.page-title-captions -->
 
-                        
 
-                    </div><!-- /.col-md-12 -->  
-                </div><!-- /.row -->  
-            </div><!-- /.container -->                      
-        </div><!-- /.page-title --> 
+
+                    </div><!-- /.col-md-12 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- /.page-title -->
     </div>
 
     <figure class="highcharts-figure">
         <div id="container"></div>
-        
+
     </figure>
 
     <figure class="highcharts-figure">
         <div id="container1"></div>
         </figure>
 
-        <div> 
-        
+        <div>
+
         </div>
 
 <div class="container" >
@@ -74,13 +74,13 @@
 </div>
 
     <span>
-    
+
     </span>
-    
+
 
 
     <!-- Footer -->
-    <footer class="footer">  
+    <footer class="footer">
     @include('frontend.includes.banner')
     @include('frontend.includes.footer')
 
@@ -96,9 +96,9 @@
             </div>
             <div class="row">
                 <div class="container-bottom">
-                    <div class="copyright"> 
+                    <div class="copyright">
                         <p>Copyright (c) Kosovo Trust Building 2021</p>
-                    </div>                
+                    </div>
 
                     <ul class="bond-socials text-right">
                         <li class="facebook">
@@ -107,18 +107,18 @@
                         <li class="instagram">
                             <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
                         </li>
-                    </ul>              
+                    </ul>
                 </div><!-- /.container-bottom -->
             </div><!-- /.row -->
         </div><!-- /.container -->
-    </div> 
+    </div>
 
     <a class="go-top show vertical-text">
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
-    
+
     <!-- Javascript -->
-  
+
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/highcharts-3d.js"></script>
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
@@ -128,7 +128,7 @@
     <script src="path/to/chartjs/dist/chart.js"></script>
 
     <script>
-    
+
 
 
 
@@ -156,7 +156,7 @@ var myChart = new Chart(ctx, {
             y: {
                 beginAtZero: true,
             }
-            
+
         },
      plugins: {
             title: {
@@ -173,7 +173,7 @@ var myChart = new Chart(ctx, {
 
 });
 
-    
+
 var ctx = document.getElementById('myChart1');
 var myChart1 = new Chart(ctx, {
     type: 'doughnut',
@@ -358,7 +358,7 @@ var myChart2 = new Chart(ctx, {
                     top: 50,
                     bottom: 10
                 }
-                
+
             }
         }
     }
@@ -368,7 +368,7 @@ var ctx = document.getElementById('myChart3');
 var myChart3 = new Chart(ctx, {
     type: 'polarArea',
     data: {
-        labels: ['Youth', 'Gender', 'Education', 'Media', 'Culture', 'Region'],
+        labels: ['Youth', 'Gender', 'Education', 'Media', 'Culture', 'Religion'],
         datasets:  [{
             label: 'My First Dataset',
             data: [11, 16, 7, 3, 14],
@@ -386,7 +386,7 @@ var myChart3 = new Chart(ctx, {
             y: {
                 beginAtZero: true,
             }
-            
+
         },
          plugins: {
             title: {
@@ -396,7 +396,7 @@ var myChart3 = new Chart(ctx, {
                     top: 50,
                     bottom: 10
                 }
-                
+
             }
         }
     }

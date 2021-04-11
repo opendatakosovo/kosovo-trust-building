@@ -1,9 +1,10 @@
 <?php
-   
+
 return [
-  
+
     'home' => 'Ballina',
     'who-we-are'=> 'Ko smo mi',
+    'who-we-are.title'=> 'Platforma za izgradnju poverenja na Kosovu',
     'projects'=> 'Projekata',
     'organizations' => 'Organizacije',
     'trb'=> 'Mreži za izgradnju poverenja na Kosovu',
@@ -77,7 +78,7 @@ return [
     'inter-religious' => 'Izgradnja međureligijskog poverenja' ,
     'economic' => 'Ekonomsko osnaživanje i životna sredina',
     'media-commun' => 'Mediji i komunikacija',
-    
+
 
 ];
 

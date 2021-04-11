@@ -3,39 +3,39 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
 <head>
     @include('frontend.includes.head')
- </head>                            
-<body class="header-sticky page service v2">  
+ </head>
+<body class="header-sticky page service v2">
     <section class="loading-overlay">
         <div class="Loading-Page">
             <h2 class="loader">Loading...</h2>
         </div>
-    </section> 
-    <!-- Header -->            
+    </section>
+    <!-- Header -->
     <header id="header" class="header clearfix">
         @include('frontend.includes.header')
         </header>
-            
+
     <!-- Page title -->
     <div class="bond-page-title">
         <div class="page-title parallax parallax2">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">                    
+                    <div class="col-md-12">
                         <div class="page-title-heading v1">
                             <div class="page-title-heading">
                                 <h1 class="title">{{ __('messages.organizations') }}</h1>
-                            </div><!-- /.page-title-captions -->     
-                        </div><!-- /.page-title-captions --> 
+                            </div><!-- /.page-title-captions -->
+                        </div><!-- /.page-title-captions -->
 
-                        
 
-                    </div><!-- /.col-md-12 -->  
-                </div><!-- /.row -->  
-            </div><!-- /.container -->                      
-        </div><!-- /.page-title --> 
+
+                    </div><!-- /.col-md-12 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- /.page-title -->
     </div>
 
-    
+
 
     <!-- Organizations gallery <-- Bond what we do style2 -->
     <section class=" bond-row what-we-do v2 keep-30">
@@ -64,7 +64,7 @@
                         <div class="panel-footer tag">
                         <span class="label label-primary hidden">All</span>
                         <span class="label label-primary">#Youth</span>
-                        <span class="label label-default">#Region</span>
+                        <span class="label label-default">#Religion</span>
                         <span class="label label-default">#Education</span>
                         <span class="label label-default">#Culture</span>
                         </div>
@@ -82,7 +82,7 @@
                         <div class="panel-footer">
                         <span class="label label-primary hidden">All</span>
                         <span class="label label-primary">#Gender</span>
-                        <span class="label label-default">#Region</span>
+                        <span class="label label-default">#Religion</span>
                         <span class="label label-default">#Education</span>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                         <div class="panel-footer tag">
                         <span class="label label-primary hidden">All</span>
                         <span class="label label-primary">#Youth</span>
-                        <span class="label label-default">#Region</span>
+                        <span class="label label-default">#Religion</span>
                         <span class="label label-default">#Education</span>
                         <span class="label label-default">#Culture</span>
                         </div>
@@ -133,7 +133,7 @@
                         <div class="panel-footer">
                         <span class="label label-primary hidden">All</span>
                         <span class="label label-primary">#Gender</span>
-                        <span class="label label-default">#Region</span>
+                        <span class="label label-default">#Religion</span>
                         <span class="label label-default">#Education</span>
                         </div>
                     </div>
@@ -154,28 +154,28 @@
                         </div>
                     </div>
 
-                    
+
 
                     </div>
-                
+
                 </div>
-                
+
             </div>
 
-            
+
 
 
         </div>
-    </section>  
-      
+    </section>
+
       <section>
-            
+
       </section>
 
-       
+
 
     <!-- Footer -->
-    <footer class="footer">  
+    <footer class="footer">
     @include('frontend.includes.banner')
     @include('frontend.includes.footer')
 
@@ -191,9 +191,9 @@
             </div>
             <div class="row">
                 <div class="container-bottom">
-                    <div class="copyright"> 
+                    <div class="copyright">
                         <p>Copyright (c) Kosovo Trust Building 2021</p>
-                    </div>                
+                    </div>
 
                     <ul class="bond-socials text-right">
                         <li class="facebook">
@@ -201,13 +201,13 @@
                         </li>
                         <li class="instagram">
                             <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
-                        </li>                    
-                       
-                    </ul>              
+                        </li>
+
+                    </ul>
                 </div><!-- /.container-bottom -->
             </div><!-- /.row -->
         </div><!-- /.container -->
-    </div> 
+    </div>
 
 
 
@@ -258,8 +258,8 @@
     }
 }
     </script>
-    
-    
-    
+
+
+
 </body>
 </html>

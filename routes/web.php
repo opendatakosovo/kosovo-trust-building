@@ -27,7 +27,7 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
  Route::get('/projectss', function () { return view('frontend.projects'); });
  Route::get('/infographicss', function () { return view('frontend.infographics'); });
  Route::get('/stories', function () { return view('frontend.stories'); });
- Route::get('/covid19', function () { return view('frontend.covid19'); });
+ Route::get('/covid19', [\App\Http\Controllers\Covid19Controller::class, 'index'])->name('covid19.index');
  //Route::get('/pledges', function () { return view('frontend.pledges'); });
  Route::get('/pledges', [\App\Http\Controllers\PledgesController::class, 'index'])->name('pledges.index');
 

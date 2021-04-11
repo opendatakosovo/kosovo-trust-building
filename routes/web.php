@@ -26,17 +26,18 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
  Route::get('/portfolio', function () { return view('frontend.portfolio'); });
  Route::get('/projectss', function () { return view('frontend.projects'); });
  Route::get('/infographicss', function () { return view('frontend.infographics'); });
- Route::get('/storiess', function () { return view('frontend.stories'); });
+ Route::get('/stories', function () { return view('frontend.stories'); });
  Route::get('/covid19', function () { return view('frontend.covid19'); });
  //Route::get('/pledges', function () { return view('frontend.pledges'); });
  Route::get('/pledges', [\App\Http\Controllers\PledgesController::class, 'index'])->name('pledges.index');
 
 
  //Stories
- Route::get('/ngostory', function () { return view('frontend.ngostory'); });
- Route::get('/youthparticipation', function () { return view('frontend.youthparticipation'); });
- Route::get('/wateraidstory', function () { return view('frontend.wateraidstory'); });
- Route::get('/germanstory', function () { return view('frontend.germanstory'); });
+ Route::get('/digital-agenda', function () { return view('frontend.digital-agenda-en'); });
+// Route::get('/ngostory', function () { return view('frontend.ngostory'); });
+// Route::get('/youthparticipation', function () { return view('frontend.youthparticipation'); });
+// Route::get('/wateraidstory', function () { return view('frontend.wateraidstory'); });
+// Route::get('/germanstory', function () { return view('frontend.germanstory'); });
 
 
 
@@ -53,7 +54,7 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
         Route::get('/500', function () {        return view('dashboard.500'); });
         Route::get('/projects', function () {     return view('dashboard.projects'); });
         Route::get('/organizations', function () { return view('dashboard.organizations');});
-        Route::get('/stories', function () { return view('dashboard.stories.stories');});
+//        Route::get('/stories', function () { return view('dashboard.stories.stories');});
         Route::get('/tags', function(){   return view('dashboard.tags'); });
         Route::get('/graphs', function () { return view('dashboard.graphs');});
         Route::prefix('base')->group(function () {

@@ -14,7 +14,7 @@
     </section>
     <!-- Header -->
     <header id="header" class="header clearfix">
-        @include('frontend.includes.header')
+<!--        header.include -->
     </header>
 
     <!-- Page title -->
@@ -261,7 +261,7 @@
     <!-- Footer -->
 
     <footer class="footer">
-    @include('frontend.includes.banner')
+<!--   banner.include -->
 
         <div class="footer-widgets">
             <div class="container">
@@ -330,11 +330,11 @@
                             <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
                         </li>
                     </ul>
-                </div><!-- /.container-bottom -->
+                </div><`!-- /.container-bottom -->
             </div><!-- /.row -->
         </div><!-- /.container -->
     </div>
-
+`
     <a class="go-top vertical-text">
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>

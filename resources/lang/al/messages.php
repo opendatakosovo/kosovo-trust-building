@@ -63,7 +63,7 @@ return [
     'add-mssg' => 'Deshironi te shtoni dicka?',
     'dohere' => 'Bejeni ketu!',
     'network' => 'NETWORK',
-    'pledges' => 'Premtimet',
+    'pledges' => 'Pledges / Premtimet / Obećanja',
     'pledges.text' => 'Veprimet flasin më shumë se fjalët. Premtimi është një angazhim i veprueshëm që detajon se si një person do të përfshijë ndërtimin e besimit në punën e tij në një mënyrë të matshme, praktike. Bërja e një zotimi është një parakusht për tu bashkuar me Rrjetin e Ndërtimit të Mirëbesimit të Kosovës.',
     'odk-pledge' => '"ODK zotohet të zhvillojë më tej zgjidhje dixhitale që synojnë integrimin e të rinjve nga të gjitha komunitetet e Kosovës për të promovuar ndërtimin e besimit, kohezionin social dhe bashkëpunimin."',
     'alternativa-pledge' => '"Ne zotohemi që arti dhe kultura do të jenë mjeti ynë kryesor dhe nxitësi për promovimin e të drejtave të njeriut, rritjen e tolerancës dhe bashkëpunimit midis komuniteteve të ndryshme. "',

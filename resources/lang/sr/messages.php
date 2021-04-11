@@ -63,7 +63,7 @@ return [
     'add-mssg' => 'Da li želite da dodate nešto?',
     'dohere' => 'Uradi to ovde! ',
     'network' => 'NETWORK',
-    'pledges' => 'Obećanja',
+    'pledges' => 'Pledges / Premtimet / Obećanja',
     'pledges.text' => 'Dela govore više od reči. Obećanje je obaveza koja se može primeniti i koja detaljno opisuje kako će osoba uključiti izgradnju poverenja u svoj rad na merljiv, praktičan način. Davanje zaloge je preduslov za pridruživanje kosovskoj mreži poverenja.',
     'odk-pledge' => '„ODK se obavezuje da će dalje razvijati digitalna rešenja koja imaju za cilj integraciju mladih iz svih kosovskih zajednica radi promocije izgradnje poverenja, socijalne kohezije i saradnje.“',
     'alternativa-pledge' => '„Obećavamo da će umetnost i kultura biti naše glavno sredstvo i pokretač za promociju ljudskih prava, povećanje tolerancije i saradnje između različitih zajednica. ”',

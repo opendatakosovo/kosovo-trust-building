@@ -63,7 +63,7 @@ return [
     'add-mssg' => 'Do you want to add something?',
     'dohere' => 'Do it here!',
     'network' => 'NETWORK',
-    'pledges' => 'Pledges',
+    'pledges' => 'Pledges / Premtimet / Obećanja',
     'pledges.text' => 'Actions speak louder than words. A pledge is an actionable commitment detailing how a person will incorporate trust-building in their work in a measurable, practical way. Making a pledge is a pre-requisite for joining the Kosovo Trustbuilding Network. ',
     'odk-pledge' => '“ ODK pledges to further develop digital solutions that aim at integrating youth from all Kosovo communities to promote trustbuilding,social cohesion and cooperation.”',
     'alternativa-pledge' => '“ We pledge that art and culture will be our main tool and driver for promotion of human rights, increasing tolerance and cooperation between different communities. ”',

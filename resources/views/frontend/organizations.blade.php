@@ -1231,7 +1231,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Europe House</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1247,7 +1247,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">EUSR</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1263,7 +1263,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Finnish Embassy Kosovo</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1279,7 +1279,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Fondacioni Jeshil</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1295,7 +1295,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Forum for Civic Initiatives</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1311,7 +1311,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Forum for Leadership and Diplomacy</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1327,7 +1327,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Friedrich-Ebert-Stiftung Kosovo</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1343,7 +1343,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">GAIA Kosovo</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1359,7 +1359,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Gender Equality Officers</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1375,7 +1375,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Geneva Center for Security Policy (GCSP)</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1391,7 +1391,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">German Cooperation</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1407,7 +1407,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">German Embassy</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1423,7 +1423,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">German Marshall Fund</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1439,7 +1439,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Girls Coding Kosovo</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1455,7 +1455,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">GIZ Kosovo</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1471,7 +1471,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Global Community Engagement and Resilience Fund</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1487,7 +1487,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">GLPS</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1503,7 +1503,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Goethe-Institut</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1519,7 +1519,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Government of Kosovo</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1535,7 +1535,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Gračanica online</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1551,7 +1551,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Gruaja Hyjnore</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1567,7 +1567,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">Head of Committee for Human Rights</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1583,7 +1583,7 @@
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                    <h5 class="card-title"><a href="#">HEKS</a></h5>
                         </div>
                         <div class="panel-body">
                         </div>
@@ -1596,6 +1596,455 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">HELVETAS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">High Schools</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Human Rights Radio Network - HRN</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">IBCM</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">ICMA</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Inclusive Development Programme</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Initiative for Agricultural Development of Kosovo - IADK</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Initiative for Kosova Community</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Innovation Centre Kosovo</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Innovations Lab Kosovo</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Innovations Lab Kosovo Ombudsperson Institution</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Innovative Community Development Center</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Institute for Advanced Studies (GAP)</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Institute for Development Policy (INDEP)</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Institute of Forensic Medicine</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Head of Committee for Legislation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+
 
 
 

@@ -501,7 +501,7 @@
                         <div class="icon-image">
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="23613" data-speed="2000" data-waypoint-active="yes">23613</div>
+                            <div class="numb-count" data-to="359" data-speed="2000" data-waypoint-active="yes">359</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">

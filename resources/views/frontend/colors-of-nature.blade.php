@@ -51,7 +51,7 @@
                 <div class="post-wrap">
                     <div class="featured-blog-post">
                         <div class="entry-image">
-                            <img src="frontend/images/pledge-logo.png" alt="image">
+                            <img src="frontend/images/stories/uta-i-miljana11.jpg" alt="image">
                         </div>
                     </div>
 

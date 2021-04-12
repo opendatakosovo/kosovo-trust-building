@@ -1,26 +1,262 @@
-<!DOCTYPE html>
-<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
-<head>
-@include('frontend.includes.head')
-</head>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]--><head>
+<!-- Basic Page Needs -->
+ <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>Kosovo Trust Building</title>
+
+    <meta name="author" content="themesflat.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+   
+    
+    <!-- Bootstrap  -->
+    <link href="http://localhost:8000/frontend/stylesheets/bootstrap.css" rel="stylesheet">
+
+    <!-- Theme Style -->
+    <link href="http://localhost:8000/frontend/stylesheets/style.css" rel="stylesheet">
+    <link href="http://localhost:8000/frontend/stylesheets/slider.css" rel="stylesheet">
+
+
+    <!-- Responsive -->
+    <link href="http://localhost:8000/frontend/stylesheets/responsive.css" rel="stylesheet">
+
+    <!-- Animation Style -->
+    <link href="http://localhost:8000/frontend/stylesheets/animate.css" rel="stylesheet">
+    <link href="http://localhost:8000/frontend/stylesheets/swiper.min.css" rel="stylesheet">
+
+    <!-- Favicon and touch icons  -->
+    <link href="icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed" sizes="48x48">
+    <link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
+    <link href="frontend/images/ktb.png" rel="shortcut icon">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.css" rel="stylesheet">
+  
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="http://localhost:8000/frontend/javascript/jquery.min.js"> </script>
+    <script src="http://localhost:8000/frontend/javascript/bootstrap.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/owl.carousel.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.easing.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.flexslider-min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/imagesloaded.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery-waypoints.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.cookie.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/parallax.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/swiper.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/main.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.isotope.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery-validate.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery-countTo.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/gmap3.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/quote.js"></script>
+
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
+
+
+    <!-- Revolution Slider -->
+    <script src="http://localhost:8000/frontend/javascript/jquery.themepunch.tools.min.js?rev=4.6.5"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.themepunch.revolution.min.js?rev=4.6.5"></script>
+    <script src="http://localhost:8000/frontend/javascript/slider.js"></script>
+
+    
+
+<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/44/9/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/44/9/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttp%3A%2F%2Flocalhost%3A8000%2Fen&amp;4sAIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk&amp;callback=_xdc_._rl8b3h&amp;key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk&amp;token=118501"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/44/9/stats.js"></script></head>
 <body class="header_sticky page front-page flat-home5">
     <div class="covidbanner" style="position: absolute; z-index: 100;  width: 100%; ">
         <div class="covidbanner__content">
           <div class="covidbanner__text">
-          <strong>Covid 19 Alert:</strong><a href="/covid19" style="color: white"><u> Read More about our Covid 19 Activities and Statistics here.</u></a>
+          <strong>Upozorenje za Covid 19: </strong><a href="/covid19" style="color: white"><u>Ovde pročitajte više o našim aktivnostima i statistikama za Covid 19.</u></a>
           </div>
         </div>
     </div>
-    <section class="loading-overlay">
-        <div class="Loading-Page">
-            <h2 class="loader">Loading...</h2>
-        </div>
-    </section>
+    
     <!-- Header -->
     <header id="header" class="header clearfix white">
-    @include('frontend.includes.header')
-    </header><!-- /.header -->
+    <!-- Basic Page Needs -->
+ <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>Kosovo Trust Building</title>
+
+    <meta name="author" content="themesflat.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+   
+    
+    <!-- Bootstrap  -->
+    <link href="http://localhost:8000/frontend/stylesheets/bootstrap.css" rel="stylesheet">
+
+    <!-- Theme Style -->
+    <link href="http://localhost:8000/frontend/stylesheets/style.css" rel="stylesheet">
+    <link href="http://localhost:8000/frontend/stylesheets/slider.css" rel="stylesheet">
+
+
+    <!-- Responsive -->
+    <link href="http://localhost:8000/frontend/stylesheets/responsive.css" rel="stylesheet">
+
+    <!-- Animation Style -->
+    <link href="http://localhost:8000/frontend/stylesheets/animate.css" rel="stylesheet">
+    <link href="http://localhost:8000/frontend/stylesheets/swiper.min.css" rel="stylesheet">
+
+    <!-- Favicon and touch icons  -->
+    <link href="icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed" sizes="48x48">
+    <link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
+    <link href="frontend/images/ktb.png" rel="shortcut icon">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.css" rel="stylesheet">
+  
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="http://localhost:8000/frontend/javascript/jquery.min.js"> </script>
+    <script src="http://localhost:8000/frontend/javascript/bootstrap.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/owl.carousel.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.easing.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.flexslider-min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/imagesloaded.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery-waypoints.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.cookie.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/parallax.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/swiper.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/main.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.isotope.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery-validate.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery-countTo.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/gmap3.min.js"></script>
+    <script src="http://localhost:8000/frontend/javascript/quote.js"></script>
+
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
+
+
+    <!-- Revolution Slider -->
+    <script src="http://localhost:8000/frontend/javascript/jquery.themepunch.tools.min.js?rev=4.6.5"></script>
+    <script src="http://localhost:8000/frontend/javascript/jquery.themepunch.revolution.min.js?rev=4.6.5"></script>
+    <script src="http://localhost:8000/frontend/javascript/slider.js"></script>
+
+    
+
+
+        <div class="header-wrap clearfix">
+
+            <div id="logo" class="logo">
+                <a href="/" rel="Home">
+                    <img src="frontend/images/kosovo-logo-en.png" alt="image">
+                </a>
+            </div><!-- /.logo -->
+            <ul class="bond-socials text-right">
+                <li class="facebook">
+                    <a href="https://www.facebook.com/trustbuildingks/"><i class="fa fa-facebook"></i></a>
+                </li>
+                <li class="instagram">
+                    <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
+                </li>
+            </ul>
+
+            <div class="nav-wrap">
+                <div class="show-search">
+                    <a href="#"><i id="s" class="fa fa-search"></i></a>
+                </div><!-- /.show-search -->
+
+
+                <div class="btn-menu">
+                    <span></span>
+                </div><!-- //mobile menu button -->
+                <nav id="mainnav" class="mainnav">
+                    
+                    
+
+
+                    <ul class="menu"> 
+                        <li>
+                            
+                            </li><li class="">
+                                <a href="http://localhost:8000">Ballina</a>
+                         
+                        </li>
+                        
+                        <li>
+                            </li><li class="">
+                                <a href="http://localhost:8000/who-we-are">Ko smo mi</a>  
+                          
+                        </li>
+
+                        <li>
+                            </li><li class="">
+                                <a href="http://localhost:8000/projectss">Projekata</a> 
+                        
+                        </li>
+                       
+                        <li>
+                            
+                            </li><li class="">
+                                <a href="http://localhost:8000/organizationss">Organizacije</a> 
+                         
+                        </li>
+                          
+                        <li>
+                            </li><li class="">
+                                <a href="http://localhost:8000/trustbuildingnetworkk">Mreži za izgradnju poverenja na Kosovu</a> 
+
+                        </li>
+
+
+                        <li>
+                            </li><li class="">
+                                <a href="http://localhost:8000/infographicss">Infografika</a> 
+                           
+                        </li>
+                        
+                        <li>
+                            </li><li class="">
+                                <a href="http://localhost:8000/gallery">Galerija</a> 
+                           
+                        </li>
+
+                        <li>
+                            </li><li class="">
+                                <a href="http://localhost:8000/stories">Važne informacije</a> 
+                        
+                        </li>
+                    <li>
+                <select class="form-control changeLang">
+                <option value="sr" selected="">Srpski</option>
+                    <option value="en">English</option>
+                    <option value="al">Shqip</option>
+                    
+                </select>
+                    </li>
+   
+                                             
+                    </ul><!-- /.menu -->
+                </nav><!-- /.mainnav -->
+
+                <div class="widget search-box widget-search">
+                    <form method="get" role="search" class="search-form">
+                        <input type="search" class="search-field" name="s" size="25" maxlength="128" value="" placeholder="Search">
+                        <input type="submit" class="search-submit fa" value="">
+                    </form>
+                </div>
+            </div><!-- /.nav-wrap -->
+
+        </div><!-- /.header-inner -->
+
+        <script type="text/javascript">
+  
+  var url = "http://localhost:8000/lang/change";
+
+  $(".changeLang").change(function(){
+      window.location.href = url + "?lang="+ $(this).val();
+  });
+
+</script>    </header><div style="height: 23px; display: none;"></div><div style="height: 23px; display: none;"></div><!-- /.header -->
 
     <!-- Slider -->
     <div class="tp-banner-container" id="home" style="overflow: visible;">

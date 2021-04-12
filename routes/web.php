@@ -37,6 +37,10 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
 
  //Stories
  Route::get('/digital-agenda', function () { return view('frontend.digital-agenda'); });
+ Route::get('/ktb-story', function () { return view('frontend.ktb-story'); });
+ Route::get('/podcast-story', function () { return view('frontend.podcast-story'); });
+ Route::get('/sq/digital-agenda', function () { return view('frontend.digital-agenda.sq-digital-agenda'); });
+ Route::get('/sr/digital-agenda', function () { return view('frontend.digital-agenda.sr-digital-agenda'); });
 // Route::get('/ngostory', function () { return view('frontend.ngostory'); });
 // Route::get('/youthparticipation', function () { return view('frontend.youthparticipation'); });
 // Route::get('/wateraidstory', function () { return view('frontend.wateraidstory'); });

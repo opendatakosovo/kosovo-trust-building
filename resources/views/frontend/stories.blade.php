@@ -142,23 +142,70 @@
                                 <a class="readmore" href="/colors-of-nature">@lang('More')</a>
                             </div><!-- /content-post -->
                         </article><!-- /post -->
+------------------------------------------------------------------
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                    <img src="frontent/images/ktb_digweek.png.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                            
+                        <?php $locale = Config::get('app.locale');?>
 
-<!--                        <div class="row bond-clear">-->
-<!--                            <div class="col-md-12">-->
-<!--                                <div class="blog-pagination">-->
-<!--                                    <ul class="flat-pagination clearfix">-->
-<!--                                        <li class="active">1</li>-->
-<!--                                        <li><a href="storypage2.html">2</a></li>-->
-<!--                                        <li><a href="#">3</a></li>-->
-<!--                                        <li><a href="#">4</a></li>-->
-<!--                                        <li class="next">-->
-<!--                                            <a href="#"><i class="fa fa-angle-right"></i></a>-->
-<!--                                        </li>-->
-<!--                                    </ul>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="/ktb-story">Tri organizata dhe një qëllim: Një mjet dixhital për ndërtimin e besimit!</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="/ktb-story">Tri organizacije i jedan cilj: Digitalni alat za izgradnju poverenja!</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="/ktb-story">Three organizations and one goal: A digital tool for building trust!</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
 
+                        </article>
+
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                    <img src="frontent/images/podcast" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                            
+                        <?php $locale = Config::get('app.locale');?>
+
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="/podcast-story">Podcast: Rock si gjuhë e përbashkët</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="/podcast-story">Podkast: Rok kao zajednički jezik</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="/podcast-story">Podcast: Rock as a common language</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
+
+                        </article>
                     </div><!-- /post-wrap -->
                 </div><!-- /col-md-8 -->
 

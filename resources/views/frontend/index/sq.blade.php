@@ -1,9 +1,71 @@
-<!DOCTYPE html>
-<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
-<head>
-@include('frontend.includes.head')
-</head>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]--><head>
+<!-- Basic Page Needs -->
+ <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>Kosovo Trust Building</title>
+
+    <meta name="author" content="themesflat.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+   
+    
+    <!-- Bootstrap  -->
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/bootstrap.css" rel="stylesheet">
+
+    <!-- Theme Style -->
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/style.css" rel="stylesheet">
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/slider.css" rel="stylesheet">
+
+
+    <!-- Responsive -->
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/responsive.css" rel="stylesheet">
+
+    <!-- Animation Style -->
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/animate.css" rel="stylesheet">
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/swiper.min.css" rel="stylesheet">
+
+    <!-- Favicon and touch icons  -->
+    <link href="icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed" sizes="48x48">
+    <link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
+    <link href="frontend/images/ktb.png" rel="shortcut icon">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.css" rel="stylesheet">
+  
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.min.js"> </script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/bootstrap.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/owl.carousel.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.easing.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.flexslider-min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/imagesloaded.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery-waypoints.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.cookie.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/parallax.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/swiper.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/main.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.isotope.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery-validate.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery-countTo.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/gmap3.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/quote.js"></script>
+
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
+
+
+    <!-- Revolution Slider -->
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.themepunch.tools.min.js?rev=4.6.5"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.themepunch.revolution.min.js?rev=4.6.5"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/slider.js"></script>
+
+    
+
+<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/44/9/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/44/9/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttp%3A%2F%2Fnew.kosovotrustbuilding.com%2F&amp;4sAIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk&amp;callback=_xdc_._a9tmpv&amp;key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk&amp;token=120090"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/44/9/stats.js"></script></head>
 <body class="header_sticky page front-page flat-home5">
     <div class="covidbanner" style="position: absolute; z-index: 100;  width: 100%; ">
         <div class="covidbanner__content">
@@ -12,23 +74,196 @@
           </div>
         </div>
     </div>
-    <section class="loading-overlay">
-        <div class="Loading-Page">
-            <h2 class="loader">Loading...</h2>
-        </div>
-    </section>
+    
     <!-- Header -->
     <header id="header" class="header clearfix white">
-    @include('frontend.includes.header')
-    </header><!-- /.header -->
+    <!-- Basic Page Needs -->
+ <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>Kosovo Trust Building</title>
 
+    <meta name="author" content="themesflat.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+   
+    
+    <!-- Bootstrap  -->
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/bootstrap.css" rel="stylesheet">
+
+    <!-- Theme Style -->
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/style.css" rel="stylesheet">
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/slider.css" rel="stylesheet">
+
+
+    <!-- Responsive -->
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/responsive.css" rel="stylesheet">
+
+    <!-- Animation Style -->
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/animate.css" rel="stylesheet">
+    <link href="http://new.kosovotrustbuilding.com/frontend/stylesheets/swiper.min.css" rel="stylesheet">
+
+    <!-- Favicon and touch icons  -->
+    <link href="icon/apple-touch-icon-48-precomposed.png" rel="apple-touch-icon-precomposed" sizes="48x48">
+    <link href="icon/apple-touch-icon-32-precomposed.png" rel="apple-touch-icon-precomposed">
+    <link href="frontend/images/ktb.png" rel="shortcut icon">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.css" rel="stylesheet">
+  
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.min.js"> </script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/bootstrap.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/owl.carousel.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.easing.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.flexslider-min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/imagesloaded.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery-waypoints.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.cookie.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/parallax.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/swiper.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/main.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.isotope.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery-validate.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery-countTo.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/gmap3.min.js"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/quote.js"></script>
+
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
+
+
+    <!-- Revolution Slider -->
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.themepunch.tools.min.js?rev=4.6.5"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.themepunch.revolution.min.js?rev=4.6.5"></script>
+    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/slider.js"></script>
+
+    
+
+
+        <div class="header-wrap clearfix">
+
+            <div id="logo" class="logo">
+                <a href="/" rel="Home">
+                    <img src="frontend/images/kosovo-logo-en.png" alt="image">
+                </a>
+            </div><!-- /.logo -->
+            <ul class="bond-socials text-right">
+                <li class="facebook">
+                    <a href="https://www.facebook.com/trustbuildingks/"><i class="fa fa-facebook"></i></a>
+                </li>
+                <li class="instagram">
+                    <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
+                </li>
+            </ul>
+
+            <div class="nav-wrap header-fix">
+                <div class="show-search">
+                    <a href="#"><i id="s" class="fa fa-search"></i></a>
+                </div><!-- /.show-search -->
+
+
+                <div class="btn-menu">
+                    <span></span>
+                </div><!-- //mobile menu button -->
+                <nav id="mainnav" class="mainnav">
+                    
+                    
+
+
+                    <ul class="menu"> 
+                        <li>
+                            
+                            </li><li class="home">
+                                <a href="http://new.kosovotrustbuilding.com">Ballina</a>
+                         
+                        </li>
+                        
+                        <li>
+                            </li><li class="">
+                                <a href="http://new.kosovotrustbuilding.com/who-we-are">Kush jemi ne</a>  
+                          
+                        </li>
+
+                        <li>
+                            </li><li class="">
+                                <a href="http://new.kosovotrustbuilding.com/projectss">Projektet</a> 
+                        
+                        </li>
+                       
+                        <li>
+                            
+                            </li><li class="">
+                                <a href="http://new.kosovotrustbuilding.com/organizationss">Organizatat</a> 
+                         
+                        </li>
+                          
+                        <li>
+                            </li><li class="">
+                                <a href="http://new.kosovotrustbuilding.com/trustbuildingnetworkk">Rrjeti i Ndërtimit të Besimit të Kosovës</a> 
+
+                        </li>
+
+
+                        <li>
+                            </li><li class="">
+                                <a href="http://new.kosovotrustbuilding.com/infographicss">Infografikat</a> 
+                           
+                        </li>
+                        
+                        <li>
+                            </li><li class="">
+                                <a href="http://new.kosovotrustbuilding.com/gallery">Galeri</a> 
+                           
+                        </li>
+
+                        <li>
+                            </li><li class="">
+                                <a href="http://new.kosovotrustbuilding.com/stories">Burime</a> 
+                        
+                        </li>
+                    <li>
+                <select class="form-control changeLang">
+                <option value="al" selected="">Shqip</option>
+                    <option value="en">English</option>
+                    
+                    <option value="sr">Srpski</option>
+                </select>
+                    </li>
+   
+                                             
+                    </ul><!-- /.menu -->
+                </nav><!-- /.mainnav -->
+
+                <div class="widget search-box widget-search">
+                    <form method="get" role="search" class="search-form">
+                        <input type="search" class="search-field" name="s" size="25" maxlength="128" value="" placeholder="Search">
+                        <input type="submit" class="search-submit fa" value="">
+                    </form>
+                </div>
+            </div><!-- /.nav-wrap -->
+
+        </div><!-- /.header-inner -->
+
+        <script type="text/javascript">
+  
+  var url = "http://new.kosovotrustbuilding.com/lang/change";
+
+  $(".changeLang").change(function(){
+      window.location.href = url + "?lang="+ $(this).val();
+  });
+
+</script>    </header><div style="height: 73px; display: none;"></div><div style="height: 73px; display: none;"></div><!-- /.header -->
 
     <!-- Slider -->
     <div class="tp-banner-container" id="home" style="overflow: visible;">
-        <div class="tp-banner revslider-initialised tp-simpleresponsive" id="revslider-200" style="max-height: 889px; height: 889px;">
+        <div class="tp-banner revslider-initialised tp-simpleresponsive" id="revslider-954" style="max-height: 889px; height: 889px;">
             <ul class="tp-revslider-mainul" style="display: block; overflow: hidden; width: 100%; height: 100%; max-height: 889px;">
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
-                    <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="undefined" data-kenburns="undefined" data-easeme="undefined" data-bgfit="undefined" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="frontend/images/slides/prishtina.jpg" data-src="frontend/images/slides/prishtina.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;frontend/images/slides/prishtina.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 0; visibility: hidden;"></div></div>
+                    <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="undefined" data-kenburns="undefined" data-easeme="undefined" data-bgfit="undefined" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="frontend/images/slides/prishtina.jpg" data-src="frontend/images/slides/prishtina.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;frontend/images/slides/prishtina.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
 
                     <div class="tp-caption sfr desc-slide center start" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut" style="transition: none 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 108px; border-width: 0px; margin: 30px 0px 0px; padding: 0px; letter-spacing: 4px; font-size: 72px; left: 239.5px; top: 253px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00166, 50, 0, 0, 1);">
                         Kosovo Trust-Building<br> Platform
@@ -36,8 +271,8 @@
                     <div class="tp-caption sfl flat-button-slider start" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut" style="transition: all 0.3s ease 0s; min-height: 0px; min-width: 0px; line-height: 24px; border-width: 1px; margin: 0px; padding: 10px 43px 10px 45px; letter-spacing: 1px; font-size: 14px; left: 239.5px; top: 545px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00166, -50, 0, 0, 1);"><a href="/who-we-are">Learn More</a></div>
                 </li>
 
-                <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" class="tp-revslider-slidesli active-revslide current-sr-slide-visible" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: inherit; opacity: 1;">
-                    <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="undefined" data-kenburns="undefined" data-easeme="undefined" data-bgfit="undefined" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="frontend/images/slides/playing.jpg" data-src="frontend/images/slides/playing.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;frontend/images/slides/playing.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 0; visibility: hidden;"></div><div class="slot" style="position:absolute;top:0px;left:0px;overflow:hidden;width:1579.6px;height:889px"><div class="slotslide" style="position: absolute; top: 0px; left: 2px; width: 1579.6px; height: 889px; overflow: hidden; opacity: 0.998628; transform: translate3d(0px, 0px, 0px);"><div style="background-color:rgba(0, 0, 0, 0);position:absolute;top:0px;left:0px;width:1579px;height:889px;background-image:url(frontend/images/slides/playing.jpg);background-repeat:no-repeat;background-size:cover;background-position:center center;"></div></div></div></div>
+                <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; z-index: 18; visibility: hidden; opacity: 0;">
+                    <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="undefined" data-kenburns="undefined" data-easeme="undefined" data-bgfit="undefined" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="frontend/images/slides/playing.jpg" data-src="frontend/images/slides/playing.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;frontend/images/slides/playing.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 0; visibility: hidden;"></div></div>
 
                     <div class="tp-caption sfr desc-slide center start" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut" style="transition: none 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 108px; border-width: 0px; margin: 30px 0px 0px; padding: 0px; letter-spacing: 4px; font-size: 72px; left: 239.5px; top: 253px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00166, 50, 0, 0, 1);">
                         Kosovo Trust-Building<br> Platform
@@ -45,22 +280,22 @@
                     <div class="tp-caption sfl flat-button-slider start" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut" style="transition: all 0.3s ease 0s; min-height: 0px; min-width: 0px; line-height: 24px; border-width: 1px; margin: 0px; padding: 10px 43px 10px 45px; letter-spacing: 1px; font-size: 14px; left: 239.5px; top: 545px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00166, -50, 0, 0, 1);"><a href="/who-we-are">Learn More</a></div>
                 </li>
 
-                <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; visibility: inherit; opacity: 1; z-index: 20;">
-                    <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="undefined" data-kenburns="undefined" data-easeme="undefined" data-bgfit="undefined" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="frontend/images/slides/covid.jpg" data-src="frontend/images/slides/covid.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;frontend/images/slides/covid.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; visibility: hidden; opacity: 0;"></div><div class="slot" style="position:absolute;top:0px;left:0px;overflow:hidden;width:1579.6px;height:889px"><div class="slotslide" style="position: absolute; top: 0px; left: -1578px; width: 1579.6px; height: 889px; overflow: hidden; opacity: 0.001372; transform: translate3d(0px, 0px, 0px);"><div style="background-color:rgba(0, 0, 0, 0);position:absolute;top:0px;left:0px;width:1579px;height:889px;background-image:url(frontend/images/slides/covid.jpg);background-repeat:no-repeat;background-size:cover;background-position:center center;"></div></div></div></div>
-                    <div class="tp-caption sfl title-slide center start" data-x="309" data-y="160" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut" style="transition: none 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 112px; border-width: 0px; margin: 30px 0px 0px; padding: 0px; letter-spacing: 4px; font-size: 48px; left: 513.5px; top: 160px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00166, -50, 0, 0, 1);">
+                <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" class="tp-revslider-slidesli active-revslide current-sr-slide-visible" style="width: 100%; height: 100%; overflow: hidden; visibility: inherit; opacity: 1; z-index: 20;">
+                    <div class="slotholder" style="width:100%;height:100%;" data-duration="undefined" data-zoomstart="undefined" data-zoomend="undefined" data-rotationstart="undefined" data-rotationend="undefined" data-ease="undefined" data-bgpositionend="undefined" data-bgposition="undefined" data-kenburns="undefined" data-easeme="undefined" data-bgfit="undefined" data-bgfitend="undefined" data-owidth="undefined" data-oheight="undefined"><div class="tp-bgimg defaultimg" data-lazyload="undefined" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-lazydone="undefined" src="frontend/images/slides/covid.jpg" data-src="frontend/images/slides/covid.jpg" style="background-color: rgba(0, 0, 0, 0); background-repeat: no-repeat; background-image: url(&quot;frontend/images/slides/covid.jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit;"></div></div>
+                    <div class="tp-caption sfl title-slide center start" data-x="309" data-y="160" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut" style="transition: none 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 112px; border-width: 0px; margin: 30px 0px 0px; padding: 0px; letter-spacing: 4px; font-size: 48px; left: 513.5px; top: 160px; visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.0025, 0, 0, 0, 1);">
                         Kosovo Trust-Building Platform
                     </div>
-                    <div class="tp-caption sfr desc-slide center start" data-x="195" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut" style="transition: none 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 108px; border-width: 0px; margin: 30px 0px 0px; padding: 0px; letter-spacing: 4px; font-size: 72px; left: 399.5px; top: 253px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00166, 50, 0, 0, 1);">
+                    <div class="tp-caption sfr desc-slide center start" data-x="195" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut" style="transition: none 0s ease 0s; min-height: 0px; min-width: 0px; line-height: 108px; border-width: 0px; margin: 30px 0px 0px; padding: 0px; letter-spacing: 4px; font-size: 72px; left: 399.5px; top: 253px; visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.0025, 0, 0, 0, 1);">
                         BUILD TRUST
                     </div>
 
 
 
-                    <div class="tp-caption sfl flat-button-slider start" data-x="502" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut" style="transition: all 0.3s ease 0s; min-height: 0px; min-width: 0px; line-height: 24px; border-width: 1px; margin: 0px; padding: 10px 43px 10px 45px; letter-spacing: 1px; font-size: 14px; left: 706.5px; top: 545px; visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.00166, -50, 0, 0, 1);"><a href="/who-we-are">Read More</a></div>
+                    <div class="tp-caption sfl flat-button-slider start" data-x="502" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut" style="transition: all 0.3s ease 0s; min-height: 0px; min-width: 0px; line-height: 24px; border-width: 1px; margin: 0px; padding: 10px 43px 10px 45px; letter-spacing: 1px; font-size: 14px; left: 706.5px; top: 545px; visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, -0.0025, 0, 0, 0, 1);"><a href="/who-we-are">Read More</a></div>
                 </li>
             </ul>
-        <div class="tp-loader spinner4" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div><div class="tp-bannertimer" style="visibility: visible; width: 0%; transform: matrix(1, 0, 0, 1, 0, 0);"></div></div>
-    <div style="position: absolute; top: 889px; margin-top: -30px; left: 20px;" class="tp-leftarrow tparrows default square hidearrows"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 0.755964; background-image: url(&quot;frontend/images/slides/playing.jpg&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder"></div><div class="tp-arr-subtitleholder"></div></div></div></div><div style="position: absolute; top: 888px; margin-top: -30px; right: 20px;" class="tp-rightarrow tparrows default square hidearrows"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 0.755964; background-image: url(&quot;frontend/images/slides/prishtina.jpg&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder"></div><div class="tp-arr-subtitleholder"></div></div></div></div></div>
+        <div class="tp-loader spinner4" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div><div class="tp-bannertimer" style="visibility: visible; width: 83.0333%; transform: translate3d(0px, 0px, 0px);"></div></div>
+    <div style="position: absolute; top: 889px; margin-top: -30px; left: 20px;" class="tp-leftarrow tparrows default square hidearrows"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 1; background-image: url(&quot;frontend/images/slides/playing.jpg&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder"></div><div class="tp-arr-subtitleholder"></div></div></div></div><div style="position: absolute; top: 888px; margin-top: -30px; right: 20px;" class="tp-rightarrow tparrows default square hidearrows"><div class="tp-arr-allwrapper"><div class="tp-arr-iwrapper"><div class="tp-arr-imgholder" style="visibility: inherit; opacity: 1; background-image: url(&quot;frontend/images/slides/prishtina.jpg&quot;);"></div><div class="tp-arr-imgholder2"></div><div class="tp-arr-titleholder"></div><div class="tp-arr-subtitleholder"></div></div></div></div></div>
 
     <section class="bond-row ab3-s1 padb-134">
         <div class="title-section style2">

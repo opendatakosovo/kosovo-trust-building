@@ -37,6 +37,7 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
 
  //Stories
  Route::get('/digital-agenda', function () { return view('frontend.digital-agenda'); });
+ Route::get('/colors-of-nature', function () { return view('frontend.colors-of-nature'); });
 // Route::get('/ngostory', function () { return view('frontend.ngostory'); });
 // Route::get('/youthparticipation', function () { return view('frontend.youthparticipation'); });
 // Route::get('/wateraidstory', function () { return view('frontend.wateraidstory'); });

@@ -1383,7 +1383,7 @@ input[type="color"],
 }
 
 .parallax1 {
-    background-image: url(../images/parallax/bg-parallax1.jpg);
+     background-color:  rgb(247, 247, 247);
 }
 
 .parallax2 {

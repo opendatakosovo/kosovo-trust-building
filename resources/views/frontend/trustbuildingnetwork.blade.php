@@ -276,7 +276,7 @@
                         <div class="col-md-12">
                             <div class="flat-contact-us">
                                     <h2>{{ __('messages.member') }}</h2>
-                                    <a class="button" href="/register">{{ __('messages.registerhere') }}</a>
+                                    <a data-toggle="modal" data-target="#myModal2" class="button">{{ __('messages.registerhere') }}</a>
                             </div>
                         </div><!-- /.col-md-12 -->
                     </div><!-- /.row -->
@@ -308,7 +308,7 @@
                         <div class="content">
                             <h5 class="title"><a>{{ __('messages.story-form') }}</a></h5>
                             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p> -->
-                            <a data-toggle="modal" data-target="#myModal" class="readmore">{{ __('messages.here') }}</a>
+                            <a data-toggle="modal" data-target="#myModal2" class="readmore">{{ __('messages.here') }}</a>
                         </div>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
@@ -320,7 +320,7 @@
                         <div class="content">
                             <h5 class="title"><a>{{ __('messages.donate') }}</a></h5>
                             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed do eiu toidure thako robe amar <br/> tomakei bode smod tempor</p> -->
-                            <a class="readmore" data-toggle="modal" data-target="#myModal" >{{ __('messages.here') }}</a>
+                            <a class="readmore" data-toggle="modal" data-target="#myModal2" >{{ __('messages.here') }}</a>
                     </div><!-- /.bond-iconbox -->
                 </div><!-- /.item -->
             </div><!-- /.bond-iconbox-fullwidth -->

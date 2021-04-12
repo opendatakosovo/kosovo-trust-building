@@ -70,7 +70,7 @@
     <div class="covidbanner" style="position: absolute; z-index: 100;  width: 100%; ">
         <div class="covidbanner__content">
           <div class="covidbanner__text">
-          <strong>Covid 19 Alert:</strong><a href="/covid19" style="color: white"><u> Read More about our Covid 19 Activities and Statistics here.</u></a>
+          <strong>Njoftim per Covid 19:</strong><a href="/covid19" style="color: white"><u> Lexoni më shumë rreth aktiviteteve dhe statistikave tona Covid 19 këtu.</u></a>
           </div>
         </div>
     </div>

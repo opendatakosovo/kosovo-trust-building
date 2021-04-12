@@ -320,12 +320,9 @@
 	                 <!-- Add Pagination -->
 	                <!-- Add Arrows -->
 	                <ul class="nav-thumb">
-	                    <li class="active"><img alt="single_image" src="frontend/images/home/un-secretary.jpg"/></li>
+	                    
 	                    <li><img alt="single_image" src="frontend/images/home/testimonial-jovana.png"/> </li>
-	                    <!-- <li><img alt="single_image" src="frontend/images/home/testim-altrn.png"/> </li>
-	                    <li><img alt="single_image" src="frontend/images/home/tes3.jpg"/> </li>
-	                    <li><img alt="single_image" src="frontend/images/home/odk-logo.png"/> </li>
-	                    <li><img alt="single_image" src="frontend/images/home/tes4.png"/> </li> -->
+	                   
 	                </ul>
 	                <div class="swiper-nav">
                         <div class="swiper-button-prev">Prev</div>

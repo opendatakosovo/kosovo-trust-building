@@ -16,6 +16,9 @@ Route::get('lang/home', 'LangController@index');
 Route::get('lang/change', 'LangController@change')->name('changeLang');
  // front-end routes
  Route::get('/', function () { return view('frontend.index'); });
+ Route::get('/en', function () { return view('frontend.index.en'); });
+ Route::get('/sq', function () { return view('frontend.index.sq'); });
+ Route::get('/sr', function () { return view('frontend.index.sr'); });
  Route::get('/lang', function () { return view('frontend.lang'); });
  Route::get('/who-we-are', function () { return view('frontend.who-we-are'); });
  Route::get('/trustbuildingnetworkk', function () { return view('frontend.trustbuildingnetwork'); });

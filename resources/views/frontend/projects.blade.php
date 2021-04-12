@@ -185,7 +185,7 @@
                         <h2 class="box-title">{{ __('messages.projects-text2') }}</h2>
                     </div>
                     <div class="box-content">
-                        <a class="flat-button bdw" href="contribute.html">{{ __('messages.contribute') }}</a>
+                        <a class="flat-button bdw" href="/trustbuildingnetworkk#contribute">{{ __('messages.contribute') }}</a>
 
                     </div>
                 </div>

@@ -26,7 +26,7 @@
                             @elseif($locale === 'sr')
                             <h1 class="title">Dnevni red: Digitalna nedelja izgradnje poverenja, 12-16. april</h1>
                             @else
-                            <h1 class="title">Agenda: Digital Trustbuilding Week, April 12-16</h1>
+                            <h1 class="title">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</h1>
                             @endif
                         </div><!-- /.page-title-captions -->
                     </div><!-- /.page-title-captions -->
@@ -63,7 +63,7 @@
                                 @elseif($locale === 'sr')
                                 <a href="#">Dnevni red: Digitalna nedelja izgradnje poverenja, 12-16. april</a>
                                 @else
-                                <a href="#">Agenda: Digital Trustbuilding Week, April 12-16</a>
+                                <a href="#">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</a>
                                 @endif
                             </h2>
 
@@ -190,58 +190,32 @@
                         </div>
                         @else
                         <div class="entry-blog-content">
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">The Kosovo Trustbuilding Platform invites you to join us for Digital Trustbuilding Week, with expert discussions, a social media campaign with actionable pledges from Kosovo Trustbuilding Network members, and interesting content from local trustbuilders in your communities.&nbsp;&nbsp;</span></span></span></p>
+                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Respect for diversity, acceptance and respect for the other, a culture of mutual dialogue, are values ​​that should be nurtured from an early age. "Colors of Nature with Uta and Miljana" is a multilingual book intended for the youngest and is the product of cooperation between alpinist Uta Ibrahimi and artist Miljana Djundjerin. It should see the light of day at the end of May and be in the hands of young readers already on the International Children's Day (June 1).&nbsp;&nbsp;</span></span></span></p>
 
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Pledges from members of the Network, as well as original content featuring everyday trustbuilding heroes and stories from local communities will be released daily.&nbsp;</span></span></span></p>
+                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">While the Utalaya Foundation team, together with collaborators, works hard to create illustrations, plan the look and design of books, and wait for the publication and reaction of the youngest and most sincere audience, we are talking about the idea for such a project with the first Albanian woman to climb the highest peak in the world - Uta Ibrahimi. The enthusiasm and curiosity of the children, which she met at numerous exhibitions and motivational speeches, which she gave after a successful hike to Mount Everest, encouraged her to create something like this.&nbsp;</span></span></span></p>
 
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Don&rsquo;t miss any updates! Follow us on Facebook: </span></span></span><a href="http://www.facebook.com/trustbuildingks" style="text-decoration:none"><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#0563c1"><u>@trustbuildingks</u></span></span></span></a></p>
-
-
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Facebook Premiere schedule:</span></span></span></p>
-
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>Monday, April 12</strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong><sup>th</sup></strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>&nbsp; &mdash; </strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Kick-off: Trustbuilding, Innovation and Technology&nbsp;</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">10:00 ALB | 11:00 SRB</span></span></span></br>
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Featuring: Blerta Tha&ccedil;i (ODK), Sanja Stojković (NSI)</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Moderated by Paulina Behluli</span></span></span></p>
-
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>Tuesday, April 13</strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong><sup>th</sup></strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>&nbsp; &mdash; </strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Women in Public Service </span></span></span><br/>
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">10:00 ALB | 11:00 SRB</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Featuring: Donika Emini (CiviKos), Njomza Emini (Forum for Leadership and Democracy)</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Moderated by Milica Andrić</span></span></span></p>
+                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">"That inspired me to share my story through a children's book, and at the beginning of 2020, with the help of UN agencies in Kosovo, the Municipality of Pristina and my designer, illustrator and friend of writers, the book 'Uta and mountains' was published. After its publication, I received thousands of messages and drawings from children and my heart was filled. At that moment, I realized that this book must be available to all children, and with the support of UNICEF, we published a supplementary coloring book ’Uta and the Mountains’, translated it into Serbian and Romani and donated to community centers," explains Uta. </span></span></span></p>
 
 
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>Wednesday, April 14</strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong><sup>th</sup></strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>&nbsp; &mdash; </strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Women in Business</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">10:00 ALB | 11:00 SRB</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Featuring: Florentina Dushi (BDG), Shpresa Agushi (NRAEVOK)</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Moderated by Paulina Behluli</span></span></span></p>
+                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">"Later, we came across a UNMIK announcement of a trust-building project and concluded that merging two success stories of people from both the Albanian and Serbian communities would result in the creation of a compelling multilingual book and thus nurture children's diversity of culture, language and passions,” she adds.</span></span></span></p>
 
 
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>Thursday, April 15</strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong><sup>th</sup></strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>&nbsp; &mdash; </strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Women in Peace and Security</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">10:00 ALB | 11:00 SRB</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Featuring: Brikena Avdyli (Jahjaga Foundation), Jovana Radosavljević (NSI)</span></span></span><br/>
-
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Moderated by Milica Andrić</span></span></span></p>
+                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Among others, she points out, many inspiring people from North Mitrovica, they decided that Miljana Dunđerin and her artistic approach would perfectly suit their story. </span></span></span></p>
 
 
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>Friday, April 16</strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong><sup>th</sup></strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000"><strong>&nbsp; &mdash; </strong></span></span></span><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Women in the Media</span></span></span><br/>
+                             <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">"We wanted to add a new dimension to the book, this time not dealing strictly with mountains and nature, but with the beauty of art and the creative power of people," she points out. </span></span></span></p>
 
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">10:00 ALB | 11:00 SRB</span></span></span><br />
+                              <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">And what about Miljana, who Uta says is great for collaborating and will remain a good friend of the Utalaya Foundation team. </span></span></span></p>
 
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Featuring: Una Hajdari (Independent), Zorica Vorgučić (RTV Kim)</span></span></span><br/>
+                               <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">"Sometimes I feel an earthquake that makes me forget reality, we need that starting point, even if it was a grain of dust or a flash of light. My encounter with Uta may be a grain of dust, but the book is, I hope, a flash of light for children. After all, those grains, no matter how tiny and intangible, reveal the paths of sensitivity and represent the path to true understanding," Miljana emphasizes. </span></span></span></p>
 
-                                <span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">Moderated by Milica Andrić</span></span></span><br/>
+                                <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">The text is currently ready in Serbian and Albanian, but translation into other languages ​​is also planned. Uta believes that the project of creating this book will encourage reading among children, but also contribute to reconciliation through building dialogue and empathy among future generations, while promoting interethnic cooperation between writers and artists. </span></span></span></p>
 
-                            <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">**All expert participants are from the Kosovo Trustbuilding Network&rsquo;s sub-group on Women, Peace and Security. </span></span></span></p>
+                                <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">"I am happy to have found the support of UNMIK and all these amazing people who are working and doing their best to publish this book. Cultural diversity, multiethnic tolerance, gender equality and ecology have always been the pillars of my commitment and I am more than happy to convey such messages in a friendly tone to our most sacred good, children and youth, regardless of their ethnicity. "We all live in Kosovo and we should work as one for the greater good and successful future generations," he said.</span></span></span></p>
 
+                                <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">What are her impressions? </span></span></span></p>
+
+                                <p><span style="font-size:12pt"><span style="font-family:Calibri,sans-serif"><span style="color:#000000">"All I can say is that I enjoy every part of the process and I am thrilled with all the new information and perceptions I gain every day. "I am fully convinced that the diversity we have in Kosovo is our strength and that we should join forces more often in order to create inspiring work," she said. </span></span></span></p>
                         </div>
                         @endif
 

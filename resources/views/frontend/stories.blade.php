@@ -127,7 +127,7 @@
                             </div>
                             <div class="content-post">
                                 <h4 class="title-post">
-                                    <a href="/digital-agenda">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</a>
+                                    <a href="/colors-of-nature">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</a>
                                 </h4>
                                 <div class="entry-meta">
                                     <div class="meta-1">

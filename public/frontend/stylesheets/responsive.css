@@ -7,6 +7,7 @@
 @media only screen and (max-width: 1366px) {
 	.page-callout:before {
 		left:0px;
+		width: 100%;
 	}
 
 	.flat-spacer.off {
@@ -559,6 +560,10 @@
 		padding-left: 10px;
 	}
 
+	.title-section.style1 .title {
+		line-height: 45px;
+	}
+
 }
 
 /* Mobile Landscape Size */
@@ -1017,6 +1022,6 @@
 }
 
 @media (max-width: 320px) {	
-
+		
 }
 

@@ -448,25 +448,41 @@
 
 
     <section class="section-home5-callout2">
-        <footer class="footer">
-        <div class="page-callout">
+    <div class="page-callout">
             <div class="page-callout-background">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="flat-contact-us">
                                 <div class="col-md-6">
-                                    <h2>Postati član!</h2>
-                                    <a class="button" href="/register">Registrujte ovde!</a>
+                                    <h2>POSTATI ČLAN!</h2>
+                                     <a class="button" data-toggle="modal" data-target="#myModal2" class="readmore">Registrujte ovde!</a>
                                 </div>                  
                                <div class="col-md-6">
-                                    <h2>Da li želite da dodate nešto?</h2>
-                                    <a class="button" href="/trustbuildingnetworkk#contribute">Uradi to ovde! </a>
+                                    <h2>DA LI ŽELITE DA DODATE NEŠTO?</h2>
+                                    <a class="button" href="/trustbuildingnetworkk#contribute">Uradi to ovde!</a>
                                </div>                     
                             </div>
                         </div><!-- /.col-md-12 -->
                     </div><!-- /.row -->
                 </div><!-- /.container -->
+                <div class="row">
+                        <div class="col-md-12">
+                            <div class="modal fade" id="myModal2" style="margin-top:250px;">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                        <div class="modal-close">
+                                            <a class="modal-close-button" data-dismiss="modal" value="close">&times;</a>
+                                        </div>
+                                            <h2 style="color:black;  text-align:center;">Srećna nedelja izgradnje digitalnog poverenja!</h2>
+                                            <h2 style="color:#fe466c;text-align:center;">Ova funkcija će biti objavljena uskoro.</h2>
+                                        </div>    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 <!-- <div class="container"> -->
                     <div class="row">
                         <div class="col-md-12">
@@ -475,7 +491,7 @@
                                     <div class="modal-content">
                                         <div class="modal-body">
                                         <div class="modal-close">
-                                            <a class="modal-close-button" data-dismiss="modal" value="close">×</a>
+                                            <a class="modal-close-button" data-dismiss="modal" value="close">&times;</a>
                                         </div>
                                             <form class="form" action="">
                                                 <div class="personal-info">
@@ -500,9 +516,6 @@
                             </div>
                         </div>
                     </div>
-                <!-- </div> -->
-            </div>
-        </div>        </footer>
     </section>
 
     <section class="padb-49">

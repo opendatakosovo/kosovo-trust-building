@@ -59,7 +59,7 @@
                     <h5 class="card-title"><a href="#">UNDP</a></h5>
                         </div>
                         <div class="panel-body">
-                        <a href="organization1"><img src="frontend/images/organizations/undp.png" alt="UNDP"></a>
+                        
                         </div>
                         <div class="panel-footer tag">
                         <span class="label label-primary hidden">All</span>
@@ -77,7 +77,7 @@
                         <h5 class="card-title"><a href="#">UNHCR</a></h5>
                         </div>
                         <div class="panel-body">
-                       <img src="frontend/images/organizations/unhcr.png" alt="" >
+                     
                         </div>
                         <div class="panel-footer">
                         <span class="label label-primary hidden">All</span>
@@ -94,7 +94,7 @@
                         <h5 class="card-title"><a href="#">IOM</a></h5>
                         </div>
                         <div class="panel-body">
-                        <img src="frontend/images/organizations/iom.png" alt="" >
+                     
                         </div>
                         <div class="panel-footer">
                         <span class="label label-primary hidden">All</span>
@@ -110,7 +110,7 @@
                         <h5 class="card-title"><a href="#">UNMIK</a></h5>
                         </div>
                         <div class="panel-body">
-                        <img src="frontend/images/organizations/unmik.png" alt="">
+                      
                         </div>
                         <div class="panel-footer tag">
                         <span class="label label-primary hidden">All</span>
@@ -128,7 +128,6 @@
                         <h5 class="card-title"><a href="#">GIZ</a></h5>
                         </div>
                         <div class="panel-body">
-                        <img src="frontend/images/organizations/giz.jpg" alt="" >
                         </div>
                         <div class="panel-footer">
                         <span class="label label-primary hidden">All</span>
@@ -145,7 +144,6 @@
                         <h5 class="card-title"><a href="#">ACDC</a></h5>
                         </div>
                         <div class="panel-body">
-                        <img src="frontend/images/organizations/acdc.png" alt="">
                         </div>
                         <div class="panel-footer">
                         <span class="label label-primary hidden">All</span>
@@ -153,12 +151,1455 @@
                         <span class="label label-default">#Media</span>
                         </div>
                     </div>
-
-
-
                     </div>
-
                 </div>
+
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">A.U.K - Training and Development Institute</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Agency for Free Legal Aid</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Alternativna</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Alternativni Centar za Devojke</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">AmCham Kosovo</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">AMPEK</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">ANIBAR</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Art Polis</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Assembly of Kosovo</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Association of Journalists of Kosovo</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">ATRC</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Austrian Development Cooperations</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Balkan Green Foundation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Balkan Sunflowers</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Balkans Policy Research Group</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">BIRN</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">BRAN – Bashkimi Rinor E Ardhmja E Ndritur</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">British Council</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">British Embassy</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Canada Fund for Local Initiatives</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">CARE Balkans</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Caritas Kosova</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">CBM</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">CDF</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">CDO</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Center for Advanced Studies – FIT</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Center for Counseling, Social Services and Research (SIT)</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Center for Cultural Diversity and Minority Development</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Center for Equality and Liberty (CEL)</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Center for International Legal Cooperation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Center For Social Affirmation of Youth</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Center for Social Groups Development (CSGD)</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Center for Social Initiatives</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Center for the Right of Minority Communities</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Central institutions</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Centre for Communities Development (CCD)</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">CEPEJ</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">CFD Swiss</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Chamber of Commerce</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">CIVIKOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Civil Society</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">CLARD</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Communication for Social Development</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Cooperative Eva</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Council of Europe</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Crno Beli Svet</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Cultural Artistic Assosciation</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Cultural Club Gracanica</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">D4D</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">D4D Embassy of Netherlands</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DAI</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DANIDA</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Danish Refugee Council</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Democracy Plus</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DokuFest</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Down Syndrom Kosova</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">EC Ma Ndryshe</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">ECMI Kosovo</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Eco Kosovo</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Embassy of Netherlands</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">Embassy of Switzerland</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">EU</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">EU Kosovar Gender Studies Center</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">EU NGO Open Data Kosovo</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">EU NGO PEN</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">EULEX</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4" id="project1">
+                    <div class="card panel panel-default">
+                    <div class="card-body panel-heading">
+                    <h5 class="card-title"><a href="#">DEMOS</a></h5>
+                        </div>
+                        <div class="panel-body">
+                        </div>
+                        <div class="panel-footer tag">
+                        <span class="label label-primary hidden">All</span>
+                        <span class="label label-primary">#Youth</span>
+                        <span class="label label-default">#Religion</span>
+                        <span class="label label-default">#Education</span>
+                        <span class="label label-default">#Culture</span>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
 
             </div>
 

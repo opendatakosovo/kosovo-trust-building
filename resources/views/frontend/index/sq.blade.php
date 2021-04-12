@@ -448,20 +448,22 @@
 
 
     <section class="section-home5-callout2">
-        <footer class="footer">
-        <div class="page-callout">
+       
+     
+
+<div class="page-callout">
             <div class="page-callout-background">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="flat-contact-us">
                                 <div class="col-md-6">
-                                    <h2>Behuni anetare</h2>
-                                    <a class="button" href="/register">Regjistrohuni ketu!</a>
+                                    <h2>Bëhuni Anëtarë</h2>
+                                     <a class="button" data-toggle="modal" data-target="#myModal2" class="readmore">Regjistrohuni këtu!</a>
                                 </div>                  
                                <div class="col-md-6">
-                                    <h2>Deshironi te shtoni dicka?</h2>
-                                    <a class="button" href="/trustbuildingnetworkk#contribute">Bejeni ketu!</a>
+                                    <h2>Dëshironi të shtoni diçka?</h2>
+                                    <a class="button" href="/trustbuildingnetworkk#contribute">Bëjeni këtu!</a>
                                </div>                     
                             </div>
                         </div><!-- /.col-md-12 -->
@@ -475,7 +477,7 @@
                                     <div class="modal-content">
                                         <div class="modal-body">
                                         <div class="modal-close">
-                                            <a class="modal-close-button" data-dismiss="modal" value="close">×</a>
+                                            <a class="modal-close-button" data-dismiss="modal" value="close">&times;</a>
                                         </div>
                                             <form class="form" action="">
                                                 <div class="personal-info">
@@ -500,9 +502,28 @@
                             </div>
                         </div>
                     </div>
+
+
+                     <div class="row">
+                        <div class="col-md-12">
+                            <div class="modal fade" id="myModal2" style="margin-top:250px;">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                        <div class="modal-close">
+                                            <a class="modal-close-button" data-dismiss="modal" value="close">&times;</a>
+                                        </div>
+                                            <h2 style="color:black;  text-align:center;">Gëzuar Javën e Ndërtimit të Besimit Dixhital!</h2>
+                                            <h2 style="color:#fe466c;text-align:center;">Kjo mundësi do te jetë live së shpejti!</h2>
+                                        </div>    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 <!-- </div> -->
             </div>
-        </div>        </footer>
+        </div>    
     </section>
 
     <section class="padb-49">
@@ -1035,42 +1056,7 @@
                                 </div>
                             </div>
                         </li>
-<!--                        <li class="testimonial swiper-slide  has-image swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 600px;">-->
-<!--                            <div class="testimonial-content">-->
-<!--                                <blockquote>-->
-<!--                                Bota jonë po vuan nga një rast i keq i &quot;Çrregullimit të Deficitit të Mirëbesimit&quot;. [...] Nuk ka rrugë tjetër përveç veprimit kolektiv, të arsyes së shëndoshë për të mirën e përbashkët. Kështu mund të rindërtojmë besimin.-->
-<!--                                </blockquote>-->
-<!--                            </div>-->
-<!--                            <div class="testimonial-meta">-->
-<!---->
-<!--                            <div class="testimonial-image">-->
-<!--                                <img src="frontend/images/home/tes2.png" alt="">-->
-<!--                            </div>-->
-<!---->
-<!--                                <div class="testimonial-author">-->
-<!--                                    <strong class="author-name"></strong>-->
-<!--                                    <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li><li class="testimonial swiper-slide has-image swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 600px;">-->
-<!--                            <div class="testimonial-content">-->
-<!--                                <blockquote>-->
-<!--                                Unë sinqerisht shpresoj se do ta gjeni Platformën e Ndërtimit të Mirëbesimit të Kosovës të dobishme në punën tuaj të denjë, dhe në momentet kur keni nevojë për frymëzim për të ecur përpara. Në këto kohë të vështira për shoqërinë dhe botën tonë, ne kemi nevojë për ndërtimin e besimit më shumë se kurrë.-->
-<!---->
-<!--                                </blockquote>-->
-<!--                            </div>-->
-<!--                            <div class="testimonial-meta">-->
-<!---->
-<!--                            <div class="testimonial-image">-->
-<!--                                <img src="frontend/images/home/tes1.jpg" alt="">-->
-<!--                            </div>-->
-<!---->
-<!--                                <div class="testimonial-author">-->
-<!--                                    <strong class="author-name"></strong>-->
-<!--                                    <div class="author-info"><span class="subtitle">Jovana Radosavljević</span><span class="company">NSI Executive Director</span></div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
+
 
                         <li class="testimonial swiper-slide has-image swiper-slide-active" data-swiper-slide-index="0" style="width: 1200px;">
                             <div class="testimonial-content">
@@ -1090,139 +1076,8 @@
                                 </div>
                             </div>
                         </li>
-
-<!--                       <li class="testimonial swiper-slide has-image swiper-slide-next" data-swiper-slide-index="1" style="width: 600px;">-->
-<!--                            <div class="testimonial-content">-->
-<!--                                <blockquote>-->
-<!--                                Unë sinqerisht shpresoj se do ta gjeni Platformën e Ndërtimit të Mirëbesimit të Kosovës të dobishme në punën tuaj të denjë, dhe në momentet kur keni nevojë për frymëzim për të ecur përpara. Në këto kohë të vështira për shoqërinë dhe botën tonë, ne kemi nevojë për ndërtimin e besimit më shumë se kurrë.-->
-<!---->
-<!--                                </blockquote>-->
-<!--                            </div>-->
-<!--                            <div class="testimonial-meta">-->
-<!--                                -->
-<!--                            <div class="testimonial-image">-->
-<!--                                <img src="frontend/images/home/un-secretary.jpg" alt="">-->
-<!--                            </div>-->
-<!--                        -->
-<!--                                <div class="testimonial-author">-->
-<!--                                    <strong class="author-name"></strong>-->
-<!--                                    <div class="author-info"><span class="subtitle">General António Guterres</span><span class="company">UN Secretary</span></div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-                        <!-- <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="2" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes1.jpg" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="3" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat.
-
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes2.png" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="4" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes1.jpg" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                    <li class="testimonial swiper-slide  has-image swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat.
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes1.jpg" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li><li class="testimonial swiper-slide  has-image swiper-slide-duplicate" data-swiper-slide-index="1" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat.
-
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes2.png" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>
-                                </div>
-                            </div>
-                        </li> -->
-
-                     <li class="testimonial swiper-slide has-image swiper-slide-duplicate swiper-slide-next" data-swiper-slide-index="0" style="width: 1200px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                Bota jonë po vuan nga një rast i keq i "Çrregullimit të Deficitit të Mirëbesimit". [...] Nuk ka rrugë tjetër përveç veprimit kolektiv, të arsyes së shëndoshë për të mirën e përbashkët. Kështu mund të rindërtojmë besimin.
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/testimonial-jovana.png" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Jovana Radosavljević</span><span class="company">NSI Executive Director</span></div>
-                                </div>
-                            </div>
-                        </li></ul>
+                  
+                     </ul>
                      <!-- Add Arrows -->
             <div class="swiper-nav">
                 <div class="swiper-button-prev">Prev</div>

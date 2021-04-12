@@ -8,7 +8,7 @@
                             <div class="flat-contact-us">
                                 <div class="col-md-6">
                                     <h2>{{ __('messages.member') }}</h2>
-                                     <a data-toggle="modal" data-target="#myModal2" class="readmore">{{ __('messages.here') }}</a>
+                                     <a class="button" data-toggle="modal" data-target="#myModal2" class="readmore">{{ __('messages.registerhere') }}</a>
                                 </div>                  
                                <div class="col-md-6">
                                     <h2>{{ __('messages.add-mssg') }}</h2>
@@ -55,14 +55,15 @@
 
                      <div class="row">
                         <div class="col-md-12">
-                            <div class="modal fade" id="myModal2">
+                            <div class="modal fade" id="myModal2" style="margin-top:250px;">
                                 <div class="modal-dialog modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
                                         <div class="modal-close">
                                             <a class="modal-close-button" data-dismiss="modal" value="close">&times;</a>
                                         </div>
-                                            <h2>Happy Digital Trustbuilding Week! This feature will be live soon.</h2>
+                                            <h2 style="color:black;  text-align:center;">Happy Digital Trustbuilding Week!</h2>
+                                            <h2 style="color:#fe466c;text-align:center;">This feature will be live soon.</h2>
                                         </div>    
                                     </div>
                                 </div>

@@ -269,7 +269,7 @@
                                 </select>
                              </div>
                           </div><br>
-                          <div class="box-readmore center-rx">  <input type="submit" name="commit" value="Search initiatives" class="btn btn-primary hvr-grow" data-disable-with="Search initiatives" /></div>
+                          <div class="box-readmore center-rx">  <input data-toggle="modal" data-target="#myModal2" class="readmore" type="submit" name="commit" value="Search initiatives" class="btn btn-primary hvr-grow" data-disable-with="Search initiatives" /></div>
                  </form>      </div>
                     </div>
                  </div>

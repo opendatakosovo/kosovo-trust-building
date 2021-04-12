@@ -119,6 +119,29 @@
                         </article><!-- /post -->
                         @endif
 
+                         <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                    <img src="https://kosovotrustbuilding.com/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWRiek5rY0RSMGJtaFNkRGhLVGpRMWN6Rk1Sa2RpT0ZRMEJqb0dSVlE2RUdScGMzQnZjMmwwYVc5dVNTSnJhVzVzYVc1bE95Qm1hV3hsYm1GdFpUMGlkWFJoWVc1a2JXbHNhbUZ1WVMxamIyeHZjbk52Wm01aGRIVnlaUzVxY0djaU95Qm1hV3hsYm1GdFpTbzlWVlJHTFRnbkozVjBZV0Z1WkcxcGJHcGhibUV0WTI5c2IzSnpiMlp1WVhSMWNtVXVhbkJuQmpzR1ZEb1JZMjl1ZEdWdWRGOTBlWEJsU1NJUGFXMWhaMlV2YW5CbFp3WTdCbFE9IiwiZXhwIjoiMjAyMS0wNC0xMlQxMjozNTo0MS4zMzBaIiwicHVyIjoiYmxvYl9rZXkifX0=--5875abf820658c02ab6adce49c335f90ad4039a8/utaandmiljana-colorsofnature.jpg?content_type=image%2Fjpeg&disposition=inline%3B+filename%3D%22utaandmiljana-colorsofnature.jpg%22%3B+filename%2A%3DUTF-8%27%27utaandmiljana-colorsofnature.jpg" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                                <h4 class="title-post">
+                                    <a href="/digital-agenda">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</a>
+                                </h4>
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
+
+                                <div class="entry-content">
+                                    <p>Respect for diversity, acceptance and respect for the other, a culture of mutual dialogue, are values ​​that should be nurtured from an early age.  </p>
+                                </div><!-- /entry-post -->
+                                <a class="readmore" href="/colors-of-nature">@lang('More')</a>
+                            </div><!-- /content-post -->
+                        </article><!-- /post -->
 
 <!--                        <div class="row bond-clear">-->
 <!--                            <div class="col-md-12">-->

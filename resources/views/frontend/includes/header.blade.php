@@ -18,7 +18,7 @@
 
             <div class="nav-wrap">
                 <div class="show-search">
-                    <a href="#"><i id="s" class="fa fa-search"></i></a>
+                    <a class="button" data-toggle="modal" data-target="#myModal2" class="readmore" style="cursor:pointer;"><i id="s" class="fa fa-search"></i></a>
                 </div><!-- /.show-search -->
 
 

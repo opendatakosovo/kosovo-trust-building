@@ -122,7 +122,7 @@
                          <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <img src="https://kosovotrustbuilding.com/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9JYTJWNVNTSWRiek5rY0RSMGJtaFNkRGhLVGpRMWN6Rk1Sa2RpT0ZRMEJqb0dSVlE2RUdScGMzQnZjMmwwYVc5dVNTSnJhVzVzYVc1bE95Qm1hV3hsYm1GdFpUMGlkWFJoWVc1a2JXbHNhbUZ1WVMxamIyeHZjbk52Wm01aGRIVnlaUzVxY0djaU95Qm1hV3hsYm1GdFpTbzlWVlJHTFRnbkozVjBZV0Z1WkcxcGJHcGhibUV0WTI5c2IzSnpiMlp1WVhSMWNtVXVhbkJuQmpzR1ZEb1JZMjl1ZEdWdWRGOTBlWEJsU1NJUGFXMWhaMlV2YW5CbFp3WTdCbFE9IiwiZXhwIjoiMjAyMS0wNC0xMlQxMjozNTo0MS4zMzBaIiwicHVyIjoiYmxvYl9rZXkifX0=--5875abf820658c02ab6adce49c335f90ad4039a8/utaandmiljana-colorsofnature.jpg?content_type=image%2Fjpeg&disposition=inline%3B+filename%3D%22utaandmiljana-colorsofnature.jpg%22%3B+filename%2A%3DUTF-8%27%27utaandmiljana-colorsofnature.jpg" alt="image">
+                                    <img src="frontend/images/colors.jpg" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
@@ -142,11 +142,11 @@
                                 <a class="readmore" href="/colors-of-nature">@lang('More')</a>
                             </div><!-- /content-post -->
                         </article><!-- /post -->
-------------------------------------------------------------------
+
                         <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <img src="frontent/images/ktb_digweek.png.png" alt="image">
+                                <img src="frontend/images/ktb-digweek.png" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
@@ -178,7 +178,7 @@
                         <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <img src="frontent/images/podcast" alt="image">
+                                <img src="frontend/images/podcast.png" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">

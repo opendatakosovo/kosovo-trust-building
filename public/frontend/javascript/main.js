@@ -149,8 +149,8 @@
                     injectSpace.hide();
 
                 $(window).on('load scroll', function(){
-                    if ( $(window).scrollTop() > offsetTop + 120 ) {
-                        $('.nav-wrap').addClass('header-fix');
+                    if ( $(window).scrollTop() > offsetTop + 140 ) {
+                        $('.header').addClass('header-fix');
                         injectSpace.show();
                     } else {
                         $('.header').removeClass('header-small header-fix');

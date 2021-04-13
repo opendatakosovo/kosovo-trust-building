@@ -641,7 +641,7 @@
 	}
 
 	.header .nav-wrap {
-		right: 0px;
+		margin-bottom: -45px;
 	}
 
 	.search-box form {
@@ -742,7 +742,7 @@
 	.flat-home5 header .header-wrap #logo,
 	.header .header-wrap .logo {
 		line-height: 60px;
-	    margin: 0 auto;
+	    margin-top:20px;
 	    text-align: center;
 	    width: 100%;
 	    z-index:100;
@@ -1017,6 +1017,11 @@
 
 	.bond-iconbox.overlay {
 	    padding: 38px 15px;
+	}
+
+	.padding-left-45 {
+		padding-left: 15px;
+		padding-top: 20px;
 	}
 
 }

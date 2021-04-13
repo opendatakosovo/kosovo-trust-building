@@ -789,7 +789,7 @@ input[type="color"],
 }
 
 .padl-44 {
-	padding-left: 44px;
+	padding: 0 20px;
 }
 
 .padl-47 {
@@ -4860,6 +4860,15 @@ input .button .button--modal {
 
 	blockquote {
 	  font-size: 1.1em;
+	}
+
+	.flat-contact-us div:not(:last-child) {
+		border-right-style: none;
+		padding-bottom: 40px;
+	}
+
+	.row .pt-3 {
+		display: contents;
 	}
   }
 

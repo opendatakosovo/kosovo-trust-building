@@ -269,20 +269,11 @@
             </div><!-- /.row -->
         </div><!-- /.container -->
     </section>
-    <div class="page-callout" style="margin-bottom:0;">
-            <div class="page-callout-background">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="flat-contact-us">
-                                    <h2>{{ __('messages.member') }}</h2>
-                                    <a data-toggle="modal" data-target="#myModal2" class="button">{{ __('messages.registerhere') }}</a>
-                            </div>
-                        </div><!-- /.col-md-12 -->
-                    </div><!-- /.row -->
-                </div><!-- /.container -->
-            </div>
-        </div>
+   <section class="section-home5-callout2">
+        <footer class="footer">
+        @include('frontend.includes.banner')
+        </footer>
+    </section>
 
     <!-- welcome to bond -->
     <section class="bond-row padb-90" id="contribute">

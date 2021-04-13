@@ -141,9 +141,26 @@
     <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.themepunch.revolution.min.js?rev=4.6.5"></script>
     <script src="http://new.kosovotrustbuilding.com/frontend/javascript/slider.js"></script>
 
-    
+    <style>
+    select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"] {
+    font-family: "Open Sans", sans-serif;
+    font-style: italic;
+    width: 100%;
+    border: 1px solid #dddddd;
+    background-color: white !important;
+    height: 35px !important;
+    margin-bottom: 12px im !important;
+    padding: 3px 4px !important;
+    border-radius: 4px !important;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+    </style>
 
-
+<body>
         <div class="header-wrap clearfix">
 
             <div id="logo" class="logo">
@@ -226,11 +243,10 @@
                         
                         </li>
                     <li>
-                <select class="form-control changeLang">
+                <select select name="form-control" onchange="location = this.value;">
                 <option value="al" selected="">Shqip</option>
-                    <option value="en">English</option>
-                    
-                    <option value="sr">Srpski</option>
+                    <option value="/en">English</option>
+                    <option value="/sr">Srpski</option>
                 </select>
                     </li>
    
@@ -248,13 +264,13 @@
 
         </div><!-- /.header-inner -->
 
-        <script type="text/javascript">
+        <!-- <script type="text/javascript">
   
   var url = "http://new.kosovotrustbuilding.com/lang/change";
 
   $(".changeLang").change(function(){
       window.location.href = url + "?lang="+ $(this).val();
-  });
+  }); -->
 
 </script>    </header><div style="height: 73px; display: none;"></div><div style="height: 73px; display: none;"></div><!-- /.header -->
 
@@ -563,7 +579,7 @@
                                 </select>
                              </div>
                           </div><br>
-                          <div class="box-readmore center-rx">  <input data-toggle="modal" data-target="#myModal2" class="readmore" type="submit" name="commit" value="Kërkoni  iniciativavat" class="btn btn-primary hvr-grow" data-disable-with="Search initiatives" /></div>
+                          <div class="box-readmore center-rx">  <input type="submit" name="commit" value="Search initiatives" class="btn btn-primary hvr-grow" data-disable-with="Search initiatives"></div>
                        </div>
                     </div>
                  </div>
@@ -1063,21 +1079,14 @@
                         </li>
                   
                      </ul>
+                     </div> <!--testimonial slider-->
                      <!-- Add Arrows -->
             <div class="swiper-nav">
                 <div class="swiper-button-prev">Prev</div>
                 <div class="swiper-button-next">Next</div>
             </div>
-            <div class="swiper-pagination swiper-pagination-fraction"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">1</span></div>
-
-            </div>
-                </div> <!--testimonial slider-->
-            </div>
-
-             <!-- Add Pagination -->
-
-
-        </div>
+            </div>     
+        
     </section>
 
     <section class="bond-partner-slider v2">
@@ -1173,13 +1182,13 @@
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
 
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
 
   var url = "http://new.kosovotrustbuilding.com/lang/change";
 
   $(".changeLang").change(function(){
       window.location.href = url + "?lang="+ $(this).val();
-  });
+  }); -->
 
 </script>
 

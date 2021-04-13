@@ -63,7 +63,24 @@
     <script src="http://localhost:8000/frontend/javascript/jquery.themepunch.revolution.min.js?rev=4.6.5"></script>
     <script src="http://localhost:8000/frontend/javascript/slider.js"></script>
 
-    
+    <style>
+    select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"] {
+    font-family: "Open Sans", sans-serif;
+    font-style: italic;
+    width: 100%;
+    border: 1px solid #dddddd;
+    background-color: white !important;
+    height: 35px !important;
+    margin-bottom: 12px im !important;
+    padding: 3px 4px !important;
+    border-radius: 4px !important;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+    </style>
 
 <script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/44/9/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/44/9/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttp%3A%2F%2Flocalhost%3A8000%2Fen&amp;4sAIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk&amp;callback=_xdc_._rl8b3h&amp;key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk&amp;token=118501"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/44/9/stats.js"></script></head>
 <body class="header_sticky page front-page flat-home5">
@@ -226,11 +243,10 @@
                         
                         </li>
                     <li>
-                <select class="form-control changeLang">
+                    <select select name="form-control" onchange="location = this.value;">
                 <option value="sr" selected="">Srpski</option>
-                    <option value="en">English</option>
-                    <option value="al">Shqip</option>
-                    
+                    <option value="/en">English</option>
+                    <option value="/sq">Shqip</option>
                 </select>
                     </li>
    

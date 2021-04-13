@@ -199,14 +199,14 @@
                         <div class="icon-image">
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="327" data-speed="2000" data-waypoint-active="yes">327</div>
+                            <div class="numb-count" data-to="808" data-speed="2000" data-waypoint-active="yes">808</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">
                                 <i class="icon-check icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
-                                <p>{{ __('messages.recommendations') }}</p>
+                                <p>{{ __('messages.stories') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -217,7 +217,7 @@
                         <div class="icon-image">
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="8522" data-speed="2000" data-waypoint-active="yes">8522</div>
+                            <div class="numb-count" data-to="502" data-speed="2000" data-waypoint-active="yes">502</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">
@@ -235,14 +235,14 @@
                         <div class="icon-image">
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="23613" data-speed="2000" data-waypoint-active="yes">23613</div>
+                            <div class="numb-count" data-to="362" data-speed="2000" data-waypoint-active="yes">362</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">
                                 <i class="icon-user icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
-                                <p>{{ __('messages.actors') }}</p>
+                                <p>{{ __('messages.organizations') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->
@@ -254,14 +254,14 @@
 
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="163" data-speed="2000" data-waypoint-active="yes">163</div>
+                            <div class="numb-count" data-to="100" data-speed="2000" data-waypoint-active="yes">100</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">
                                 <i class="icon-trophy icons"></i>
                             </div>
                             <div class="content" style="color:#fe466c;">
-                                <p>{{ __('messages.champions') }}</p>
+                                <p>{{ __('messages.pledges') }}</p>
                             </div>
                         </div>
                     </div><!-- /.bond-counterbox center style1 -->

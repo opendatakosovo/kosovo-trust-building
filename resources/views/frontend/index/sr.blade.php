@@ -781,7 +781,7 @@
                         <div class="icon-image">
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="327" data-speed="2000" data-waypoint-active="yes">327</div>
+                            <div class="numb-count" data-to="808" data-speed="2000" data-waypoint-active="yes">808</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">
@@ -799,7 +799,7 @@
                         <div class="icon-image">
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="8522" data-speed="2000" data-waypoint-active="yes">8522</div>
+                            <div class="numb-count" data-to="502" data-speed="2000" data-waypoint-active="yes">502</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">
@@ -817,7 +817,7 @@
                         <div class="icon-image">
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="359" data-speed="2000" data-waypoint-active="yes">359</div>
+                            <div class="numb-count" data-to="362" data-speed="2000" data-waypoint-active="yes">362</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">
@@ -836,7 +836,7 @@
 
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="163" data-speed="2000" data-waypoint-active="yes">163 </div>
+                            <div class="numb-count" data-to="100" data-speed="2000" data-waypoint-active="yes">100</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">

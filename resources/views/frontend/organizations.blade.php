@@ -4444,54 +4444,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4" id="project1">
-                    <div class="card panel panel-default">
-                    <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">UNMIK</a></h5>
-                        </div>
-                        <div class="panel-body">
-                        </div>
-                        <div class="panel-footer tag">
-                        <span class="label label-primary hidden">All</span>
-                        <span class="label label-primary">#Youth</span>
-                        <span class="label label-default">#Religion</span>
-                        <span class="label label-default">#Education</span>
-                        <span class="label label-default">#Culture</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4" id="project1">
-                    <div class="card panel panel-default">
-                    <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">UNMIK NGO Synergy</a></h5>
-                        </div>
-                        <div class="panel-body">
-                        </div>
-                        <div class="panel-footer tag">
-                        <span class="label label-primary hidden">All</span>
-                        <span class="label label-primary">#Youth</span>
-                        <span class="label label-default">#Religion</span>
-                        <span class="label label-default">#Education</span>
-                        <span class="label label-default">#Culture</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4" id="project1">
-                    <div class="card panel panel-default">
-                    <div class="card-body panel-heading">
-                    <h5 class="card-title"><a href="#">UNMIK United Youth Task Force</a></h5>
-                        </div>
-                        <div class="panel-body">
-                        </div>
-                        <div class="panel-footer tag">
-                        <span class="label label-primary hidden">All</span>
-                        <span class="label label-primary">#Youth</span>
-                        <span class="label label-default">#Religion</span>
-                        <span class="label label-default">#Education</span>
-                        <span class="label label-default">#Culture</span>
-                        </div>
-                    </div>
-                </div>
+                
+            
                 <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                     <div class="card-body panel-heading">

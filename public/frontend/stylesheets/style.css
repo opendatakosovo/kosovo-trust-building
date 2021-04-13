@@ -789,7 +789,7 @@ input[type="color"],
 }
 
 .padl-44 {
-	padding-left: 44px;
+	padding: 0 20px;
 }
 
 .padl-47 {
@@ -1383,7 +1383,7 @@ input[type="color"],
 }
 
 .parallax1 {
-    background-image: url(../images/parallax/bg-parallax1.jpg);
+     background-color:  rgb(247, 247, 247);
 }
 
 .parallax2 {
@@ -3498,7 +3498,7 @@ a.readmore:after{
 .bond-partner-slider  .owl-carousel.owl-loaded {
 	position: relative;
 	overflow: hidden;
-	margin-left: 130px;
+	margin-left: 230px;
 }
 
 .page.front-page .footer,
@@ -4861,6 +4861,21 @@ input .button .button--modal {
 	blockquote {
 	  font-size: 1.1em;
 	}
+
+	.flat-contact-us div:not(:last-child) {
+		border-right-style: none;
+		padding-bottom: 40px;
+	}
+
+	.row .pt-3 {
+		display: contents;
+	}
+
+	.bond-partner-slider  .owl-carousel.owl-loaded {
+	position: relative;
+	overflow: hidden;
+	margin-left: 10px;
+}
   }
 
   .hidden {

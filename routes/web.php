@@ -16,6 +16,9 @@ Route::get('lang/home', 'LangController@index');
 Route::get('lang/change', 'LangController@change')->name('changeLang');
  // front-end routes
  Route::get('/', function () { return view('frontend.index'); });
+ Route::get('/en', function () { return view('frontend.index.en'); });
+ Route::get('/sq', function () { return view('frontend.index.sq'); });
+ Route::get('/sr', function () { return view('frontend.index.sr'); });
  Route::get('/lang', function () { return view('frontend.lang'); });
  Route::get('/who-we-are', function () { return view('frontend.who-we-are'); });
  Route::get('/trustbuildingnetworkk', function () { return view('frontend.trustbuildingnetwork'); });
@@ -34,6 +37,16 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
 
  //Stories
  Route::get('/digital-agenda', function () { return view('frontend.digital-agenda'); });
+ Route::get('/ktb-story', function () { return view('frontend.ktb-story'); });
+ Route::get('/podcast-story', function () { return view('frontend.podcast-story'); });
+ Route::get('/sq/digital-agenda', function () { return view('frontend.digital-agenda.sq-digital-agenda'); });
+ Route::get('/sr/digital-agenda', function () { return view('frontend.digital-agenda.sr-digital-agenda'); });
+ Route::get('/colors-of-nature', function () { return view('frontend.colors-of-nature'); });
+ Route::get('/art-story', function () { return view('frontend.art-story'); });
+ Route::get('/language-story', function () { return view('frontend.language-story'); });
+ Route::get('/understanding-story', function () { return view('frontend.understanding-story'); });
+ Route::get('/journalism-story', function () { return view('frontend.journalism-story'); });
+ Route::get('/multilingualism-story', function () { return view('frontend.multilingualism-story'); });
 // Route::get('/ngostory', function () { return view('frontend.ngostory'); });
 // Route::get('/youthparticipation', function () { return view('frontend.youthparticipation'); });
 // Route::get('/wateraidstory', function () { return view('frontend.wateraidstory'); });

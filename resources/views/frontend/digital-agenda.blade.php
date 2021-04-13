@@ -347,65 +347,7 @@
 
 <!-- Footer -->
 <footer class="footer">
-<!--    <div class="page-callout">-->
-<!--        <div class="page-callout-background">-->
-<!--            <div class="container">-->
-<!--                <div class="row">-->
-<!--                    <div class="col-md-12">-->
-<!--                        <div class="flat-contact-us">-->
-<!--                            <h2>Are you Falling in love with bond</h2>-->
-<!--                            <p>Lorem ipsum dolor sit amet consectetur </p>-->
-<!--                            <a class="button" href="#"> VIEW MORE </a>-->
-<!--                        </div>-->
-<!--                    </div> /.col-md-12 -->-->
-<!--                </div> /.row -->-->
-<!--            </div> /.container -->-->
-<!--        </div>-->
-<!--    </div>-->
-
-    <div class="footer-widgets">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-2">
-                    <div class="widget widget_text">
-                        <p>UNMIK is funding the establishment, launch and maintenance of the platform until
-                            handover.</p>
-                    </div><!-- /.widget-text -->
-                </div><!-- /.col-md-4 -->
-                <div class="col-md-2">
-                    <div class="widget widget_text">
-                        <p>UNMIK does not necessarily endorse the opinions or statements expressed on the platform.
-                        </p>
-                    </div><!-- /.widget-text -->
-                </div><!-- /.col-md-4 -->
-                <div class="col-md-2">
-                    <div class="widget widget_text">
-                        <p>UNMIK does not necessarily support the policies and beliefs of organizations or
-                            individuals listed or referred to.</p>
-                    </div><!-- /.widget-text -->
-                </div><!-- /.col-md-4 -->
-                <div class="col-md-2">
-                    <div class="widget widget_new_letter">
-                        <p>The use of geographic names and boundaries does not imply judgement on the legal status
-                            of Kosovo.</p>
-                        <p>UNMIK is not liable for the conduct of any user.</p>
-                    </div><!-- /.widget-new_letter -->
-                </div><!-- /.col-md-4 -->
-                <div class="col-md-2">
-                    <div class="widget widget_new_letter">
-                        <p>The inclusion of a link or reference does not imply the endorsement of the linked website
-                            by UNMIK.</p>
-                    </div><!-- /.widget-new_letter -->
-                </div>
-                <div class="col-md-2">
-                    <div class="widget widget_new_letter">
-                        <p>Communications added to forums shall not be considered as having been reviewed or
-                            approved by UNMIK.</p>
-                    </div><!-- /.widget-new_letter -->
-                </div>
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-    </div><!-- /.footer-widgets -->
+@include('frontend.includes.footer')
 </footer>
 
 <!-- Bottom -->

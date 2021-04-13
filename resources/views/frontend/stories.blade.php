@@ -119,22 +119,257 @@
                         </article><!-- /post -->
                         @endif
 
+                         <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                    <img src="frontend/images/colors.jpg" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                                <h4 class="title-post">
+                                    <a href="/colors-of-nature">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</a>
+                                </h4>
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
 
-<!--                        <div class="row bond-clear">-->
-<!--                            <div class="col-md-12">-->
-<!--                                <div class="blog-pagination">-->
-<!--                                    <ul class="flat-pagination clearfix">-->
-<!--                                        <li class="active">1</li>-->
-<!--                                        <li><a href="storypage2.html">2</a></li>-->
-<!--                                        <li><a href="#">3</a></li>-->
-<!--                                        <li><a href="#">4</a></li>-->
-<!--                                        <li class="next">-->
-<!--                                            <a href="#"><i class="fa fa-angle-right"></i></a>-->
-<!--                                        </li>-->
-<!--                                    </ul>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </div>-->
+                            </div><!-- /content-post -->
+                        </article><!-- /post -->
+
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                            
+                        <?php $locale = Config::get('app.locale');?>
+
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="/ktb-story">Tri organizata dhe një qëllim: Një mjet dixhital për ndërtimin e besimit!</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="/ktb-story">Tri organizacije i jedan cilj: Digitalni alat za izgradnju poverenja!</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="/ktb-story">Three organizations and one goal: A digital tool for building trust!</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                    
+                                </div><!-- /.entry-meta -->
+
+                        </article>
+
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/podcast.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                            
+                        <?php $locale = Config::get('app.locale');?>
+
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="/podcast-story">Podcast: Rock si gjuhë e përbashkët</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="/podcast-story">Podkast: Rok kao zajednički jezik</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="/podcast-story">Podcast: Rock as a common language</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                    
+                                </div><!-- /.entry-meta -->
+
+                        </article>
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/art.jpg" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                            
+                        <?php $locale = Config::get('app.locale');?>
+
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="/art-story">Arti nga dy këndvështrime: "Jeta" dhe "shprehja"</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="/art-story">Umetnost iz dva ugla: „Život“ i „izražavanje“</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="/art-story">Art from two angles: "Life" and "expression"</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                    <div class="entry-content">
+                                    
+                                </div><!-- /.entry-meta -->
+
+                        </article>
+
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/bojan.jpg" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                            
+                        <?php $locale = Config::get('app.locale');?>
+
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="/language-story">Njohja e gjuhës së fqinjëve tuaj është faktori më i rëndësishëm në ndërtimin e besimit dhe pajtimit</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="/language-story">Poznavanje jezika svojih komšija najbitniji je faktor u izgradnji poverenja i pomirenja</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="/language-story">Knowing the language of your neighbors is the most important factor in building trust and reconciliation</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                   
+                                </div><!-- /.entry-meta -->
+
+                        </article>
+
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/understant.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                            
+                        <?php $locale = Config::get('app.locale');?>
+
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="/understanding-story">Me tregime kuptohemi më së miri!</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="/understanding-story">Pričom se najbolje razumemo!</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="/understanding-story">We understand each other best by talking!</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                    
+                                </div><!-- /.entry-meta -->
+
+                        </article>
+
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/journalist.jpg" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                            
+                        <?php $locale = Config::get('app.locale');?>
+
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="/journalism-story">Gazetarët e rinj në Kosovë: Pse u pëlqen puna e tyre, me çfarë vështirësish përballen?</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="/journalism-story">Mladi novinari na Kosovu: Zašto vole svoj posao, sa kojim se prerekama suočavaju?</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="/journalism-story">Young journalists in Kosovo: Why do they like their job, what difficulties do they face?</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                    
+                                </div><!-- /.entry-meta -->
+
+                        </article>
+
+                        <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/multilang.jpg" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                            
+                        <?php $locale = Config::get('app.locale');?>
+
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="/multilingualism-story">Shumëgjuhësia: Rrugë për të hequr pengesat gjuhësore dhe për të krijuar ura miqësore</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="/multilingualism-story">Višejezičnost: Za otklanjanje jezičkih barijera i stvaranje prijateljskih mostova</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="/multilingualism-story">Multilingualism: To remove language barriers and create friendly bridges</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                    
+                                </div><!-- /.entry-meta -->
+
+                        </article>
+
 
                     </div><!-- /post-wrap -->
                 </div><!-- /col-md-8 -->

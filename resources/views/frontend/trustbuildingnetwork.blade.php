@@ -327,11 +327,6 @@
         </div>
     </section>
 
-    <section class="section-home5-callout2">
-        <!-- <footer class="footer">
-        @include('frontend.includes.banner') -->
-        <!-- </footer>                     -->
-    </section>
 
     <section class="bond-row padt-102 bond-featured keep-30">
         <div class="container">

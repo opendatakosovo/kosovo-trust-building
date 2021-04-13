@@ -592,6 +592,14 @@
 		width: 100%;
 	}
 
+	.bond-row.bond-testimonials-slider.v2{
+		padding-bottom: 140px!important;
+	}
+
+	.btn-xs {
+		margin: 5px;
+	}
+
 	#mainnav-mobi {
 		transform: translateY(40px);
 	}

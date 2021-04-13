@@ -3498,7 +3498,7 @@ a.readmore:after{
 .bond-partner-slider  .owl-carousel.owl-loaded {
 	position: relative;
 	overflow: hidden;
-	margin-left: 130px;
+	margin-left: 230px;
 }
 
 .page.front-page .footer,
@@ -4870,6 +4870,12 @@ input .button .button--modal {
 	.row .pt-3 {
 		display: contents;
 	}
+
+	.bond-partner-slider  .owl-carousel.owl-loaded {
+	position: relative;
+	overflow: hidden;
+	margin-left: 10px;
+}
   }
 
   .hidden {

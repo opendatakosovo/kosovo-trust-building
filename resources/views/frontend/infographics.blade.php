@@ -6,6 +6,11 @@
     <script scr="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.0.2/chart.min.js"></script>
     <style>
 
+    @media only screen and (max-width: 479px) {
+        .row {
+            display: block !important;
+        }
+    }
 
     </style>
 
@@ -152,6 +157,8 @@ var myChart = new Chart(ctx, {
         }]
     },
     options: {
+        responsive:true,
+        maintainAspectRatio: false,
         scales: {
             y: {
                 beginAtZero: true,
@@ -199,6 +206,8 @@ var myChart1 = new Chart(ctx, {
         }]
     },
     options: {
+        responsive:true,
+        maintainAspectRatio: false,
         scales: {
             y: {
                 beginAtZero: false
@@ -342,6 +351,8 @@ var myChart2 = new Chart(ctx, {
         }]
     },
     options: {
+        responsive:true,
+        maintainAspectRatio: false,
        scales: {
           x: {
         stacked: true,
@@ -382,6 +393,8 @@ var myChart3 = new Chart(ctx, {
         }]
     },
     options: {
+        responsive:true,
+        maintainAspectRatio: false,
         scales: {
             y: {
                 beginAtZero: true,

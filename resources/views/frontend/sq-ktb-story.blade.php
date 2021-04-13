@@ -43,13 +43,9 @@
                 <div class="col-md-12">
                     <div class="page-title-heading v1">
                         <div class="page-title-heading">
-                            @if($locale === 'al')
+                          
                             <h1 class="title">Tri organizata dhe një qëllim: Një mjet dixhital për ndërtimin e besimit!</h1>
-                            @elseif($locale === 'sr')
-                            <h1 class="title">Tri organizacije i jedan cilj: Digitalni alat za izgradnju poverenja!</h1>
-                            @else
-                            <h1 class="title">Three organizations and one goal: A digital tool for building trust!</h1>
-                            @endif
+                            
                         </div><!-- /.page-title-captions -->
                     </div><!-- /.page-title-captions -->
 
@@ -78,13 +74,9 @@
                     <article class="blog-post">
                         <div class="content-blog-post">
                             <h2 class="title-blog-post">
-                                @if($locale === 'al')
+                              
                                 <a href="#">Tri organizata dhe një qëllim: Një mjet dixhital për ndërtimin e besimit!</a>
-                                @elseif($locale === 'sr')
-                                <a href="#">Tri organizacije i jedan cilj: Digitalni alat za izgradnju poverenja!</a>
-                                @else
-                                <a href="#">Three organizations and one goal: A digital tool for building trust!</a>
-                                @endif
+                               
                             </h2>
 
                         </div><!-- /content-blog-post -->

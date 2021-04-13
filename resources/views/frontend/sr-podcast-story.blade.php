@@ -43,13 +43,9 @@
                 <div class="col-md-12">
                     <div class="page-title-heading v1">
                         <div class="page-title-heading">
-                            @if($locale === 'al')
-                            <h1 class="title">Podcast: Rock si gjuhë e përbashkët</h1>
-                            @elseif($locale === 'sr')
+                           
                             <h1 class="title">Podkast: Rok kao zajednički jezik</h1>
-                            @else
-                            <h1 class="title">Podcast: Rock as a common language</h1>
-                            @endif
+                         
                         </div><!-- /.page-title-captions -->
                     </div><!-- /.page-title-captions -->
 
@@ -78,13 +74,9 @@
                     <article class="blog-post">
                         <div class="content-blog-post">
                             <h2 class="title-blog-post">
-                                @if($locale === 'al')
-                                <a href="#">Podcast: Rock si gjuhë e përbashkët</a>
-                                @elseif($locale === 'sr')
+                              
                                 <a href="#">Podkast: Rok kao zajednički jezik</a>
-                                @else
-                                <a href="#">Podcast: Rock as a common language</a>
-                                @endif
+                               
                             </h2>
 
                         </div><!-- /content-blog-post -->

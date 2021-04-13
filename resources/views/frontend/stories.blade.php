@@ -127,7 +127,7 @@
                             </div>
                             <div class="content-post">
                                 <h4 class="title-post">
-                                    <a href="/colors-of-nature">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</a>
+                                    <a href="en/colors-of-nature">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</a>
                                 </h4>
                                 <div class="entry-meta">
                                     <div class="meta-1">
@@ -151,15 +151,15 @@
 
                             @if($locale === "al")
                                 <h4 class="title-post">
-                                    <a href="/ktb-story">Tri organizata dhe një qëllim: Një mjet dixhital për ndërtimin e besimit!</a>
+                                    <a href="sq/ktb-story">Tri organizata dhe një qëllim: Një mjet dixhital për ndërtimin e besimit!</a>
                                 </h4>
                             @elseif($locale === "sr")
                                 <h4 class="title-post">
-                                    <a href="/ktb-story">Tri organizacije i jedan cilj: Digitalni alat za izgradnju poverenja!</a>
+                                    <a href="sr/ktb-story">Tri organizacije i jedan cilj: Digitalni alat za izgradnju poverenja!</a>
                                 </h4>
                                 @elseif($locale === "en")
                                 <h4 class="title-post">
-                                    <a href="/ktb-story">Three organizations and one goal: A digital tool for building trust!</a>
+                                    <a href="en/ktb-story">Three organizations and one goal: A digital tool for building trust!</a>
                                 </h4>
                                 @endif
                                 <div class="entry-meta">
@@ -184,15 +184,15 @@
 
                             @if($locale === "al")
                                 <h4 class="title-post">
-                                    <a href="/podcast-story">Podcast: Rock si gjuhë e përbashkët</a>
+                                    <a href="sq/podcast-story">Podcast: Rock si gjuhë e përbashkët</a>
                                 </h4>
                             @elseif($locale === "sr")
                                 <h4 class="title-post">
-                                    <a href="/podcast-story">Podkast: Rok kao zajednički jezik</a>
+                                    <a href="sr/podcast-story">Podkast: Rok kao zajednički jezik</a>
                                 </h4>
                                 @elseif($locale === "en")
                                 <h4 class="title-post">
-                                    <a href="/podcast-story">Podcast: Rock as a common language</a>
+                                    <a href="en/podcast-story">Podcast: Rock as a common language</a>
                                 </h4>
                                 @endif
                                 <div class="entry-meta">
@@ -230,7 +230,7 @@
                                 <div class="entry-meta">
                                     <div class="meta-1">
                                         <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
-                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 07, 2021</a></span>
                                     </div>
                                     <div class="entry-content">
                                     
@@ -264,7 +264,7 @@
                                 <div class="entry-meta">
                                     <div class="meta-1">
                                         <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
-                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> March 31, 2021</a></span>
                                     </div>
                                    
                                 </div><!-- /.entry-meta -->
@@ -297,7 +297,7 @@
                                 <div class="entry-meta">
                                     <div class="meta-1">
                                         <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
-                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> March 04, 2021</a></span>
                                     </div>
                                     
                                 </div><!-- /.entry-meta -->
@@ -330,7 +330,7 @@
                                 <div class="entry-meta">
                                     <div class="meta-1">
                                         <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
-                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> March 18, 2021</a></span>
                                     </div>
                                     
                                 </div><!-- /.entry-meta -->
@@ -363,7 +363,7 @@
                                 <div class="entry-meta">
                                     <div class="meta-1">
                                         <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
-                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> February 24, 2021</a></span>
                                     </div>
                                     
                                 </div><!-- /.entry-meta -->

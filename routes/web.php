@@ -37,11 +37,17 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
 
  //Stories
  Route::get('/digital-agenda', function () { return view('frontend.digital-agenda'); });
- Route::get('/ktb-story', function () { return view('frontend.ktb-story'); });
- Route::get('/podcast-story', function () { return view('frontend.podcast-story'); });
+ Route::get('en/ktb-story', function () { return view('frontend.en-ktb-story'); });
+ Route::get('sr/ktb-story', function () { return view('frontend.sr-ktb-story'); });
+ Route::get('sq/ktb-story', function () { return view('frontend.sq-ktb-story'); });
+ Route::get('en/podcast-story', function () { return view('frontend.en-podcast-story'); });
+ Route::get('sq/podcast-story', function () { return view('frontend.sq-podcast-story'); });
+ Route::get('sr/podcast-story', function () { return view('frontend.sr-podcast-story'); });
  Route::get('/sq/digital-agenda', function () { return view('frontend.digital-agenda.sq-digital-agenda'); });
  Route::get('/sr/digital-agenda', function () { return view('frontend.digital-agenda.sr-digital-agenda'); });
- Route::get('/colors-of-nature', function () { return view('frontend.colors-of-nature'); });
+ Route::get('en/colors-of-nature', function () { return view('frontend.en-colors-of-nature'); });
+ Route::get('sq/colors-of-nature', function () { return view('frontend.sq-colors-of-nature'); });
+ Route::get('sr/colors-of-nature', function () { return view('frontend.sr-colors-of-nature'); });
  Route::get('/art-story', function () { return view('frontend.art-story'); });
  Route::get('/language-story', function () { return view('frontend.language-story'); });
  Route::get('/understanding-story', function () { return view('frontend.understanding-story'); });

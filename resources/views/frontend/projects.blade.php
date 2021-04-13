@@ -47,9 +47,9 @@
                                 <span class="icon-user"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">{{ __('messages.youth') }}</a></h4>
+                                <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.youth') }}</a></h4>
 
-                                <a class="readmore" href="blog_single_v1.html">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
 
                             </div>
                         </div><!-- /.bond-iconbox -->
@@ -62,9 +62,9 @@
                                 <span class="icon-people"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">{{ __('messages.gender') }}</a></h4>
+                                <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.gender') }}</a></h4>
 
-                                <a class="readmore" href="blog_single_v1.html">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
                     </div><!-- /.item -->
@@ -75,9 +75,9 @@
                                 <span class="icon-graduation"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">{{ __('messages.education') }}</a></h4>
+                                <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.education') }}</a></h4>
 
-                                <a class="readmore" href="blog_single_v1.html">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
                     </div><!-- /.item -->
@@ -88,9 +88,9 @@
                                 <span class="icon-camrecorder"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">{{ __('messages.media') }}</a></h4>
+                                <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.media') }}</a></h4>
 
-                                <a class="readmore" href="blog_single_v1.html">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
 
                             </div>
                         </div><!-- /.bond-iconbox -->
@@ -102,9 +102,9 @@
                                 <span class="icon-music-tone-alt icons"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">{{ __('messages.culture') }}</a></h4>
+                                <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.culture') }}</a></h4>
 
-                                <a class="readmore" href="blog_single_v1.html">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
                     </div><!-- /.item -->
@@ -115,9 +115,9 @@
                                 <span class="icon-book-open"></span>
                             </div>
                             <div class="content">
-                                <h4 class="title"><a href="#">{{ __('messages.religion') }}</a></h4>
+                                <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.religion') }}</a></h4>
 
-                                <a class="readmore" href="blog_single_v1.html">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
                     </div><!-- /.item -->

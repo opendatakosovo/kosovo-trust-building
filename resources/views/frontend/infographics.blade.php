@@ -10,6 +10,11 @@
         .row {
             display: block !important;
         }
+
+        #myChart1,#myChart2,#myChart3,#myChart4 {
+             width: 600px;
+            height: 600px;
+        }
     }
 
     </style>

@@ -379,7 +379,7 @@
                             <span class="icons icon-user"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.youth') }}</a></h5>
+                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.youth') }}</a></h5>
 
                             <a class="readmore" href="/projectss">More</a>
 
@@ -393,7 +393,7 @@
                             <span class="icons icon-people"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.gender') }}</a></h5>
+                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.gender') }}</a></h5>
 
                             <a class="readmore" href="/projectss">More</a>
                         </div>
@@ -406,7 +406,7 @@
                             <span class="icons icon-graduation"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.education') }}</a></h5>
+                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.education') }}</a></h5>
 
                             <a class="readmore" href="/projectss">More</a>
                         </div>
@@ -419,7 +419,7 @@
                             <span class="icons icon-camrecorder"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.media') }}</a></h5>
+                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.media') }}</a></h5>
 
                             <a class="readmore" href="/projectss">More</a>
                         </div>
@@ -432,7 +432,7 @@
                             <span class="icons icon-music-tone-alt"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.culture') }}</a></h5>
+                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.culture') }}</a></h5>
 
                             <a class="readmore" href="/projectss">More</a>
                         </div>
@@ -445,7 +445,7 @@
                             <span class="icons icon-book-open"></span>
                         </div>
                         <div class="content">
-                            <h5 class="title"><a href="#">{{ __('messages.religion') }}</a></h5>
+                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.religion') }}</a></h5>
 
                             <a class="readmore" href="/projectss">More</a>
                         </div>
@@ -457,7 +457,7 @@
     </section>
 
     <!-- home counter -->
-    <section class="bond-row section-home4-counter padb-145 parallax parallax14">
+     <section class="bond-row section-home4-counter padb-145 parallax parallax14">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12">
@@ -483,7 +483,7 @@
                         <div class="icon-image">
                         </div>
                         <div class="bond-counter">
-                            <div class="numb-count" data-to="502" data-speed="2000" data-waypoint-active="yes">502/div>
+                            <div class="numb-count" data-to="502" data-speed="2000" data-waypoint-active="yes">502</div>
                         </div>
                         <div class="counter-countent">
                             <div class="icon-img">

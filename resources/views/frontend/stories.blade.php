@@ -43,6 +43,7 @@
                     <div class="post-wrap">
 
                         <?php $locale = Config::get('app.locale');?>
+                        
 
                         @if($locale === "al")
                         <article class="post clearfix">
@@ -119,27 +120,154 @@
                         </article><!-- /post -->
                         @endif
 
-                         <article class="post clearfix">
+                        <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                    <img src="frontend/images/colors.jpg" alt="image">
+                                <img src="frontend/images/ktb-digweek.png" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
+                        <?php $locale = Config::get('app.locale');?>
+                            @if($locale === "al")
                                 <h4 class="title-post">
-                                    <a href="en/colors-of-nature">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</a>
+                                    <a href="sq/ktb-story">Kryevepra të vogla: Kur Elena dhe Milena bëjnë bizhuteri</a>
                                 </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="sr/ktb-story">Mala remek dela: Kad Elena i Milena prave nakit</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="en/ktb-story">Small masterpieces: When Elena and Milena make jewelry</a>
+                                </h4>
+                                @endif
                                 <div class="entry-meta">
                                     <div class="meta-1">
                                         <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
-                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 13, 2021</a></span>
                                     </div>
                                 </div><!-- /.entry-meta -->
-
-                            </div><!-- /content-post -->
-                        </article><!-- /post -->
+                        </article>
 
                         <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                        <?php $locale = Config::get('app.locale');?>
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="sq/ktb-story">Episode 2: Big Band i Mitrovicës: Muzika "politika e vetme"</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="sr/ktb-story">Episode 2: Mitrovički Big bend: Muzika "jedina politika"</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="en/ktb-story">Episode 2: Mitrovica Big Band: Music "the only politics"</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 13, 2021</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
+                        </article>
+
+                          <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                        <?php $locale = Config::get('app.locale');?>
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="sq/ktb-story">Arsimi për një të ardhme të ndritur</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="sr/ktb-story">Obrazovanje za svetlu budućnost</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="en/ktb-story">Education for a bright future</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 13, 2021</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
+                        </article>
+
+                        
+                          <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                        <?php $locale = Config::get('app.locale');?>
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="sq/ktb-story">Benjamin Ibrahimi: Život je kao ples!</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="sr/ktb-story">Benjamin Ibrahimi: Jeta është si vallëzimi!</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="en/ktb-story">Benjamin Ibrahimi: Life is like a dance!</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 12, 2021</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
+                        </article>
+
+                                                
+                          <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                        <?php $locale = Config::get('app.locale');?>
+                            @if($locale === "al")
+                                <h4 class="title-post">
+                                    <a href="sq/ktb-story">Muzika flet çdo gjuhë!</a>
+                                </h4>
+                            @elseif($locale === "sr")
+                                <h4 class="title-post">
+                                    <a href="sr/ktb-story">Muzika govori svaki jezik!</a>
+                                </h4>
+                                @elseif($locale === "en")
+                                <h4 class="title-post">
+                                    <a href="en/ktb-story">Music speaks every language!</a>
+                                </h4>
+                                @endif
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 12, 2021</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
+                        </article>
+
+                         <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
                                 <img src="frontend/images/ktb-digweek.png" alt="image">
@@ -171,6 +299,33 @@
                                 </div><!-- /.entry-meta -->
 
                         </article>
+                        
+
+                         <article class="post clearfix">
+                            <div class="featured-post">
+                                <div class="entry-image">
+                                    <img src="frontend/images/colors.jpg" alt="image">
+                                </div>
+                            </div>
+                            <div class="content-post">
+                                <h4 class="title-post">
+                                    <a href="en/colors-of-nature">"Colors of nature with Uta and Miljana": Diversity is our strength, to work as one for future generations</a>
+                                </h4>
+                                <div class="entry-meta">
+                                    <div class="meta-1">
+                                        <span class="author"><i class="fa fa-user" aria-hidden="true"></i><a href="#">Moderator</a></span>
+                                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 11, 2021</a></span>
+                                    </div>
+                                </div><!-- /.entry-meta -->
+
+                            </div><!-- /content-post -->
+                        </article><!-- /post -->
+
+                        
+
+                       
+
+                        
 
                         <article class="post clearfix">
                             <div class="featured-post">

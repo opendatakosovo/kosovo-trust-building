@@ -82,7 +82,7 @@
                 <div class="col-md-6 padl-44 magt--10">
                     <div class="flat-box-content">
                         <h4 class="sub-title">{{ __('messages.about') }}</h4>
-                        <h2 class="title">{{ __('messages.about.title') }}</h2>
+                        <h2 class="title">{{ __('messages.who-we-are') }}</h2>
                         <div class="content">
                             <p>{{ __('messages.about.text1') }}</p>
                             <br><br>

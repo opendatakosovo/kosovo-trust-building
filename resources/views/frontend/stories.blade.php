@@ -123,22 +123,22 @@
                         <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                <img src="frontend/images/masterpieces.png" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
                         <?php $locale = Config::get('app.locale');?>
                             @if($locale === "al")
                                 <h4 class="title-post">
-                                    <a href="sq/ktb-story">Kryevepra të vogla: Kur Elena dhe Milena bëjnë bizhuteri</a>
+                                    <a href="sq/masterpieces-story">Kryevepra të vogla: Kur Elena dhe Milena bëjnë bizhuteri</a>
                                 </h4>
                             @elseif($locale === "sr")
                                 <h4 class="title-post">
-                                    <a href="sr/ktb-story">Mala remek dela: Kad Elena i Milena prave nakit</a>
+                                    <a href="sr/masterpieces-story">Mala remek dela: Kad Elena i Milena prave nakit</a>
                                 </h4>
                                 @elseif($locale === "en")
                                 <h4 class="title-post">
-                                    <a href="en/ktb-story">Small masterpieces: When Elena and Milena make jewelry</a>
+                                    <a href="en/masterpieces-story">Small masterpieces: When Elena and Milena make jewelry</a>
                                 </h4>
                                 @endif
                                 <div class="entry-meta">
@@ -152,22 +152,22 @@
                         <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                <img src="frontend/images/podcast2.png" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
                         <?php $locale = Config::get('app.locale');?>
                             @if($locale === "al")
                                 <h4 class="title-post">
-                                    <a href="sq/ktb-story">Episode 2: Big Band i Mitrovicës: Muzika "politika e vetme"</a>
+                                    <a href="sq/podcast2">Episode 2: Big Band i Mitrovicës: Muzika "politika e vetme"</a>
                                 </h4>
                             @elseif($locale === "sr")
                                 <h4 class="title-post">
-                                    <a href="sr/ktb-story">Episode 2: Mitrovički Big bend: Muzika "jedina politika"</a>
+                                    <a href="sr/podcast2">Episode 2: Mitrovički Big bend: Muzika "jedina politika"</a>
                                 </h4>
                                 @elseif($locale === "en")
                                 <h4 class="title-post">
-                                    <a href="en/ktb-story">Episode 2: Mitrovica Big Band: Music "the only politics"</a>
+                                    <a href="en/podcast2">Episode 2: Mitrovica Big Band: Music "the only politics"</a>
                                 </h4>
                                 @endif
                                 <div class="entry-meta">
@@ -181,22 +181,22 @@
                           <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                <img src="frontend/images/romaveristas.png" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
                         <?php $locale = Config::get('app.locale');?>
                             @if($locale === "al")
                                 <h4 class="title-post">
-                                    <a href="sq/ktb-story">Arsimi për një të ardhme të ndritur</a>
+                                    <a href="sq/education-story">Arsimi për një të ardhme të ndritur</a>
                                 </h4>
                             @elseif($locale === "sr")
                                 <h4 class="title-post">
-                                    <a href="sr/ktb-story">Obrazovanje za svetlu budućnost</a>
+                                    <a href="sr/education-story">Obrazovanje za svetlu budućnost</a>
                                 </h4>
                                 @elseif($locale === "en")
                                 <h4 class="title-post">
-                                    <a href="en/ktb-story">Education for a bright future</a>
+                                    <a href="en/education-story">Education for a bright future</a>
                                 </h4>
                                 @endif
                                 <div class="entry-meta">
@@ -211,22 +211,22 @@
                           <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                <img src="frontend/images/benjamin.png" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
                         <?php $locale = Config::get('app.locale');?>
                             @if($locale === "al")
                                 <h4 class="title-post">
-                                    <a href="sq/ktb-story">Benjamin Ibrahimi: Život je kao ples!</a>
+                                    <a href="sq/dance-story">Benjamin Ibrahimi: Život je kao ples!</a>
                                 </h4>
                             @elseif($locale === "sr")
                                 <h4 class="title-post">
-                                    <a href="sr/ktb-story">Benjamin Ibrahimi: Jeta është si vallëzimi!</a>
+                                    <a href="sr/dance-story">Benjamin Ibrahimi: Jeta është si vallëzimi!</a>
                                 </h4>
                                 @elseif($locale === "en")
                                 <h4 class="title-post">
-                                    <a href="en/ktb-story">Benjamin Ibrahimi: Life is like a dance!</a>
+                                    <a href="en/dance-story">Benjamin Ibrahimi: Life is like a dance!</a>
                                 </h4>
                                 @endif
                                 <div class="entry-meta">
@@ -241,22 +241,22 @@
                           <article class="post clearfix">
                             <div class="featured-post">
                                 <div class="entry-image">
-                                <img src="frontend/images/ktb-digweek.png" alt="image">
+                                <img src="frontend/images/music.jpg" alt="image">
                                 </div>
                             </div>
                             <div class="content-post">
                         <?php $locale = Config::get('app.locale');?>
                             @if($locale === "al")
                                 <h4 class="title-post">
-                                    <a href="sq/ktb-story">Muzika flet çdo gjuhë!</a>
+                                    <a href="sq/music-story">Muzika flet çdo gjuhë!</a>
                                 </h4>
                             @elseif($locale === "sr")
                                 <h4 class="title-post">
-                                    <a href="sr/ktb-story">Muzika govori svaki jezik!</a>
+                                    <a href="sr/music-story">Muzika govori svaki jezik!</a>
                                 </h4>
                                 @elseif($locale === "en")
                                 <h4 class="title-post">
-                                    <a href="en/ktb-story">Music speaks every language!</a>
+                                    <a href="en/music-story">Music speaks every language!</a>
                                 </h4>
                                 @endif
                                 <div class="entry-meta">
@@ -265,7 +265,7 @@
                                         <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> <a href="#"> Apr 12, 2021</a></span>
                                     </div>
                                 </div><!-- /.entry-meta -->
-                        </article>
+                        </article><br><br>
 
                          <article class="post clearfix">
                             <div class="featured-post">

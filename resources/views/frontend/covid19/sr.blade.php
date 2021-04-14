@@ -247,20 +247,11 @@ kod kuće - budite sigurni!</p>
 
     <!-- Footer -->
     <footer class="footer">  
-        <div class="page-callout">
-            <div class="page-callout-background">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="flat-contact-us">                   
-                                <h2>Do you want to contribute?</h2>
-                                <a class="button" href="/dashboard"> Register here </a>                        
-                            </div>
-                        </div><!-- /.col-md-12 -->
-                    </div><!-- /.row -->
-                </div><!-- /.container -->
-            </div>
-        </div>
+       <section class="section-home5-callout2">
+        <footer class="footer">
+        @include('frontend.includes.banner')
+        </footer>
+    </section>
         <div class="footer-widgets">
             <div class="container">
                 <div class="row">

@@ -30,7 +30,7 @@
                     <img src="frontend/images/slides/prishtina.jpg" alt="slider-image" />
 
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
-                        Kosovo Trust-Building<br> Platform
+                        Kosovo Trustbuilding<br> Platform
                     </div>
                     <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a></div>
                 </li>
@@ -39,7 +39,7 @@
                     <img src="frontend/images/slides/playing.jpg" alt="slider-image" />
 
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
-                        Kosovo Trust-Building<br> Platform
+                        Kosovo Trustbuilding<br> Platform
                     </div>
                     <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a></div>
                 </li>
@@ -47,7 +47,7 @@
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
                     <img src="frontend/images/slides/covid.jpg" alt="slider-image" />
                     <div class="tp-caption sfl title-slide center" data-x="309" data-y="160" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">
-                        Kosovo Trust-Building Platform
+                        Kosovo Trustbuilding Platform
                     </div>
                     <div class="tp-caption sfr desc-slide center" data-x="195" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         BUILD TRUST
@@ -755,7 +755,7 @@
                         <li class="testimonial swiper-slide has-image swiper-slide-active" data-swiper-slide-index="0" style="width: 600px;">
                             <div class="testimonial-content">
                                 <blockquote>
-                                {{ __('messages.testimonial1') }}
+                                {{ __('messages.testimonial2') }}
                                 </blockquote>
                             </div>
                             <div class="testimonial-meta">

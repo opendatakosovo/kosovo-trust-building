@@ -49,7 +49,7 @@
                             <div class="content">
                                 <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.youth') }}</a></h4>
 
-                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="curso">More</a>
 
                             </div>
                         </div><!-- /.bond-iconbox -->
@@ -64,7 +64,7 @@
                             <div class="content">
                                 <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.gender') }}</a></h4>
 
-                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="curso">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
                     </div><!-- /.item -->
@@ -77,7 +77,7 @@
                             <div class="content">
                                 <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.education') }}</a></h4>
 
-                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="curso">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
                     </div><!-- /.item -->
@@ -90,7 +90,7 @@
                             <div class="content">
                                 <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.media') }}</a></h4>
 
-                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="curso">More</a>
 
                             </div>
                         </div><!-- /.bond-iconbox -->
@@ -104,7 +104,7 @@
                             <div class="content">
                                 <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.culture') }}</a></h4>
 
-                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="curso">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
                     </div><!-- /.item -->
@@ -117,7 +117,7 @@
                             <div class="content">
                                 <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.religion') }}</a></h4>
 
-                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">More</a>
+                                <a class="readmore" data-toggle="modal" data-target="#myModal2" style="curso">More</a>
                             </div>
                         </div><!-- /.bond-iconbox -->
                     </div><!-- /.item -->
@@ -146,9 +146,9 @@
                             <div class="box-icon"><span class="icon-calendar"></span></div>
                             <h4 class="box-title">{{ __('messages.projects-completed') }}</h4>
                         </div>
-                        <div class="box-content">
+                        <!-- <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="iconbox effect1 clearfix  inline-right no-box">
@@ -156,10 +156,9 @@
                             <div class="box-icon"><span class="icon-login"></span></div>
                             <h4 class="box-title">{{ __('messages.projects-partially') }}</h4>
                         </div>
-                        <div class="box-content">
+                        <!-- <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="iconbox effect1 clearfix  inline-right no-box">
@@ -167,10 +166,9 @@
                             <div class="box-icon"><span class="icon-login"></span></div>
                             <h4 class="box-title">{{ __('messages.projects-progress') }}</h4>
                         </div>
-                        <div class="box-content">
+                        <!-- <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-
-                        </div>
+                        </div> -->
                     </div>
                 </div><!-- /.col-md-4 -->
 

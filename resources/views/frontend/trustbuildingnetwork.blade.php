@@ -269,20 +269,11 @@
             </div><!-- /.row -->
         </div><!-- /.container -->
     </section>
-    <div class="page-callout" style="margin-bottom:0;">
-            <div class="page-callout-background">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="flat-contact-us">
-                                    <h2>{{ __('messages.member') }}</h2>
-                                    <a data-toggle="modal" data-target="#myModal2" class="button">{{ __('messages.registerhere') }}</a>
-                            </div>
-                        </div><!-- /.col-md-12 -->
-                    </div><!-- /.row -->
-                </div><!-- /.container -->
-            </div>
-        </div>
+   <section class="section-home5-callout2">
+        <footer class="footer">
+        @include('frontend.includes.banner')
+        </footer>
+    </section>
 
     <!-- welcome to bond -->
     <section class="bond-row padb-90" id="contribute">
@@ -337,9 +328,9 @@
                             <div class="box-icon"><span class="icon-directions"></span></div>
                             <h4 class="box-title">{{ __('messages.good-governance') }}</h4>
                         </div>
-                        <div class="box-content">
+                        <!-- <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="iconbox clearfix  inline-right no-box">
@@ -347,10 +338,10 @@
                             <div class="box-icon"><span class="icon-screen-desktop"></span></div>
                             <h4 class="box-title">{{ __('messages.acces-justice') }}</h4>
                         </div>
-                        <div class="box-content">
+                        <!-- <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
 
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="iconbox clearfix  inline-right no-box">
@@ -358,14 +349,14 @@
                             <div class="box-icon"><span class="icon-book-open"></span></div>
                             <h4 class="box-title">{{ __('messages.inter-religious') }}</h4>
                         </div>
-                        <div class="box-content">
+                        <!-- <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
 
-                        </div>
+                        </div> -->
                     </div>
                 </div><!-- /.col-md-4 -->
 
-                <div class="col-md-4 text-center" style="padding-top: 12.5%;">
+                <div class="col-md-4 text-center" style="padding-top: 6.5%;">
                     <img alt="image" src="frontend/images/ktb-logo.png"/>
                 </div>
 
@@ -375,10 +366,10 @@
                             <div class="box-icon"><span class="icon-layers"></span></div>
                             <h4 class="box-title">{{ __('messages.economic') }}</h4>
                         </div>
-                        <div class="box-content">
+                        <!-- <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
 
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="iconbox clearfix  inline-left no-box">
@@ -386,10 +377,10 @@
                             <div class="box-icon"><span class="icon-settings"></span></div>
                             <h4 class="box-title">{{ __('messages.media-commun') }}</h4>
                         </div>
-                        <div class="box-content">
+                        <!-- <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
 
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="iconbox clearfix  inline-left no-box">
@@ -397,10 +388,10 @@
                             <div class="box-icon"><span class="icon-grid"></span></div>
                             <h4 class="box-title">{{ __('messages.education') }}</h4>
                         </div>
-                        <div class="box-content">
+                        <!-- <div class="box-content">
                             Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
 
-                        </div>
+                        </div> -->
                     </div>
                 </div><!-- /.col-md-4 -->
             </div><!-- /.row -->

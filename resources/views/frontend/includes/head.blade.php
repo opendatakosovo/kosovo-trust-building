@@ -41,11 +41,11 @@
     
 
     @yield('javascript')
-
+    <script src="{{ asset('frontend/javascript/main.js') }}"></script>
 
     <script src="{{ asset('frontend/javascript/jquery.min.js') }}"> </script>
     <script src="{{ asset('frontend/javascript/bootstrap.min.js') }}"></script>
-
+    
     <script src="{{ asset('frontend/javascript/owl.carousel.js') }}"></script>
     <script src="{{ asset('frontend/javascript/jquery.easing.js') }}"></script>
     <script src="{{ asset('frontend/javascript/jquery.flexslider-min.js') }}"></script>

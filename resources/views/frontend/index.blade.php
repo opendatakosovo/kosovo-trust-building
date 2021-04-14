@@ -968,6 +968,6 @@
   });
 
 </script>
-<script src="{{ asset('frontend/javascript/main.js') }}"></script>
+
 </body>
 </html>

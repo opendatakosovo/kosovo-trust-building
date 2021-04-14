@@ -43,6 +43,28 @@ Route::get('lang/change', 'LangController@change')->name('changeLang');
  Route::get('en/podcast-story', function () { return view('frontend.en-podcast-story'); });
  Route::get('sq/podcast-story', function () { return view('frontend.sq-podcast-story'); });
  Route::get('sr/podcast-story', function () { return view('frontend.sr-podcast-story'); });
+
+ Route::get('sr/music-story', function () { return view('frontend.sr-music-story'); });
+ Route::get('en/music-story', function () { return view('frontend.en-music-story'); });
+ Route::get('sq/music-story', function () { return view('frontend.sq-music-story'); });
+
+ Route::get('sr/dance-story', function () { return view('frontend.sr-dance-story'); });
+ Route::get('en/dance-story', function () { return view('frontend.en-dance-story'); });
+ Route::get('sq/dance-story', function () { return view('frontend.sq-dance-story'); });
+
+ Route::get('sr/education-story', function () { return view('frontend.sr-education-story'); });
+ Route::get('en/education-story', function () { return view('frontend.en-education-story'); });
+ Route::get('sq/education-story', function () { return view('frontend.sq-education-story'); });
+
+ Route::get('sr/podcast2', function () { return view('frontend.sr-podcast2'); });
+ Route::get('en/podcast2', function () { return view('frontend.en-podcast2'); });
+ Route::get('sq/podcast2', function () { return view('frontend.sq-podcast2'); });
+
+ Route::get('sr/masterpieces-story', function () { return view('frontend.sr-masterpieces-story'); });
+ Route::get('en/masterpieces-story', function () { return view('frontend.en-masterpieces-story'); });
+ Route::get('sq/masterpieces-story', function () { return view('frontend.sq-masterpieces-story'); });
+
+
  Route::get('/sq/digital-agenda', function () { return view('frontend.digital-agenda.sq-digital-agenda'); });
  Route::get('/sr/digital-agenda', function () { return view('frontend.digital-agenda.sr-digital-agenda'); });
  Route::get('en/colors-of-nature', function () { return view('frontend.en-colors-of-nature'); });

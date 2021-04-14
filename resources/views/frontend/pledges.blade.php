@@ -339,6 +339,7 @@
         BACK TO TOP <i class="fa fa-angle-double-right"></i>
     </a>
 
+     <script src="{{ asset('frontend/javascript/main.js') }}"></script>
     <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js">
 
     $("[data-fancybox]").fancybox();

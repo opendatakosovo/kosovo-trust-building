@@ -665,7 +665,7 @@
                 </div>
             </div>
         </div>
-    </div> -->
+    </div> 
 
     <a class="go-top show vertical-text">
         BACK TO TOP <i class="fa fa-angle-double-right"></i>

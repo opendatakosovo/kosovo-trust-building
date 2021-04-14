@@ -10,6 +10,12 @@
 		width: 100%;
 	}
 
+	.flat-contact-us div:not(:last-child)
+	{
+		padding-bottom: 40px;
+		border-right-style: none;
+	}
+
 	.flat-spacer.off {
 		display: none;
 	}
@@ -642,6 +648,10 @@
 	.header .header-wrap .logo {
 		margin: 0 15px;
 		width: 100px;
+	}
+
+	.input-group {
+		display: contents;
 	}
 
 	.bond-portfolio .item.builder  {

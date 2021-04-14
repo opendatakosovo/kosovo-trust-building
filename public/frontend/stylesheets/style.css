@@ -4864,6 +4864,15 @@ input .button .button--modal {
 	  font-size: 1.1em;
 	}
 
+	.full-height {
+
+	position: relative;
+    width: 395px;
+    padding-bottom: 50%;
+    height: 500px !important;
+
+	}
+
 	.flat-contact-us div:not(:last-child) {
 		border-right-style: none;
 		padding-bottom: 40px;

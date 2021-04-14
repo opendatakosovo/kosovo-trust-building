@@ -37,23 +37,33 @@
         <script src="javascript/respond.min.js"></script>
     <![endif]-->
 
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.min.js"> </script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/bootstrap.min.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/owl.carousel.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.easing.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.flexslider-min.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/imagesloaded.min.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery-waypoints.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.cookie.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/parallax.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/swiper.min.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/main.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery.isotope.min.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery-validate.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/jquery-countTo.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/gmap3.min.js"></script>
-    <script src="http://new.kosovotrustbuilding.com/frontend/javascript/quote.js"></script>
+    
+    <script src="{{ asset('frontend/javascript/jquery.min.js') }}"> </script>
+    <script src="{{ asset('frontend/javascript/bootstrap.min.js') }}"></script>
 
+    <script src="{{ asset('frontend/javascript/owl.carousel.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/jquery.easing.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/jquery.flexslider-min.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/imagesloaded.min.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/jquery-waypoints.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/jquery.cookie.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/parallax.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/swiper.min.js') }}"></script>
+
+    <script src="{{ asset('frontend/javascript/jquery.isotope.min.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/jquery-validate.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/jquery-countTo.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/gmap3.min.js') }}"></script>
+    <script src="{{ asset('frontend/javascript/quote.js') }}"></script>
+
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
+
+
+    <!-- Revolution Slider -->
+    <script src="{{ asset('frontend/javascript/jquery.themepunch.tools.min.js?rev=4.6.5') }}"></script>
+    <script src="{{ asset('frontend/javascript/jquery.themepunch.revolution.min.js?rev=4.6.5') }}"></script>
+    <script src="{{ asset('frontend/javascript/slider.js') }}"></script>
     
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvV0EE3yFozGhjmUv3BgoyviVdXzCwHlk"></script>
 

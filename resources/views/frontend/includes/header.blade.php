@@ -111,5 +111,5 @@
   $(".changeLang").change(function(){
       window.location.href = url + "?lang="+ $(this).val();
   });
-
+  <script src="{{ asset('frontend/javascript/main.js') }}"></script>
 </script>

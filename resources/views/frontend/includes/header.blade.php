@@ -4,7 +4,7 @@
 
             <div id="logo" class="logo">
                 <a href="/" rel="Home">
-                    <img src="frontend/images/kosovo-logo-en.png" alt="image">
+                    <img src={{url('/frontend/images/kosovo-logo-en.png')}} alt="image">
                 </a>
             </div><!-- /.logo -->
             <ul class="bond-socials text-right">

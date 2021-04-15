@@ -240,7 +240,7 @@
                 </div>
 
                  <!-- Add Pagination -->
-                 <a class="box-readmore center-rx" href="/pledges">{{ __('messages.view-more') }}</a>
+                 <a class="box-readmore center-rx" href="/pledges">{{ __('messages.view-all') }}</a>
 
 
             </div>

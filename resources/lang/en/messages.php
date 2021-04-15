@@ -90,6 +90,7 @@ return [
     'inter-religious' => 'Inter-religious trust-building' ,
     'economic' => 'Economic empowerment and environment',
     'media-commun' => 'Media and communication',
+    'view-all' => 'View all'
 
 
 ];

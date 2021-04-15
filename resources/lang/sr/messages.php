@@ -91,6 +91,7 @@ return [
     'inter-religious' => 'Izgradnja međureligijskog poverenja' ,
     'economic' => 'Ekonomsko osnaživanje i životna sredina',
     'media-commun' => 'Mediji i komunikacija',
+    'view-all' => 'Pogledati sve'
 
 
 ];

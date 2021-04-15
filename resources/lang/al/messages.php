@@ -90,6 +90,7 @@ return [
     'inter-religious' => 'Ndërtimi i besimit ndërfetar' ,
     'economic' => 'Fuqizimi ekonomik dhe mjedisi',
     'media-commun' => 'Media dhe komunikimi',
+    'view-all' => 'Shiko të gjitha'
 
 
 ];

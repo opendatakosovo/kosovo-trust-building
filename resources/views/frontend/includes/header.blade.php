@@ -87,9 +87,7 @@
                     <option value="al" {{ session()->get('locale') == 'al' ? 'selected' : '' }}>Shqip</option>
                     <option value="sr" {{ session()->get('locale') == 'sr' ? 'selected' : '' }}>Srpski</option>
                 </select>
-                    </li>
-   
-                                             
+                    </li>       
                     </ul><!-- /.menu -->
                 </nav><!-- /.mainnav -->
 
@@ -111,5 +109,5 @@
   $(".changeLang").change(function(){
       window.location.href = url + "?lang="+ $(this).val();
   });
-  <script src="{{ asset('frontend/javascript/main.js') }}"></script>
+
 </script>

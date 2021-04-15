@@ -7,7 +7,7 @@ return [
     'who-we-are.title'=> 'Kosovo Trustbuilding Platform',
     'projects'=> 'Projects',
     'organizations' => 'Organizations',
-    'trb'=> 'Trust Building Network',
+    'trb'=> 'Trustbuilding Network',
     'infographics' => 'Infographics',
     'gallery'=> 'Gallery',
     'stories' => 'Stories',

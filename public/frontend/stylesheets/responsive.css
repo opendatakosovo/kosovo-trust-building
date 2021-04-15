@@ -46,6 +46,9 @@
 	    padding-right: 30px;
 	}
 
+	.bond-counterbox {
+		padding-top: 25px;
+	} 
 
 	.ab-right.svideo {
 		top: 20%;
@@ -203,9 +206,12 @@
 
 	.flat-home5 header {
 		position: relative;
-		background: #333;
+		background: white;
 		padding-bottom: 27px;
+		margin-top: 28px;
 	}
+
+	
 
 	.tp-banner-container .slide-paddingl {
 		padding-left: 0 !important;
@@ -299,6 +305,14 @@
 
 	.bond-counterbox.v2 {
 		text-align: center;
+	}
+
+	.flat-home5 header .header-wrap #logo,
+	.header .header-wrap .logo {
+		line-height: 60px;
+	    text-align: center;
+	    width: 100%;
+	    z-index:100;
 	}
 
 	.header .header-wrap {
@@ -619,9 +633,12 @@
 	}
 
 	.header .header-wrap {
-	    padding-left: 20px;
-		padding-right: 20px;
-	}
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: -30px;
+    margin-bottom: -20px;
+  
+}
 
 	.header .nav-wrap {
 		padding-left: 0;

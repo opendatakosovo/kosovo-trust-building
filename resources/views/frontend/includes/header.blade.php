@@ -14,6 +14,9 @@
                 <li class="instagram">
                     <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
                 </li>
+                <li class="twitter">
+                    <a href="https://twitter.com/trustbuildingks"><i class="fa fa-twitter"></i></a>
+                </li>
             </ul>
 
             <div class="nav-wrap">

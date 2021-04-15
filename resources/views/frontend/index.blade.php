@@ -32,7 +32,10 @@
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trustbuilding<br> Platform
                     </div>
-                    <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a></div>
+                    <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a><br>
+                </div>
+                <div class="tp-caption flat-button-slider" style="border:none; font-style:italic;" data-x="35" data-y="650" data-speed="500" data-start="3000" data-easing="Power3.easeInOut"><p>Image: UNDCO</p><br>
+                </div>
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
@@ -42,6 +45,7 @@
                         Kosovo Trustbuilding<br> Platform
                     </div>
                     <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a></div>
+                     <div class="tp-caption flat-button-slider" style="border:none; font-style:italic;" data-x="35" data-y="650" data-speed="500" data-start="3000" data-easing="Power3.easeInOut"><p>Image: UNMIK</p><br>
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
@@ -52,10 +56,9 @@
                     <div class="tp-caption sfr desc-slide center" data-x="195" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         BUILD TRUST
                     </div>
-
-
-
                     <div class="tp-caption sfl flat-button-slider" data-x="502" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Read More</a></div>
+                     <div class="tp-caption flat-button-slider" style="border:none; font-style:italic;" data-x="35" data-y="650" data-speed="500" data-start="3000" data-easing="Power3.easeInOut"><p>Image: UNDCO</p><br>
+                </div>
                 </li>
             </ul>
         </div>
@@ -543,7 +546,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="title-section style1">
-                    <h3 class="title">{{ __('messages.recent.projects') }}</h3>
+                    <h3 class="title">{{ __('messages.gallery') }}</h3>
                     <div class="desc">
                         <p>{{ __('messages.forums') }}</p>
                     </div>
@@ -948,6 +951,9 @@
                         </li>
                         <li class="instagram">
                             <a href="https://www.instagram.com/trustbuildingks/"><i class="fa fa-instagram"></i></a>
+                        </li>
+                        <li class="twitter">
+                            <a href="https://twitter.com/trustbuildingks"><i class="fa fa-twitter"></i></a>
                         </li>
                     </ul>
                 </div>

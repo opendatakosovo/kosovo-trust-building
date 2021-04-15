@@ -114,10 +114,10 @@
                         <h2 class="screen-reader-text" style="display:none;">Post navigation</h2>
                         <div class="nav-links clearfix">
                             <div class="nav-previous">
-                                <a href="#" rel="prev">Prev Post</a>
+                                <a href="/en/music-story" rel="prev">Prev Post</a>
                             </div>
                             <div class="nav-next">
-                                <a href="#" rel="next">Next post</a>
+                                <a href="/en/education-story" rel="next">Next post</a>
                             </div>
                         </div><!-- .nav-links -->
                     </nav>

@@ -60,14 +60,15 @@
                                 <blockquote class="testimonial__text">
                                   <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
                                   <p class="testimonial__quote">
-                                  {{ __('messages.odk-pledge') }}
+                                  {{ __('messages.zahirtanin-pledge') }}
                                   </p>
                                   <cite class="testimonial__cite">
-                                    <span class="testimonial__cite--name">Open Data Kosovo</span>
+                                    <span class="testimonial__cite--name">Zahir Tanin</span><br>
+                                    <span class="testimonial__cite--role"> {{ __('messages.zahirtanin-role') }}</span>
                                   </cite>
                                 </blockquote>
                                 <div class="testimonial__img">
-                                  <img class="testimonial__photo" src="frontend/images/home/odk-logo-transparent.png" style="max-height: 400px;" alt="Open Data Kosovo">
+                                  <img class="testimonial__photo" src="content/pledges/ZahirTanin.png"  alt="Zahir Tanin">
                                 </div>
                               </figure>
                             </div>
@@ -77,14 +78,15 @@
                                 <blockquote class="testimonial__text">
                                   <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
                                   <p class="testimonial__quote">
-                                  {{ __('messages.alternativa-pledge') }}
+                                  {{ __('messages.slavisamladenovic-pledge') }}
                                   </p>
                                   <cite class="testimonial__cite">
-                                    <span class="testimonial__cite--name">Alteratniva</span>
+                                    <span class="testimonial__cite--name">Şlavisa Mladenovic</span><br>
+                                    <span class="testimonial__cite--role"> {{ __('messages.slavisamladenovic-role') }}</span>
                                   </cite>
                                 </blockquote>
                                 <div class="testimonial__img">
-                                  <img class="testimonial__photo" src="frontend/images/home/altrn-logo.png" style="max-height: 400px;" alt="Alternativa">
+                                  <img class="testimonial__photo" src="content/pledges/SlavisaMladenovic.png" alt="Şlavisa Mladenovic">
                                 </div>
                               </figure>
                             </div>
@@ -95,15 +97,69 @@
                                   <blockquote class="testimonial__text">
                                     <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
                                     <p class="testimonial__quote">
-                                    {{ __('messages.nsi-pledge') }}
+                                    {{ __('messages.unahajdari-pledge') }}
                                     </p>
                                     <cite class="testimonial__cite">
-                                      <span class="testimonial__cite--name">Jovana Radosavjlević</span><br>
-                                      <span class="testimonial__cite--role">New Social Initiative</span>
+                                      <span class="testimonial__cite--name">Una Hajdari</span><br>
+                                      <span class="testimonial__cite--role">{{ __('messages.unahajdari-role') }}</span>
                                     </cite>
                                   </blockquote>
                                   <div class="testimonial__img">
-                                    <img class="testimonial__photo" src="frontend/images/home/pledge-jovana.png" style="max-height: 400px;" alt="John Tarkpor">
+                                    <img class="testimonial__photo" src="content/pledges/UnaHajdari.png"  alt="Una Hajdari">
+                                  </div>
+                                </figure>
+                              </div>
+
+                               <div class="slider__slide slider__slide--2">
+                                <figure class="testimonial slider__slide-content">
+                                  <blockquote class="testimonial__text">
+                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                    <p class="testimonial__quote">
+                                    {{ __('messages.thomaskolly-pledge') }}
+                                    </p>
+                                    <cite class="testimonial__cite">
+                                      <span class="testimonial__cite--name">Thomas Kolly</span><br>
+                                      <span class="testimonial__cite--role">{{ __('messages.thomaskolly-role') }}</span>
+                                    </cite>
+                                  </blockquote>
+                                  <div class="testimonial__img">
+                                    <img class="testimonial__photo" src="content/pledges/ThomasKolly.png"  alt="Thomas Kolly">
+                                  </div>
+                                </figure>
+                              </div>
+
+                               <div class="slider__slide slider__slide--2">
+                                <figure class="testimonial slider__slide-content">
+                                  <blockquote class="testimonial__text">
+                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                    <p class="testimonial__quote">
+                                    {{ __('messages.sazanibrahimi-pledge') }}
+                                    </p>
+                                    <cite class="testimonial__cite">
+                                      <span class="testimonial__cite--name">Sazan Ibrahimi</span><br>
+                                      <span class="testimonial__cite--role">{{ __('messages.sazanibrahimi-role') }}</span>
+                                    </cite>
+                                  </blockquote>
+                                  <div class="testimonial__img">
+                                    <img class="testimonial__photo" src="content/pledges/SazanIbrahimi.png"  alt="Sazan Ibrahimi">
+                                  </div>
+                                </figure>
+                              </div>
+
+                              <div class="slider__slide slider__slide--2">
+                                <figure class="testimonial slider__slide-content">
+                                  <blockquote class="testimonial__text">
+                                    <img class="testimonial__quotation-marks" src="frontend/images/pattern-quotes.svg" alt="quotation marks">
+                                    <p class="testimonial__quote">
+                                    {{ __('messages.shenajbelegu-pledge') }}
+                                    </p>
+                                    <cite class="testimonial__cite">
+                                      <span class="testimonial__cite--name">Shenaj Belegu</span><br>
+                                      <span class="testimonial__cite--role">{{ __('messages.shenajbelegu-role') }}</span>
+                                    </cite>
+                                  </blockquote>
+                                  <div class="testimonial__img">
+                                    <img class="testimonial__photo" src="content/pledges/ShenajBelegu.png"  alt="Shenaj Belegu">
                                   </div>
                                 </figure>
                               </div>

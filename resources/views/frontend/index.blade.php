@@ -32,9 +32,9 @@
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trustbuilding<br> Platform
                     </div>
-                    <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a><br>
+                    <div class="tp-caption sfl flat-button-slider" data-x="240" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a><br>
                 </div>
-                <div class="tp-caption flat-button-slider" style="border:none; font-style:italic;" data-x="35" data-y="650" data-speed="500" data-start="3000" data-easing="Power3.easeInOut"><p>Image: UNDCO</p><br>
+                <div class="tp-caption flat-button-slider credit" style="border:none; font-style:italic;" data-x="835" data-y="650" data-speed="500" data-start="3000" data-easing="Power3.easeInOut"><p>Image: UNDCO</p><br>
                 </div>
                 </li>
 
@@ -44,20 +44,20 @@
                     <div class="tp-caption sfr desc-slide center" data-x="35" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         Kosovo Trustbuilding<br> Platform
                     </div>
-                    <div class="tp-caption sfl flat-button-slider" data-x="35" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a></div>
-                     <div class="tp-caption flat-button-slider" style="border:none; font-style:italic;" data-x="35" data-y="650" data-speed="500" data-start="3000" data-easing="Power3.easeInOut"><p>Image: UNMIK</p><br>
+                    <div class="tp-caption sfl flat-button-slider" data-x="402" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Learn More</a></div>
+                     <div class="tp-caption flat-button-slider credit" style="border:none; font-style:italic;" data-x="180" data-y="630" data-speed="500" data-start="3000" data-easing="Power3.easeInOut"><p>Image: UNMIK</p><br>
                 </li>
 
                 <li data-transition="random-static" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on">
                     <img src="frontend/images/slides/covid.jpg" alt="slider-image" />
-                    <div class="tp-caption sfl title-slide center" data-x="309" data-y="160" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">
+                    <div class="tp-caption sfl title-slide center" data-x="309" data-y="260" data-speed="1000" data-start="1000" data-easing="Power3.easeInOut">
                         Kosovo Trustbuilding Platform
                     </div>
-                    <div class="tp-caption sfr desc-slide center" data-x="195" data-y="253" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
+                    <div class="tp-caption sfr desc-slide center" data-x="195" data-y="383" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
                         BUILD TRUST
                     </div>
                     <div class="tp-caption sfl flat-button-slider" data-x="502" data-y="545" data-speed="1000" data-start="2000" data-easing="Power3.easeInOut"><a href="/who-we-are">Read More</a></div>
-                     <div class="tp-caption flat-button-slider" style="border:none; font-style:italic;" data-x="35" data-y="650" data-speed="500" data-start="3000" data-easing="Power3.easeInOut"><p>Image: UNDCO</p><br>
+                     <div class="tp-caption flat-button-slider credit" style="border:none; font-style:italic;" data-x="235" data-y="650" data-speed="500" data-start="3000" data-easing="Power3.easeInOut"><p>Image: UNDCO</p><br>
                 </div>
                 </li>
             </ul>
@@ -460,7 +460,7 @@
     </section>
 
     <!-- home counter -->
-     <section class="bond-row section-home4-counter padb-145 parallax parallax14">
+     <section class="bond-row bond-section-counter padb-145 parallax parallax14">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12">

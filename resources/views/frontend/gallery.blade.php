@@ -69,8 +69,8 @@
                                        <img src="https://live.staticflickr.com/65535/49579926517_f05ff9cd2d_k.jpg" width="2048" height="1365" alt="ALI_6055">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Flickr</p>
+                                <a title="International Mother Language Day" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">International Mother Language Day</a>
+                                    <!-- <p>Flickr</p> -->
                                 </div>
                             </div>
                             <div class="item builder inter">
@@ -84,8 +84,8 @@
 <img src="https://live.staticflickr.com/65535/49579923632_fcd145ef09_k.jpg" width="2048" height="1365" alt="ALI_6057">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Flickr</p>
+                                <a title="International Mother Language Day" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">International Mother Language Day</a>
+                                    <!-- <p>Flickr</p> -->
                                 </div>
                             </div>
                             <div class="item builder inter">
@@ -99,8 +99,8 @@
                                      <img src="https://live.staticflickr.com/65535/49579927522_d720685a9c_k.jpg" width="2048" height="1365" alt="ALI_6019">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Print design</p>
+                                <a title="International Mother Language Day" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">International Mother Language Day</a>
+                                    <!-- <p>Print design</p> -->
                                 </div>
                             </div>
                         
@@ -115,8 +115,8 @@
                                        <img src="https://live.staticflickr.com/65535/49579704641_a0336f9336_k.jpg" width="2048" height="1365" alt="ALI_6017">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                <a title="International Mother Language Day" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">International Mother Language Day</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
 
@@ -131,8 +131,8 @@
                                         <img src="https://live.staticflickr.com/65535/49579202858_60f5b92af5_k.jpg" width="2048" height="1365" alt="ALI_6016">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Flickr</p>
+                                <a title="International Mother Language Day" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">International Mother Language Day</a>
+                                    <!-- <p>Flickr</p> -->
                                 </div>
                             </div>
                             <div class="item builder inter">
@@ -146,8 +146,8 @@
                                        <img src="https://live.staticflickr.com/65535/49579711306_05539af5fa_k.jpg" width="2048" height="1365" alt="ALI_6011">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Flickr</p>
+                                <a title="International Mother Language Day" href="https://www.flickr.com/photos/185701275@N02/albums/72157713239673242">International Mother Language Day</a>
+                                    <!-- <p>Flickr</p> -->
                                 </div>
                             </div>
                             <div class="item builder cso">
@@ -161,8 +161,8 @@
                                        <img src="https://live.staticflickr.com/65535/49578379736_e59a6e6961_b.jpg" width="1024" height="683" alt="84158860_2669540829766812_6876599891980713984_o">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Print design</p>
+                                  <a title="CSO Dialogue Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">CSO Dialogue Forum</a>
+                                    <!-- <p>Print design</p> -->
                                 </div>
                             </div>
                             <div class="item builder cso">
@@ -176,8 +176,8 @@
                                       <img src="https://live.staticflickr.com/65535/49577873363_1088f3fce1_b.jpg" width="1024" height="683" alt="84168579_2675607259160169_8854167736033476608_o">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                  <a title="CSO Dialogue Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">CSO Dialogue Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div>  
 
@@ -192,8 +192,8 @@
                                        <img src="https://live.staticflickr.com/65535/49578604297_2040193bed_b.jpg" width="1024" height="683" alt="84267320_2669801153074113_2368216031819726848_o">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                  <a title="CSO Dialogue Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">CSO Dialogue Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div>    
 
@@ -208,8 +208,8 @@
                                       <img src="https://live.staticflickr.com/65535/49578379611_a218af83f4_b.jpg" width="960" height="641" alt="84486941_2671592012895027_6072669996574572544_n">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                  <a title="CSO Dialogue Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">CSO Dialogue Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
 
@@ -224,8 +224,8 @@
                                         <img src="https://live.staticflickr.com/65535/49578379736_e59a6e6961_b.jpg" width="1024" height="683" alt="84158860_2669540829766812_6876599891980713984_o">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                  <a title="CSO Dialogue Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">CSO Dialogue Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
 
@@ -240,8 +240,8 @@
                                         <img src="https://live.staticflickr.com/65535/49578604157_9d73b20dc7_h.jpg" width="1440" height="961" alt="84702793_2671431616244400_6478061445564071936_o">
                                 </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                  <a title="CSO Dialogue Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157713235821581">CSO Dialogue Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                             
@@ -255,8 +255,8 @@
                                         </div>
                                        <img src="https://live.staticflickr.com/65535/49304344461_02dc12a829_k.jpg" width="2048" height="1367" alt="TBF_DSC_7476"> </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="Kosovo Trust-Building Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157712444215543">Kosovo Trust-Building Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
 
@@ -270,8 +270,8 @@
                                         </div>
                                        <img src="https://live.staticflickr.com/65535/49303858308_ba7b246914_k.jpg" width="2048" height="1367" alt="TBF_DSC_7398"></div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="Kosovo Trust-Building Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157712444215543">Kosovo Trust-Building Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
 
@@ -285,8 +285,8 @@
                                         </div>
                                        <img src="https://live.staticflickr.com/65535/49304348031_53babbd1d8_k.jpg" width="2048" height="1367" alt="TBF_DSC_7385"></div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="Kosovo Trust-Building Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157712444215543">Kosovo Trust-Building Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
 
@@ -300,8 +300,8 @@
                                         </div>
                                       <img src="https://live.staticflickr.com/65535/49304348731_5cee2d0980_k.jpg" width="2048" height="1367" alt="TBF_DSC_7362">                   </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="Kosovo Trust-Building Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157712444215543">Kosovo Trust-Building Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
 
@@ -315,8 +315,8 @@
                                         </div>
                                         <img src="https://live.staticflickr.com/65535/49304558597_9e087d915d_k.jpg" width="2048" height="1367" alt="TBF_DSC_7196"></div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="Kosovo Trust-Building Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157712444215543">Kosovo Trust-Building Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
 
@@ -330,8 +330,8 @@
                                         </div>
                                       <img src="https://live.staticflickr.com/65535/49303860483_0c6b2048dc_k.jpg" width="2048" height="1367" alt="TBF_DSC_7208">   </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="Kosovo Trust-Building Forum" href="https://www.flickr.com/photos/185701275@N02/albums/72157712444215543">Kosovo Trust-Building Forum</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                              <div class="item builder adapt">
@@ -344,8 +344,8 @@
                                         </div>
                                        <img src="https://live.staticflickr.com/65535/49233001233_deb6811c56_b.jpg" width="1024" height="680" alt="thumbnail__DSC0153">  </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                <a title="Adaptation of Municipalities" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">Adaptation of Municipalities</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                              <div class="item builder adapt">
@@ -358,8 +358,8 @@
                                         </div>
                                       <img src="https://live.staticflickr.com/65535/49233690137_3570a1c7d6_b.jpg" width="1024" height="680" alt="_DSC0032"></div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                <a title="Adaptation of Municipalities" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">Adaptation of Municipalities</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                              <div class="item builder adapt">
@@ -372,8 +372,8 @@
                                         </div>
                                         <img src="https://live.staticflickr.com/65535/49233689732_f29b3d47e6_b.jpg" width="1024" height="680" alt="thumbnail__DSC0033"> </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                <a title="Adaptation of Municipalities" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">Adaptation of Municipalities</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                              <div class="item builder adapt">
@@ -386,8 +386,8 @@
                                         </div>
                                       <img src="https://live.staticflickr.com/65535/49303860483_0c6b2048dc_k.jpg" width="2048" height="1367" alt="TBF_DSC_7208">    </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                <a title="Adaptation of Municipalities" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">Adaptation of Municipalities</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                              <div class="item builder adapt">
@@ -400,8 +400,8 @@
                                         </div>
                                     <img src="https://live.staticflickr.com/65535/49233001413_8551b41ed0_b.jpg" width="1024" height="680" alt="thumbnail__DSC0070 (1)"> </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                <a title="Adaptation of Municipalities" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">Adaptation of Municipalities</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                              <div class="item builder adapt">
@@ -414,8 +414,8 @@
                                         </div>
                                         <img src="https://live.staticflickr.com/65535/49463472473_16795dd883_b.jpg" width="1024" height="683" alt="46831421_565352677243296_4928462250466869248_o"></div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                <a title="Adaptation of Municipalities" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">Adaptation of Municipalities</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                             <div class="item builder munic">
@@ -428,8 +428,8 @@
                                         </div>
                                        <img src="https://live.staticflickr.com/65535/49463472528_c9306a279d_b.jpg" width="1024" height="682" alt="46764449_565352007243363_358183414739763200_o"></div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                    <a title="E-MUNICIPALITIES" href="https://www.flickr.com/photos/185701275@N02/albums/72157712901339878"  >E-MUNICIPALITIES Web Platforms and Mobile Apps - Launch - New Social Initiative</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                             <div class="item builder munic">
@@ -442,8 +442,8 @@
                                         </div>
                                         <img src="https://live.staticflickr.com/65535/49463472568_aed025b4ae_b.jpg" width="1024" height="682" alt="46518748_565351760576721_3531459038623563776_o"> </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="E-MUNICIPALITIES" href="https://www.flickr.com/photos/185701275@N02/albums/72157712901339878"  >E-MUNICIPALITIES Web Platforms and Mobile Apps - Launch - New Social Initiative</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                             <div class="item builder munic">
@@ -456,8 +456,8 @@
                                         </div>
                                        <img src="https://live.staticflickr.com/65535/49233466231_522bb5cbaf_b.jpg" width="1024" height="680" alt="thumbnail__DSC0047">    </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="Adaptation of Municipalities" href="https://www.flickr.com/photos/185701275@N02/albums/72157712244085152">Adaptation of Municipalities</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                             <div class="item builder munic">
@@ -470,8 +470,8 @@
                                         </div>
                                        <img src="https://live.staticflickr.com/65535/49463472633_415cde08fd_b.jpg" width="1024" height="683" alt="46517487_565352290576668_8678986920656633856_o"></div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="E-MUNICIPALITIES" href="https://www.flickr.com/photos/185701275@N02/albums/72157712901339878"  >E-MUNICIPALITIES Web Platforms and Mobile Apps - Launch - New Social Initiative</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                             <div class="item builder munic">
@@ -484,8 +484,8 @@
                                         </div>
                                         <img src="https://live.staticflickr.com/65535/49463472658_1eb9eda744_b.jpg" width="1024" height="683" alt="46507756_565352780576619_4559039524788764672_o"> </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr"  >View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                   <a title="E-MUNICIPALITIES" href="https://www.flickr.com/photos/185701275@N02/albums/72157712901339878"  >E-MUNICIPALITIES Web Platforms and Mobile Apps - Launch - New Social Initiative</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                             <div class="item builder munic">
@@ -498,8 +498,8 @@
                                         </div>
                                         <img src="https://live.staticflickr.com/65535/49464190582_3776f018fd_b.jpg" width="1024" height="683" alt="46507400_565351573910073_4854882537199108096_o">   </div>
                                 <div class="title-post">
-                                    <a title="View gallery in Flickr">View gallery in Flickr</a>
-                                    <p>Photography</p>
+                                 <a title="E-MUNICIPALITIES" href="https://www.flickr.com/photos/185701275@N02/albums/72157712901339878"  >E-MUNICIPALITIES Web Platforms and Mobile Apps - Launch - New Social Initiative</a>
+                                    <!-- <p>Photography</p> -->
                                 </div>
                             </div> 
                         </div>

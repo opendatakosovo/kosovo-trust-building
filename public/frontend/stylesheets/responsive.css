@@ -345,6 +345,14 @@
 
 	.padding-left-45 {
 		padding-left: 15px;
+		padding-top: 32px;
+	}
+	
+	.bond-partner-slider .owl-carousel.owl-loaded {
+
+		position: relative;
+		overflow: hidden;
+		margin-left: 0;
 	}
 
 	.bond-row {
@@ -448,6 +456,13 @@
 	.bond-page-title {
 		margin-bottom: 30px;
 	}
+	
+	.flat-home5 header {
+    position: relative;
+    background: white;
+    padding-bottom: 27px !important;
+    margin-top: 28px !important;	
+	}	
 
 	.maintanance-box {
 		padding: 15px 15px 15px 15px;
@@ -781,6 +796,13 @@
 	    text-align: center;
 	    width: 100%;
 	    z-index:100;
+	}
+	
+	.header .header-wrap {
+		padding-left: 45px;
+		padding-right: 20px;
+		margin-top: 0px;
+		margin-bottom: 2px;
 	}
 
 	.header .show-search a {

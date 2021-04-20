@@ -71,7 +71,7 @@
                     </div>
 
                 </div>
-                        <div class="col-sm-4" id="project2">
+                        <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                         <div class="card-body panel-heading">
                         <h5 class="card-title"><a href="#">UNHCR</a></h5>
@@ -88,7 +88,7 @@
                     </div>
 
                     </div>
-                        <div class="col-sm-4" id="project3">
+                        <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                         <div class="card-body panel-heading">
                         <h5 class="card-title"><a href="#">IOM</a></h5>
@@ -104,7 +104,7 @@
                     </div>
 
                     </div>
-                    <div class="col-sm-4" id="project4">
+                    <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                         <div class="card-body panel-heading title">
                         <h5 class="card-title"><a href="#">UNMIK</a></h5>
@@ -138,7 +138,7 @@
                     </div>
 
                     </div>
-                        <div class="col-sm-4" id="project6">
+                        <div class="col-sm-4" id="project1">
                     <div class="card panel panel-default">
                         <div class="card-body panel-heading">
                         <h5 class="card-title"><a href="#">ACDC</a></h5>

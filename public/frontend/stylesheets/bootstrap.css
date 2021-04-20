@@ -1800,9 +1800,17 @@ pre code {
   .col-sm-5 {
     width: 41.66666667%;
   }
-  .col-sm-4 {
+   .col-sm-4 {
     width: 33.33333333%;
   }
+  #project1.col-sm-4 {
+      width: 49.333333%;
+  }
+
+  #myItems.row {
+    margin-top: 25px;
+  }
+
   .col-sm-3 {
     width: 25%;
   }
@@ -6277,6 +6285,7 @@ button.close {
     margin-top: -15px;
     font-size: 30px;
   }
+  
   .carousel-control .glyphicon-chevron-left,
   .carousel-control .icon-prev {
     margin-left: -15px;
@@ -6449,6 +6458,8 @@ button.close {
   .visible-sm-block {
     display: block !important;
   }
+
+
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .visible-sm-inline {

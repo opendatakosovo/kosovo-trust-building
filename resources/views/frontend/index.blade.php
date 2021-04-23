@@ -71,9 +71,6 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-               
-                </div><!-- /.col-md-12 -->
 
                 <div class="col-md-6">
                    <img src="frontend/images/home/youth-assembly3.png">
@@ -265,196 +262,7 @@
         </div>
     </section>
 
-
-
-    <!-- <section class="bond-row great-service v3 padb-25">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-xs-6 padt-82 padr-42">
-                    <div class="iconbox effect1 clearfix inline-right no-box">
-                        <div class="box-header">
-                            <div class="box-icon"><span class="icon-bubble"></span></div>
-                            <h4 class="box-title">#LANGUAGE</h4>
-                        </div>
-                        <div class="box-content">
-                            Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip
-                        </div>
-                    </div>
-
-                    <div class="iconbox effect1 clearfix  inline-right no-box">
-                        <div class="box-header">
-                            <div class="box-icon"><span class="icon-present"></span></div>
-                            <h4 class="box-title">#YOUTH</h4>
-                        </div>
-                        <div class="box-content">
-                            Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-
-                        </div>
-                    </div>
-
-                    <div class="iconbox effect1 clearfix  inline-right no-box">
-                        <div class="box-header">
-                            <div class="box-icon"><span class="icon-shuffle"></span></div>
-                            <h4 class="box-title">#GENDER EQUALITY</h4>
-                        </div>
-                        <div class="box-content">
-                            Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-
-                        </div>
-                    </div>
-
-                    <div class="iconbox effect1 clearfix  inline-right no-box">
-                        <div class="box-header">
-                            <div class="box-icon"><span class="icon-support"></span></div>
-                            <h4 class="box-title">#HUMAN RIGHTS</h4>
-                        </div>
-                        <div class="box-content">
-                            Evenim ad minim veniam, quis nolla mco laboris nisi ut aliq sami ar estri banai se kon mistiry se  borouip.
-
-                        </div>
-                    </div>
-                </div>  <!-- /.col-md-4 -->
-
-                <!-- <div class="col-md-4 col-xs-6 text-center">
-                    <img alt="images" src="frontend/images/home/pixlr-bg-result.png" style="max-width: 120%;">
-                </div>
-            </div>
-        </div>
-
-        <div class="img-right">
-            <div class="absolute clearfix col-xs-offset-6 col-md-6 col-xs-6 padlr-260_120">
-                <div class="iconbox effect1 white-style ">
-                    <div class="box-header">
-                        <h2 class="box-title">Find an event, gathering, online chat forums and more!</h2>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>  -->
-
-    <!-- Bond portfolio home5 -->
-
-
-    <!-- Bond home 5 opprtunity -->
-    <section class="bond-row padt-130 padb-143 parallax parallax17">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-md-offset-1">
-                    <div class="flat-box-content padl-30">
-                        <h1 class="title" style="color:white">{{ __('messages.how.contribute') }}</h1>
-                        <h2 class="sub-title">{{ __('messages.contribute.text1') }}</h2>
-                        <p style="color: white;">{{ __('messages.contribute.text2') }}</p>
-                        <a class="flat-button" href="/trustbuildingnetworkk">{{ __('messages.view-more') }}</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- welcome to bond -->
-    <section class="bond-row section-home5-welcome padb-76">
-        <div class="title-section style2">
-            <h3 class="title">{{ __('messages.support') }}</h3>
-        </div><!-- /.title-section style2 -->
-<br><Br>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="title-section style1">
-                        <h3 class="title">{{ __('messages.initiatives') }}</h3>
-                        <div class="desc">
-                            <p>{{ __('messages.initiatives.text') }}</p>
-                        </div>
-                    </div><!-- /.title-section style1 -->
-                    <div class="flat-spacer h18"></div>
-                </div><!-- /.col-md-12 -->
-            </div>
-
-            <div class="row " data-item="4" data-nav="true" data-dots="false" data-auto="false" data-margin="30">
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-user"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.youth') }}</a></h5>
-
-                            <a class="readmore" href="/projectss">More</a>
-
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-people"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.gender') }}</a></h5>
-
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-graduation"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.education') }}</a></h5>
-
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-camrecorder"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.media') }}</a></h5>
-
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-music-tone-alt"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.culture') }}</a></h5>
-
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-                <div class="item col-md-4 col-xs-6 pad-0_40">
-                    <div class="bond-iconbox square outtop bg-title2 border">
-                        <div class="icon-image">
-                            <span class="icons icon-book-open"></span>
-                        </div>
-                        <div class="content">
-                            <h5 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor:pointer;">{{ __('messages.religion') }}</a></h5>
-
-                            <a class="readmore" href="/projectss">More</a>
-                        </div>
-                    </div><!-- /.bond-iconbox -->
-                </div><!-- /.item -->
-
-            </div><!-- /.bond-iconbox-fullwidth -->
-        </div>
-    </section>
-
+   
     <!-- home counter -->
      <section class="bond-row bond-section-counter padb-145 parallax parallax14">
         <div class="container">
@@ -535,7 +343,8 @@
         </div><!-- /.container -->
     </section>
 
-    <section class="bond-row padb-49">
+
+       <section class="bond-row padb-49">
         <div class="title-section style2">
             <h3 class="title">{{ __('messages.projects') }}</h3>
         </div>
@@ -694,19 +503,39 @@
 
         </div>
     </section>
+    
+
+       <!-- Bond home 5 opprtunity -->
+    <section class="bond-row padt-130 padb-143 parallax parallax17">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-1">
+                    <div class="flat-box-content padl-30">
+                        <h1 class="title" style="color:white">{{ __('messages.how.contribute') }}</h1>
+                        <h2 class="sub-title">{{ __('messages.contribute.text1') }}</h2>
+                        <p style="color: white;">{{ __('messages.pledges.text1') }}</p>
+                        <a class="flat-button" href="/trustbuildingnetworkk">{{ __('messages.view-more') }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
+ 
+
+<!-- 
     <section class="bond-row padb-110  bg-f5">
         <div class="title-section style2">
             <h3 class="title">QUOTES</h3>
-        </div><!-- /.title-section style2 -->
+        </div>
         <div class="container">
             <div class="title-section style1 row mgb-49">
                 <h3 class="title">{{ __('messages.testimonials') }}</h3>
                 <div class="desc">
                     <p>{{ __('messages.testimonials.text') }}</p>
                 </div>
-            </div><!-- /.title-section style1 -->
+            </div>
             <div class="bond-empty-spacer"></div>
             <div id="testimonial-slider-box">
             <div class="row">
@@ -714,42 +543,7 @@
                 <div class="testimonial-slider bond-testimonials-flexslider fbg-white v3 swiper-container-horizontal" data-margin="0" data-slides_per_view="1" data-autoplay="" data-hide_control="yes" data-hide_buttons="yes">
 
                     <ul class="swiper-wrapper" style="transform: translate3d(-1200px, 0px, 0px); transition-duration: 0ms;">
-<!--                        <li class="testimonial swiper-slide  has-image swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 600px;">-->
-<!--                            <div class="testimonial-content">-->
-<!--                                <blockquote>-->
-<!--                                {{ __('messages.testimonial1') }}-->
-<!--                                </blockquote>-->
-<!--                            </div>-->
-<!--                            <div class="testimonial-meta">-->
-<!---->
-<!--                            <div class="testimonial-image">-->
-<!--                                <img src="frontend/images/home/tes2.png" alt="">-->
-<!--                            </div>-->
-<!---->
-<!--                                <div class="testimonial-author">-->
-<!--                                    <strong class="author-name"></strong>-->
-<!--                                    <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li><li class="testimonial swiper-slide has-image swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 600px;">-->
-<!--                            <div class="testimonial-content">-->
-<!--                                <blockquote>-->
-<!--                                {{ __('messages.testimonial2') }}-->
-<!---->
-<!--                                </blockquote>-->
-<!--                            </div>-->
-<!--                            <div class="testimonial-meta">-->
-<!---->
-<!--                            <div class="testimonial-image">-->
-<!--                                <img src="frontend/images/home/tes1.jpg" alt="">-->
-<!--                            </div>-->
-<!---->
-<!--                                <div class="testimonial-author">-->
-<!--                                    <strong class="author-name"></strong>-->
-<!--                                    <div class="author-info"><span class="subtitle">Jovana Radosavljević</span><span class="company">NSI Executive Director</span></div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
+
 
                         <li class="testimonial swiper-slide has-image swiper-slide-active" data-swiper-slide-index="0" style="width: 600px;">
                             <div class="testimonial-content">
@@ -770,122 +564,8 @@
                             </div>
                         </li>
 
-<!--                       <li class="testimonial swiper-slide has-image swiper-slide-next" data-swiper-slide-index="1" style="width: 600px;">-->
-<!--                            <div class="testimonial-content">-->
-<!--                                <blockquote>-->
-<!--                                {{ __('messages.testimonial2') }}-->
-<!---->
-<!--                                </blockquote>-->
-<!--                            </div>-->
-<!--                            <div class="testimonial-meta">-->
-<!--                                -->
-<!--                            <div class="testimonial-image">-->
-<!--                                <img src="frontend/images/home/un-secretary.jpg" alt="">-->
-<!--                            </div>-->
-<!--                        -->
-<!--                                <div class="testimonial-author">-->
-<!--                                    <strong class="author-name"></strong>-->
-<!--                                    <div class="author-info"><span class="subtitle">General António Guterres</span><span class="company">UN Secretary</span></div>-->
-<!--                                </div>-->
-<!--                            </div>-->
-<!--                        </li>-->
-                        <!-- <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="2" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes1.jpg" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="3" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat.
-
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes2.png" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="testimonial swiper-slide  has-image" data-swiper-slide-index="4" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                Our world is suffering from a bad case of "Trust Deficit Disorder." [...] There is no way forward but collective, common-sense action for the common good. This is how we can rebuild trust.
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes1.jpg" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li>
-                    <li class="testimonial swiper-slide  has-image swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat.
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes1.jpg" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">Almahmud Khan</span><span class="company">Ceo, Aftab Groups</span></div>
-                                </div>
-                            </div>
-                        </li><li class="testimonial swiper-slide  has-image swiper-slide-duplicate" data-swiper-slide-index="1" style="width: 600px;">
-                            <div class="testimonial-content">
-                                <blockquote>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod teem por incidi dunt ut labore et dolore magna aliqua. Ut enim ad minim veniaeim, quis nostrud exerciea commodo consequat.
-
-
-                                </blockquote>
-                            </div>
-                            <div class="testimonial-meta">
-
-                            <div class="testimonial-image">
-                                <img src="frontend/images/home/tes2.png" alt="">
-                            </div>
-
-                                <div class="testimonial-author">
-                                    <strong class="author-name"></strong>
-                                    <div class="author-info"><span class="subtitle">THomas Neil</span><span class="company">Ceo, Marmar Bros</span></div>
-                                </div>
-                            </div>
-                        </li> -->
-
                      </ul>
-                     <!-- Add Arrows -->
+                    
             <div class="swiper-nav">
                 <div class="swiper-button-prev">Prev</div>
                 <div class="swiper-button-next">Next</div>
@@ -893,14 +573,10 @@
             <div class="swiper-pagination swiper-pagination-fraction"><span class="swiper-pagination-current">1</span> / <span class="swiper-pagination-total">5</span></div>
 
             </div>
-                </div> <!--testimonial slider-->
+                </div> 
             </div>
-
-             <!-- Add Pagination -->
-
-
         </div>
-    </section>
+    </section> -->
 
     <section class="bond-partner-slider v2">
         <div class="container">

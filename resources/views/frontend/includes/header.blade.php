@@ -40,11 +40,11 @@
                                 <a href="{{ url('/') }}">{{ __('messages.home') }}</a>
                          
                         </li>
+
+                         <li>
+                            <li class="{{ Request::is('stories') ? 'home' : '' }}">
+                                <a href="{{ url('stories') }}">{{ __('messages.stories') }}</a> 
                         
-                        <li>
-                            <li class="{{ Request::is('who-we-are') ? 'home' : '' }}">
-                                <a href="{{ url('who-we-are') }}">{{ __('messages.who-we-are') }}</a>  
-                          
                         </li>
 
                         <li>
@@ -79,11 +79,13 @@
                            
                         </li>
 
-                        <li>
-                            <li class="{{ Request::is('stories') ? 'home' : '' }}">
-                                <a href="{{ url('stories') }}">{{ __('messages.stories') }}</a> 
-                        
+                          <li>
+                            <li class="{{ Request::is('who-we-are') ? 'home' : '' }}">
+                                <a href="{{ url('who-we-are') }}">{{ __('messages.who-we-are') }}</a>  
+                          
                         </li>
+
+                       
                     <li>
                 <select class="form-control changeLang">
                     <option value="en" {{ session()->get('locale') == 'en' ? 'selected' : '' }}>English</option>

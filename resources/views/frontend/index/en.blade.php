@@ -608,7 +608,7 @@
                     <div class="flat-box-content padl-30">
                         <h1 class="title" style="color:white">{{ __('messages.how.contribute') }}</h1>
                         <h2 class="sub-title">{{ __('messages.contribute.text1') }}</h2>
-                        <p style="color: white;">{{ __('messages.contribute.text2') }}</p>
+                        <p style="color: white;">{{ __('messages.pledges.text1') }}</p>
                         <a class="flat-button" href="/trustbuildingnetworkk">{{ __('messages.view-more') }}</a>
                     </div>
                 </div>

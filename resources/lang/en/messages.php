@@ -15,8 +15,8 @@ return [
     'welcome.title'=> 'Welcome to Kosovo Trustbuilding Platform ',
     'about' => 'About us    ',
     'about.title'=> 'About us ',
-    'about.text1'=> 'In May 2018, with the support of UNKT, UNMIK gathered 120 participants representing a broad cross-section of Kosovo society, including grassroots actors, media, youth leaders and municipal leadership from both majority and non-majority communities, to exchange perspectives on building trust.  ',
-    'about.text2'=> 'This platform is a continuation of the Forum’s discussions on actions needed to build a more peaceful and inclusive society and seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.',
+    'about.text1'=> 'The Kosovo Trustbuilding Platform is a continuation of the Kosovo Trustbuilding Forum’s discussions on actions needed to build a more peaceful and inclusive society and seeks to promote grassroots and civil society initiatives and efforts by international organizations, as well as institutional policies and actions to advance trust-building in Kosovo.',
+
     'about.text3'=> 'How are we doing it?',
     'recent.projects'=> 'Our Recent Projects',
     'forums'=> 'Forums,events and more.',

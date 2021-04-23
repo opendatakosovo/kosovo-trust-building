@@ -72,10 +72,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="title-section style1">
-                        <h3 class="title">{{ __('messages.welcome.title') }}</h3>
-
-                    </div><!-- /.title-section style1 -->
+               
                 </div><!-- /.col-md-12 -->
 
                 <div class="col-md-6">
@@ -86,12 +83,11 @@
                     <div class="flat-box-content">
                         <h4 class="sub-title">{{ __('messages.about') }}</h4>
                         <h2 class="title">{{ __('messages.who-we-are') }}</h2>
+                        <br><br>
                         <div class="content">
                             <p>{{ __('messages.about.text1') }}</p>
                             <br><br>
-                            <p>
-                            {{ __('messages.about.text2') }}
-                            </p>
+                           
                         </div>
 
 

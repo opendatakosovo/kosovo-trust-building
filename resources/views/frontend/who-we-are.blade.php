@@ -52,9 +52,7 @@
                             <div class="box-content">
                                 <p>
                                 {{ __('messages.about.text1') }} </p>
-                                <p>
-                                {{ __('messages.about.text2') }}
-                                </p>
+                               
 
                                     </div>
                         </div>
